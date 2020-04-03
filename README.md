@@ -1,2 +1,2 @@
-# EBWizardy-Chinese-Simplified-Translation
-A Chinese Simplified Translation of wizardy
+# EBWizardy-Simplified-Chinese-Translation
+A  Simplified Chinese Translation of wizardy
