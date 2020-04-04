@@ -20,7 +20,7 @@
 		},
 		"crystal_ore": {
 			"location": "ebwizardry:textures/gui/ore_picture.png",
-			"caption": "魔力水晶矿石",
+			"caption": "水晶矿石",
 			"u": 0,
 			"v": 0,
 			"width": 64,
