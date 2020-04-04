@@ -24,7 +24,7 @@ tile.ebwizardry\:ice_crystal_block.name=寒霜晶块
 tile.ebwizardry\:lightning_crystal_block.name=风暴晶块
 tile.ebwizardry\:necromancy_crystal_block.name=邃暗晶块
 tile.ebwizardry\:earth_crystal_block.name=苍翠晶块
-tile.ebwizardry\:sorcery_crystal_block.name=秘术晶块
+tile.ebwizardry\:sorcery_crystal_block.name=秘源晶块
 tile.ebwizardry\:healing_crystal_block.name=光辉晶块
 
 item.ebwizardry\:crystal_magic.name=魔法水晶
@@ -33,7 +33,7 @@ item.ebwizardry\:crystal_ice.name=寒霜水晶
 item.ebwizardry\:crystal_lightning.name=风暴水晶
 item.ebwizardry\:crystal_necromancy.name=邃暗水晶
 item.ebwizardry\:crystal_earth.name=苍翠水晶
-item.ebwizardry\:crystal_sorcery.name=秘术水晶
+item.ebwizardry\:crystal_sorcery.name=秘源水晶
 item.ebwizardry\:crystal_healing.name=光辉水晶
 
 item.ebwizardry\:magic_wand.name=魔杖
@@ -67,7 +67,7 @@ item.ebwizardry\:novice_ice_wand.name=冰霜魔杖
 item.ebwizardry\:novice_lightning_wand.name=雷电魔杖
 item.ebwizardry\:novice_necromancy_wand.name=死灵魔杖
 item.ebwizardry\:novice_earth_wand.name=大地魔杖
-item.ebwizardry\:novice_sorcery_wand.name=秘术魔杖
+item.ebwizardry\:novice_sorcery_wand.name=秘法魔杖
 item.ebwizardry\:novice_healing_wand.name=治愈魔杖
 
 item.ebwizardry\:apprentice_fire_wand.name=学徒烈焰魔杖
@@ -75,7 +75,7 @@ item.ebwizardry\:apprentice_ice_wand.name=学徒冰霜魔杖
 item.ebwizardry\:apprentice_lightning_wand.name=学徒雷电魔杖
 item.ebwizardry\:apprentice_necromancy_wand.name=学徒死灵魔杖
 item.ebwizardry\:apprentice_earth_wand.name=学徒大地魔杖
-item.ebwizardry\:apprentice_sorcery_wand.name=学徒秘术魔杖
+item.ebwizardry\:apprentice_sorcery_wand.name=学徒秘法魔杖
 item.ebwizardry\:apprentice_healing_wand.name=学徒治愈魔杖
 
 item.ebwizardry\:advanced_fire_wand.name=『进阶』舞焰者魔杖
@@ -115,7 +115,7 @@ item.ebwizardry\:purifying_elixir.desc=使用后消除诅咒
 
 item.ebwizardry\:storage_upgrade.name=魔力储能升级
 item.ebwizardry\:siphon_upgrade.name=魔力吸取升级
-item.ebwizardry\:condenser_upgrade.name=魔力聚光升级
+item.ebwizardry\:condenser_upgrade.name=魔力凝结升级
 item.ebwizardry\:range_upgrade.name=法术距离升级
 item.ebwizardry\:duration_upgrade.name=法术持续升级
 item.ebwizardry\:cooldown_upgrade.name=法术冷却升级
@@ -153,8 +153,8 @@ item.ebwizardry\:identification_scroll.desc=识别的未知法术书或卷轴
 item.ebwizardry\:identification_scroll.nothing_to_identify=没有可识别物品！
 
 item.ebwizardry\:armour_upgrade.name=奥术护具升级圣印
-item.ebwizardry\:armour_upgrade.desc1=%1$s升级任意的巫术护具
-item.ebwizardry\:armour_upgrade.desc2=%1$s使它到达%2$s传奇 级别
+item.ebwizardry\:armour_upgrade.desc1=%1$s升级任意的巫师护具
+item.ebwizardry\:armour_upgrade.desc2=%1$s使它到达%2$s传奇级别
 
 item.ebwizardry\:magic_silk.name=魔法绸缎
 
@@ -187,10 +187,10 @@ item.ebwizardry\:wizard_robe_necromancy.name=死灵巫师长袍
 item.ebwizardry\:wizard_leggings_necromancy.name=死灵巫师护腿
 item.ebwizardry\:wizard_boots_necromancy.name=死灵巫师靴子
 
-item.ebwizardry\:wizard_hat_earth.name=自然巫师帽
-item.ebwizardry\:wizard_robe_earth.name=自然巫师长袍
-item.ebwizardry\:wizard_leggings_earth.name=自然巫师护腿
-item.ebwizardry\:wizard_boots_earth.name=自然巫师靴子
+item.ebwizardry\:wizard_hat_earth.name=大地巫师帽
+item.ebwizardry\:wizard_robe_earth.name=大地巫师长袍
+item.ebwizardry\:wizard_leggings_earth.name=大地巫师护腿
+item.ebwizardry\:wizard_boots_earth.name=大地巫师靴子
 
 item.ebwizardry\:wizard_hat_sorcery.name=秘术巫师帽
 item.ebwizardry\:wizard_robe_sorcery.name=秘术巫师长袍
@@ -251,15 +251,15 @@ item.ebwizardry\:ring_necromancy_melee.desc=被死灵魔杖近战攻击的生物
 item.ebwizardry\:ring_mind_control.name=精神之戒
 item.ebwizardry\:ring_mind_control.desc=被精神控制的实体在攻击其他实体时，将有概率使被攻击实体同样遭到精神控制
 item.ebwizardry\:ring_poison.name=蛇纹戒指
-item.ebwizardry\:ring_poison.desc=所有自然系法术会使目标中毒
+item.ebwizardry\:ring_poison.desc=所有大地系法术会使目标中毒
 item.ebwizardry\:ring_earth_melee.name=毒触戒指
-item.ebwizardry\:ring_earth_melee.desc=被自然魔杖近战击中的生物会获得中毒效果
+item.ebwizardry\:ring_earth_melee.desc=被大地魔杖近战击中的生物会获得中毒效果
 item.ebwizardry\:ring_earth_biome.name=树妖戒指
-item.ebwizardry\:ring_earth_biome.desc=当你身处森林生物群系时，自然系法术伤害提升30%%
+item.ebwizardry\:ring_earth_biome.desc=当你身处森林生物群系时，大地系法术伤害提升30%%
 item.ebwizardry\:ring_full_moon.name=啸狼戒指
-item.ebwizardry\:ring_full_moon.desc=在满月时自然系法术的冷却时间会大大缩短
+item.ebwizardry\:ring_full_moon.desc=在满月时大地系法术的冷却时间会大大缩短
 item.ebwizardry\:ring_extraction.name=萃取戒指
-item.ebwizardry\:ring_extraction.desc=使用秘术系法术击杀目标会获得额外法力恢复
+item.ebwizardry\:ring_extraction.desc=使用秘法系法术击杀目标会获得额外魔力恢复
 item.ebwizardry\:ring_mana_return.name=完美主义者之戒
 item.ebwizardry\:ring_mana_return.desc=未击中目标的原力箭矢会返还魔力
 item.ebwizardry\:ring_blockwrangler.name=方块牧者之戒
@@ -438,7 +438,7 @@ entity.ebwizardry\:earthquake.name=地震
 entity.ebwizardry\:hailstorm.name=冰雹风暴
 entity.ebwizardry\:lightning_pulse.name=闪电脉冲
 
-itemGroup.ebwizardry=魔法秘术
+itemGroup.ebwizardry=巫术学
 itemGroup.ebwizardryspells=法术
 itemGroup.ebwizardrygear=巫师装备
 
@@ -463,13 +463,13 @@ advancement.ebwizardry\:all_spells=样样精通
 advancement.ebwizardry\:all_spells.desc=在游戏中施放所有法术
 
 advancement.ebwizardry\:wizard_tower=谁住在这？
-advancement.ebwizardry\:wizard_tower.desc=拜访一个巫师塔
+advancement.ebwizardry\:wizard_tower.desc=拜访一座巫师塔
 advancement.ebwizardry\:wizard_trade=魔法交易
 advancement.ebwizardry\:wizard_trade.desc=向巫师购买物品
 advancement.ebwizardry\:anger_wizard=你会后悔的
-advancement.ebwizardry\:anger_wizard.desc=惹怒一个巫师
+advancement.ebwizardry\:anger_wizard.desc=惹怒一名巫师
 advancement.ebwizardry\:defeat_evil_wizard=正义之举
-advancement.ebwizardry\:defeat_evil_wizard.desc=击败一个邪恶的巫师
+advancement.ebwizardry\:defeat_evil_wizard.desc=击败一名邪恶的巫师
 advancement.ebwizardry\:buy_master_spell=知识就是力量
 advancement.ebwizardry\:buy_master_spell.desc=向巫师购买一个宗师级卷轴
 
@@ -489,7 +489,7 @@ advancement.ebwizardry\:artefact.desc=消除圣祠的保护魔法，并获取其
 advancement.ebwizardry\:all_artefacts=认证博物馆
 advancement.ebwizardry\:all_artefacts.desc=集齐所有的戒指，护符和圣物
 
-advancement.ebwizardry\:armour_set=现在你是一个真正的巫师了
+advancement.ebwizardry\:armour_set=现在你是一名真正的巫师了
 advancement.ebwizardry\:armour_set.desc=制作并装备全套巫师护甲
 advancement.ebwizardry\:legendary=『传奇』
 advancement.ebwizardry\:legendary.desc=获得一件传奇巫师护甲
@@ -504,7 +504,7 @@ container.ebwizardry\:arcane_workbench.apply=应用
 container.ebwizardry\:arcane_workbench.mana=魔力\：
 container.ebwizardry\:arcane_workbench.upgrades=已有升级\：
 
-tier.novice=基础
+tier.novice=新手
 tier.apprentice=学徒
 tier.advanced=进阶
 tier.master=宗师
@@ -515,7 +515,7 @@ element.ice=冰霜
 element.lightning=雷电
 element.necromancy=死灵
 element.earth=大地
-element.sorcery=秘术
+element.sorcery=秘法
 element.healing=治疗
 
 element.magic.wizard=巫师
@@ -523,7 +523,7 @@ element.fire.wizard=舞焰师
 element.ice.wizard=纵霜师
 element.lightning.wizard=驯雷师
 element.necromancy.wizard=御冥师
-element.earth.wizard=师
+element.earth.wizard=滋生师
 element.sorcery.wizard=秘术师
 element.healing.wizard=治疗师
 
