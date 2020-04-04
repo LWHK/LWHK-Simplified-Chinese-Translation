@@ -1007,11 +1007,11 @@ enchantment.ebwizardry.magic_sword.desc=由魔力灌注法术生成的附魔书,
 enchantment.ebwizardry.magic_bow.desc=由魔力灌注法术生成的附魔书,在生存模式下无法获取（该种附魔书无法正常发挥作用）。
 enchantment.ebwizardry.flaming_weapon.desc=由火焰灌注法术生成的附魔书,在生存模式下无法获取（该种附魔书无法正常发挥作用）。
 enchantment.ebwizardry.freezing_weapon.desc=由冰霜灌注法术生成的附魔书,在生存模式下无法获取（该种附魔书无法正常发挥作用）。
-enchantment.ebwizardry.shocking_weapon.desc=有雷电灌注法术生成的附魔书,在生存模式下无法获取（该种附魔书无法正常发挥作用）。
+enchantment.ebwizardry.shocking_weapon.desc=由雷电灌注法术生成的附魔书,在生存模式下无法获取（该种附魔书无法正常发挥作用）。
 
 enchantment.ebwizardry.magic_protection.desc=减少所有魔法伤害。
 enchantment.ebwizardry.frost_protection.desc=减少冻伤伤害的效果。
-enchantment.ebwizardry.shock_protection.desc=减弱雷电伤害的效果。
+enchantment.ebwizardry.shock_protection.desc=减少雷电伤害的效果。
 
 key.categories.ebwizardry=巫术学
 
