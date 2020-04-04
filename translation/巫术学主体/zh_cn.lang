@@ -115,7 +115,7 @@ item.ebwizardry\:purifying_elixir.desc=使用后消除诅咒
 
 item.ebwizardry\:storage_upgrade.name=魔力储能升级
 item.ebwizardry\:siphon_upgrade.name=魔力吸取升级
-item.ebwizardry\:condenser_upgrade.name=魔力聚光升级
+item.ebwizardry\:condenser_upgrade.name=魔力凝结升级
 item.ebwizardry\:range_upgrade.name=法术距离升级
 item.ebwizardry\:duration_upgrade.name=法术持续升级
 item.ebwizardry\:cooldown_upgrade.name=法术冷却升级
@@ -153,8 +153,8 @@ item.ebwizardry\:identification_scroll.desc=识别的未知法术书或卷轴
 item.ebwizardry\:identification_scroll.nothing_to_identify=没有可识别物品！
 
 item.ebwizardry\:armour_upgrade.name=奥术护具升级圣印
-item.ebwizardry\:armour_upgrade.desc1=%1$s升级任意的巫术护具
-item.ebwizardry\:armour_upgrade.desc2=%1$s使它到达%2$s传奇 级别
+item.ebwizardry\:armour_upgrade.desc1=%1$s升级任意的巫师护具
+item.ebwizardry\:armour_upgrade.desc2=%1$s使它到达%2$s传奇级别
 
 item.ebwizardry\:magic_silk.name=魔法绸缎
 
@@ -187,10 +187,10 @@ item.ebwizardry\:wizard_robe_necromancy.name=死灵巫师长袍
 item.ebwizardry\:wizard_leggings_necromancy.name=死灵巫师护腿
 item.ebwizardry\:wizard_boots_necromancy.name=死灵巫师靴子
 
-item.ebwizardry\:wizard_hat_earth.name=自然巫师帽
-item.ebwizardry\:wizard_robe_earth.name=自然巫师长袍
-item.ebwizardry\:wizard_leggings_earth.name=自然巫师护腿
-item.ebwizardry\:wizard_boots_earth.name=自然巫师靴子
+item.ebwizardry\:wizard_hat_earth.name=大地巫师帽
+item.ebwizardry\:wizard_robe_earth.name=大地巫师长袍
+item.ebwizardry\:wizard_leggings_earth.name=大地巫师护腿
+item.ebwizardry\:wizard_boots_earth.name=大地巫师靴子
 
 item.ebwizardry\:wizard_hat_sorcery.name=秘术巫师帽
 item.ebwizardry\:wizard_robe_sorcery.name=秘术巫师长袍
@@ -251,15 +251,15 @@ item.ebwizardry\:ring_necromancy_melee.desc=被死灵魔杖近战攻击的生物
 item.ebwizardry\:ring_mind_control.name=精神之戒
 item.ebwizardry\:ring_mind_control.desc=被精神控制的实体在攻击其他实体时，将有概率使被攻击实体同样遭到精神控制
 item.ebwizardry\:ring_poison.name=蛇纹戒指
-item.ebwizardry\:ring_poison.desc=所有自然系法术会使目标中毒
+item.ebwizardry\:ring_poison.desc=所有大地系法术会使目标中毒
 item.ebwizardry\:ring_earth_melee.name=毒触戒指
-item.ebwizardry\:ring_earth_melee.desc=被自然魔杖近战击中的生物会获得中毒效果
+item.ebwizardry\:ring_earth_melee.desc=被大地魔杖近战击中的生物会获得中毒效果
 item.ebwizardry\:ring_earth_biome.name=树妖戒指
-item.ebwizardry\:ring_earth_biome.desc=当你身处森林生物群系时，自然系法术伤害提升30%%
+item.ebwizardry\:ring_earth_biome.desc=当你身处森林生物群系时，大地系法术伤害提升30%%
 item.ebwizardry\:ring_full_moon.name=啸狼戒指
-item.ebwizardry\:ring_full_moon.desc=在满月时自然系法术的冷却时间会大大缩短
+item.ebwizardry\:ring_full_moon.desc=在满月时大地系法术的冷却时间会大大缩短
 item.ebwizardry\:ring_extraction.name=萃取戒指
-item.ebwizardry\:ring_extraction.desc=使用秘法系法术击杀目标会获得额外法力恢复
+item.ebwizardry\:ring_extraction.desc=使用秘法系法术击杀目标会获得额外魔力恢复
 item.ebwizardry\:ring_mana_return.name=完美主义者之戒
 item.ebwizardry\:ring_mana_return.desc=未击中目标的原力箭矢会返还魔力
 item.ebwizardry\:ring_blockwrangler.name=方块牧者之戒
