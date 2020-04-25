@@ -1,2 +1,2 @@
 # EBWizardy-Simplified-Chinese-Translation
-A  Simplified Chinese Translation of wizardy
+A depositary for storing translations of MInecraft mods
