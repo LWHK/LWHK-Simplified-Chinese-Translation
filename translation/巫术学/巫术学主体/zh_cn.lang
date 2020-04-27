@@ -82,7 +82,7 @@ item.ebwizardry\:advanced_fire_wand.name=『进阶』舞焰者魔杖
 item.ebwizardry\:advanced_ice_wand.name=『进阶』纵霜者魔杖
 item.ebwizardry\:advanced_lightning_wand.name=『进阶』驯雷者魔杖
 item.ebwizardry\:advanced_necromancy_wand.name=『进阶』御冥者魔杖
-item.ebwizardry\:advanced_earth_wand.name=『进阶』卜地者魔杖
+item.ebwizardry\:advanced_earth_wand.name=『进阶』游息者魔杖
 item.ebwizardry\:advanced_sorcery_wand.name=『进阶』诡秘者魔杖
 item.ebwizardry\:advanced_healing_wand.name=『进阶』守护者魔杖
 
@@ -117,7 +117,7 @@ item.ebwizardry\:storage_upgrade.name=魔力储能升级
 item.ebwizardry\:siphon_upgrade.name=魔力吸取升级
 item.ebwizardry\:condenser_upgrade.name=魔力凝结升级
 item.ebwizardry\:range_upgrade.name=法术距离升级
-item.ebwizardry\:duration_upgrade.name=法术持续升级
+item.ebwizardry\:duration_upgrade.name=法术时长升级
 item.ebwizardry\:cooldown_upgrade.name=法术冷却升级
 item.ebwizardry\:blast_upgrade.name=法术范围升级
 item.ebwizardry\:attunement_upgrade.name=法术槽位升级
