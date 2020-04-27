@@ -1,34 +1,34 @@
 #PARSE_ESCAPES
 
-itemGroup.ancientspellcraft.tabAncientSpellcraft=Ancient Spellcraft
+itemGroup.ancientspellcraft.tabAncientSpellcraft=古代咒法
 
 #spells
-spell.ancientspellcraft\:hellgate=Hell's Gate
-spell.ancientspellcraft\:hellgate.name=Hell's Gate
-spell.ancientspellcraft\:hellgate.desc=Mastering the secrets of fire opens many doors of opportunity...
+spell.ancientspellcraft\:hellgate=地狱之门
+spell.ancientspellcraft\:hellgate.name=地狱之门
+spell.ancientspellcraft\:hellgate.desc=掌控火的秘密，开启一扇扇机遇之门.....
 spell.ancientspellcraft\:hellgate.desc.aw=TODO
-spell.ancientspellcraft\:tameanimal=Tame Animal
-spell.ancientspellcraft\:tameanimal.name=Tame Animal
-spell.ancientspellcraft\:tameanimal.desc=You must follow me, said the Earth Wizard, and the animals of the forest obeyed.
+spell.ancientspellcraft\:tameanimal=驯养动物
+spell.ancientspellcraft\:tameanimal.name=驯养动物
+spell.ancientspellcraft\:tameanimal.desc=你必须跟着我, 一名卜地者说道, 森林中的动物服从了他的指令。
 spell.ancientspellcraft\:tameanimal.desc.aw=TODO
-spell.ancientspellcraft\:extinguish=Extinguish Flames
-spell.ancientspellcraft\:extinguish.name=Extinguish Flames
-spell.ancientspellcraft\:extinguish.desc=Extinguishes nearly burning blocks and entities, including the caster. Grants a temporary fire resistance for the caster if burning. Radius increases with wand Blast Upgrades.
-spell.ancientspellcraft\:curse_of_ender=Curse of Ender
-spell.ancientspellcraft\:curse_of_ender.name=Curse of Ender
-spell.ancientspellcraft\:curse_of_ender.desc=Suddenly you feel that you are not a part of this world anymore, you have fear of the water and the sun annoys you.
+spell.ancientspellcraft\:extinguish=熄灭火焰
+spell.ancientspellcraft\:extinguish.name=E熄灭火焰
+spell.ancientspellcraft\:extinguish.desc=熄灭周围方块以及实体所带有的火, 包括施术者。如果施术者身上着火，这个法术还会为其附加上一个暂时的火焰抗性效果。作用范围会受到法术范围升级的影响。
+spell.ancientspellcraft\:curse_of_ender=末影诅咒
+spell.ancientspellcraft\:curse_of_ender.name=末影诅咒
+spell.ancientspellcraft\:curse_of_ender.desc=突然间你不再感觉你是这个世界的一部分, 你对水感到惧怕，而阳光会让你心烦意乱。
 
-spell.ancientspellcraft\:conjure_water=Conjure Water
-spell.ancientspellcraft\:conjure_water.name=Conjure Water
-spell.ancientspellcraft\:conjure_water.desc=Conjures a water source block where the caster targets. Can also fill water bottles and buckets in the offhand.
+spell.ancientspellcraft\:conjure_water=召唤水源
+spell.ancientspellcraft\:conjure_water.name=召唤水源
+spell.ancientspellcraft\:conjure_water.desc=在施术者指向的位置生成一个水源方块。也可以向拿在副手的空瓶或者空桶中填充水。
 
-spell.ancientspellcraft\:conjure_shield=Conjure Shield
-spell.ancientspellcraft\:conjure_shield.name=Conjure Shield
-spell.ancientspellcraft\:conjure_shield.desc=Creates spectral shield which can be used for blocking physical attacks. The shield lasts for 60 seconds.
+spell.ancientspellcraft\:conjure_shield=召唤护盾
+spell.ancientspellcraft\:conjure_shield.name=召唤护盾
+spell.ancientspellcraft\:conjure_shield.desc=召唤出一道幽影之盾来阻挡物理攻击。这一盾牌最长存在时间为60秒。
 
-spell.ancientspellcraft\:drought=Drought
-spell.ancientspellcraft\:drought.name=Drought
-spell.ancientspellcraft\:drought.desc=Shrivel and shrink,\nwither and wilt,\nwaste away\nand ebb of life,\ngreen be grey\nand dust become.
+spell.ancientspellcraft\:drought=旱灾
+spell.ancientspellcraft\:drought.name=旱灾
+spell.ancientspellcraft\:drought.desc=枯萎皱缩,\n凋谢靡弱,\n生命垂朽,\ngreen be grey\nand dust become.
 
 spell.ancientspellcraft\:will_o_wisp=Will o' Wisp
 spell.ancientspellcraft\:will_o_wisp.name=Will o' Wisp
@@ -39,21 +39,21 @@ spell.ancientspellcraft\:will_o_wisp.no_name_tag=The Wisp needs an Enchanted Nam
 spell.ancientspellcraft\:will_o_wisp.tag_has_no_name=The Enchanted Name Tag first needs to be named after a biome with an anvil.
 spell.ancientspellcraft\:will_o_wisp.sent_to_biome=The Wisp is going towards biome %s
 
-spell.ancientspellcraft\:natures_sprout=Nature's Sprout
-spell.ancientspellcraft\:natures_sprout.name=Nature's Sprout
-spell.ancientspellcraft\:natures_sprout.desc=Deserts, begone!
+spell.ancientspellcraft\:natures_sprout=自然萌芽
+spell.ancientspellcraft\:natures_sprout.name=自然萌芽
+spell.ancientspellcraft\:natures_sprout.desc=沙漠, 消失!
 #potions
-potion.ancientspellcraft\:curse_of_ender=Curse of Ender
+potion.ancientspellcraft\:curse_of_ender=末影诅咒
 
 
 #artefacts
-item.ancientspellcraft\:magic_shield.name=Spellbreaker
+item.ancientspellcraft\:magic_shield.name=破法者
 item.ancientspellcraft\:magic_shield.desc=This ancient crystal shield casts a protective ward to defend its wielder while blocking.
 
 #items
-item.ancientspellcraft\:spectral_shield.name=Spectral Shield
-item.ancientspellcraft\:ancient_spellcraft_spell_book.name=Spell Book
-item.ancientspellcraft\:enchanted_name_tag.name=Enchanted Name Tag
+item.ancientspellcraft\:spectral_shield.name=幽影之盾
+item.ancientspellcraft\:ancient_spellcraft_spell_book.name=法术书
+item.ancientspellcraft\:enchanted_name_tag.name=附魔名称标签
 item.ancientspellcraft\:enchanted_name_tag.desc_empty=Can be used to locate biomes with the Will o' Wisp Spell. Needs infusing with Magic Crystals at the Arcane Workbench
 item.ancientspellcraft\:enchanted_name_tag.desc_filled=Can be used to locate biomes with the Will o' Wisp Spell. Rename it with an Anvil after a biome name
 item.ancientspellcraft\:enchanted_name_tag.right_click=Needs to be used in the offhand together with the Will o' Wisp spell to locate a biome.
