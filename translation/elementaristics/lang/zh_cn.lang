@@ -552,7 +552,7 @@ message.ascension_body.name=§6The body has been reforged. The skin felt like cl
 
 message.meditation_to_contentment.name=§6Ecstasy spreads, but will sooner wayne. But it always wants to leave something... contentment, ideally.
 message.meditation_to_dread.name=§6The earth revolves around the sun, and it never stops existing... but on times, we won't see it, and these times are times of dread.
-message.meditation_to_fear.name=§6As the sun is not seen, darkness arises. The darkness consumes, the darkness spreads fear.
+message.meditation_to_fear.name=§6日光隐去，黑暗升起。它吞噬一切，它散播恐惧。
 message.meditation_to_silence.name=§6And as the mind gets used to the fear, suddenly it stops. And as it stops, all sound stops.
 message.meditation_to_laughter.name=§6And suddenly we laugh.
 
@@ -618,21 +618,21 @@ aspect.night.name=§8The Night
 
 #Deities
 elementaristics:deity_nothingness=The God from-and-to-Nothingness
-elementaristics:deity_azathoth=The Blind Idiot God
+elementaristics:deity_azathoth=盲目痴愚之神
 elementaristics:dragon_aether=The Dragon of Aether
 elementaristics:dragon_fire=The Dragon of Fire
 elementaristics:dragon_earth=The Dragon of Earth
 elementaristics:dragon_water=The Dragon of Water
 elementaristics:dragon_air=The Dragon of Air
-elementaristics:gate_and_key=The Gate-and-Key
-elementaristics:deity_dreamer=The Dreamer
+elementaristics:gate_and_key=门与门之匙
+elementaristics:deity_dreamer=造梦者
 elementaristics:deity_angel=The Angel
 elementaristics:deity_storm=The Storm
 elementaristics:deity_knight=The Knight
 elementaristics:deity_sun=The Sun
 elementaristics:deity_harbinger=The Harbinger
 elementaristics:deity_queen=The Fasting Queen
-elementaristics:deity_goat=The Goat in the Wood
+elementaristics:deity_goat=森之山羊
 elementaristics:deity_moth=The Moth
 elementaristics:deity_thread=The Thread
 elementaristics:deity_mirror=The Mirror
@@ -711,4 +711,3 @@ focus.rift_closer.cleanliness.2=Bad
 focus.rift_closer.cleanliness.3=Adequate
 focus.rift_closer.cleanliness.4=Good
 focus.rift_closer.cleanliness.5=Perfect
-
