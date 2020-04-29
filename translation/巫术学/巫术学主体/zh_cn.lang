@@ -711,7 +711,7 @@ spell.ebwizardry\:wall_of_frost=凛冬霜垒
 spell.ebwizardry\:ward=魔法护盾
 spell.ebwizardry\:water_breathing=水下呼吸
 spell.ebwizardry\:whirlwind=疾风
-spell.ebwizardry\:wither=凋灵
+spell.ebwizardry\:wither=凋零
 spell.ebwizardry\:wither_skull=凋灵头颅
 
 spell.ebwizardry\:agility.desc=为施法者提供更快的移速和更高的跳跃高度，持续时间30秒。
@@ -885,7 +885,7 @@ spell.ebwizardry\:wall_of_frost.desc=指尖上的凛冬。
 spell.ebwizardry\:ward.desc=赋予施法者一个护盾，可以减少魔法伤害，持续30秒。
 spell.ebwizardry\:water_breathing.desc=给予施法者水下呼吸60秒。
 spell.ebwizardry\:whirlwind.desc=用旋风将目标吹起来并抛向远处。
-spell.ebwizardry\:wither.desc=发射一股暗黑射线，任何与其接触的东西都凋灵。
+spell.ebwizardry\:wither.desc=发射一股暗黑射线，任何与其接触的东西都凋零。
 spell.ebwizardry\:wither_skull.desc=在你指向的方向发射一个凋灵头颅。
 
 spell.ebwizardry\:invoke_weather.sun=雨停了......
