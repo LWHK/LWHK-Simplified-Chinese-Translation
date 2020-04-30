@@ -471,23 +471,23 @@ message.slime_task_set=§2The Protoplasmic Slime will execute the given tasks
 message.slime_task_reset=§dThe Protoplasmic Slime will now not execute tasks
 message.task_timer_cant_add=§cNo timer specified
 
-message.vision.1=§6"Before magic, there were seven children in Nothingness"
-message.vision.2=§6"When magic was born, one lost his skin"
-message.vision.3=§6"Anguish remained"
-message.vision.4=§6"Do you know that tale?"
+message.vision.1=§6"魔法出现之前, 在虚无里有七个孩子。"
+message.vision.2=§6"当魔法创生, 某物之表面就此失去。"
+message.vision.3=§6"痛苦，折磨，依然残余于我身。"
+message.vision.4=§6"你知道那段故事吗？"
 
-message.drugs=This is more potent than I thought... I might experience visions
+message.drugs=这可比我想象中的要有劲得多... 我或许会体验到那些不存在的东西。
 
-message.cultist.sit=The Cultist will stay here
-message.cultist.follow=The Cultist will closely follow you
-message.cultist.deny=This Cultist is not part of your cult
+message.cultist.sit=追随者会在此待命
+message.cultist.follow=追随者会跟随着你
+message.cultist.deny=这名追随者不再属于你的团队
 
 message.protoplasm.sit=The Protoplasmic Slime will stick here
 message.protoplasm.follow=The Protoplasmic Slime will stick with you
 message.protoplasm.task=The Protoplasmic Slime will go after its tasks
 message.slime_task_copied=Copied tasks to the Thaumagral
 
-message.protoplasm.task_need_inventory=Block must have an inventory
+message.protoplasm.task_need_inventory=该方块必须带有储存栏
 
 message.cultist_stats.name=Viewing stats for Cultist:
 message.cultist_aspect.name=Cultist's aspect:
@@ -557,9 +557,9 @@ message.meditation_to_silence.name=§6And as the mind gets used to the fear, sud
 message.meditation_to_laughter.name=§6And suddenly we laugh.
 
 #Messages of the Know
-message.know_soul_fire=§6The fire roars and so does my soul... and I shall burn forever.
+message.know_soul_fire=§6我的灵魂像火焰发出的怒吼... 我应燃烧，永无止息地燃烧。
 message.know_soul_water=§6The water flows, the water feels... and the water feels me.
-message.know_soul_air=§6The air swirls and I swirl with it...  and the harmony persists.
+message.know_soul_air=§6大气涌动，我亦随之而流...  如此和谐。
 message.know_soul_earth=§6The heart moves, the world moves... and I am the center.
 message.know_soul_magan=§6The fabric was stitched and so was I... and I am a masterpiece.
 message.know_soul_balanced=§6I am me... not the true me, but less of a lie.
@@ -572,14 +572,14 @@ message.know_soul_dragon=§6Dragons don't roar, they sing... and the world shall
 
 
 #Souls
-soul.soul_magan.name=§6Magan Soul
-soul.soul_water.name=§1Water Soul
-soul.soul_fire.name=§cFire Soul
-soul.soul_air.name=§bAir Soul
-soul.soul_earth.name=§2Earth Soul
+soul.soul_magan.name=§6源力灵魂
+soul.soul_water.name=§1水之灵魂
+soul.soul_fire.name=§c火之灵魂
+soul.soul_air.name=§b大气灵魂
+soul.soul_earth.name=§2大地灵魂
 
-soul.soul_mana.name=§dMana Soul
-soul.soul_unstable.name=§4Unstable Soul
+soul.soul_mana.name=§d魔力灵魂
+soul.soul_unstable.name=§4失稳灵魂
 soul.soul_immutable.name=§7Immutable Soul
 soul.soul_balanced.name=§fBalanced Soul
 
@@ -595,52 +595,52 @@ soul.soul_true.name=§fTrue Soul
 soul.soul_apostle.name=§4Apostle's Soul
 
 #Aspects
-aspect.air.name=§bAir
-aspect.fire.name=§cFire
-aspect.water.name=§1Water
-aspect.earth.name=§2Earth
-aspect.aether.name=§5Aether
-aspect.life.name=§4Life
-aspect.crystal.name=§3Crystal
-aspect.ice.name=§fIce
-aspect.light.name=§eLight
-aspect.soul.name=§7Soul
-aspect.body.name=§cBody
-aspect.mana.name=§dMana
-aspect.vacuum.name=§8Emptiness
-aspect.mind.name=§3Mind
-aspect.electricity.name=§9Electricity
-aspect.chaos.name=§8Chaos
-aspect.order.name=§fOrder
-aspect.magan.name=§6Magan
-aspect.wood.name=§6The Wood
-aspect.night.name=§8The Night
+aspect.air.name=§b大气
+aspect.fire.name=§c火焰
+aspect.water.name=§1水
+aspect.earth.name=§2大地
+aspect.aether.name=§5以太
+aspect.life.name=§4生命
+aspect.crystal.name=§3水晶
+aspect.ice.name=§f冰
+aspect.light.name=§e光
+aspect.soul.name=§7灵魂
+aspect.body.name=§c肉体
+aspect.mana.name=§d魔力
+aspect.vacuum.name=§8空无
+aspect.mind.name=§3心智
+aspect.electricity.name=§9电力
+aspect.chaos.name=§8混沌
+aspect.order.name=§f秩序
+aspect.magan.name=§6源力
+aspect.wood.name=§6森林
+aspect.night.name=§8黑夜
 
 #Deities
 elementaristics:deity_nothingness=The God from-and-to-Nothingness
 elementaristics:deity_azathoth=盲目痴愚之神
-elementaristics:dragon_aether=The Dragon of Aether
-elementaristics:dragon_fire=The Dragon of Fire
-elementaristics:dragon_earth=The Dragon of Earth
-elementaristics:dragon_water=The Dragon of Water
-elementaristics:dragon_air=The Dragon of Air
+elementaristics:dragon_aether=以太之龙
+elementaristics:dragon_fire=烈焰之龙
+elementaristics:dragon_earth=大地之龙
+elementaristics:dragon_water=水之龙
+elementaristics:dragon_air=大气之龙
 elementaristics:gate_and_key=门与门之匙
 elementaristics:deity_dreamer=造梦者
-elementaristics:deity_angel=The Angel
-elementaristics:deity_storm=The Storm
-elementaristics:deity_knight=The Knight
-elementaristics:deity_sun=The Sun
-elementaristics:deity_harbinger=The Harbinger
-elementaristics:deity_queen=The Fasting Queen
+elementaristics:deity_angel=天使
+elementaristics:deity_storm=风暴
+elementaristics:deity_knight=骑士
+elementaristics:deity_sun=太阳
+elementaristics:deity_harbinger=先知
+elementaristics:deity_queen=寡食皇后
 elementaristics:deity_goat=森之山羊
 elementaristics:deity_moth=The Moth
-elementaristics:deity_thread=The Thread
+elementaristics:deity_thread=门扉
 elementaristics:deity_mirror=The Mirror
-elementaristics:deity_dancer=The Dancer
-elementaristics:deity_king=The Feasting King
-elementaristics:deity_mother=The Mother of Life
-elementaristics:deity_moon=The Golden Moon
-elementaristics:deity_witch=The Witch
+elementaristics:deity_dancer=舞者
+elementaristics:deity_king=盛宴国王
+elementaristics:deity_mother=生命之母
+elementaristics:deity_moon=金黄澄月
+elementaristics:deity_witch=女巫
 
 
 #Compat - Thaumcraft
