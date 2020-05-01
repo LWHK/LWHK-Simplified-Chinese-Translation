@@ -4,7 +4,7 @@ temp.2=0.05F
 temp.3=75
 
 #Creative Tabs
-itemGroup.elementaristics=元素纪元
+itemGroup.elementaristics=元素秘学
 itemGroup.elementaristics_essences=源素
 
 #Config
@@ -310,7 +310,7 @@ advancement.elementaristics.ascension_4=Broken Boundaries
 advancement.elementaristics.ascension_5=Rethought Possibilities
 advancement.elementaristics.ascension_6=Reforged Boundaries
 advancement.elementaristics.ascension_7=Forged Possibilities
-advancement.elementaristics.ascension_8=Nothingness
+advancement.elementaristics.ascension_8=虚无
 
 #Advancements-Descriptions
 advancement.elementaristics.book.desc=手持一本书，在夜色下焚烧一束草药
@@ -349,17 +349,17 @@ info.elementaristics.book.subtitle="天使知晓血"
 book.purifierTime=需要Ticks:
 
 #Tooltip
-tooltip.root=焚烧它，可能会发生一些很有趣的事情...
+tooltip.root=焚烧它，可能会发生一些很有趣的事情......
 tooltip.thaumagral.durability=额外耐久:
 tooltip.thaumagral.damage=额外伤害:
 tooltip.thaumagral.spellSlots=法术位:
 tooltip.mirror_soul.name=知晓我, 也就知晓了你
-tooltip.dagger_sacrificial.name=我没疯, 只是流一些血...
+tooltip.dagger_sacrificial.name=我没疯, 只是流一些血......
 tooltip.hammer_heat.name=轻触温暖, 重锤炽热
-tooltip.opium.name=非常温和, 如果是以它的非神秘学版本来做比较的话
+tooltip.opium.name=非常温和, 如果是以它的非奥术版本来做比较的话
 tooltip.sparks_living.name=可以被用来作为燃料
-tooltip.thoughts_battling.name=是你还是我, 你会知道还是会看到?
-tooltip.wine_redmost.name=你知道在你喝了这个以后，你会做出什么事吗?
+tooltip.thoughts_battling.name=是你还是我, 你是否知道或看到？
+tooltip.wine_redmost.name=你知道在你喝了这个以后，你会做出什么事吗？
 tooltip.flesh_lamb.name=狼本就吃羊
 tooltip.protoplasm_sample.smell=闻起来像
 
@@ -391,41 +391,41 @@ tooltip.incantation.aspects=Aspects needed:
 
 
 #Rites
-rite.elementaristics:rite_knowledge.name=Enlightenment's Sighing
-rite.elementaristics:rite_feast.name=The Feast on the Soul
-rite.elementaristics:rite_chaos.name=Chaos Rite
-rite.elementaristics:rite_forging.name=Forging Rite
-rite.elementaristics:rite_recruiting.name=Lunatic's Rite
+rite.elementaristics:rite_knowledge.name=启迪之叹
+rite.elementaristics:rite_feast.name=灵魂之上的盛宴
+rite.elementaristics:rite_chaos.name=混沌仪式
+rite.elementaristics:rite_forging.name=锻造仪式
+rite.elementaristics:rite_recruiting.name=狂人的仪式
 rite.elementaristics:conflagration_soul.name=Soul's Conflagration
-rite.elementaristics:rage_wind.name=Wind's Wrath
-rite.elementaristics:gaias_gaze.name=Gaia's Gaze
+rite.elementaristics:rage_wind.name=风之盛怒
+rite.elementaristics:gaias_gaze.name=盖亚的凝视
 rite.elementaristics:space_exilation.name=Space Exilation
 rite.elementaristics:drowning_astral.name=Astral Drowning
 rite.elementaristics:soul_compression.name=Compression of the Soul
-rite.elementaristics:rite_day.name=Rite of the Sun
-rite.elementaristics:rite_night.name=Rite of the Moon
-rite.elementaristics:rite_weather.name=Rite of the Shifting Clouds
+rite.elementaristics:rite_day.name=曜日仪式
+rite.elementaristics:rite_night.name=月华仪式
+rite.elementaristics:rite_weather.name=流云仪式
 rite.elementaristics:rite_binding.name=Rite of the Shared Frame
 rite.elementaristics:rite_unbinding.name=Rite of the Falling Towers
 rite.elementaristics:rite_reforging.name=Reshaping Rite
 rite.elementaristics:rite_health_share.name=Rite of the Patchwork
-rite.elementaristics:rite_glorious.name=Glorious Rite
-rite.elementaristics:rite_emptiness.name=Rite of the Hollow Soul
+rite.elementaristics:rite_glorious.name=光荣仪式
+rite.elementaristics:rite_emptiness.name=空魂仪式
 rite.elementaristics:rite_pact.name=Rite of the Pact
 
 #Entities
 entity.silver_thread.name=Silver Thread
-entity.cultist.name=Cultist
-entity.protoplasm.name=Protoplasmic Slime
+entity.cultist.name=信徒
+entity.protoplasm.name=原生质史莱姆
 entity.nexus_dimensional.name=Dimensional Nexus
-entity.elemental_aether.name=Aether Elemental
+entity.elemental_aether.name=以太元素
 
 
 
 #Categories-Keybinds
-category.elementaristics=Elementaristics
-key.elementaristics_down=Next
-key.elementaristics_up=Previous
+category.elementaristics=元素纪元
+key.elementaristics_down=下一页
+key.elementaristics_up=上一页
 key.elementaristics_master=Slime Master Key
 
 #Hud Elements
@@ -471,16 +471,16 @@ message.slime_task_set=§2The Protoplasmic Slime will execute the given tasks
 message.slime_task_reset=§dThe Protoplasmic Slime will now not execute tasks
 message.task_timer_cant_add=§cNo timer specified
 
-message.vision.1=§6"魔法出现之前, 在虚无里有七个孩子。"
-message.vision.2=§6"当魔法创生, 某物之表面就此失去。"
+message.vision.1=§6"魔法出现之前, 虚无之中有七个孩子。"
+message.vision.2=§6"当魔法创生, 他的表面就此失去。"
 message.vision.3=§6"痛苦，折磨，依然残余于我身。"
-message.vision.4=§6"你知道那段故事吗？"
+message.vision.4=§6"你知道那个传说吗？"
 
-message.drugs=这可比我想象中的要有劲得多... 我或许会体验到那些不存在的东西。
+message.drugs=这药效可比我想象中的要强得多... 我或许会体验到幻觉。
 
-message.cultist.sit=追随者会在此待命
-message.cultist.follow=追随者会跟随着你
-message.cultist.deny=这名追随者不再属于你的团队
+message.cultist.sit=信徒会在此待命
+message.cultist.follow=信徒会跟随着你
+message.cultist.deny=这名信徒不再属于你的团队
 
 message.protoplasm.sit=The Protoplasmic Slime will stick here
 message.protoplasm.follow=The Protoplasmic Slime will stick with you
@@ -489,8 +489,8 @@ message.slime_task_copied=Copied tasks to the Thaumagral
 
 message.protoplasm.task_need_inventory=该方块必须带有储存栏
 
-message.cultist_stats.name=Viewing stats for Cultist:
-message.cultist_aspect.name=Cultist's aspect:
+message.cultist_stats.name=查看信徒的状态：
+message.cultist_aspect.name=信徒持有的要素：
 message.cultist_magan.name=Current Magan:
 
 message.soul_creative.name=Your current soul is a
@@ -546,28 +546,28 @@ message.sense_influence_none=§4Deprived of a body, the heart throbs in your han
 message.golden_thread_space.not_enough=The Golden Thread needs more space
 
 #Messages-Ascension
-message.ascension_1.standard=§6Walls have been broken. Walls that were limiting.
-message.meditation_ascension.name=§6The mind has been reforged, and next is the body.
-message.ascension_body.name=§6The body has been reforged. The skin felt like clay, but it hardened.
+message.ascension_1.standard=§6墙倒塌了。那限制了我潜能的墙。
+message.meditation_ascension.name=§6意识已然重塑，下一步即是改造我的躯体。
+message.ascension_body.name=§6躯体已然重塑。皮肤摸起来就像是陶土，但更加坚硬。
 
 message.meditation_to_contentment.name=§6Ecstasy spreads, but will sooner wayne. But it always wants to leave something... contentment, ideally.
-message.meditation_to_dread.name=§6The earth revolves around the sun, and it never stops existing... but on times, we won't see it, and these times are times of dread.
+message.meditation_to_dread.name=§6地球绕日旋转，永不消亡......但有时我们会忘记这个真相，而这些时刻即是恐惧降临之时。
 message.meditation_to_fear.name=§6日光隐去，黑暗升起。它吞噬一切，它散播恐惧。
-message.meditation_to_silence.name=§6And as the mind gets used to the fear, suddenly it stops. And as it stops, all sound stops.
-message.meditation_to_laughter.name=§6And suddenly we laugh.
+message.meditation_to_silence.name=§6随着意识习惯于恐惧，它突然静止。静止之后，万籁无声。
+message.meditation_to_laughter.name=§6突然间我们大笑不止。
 
 #Messages of the Know
-message.know_soul_fire=§6我的灵魂像火焰发出的怒吼... 我应燃烧，永无止息地燃烧。
-message.know_soul_water=§6The water flows, the water feels... and the water feels me.
-message.know_soul_air=§6大气涌动，我亦随之而流...  如此和谐。
-message.know_soul_earth=§6The heart moves, the world moves... and I am the center.
+message.know_soul_fire=§6我的灵魂像火焰一样发出怒吼......我将永远燃烧。
+message.know_soul_water=§6水之静流，水之感受......水与我的灵魂相触。
+message.know_soul_air=§6大气涌动，我亦随之而流......如此和谐。
+message.know_soul_earth=§6心脏跳动，世界移转......而我居于一切的中心。
 message.know_soul_magan=§6The fabric was stitched and so was I... and I am a masterpiece.
-message.know_soul_balanced=§6I am me... not the true me, but less of a lie.
-message.know_soul_immutable=§6I persisted... and I will persist.
-message.know_soul_unstable=§6My walls hold my sanity in, but keep the knowledge out... and my walls crumble.
+message.know_soul_balanced=§6我即是我本身......虽然不是真正的我，但又比谎言更加真实。
+message.know_soul_immutable=§6我曾固执己见......并而且我将继续如此。
+message.know_soul_unstable=§6我的墙将理智收留在内，却将知识隔离在外......而如今我的墙坍塌了。
 message.know_soul_mana=§6The fabric was stitched... but I was the string.
-message.know_soul_ancient=§6The Great Dreamer sleeps... but I have awoken.
-message.know_soul_dragon=§6Dragons don't roar, they sing... and the world shall hear me.
+message.know_soul_ancient=§6伟大的入梦者仍在沉睡......但我已经觉醒。
+message.know_soul_dragon=§6龙并非在怒吼，而是在歌唱......整个世界都将聆听我的声音。
 
 
 
@@ -580,19 +580,19 @@ soul.soul_earth.name=§2大地灵魂
 
 soul.soul_mana.name=§d魔力灵魂
 soul.soul_unstable.name=§4失稳灵魂
-soul.soul_immutable.name=§7Immutable Soul
-soul.soul_balanced.name=§fBalanced Soul
+soul.soul_immutable.name=§7永滞之魂
+soul.soul_balanced.name=§f平衡之魂
 
-soul.soul_dragon.name=§eDragon Soul
-soul.soul_ancient.name=§0Ancient Soul
+soul.soul_dragon.name=§e龙之魂
+soul.soul_ancient.name=§0远古之魂
 
-soul.soul_servant.name=§3Servant's Soul
-soul.soul_sentient.name=§9Sentient Soul
-soul.soul_machine.name=§8Mechanical Soul
+soul.soul_servant.name=§3侍从之魂
+soul.soul_sentient.name=§9觉知之魂
+soul.soul_machine.name=§8机械之魂
 
-soul.soul_first.name=§fFirst Soul
-soul.soul_true.name=§fTrue Soul
-soul.soul_apostle.name=§4Apostle's Soul
+soul.soul_first.name=§f元始之魂
+soul.soul_true.name=§f真实之魂
+soul.soul_apostle.name=§4使徒之魂
 
 #Aspects
 aspect.air.name=§b大气
@@ -617,7 +617,7 @@ aspect.wood.name=§6森林
 aspect.night.name=§8黑夜
 
 #Deities
-elementaristics:deity_nothingness=The God from-and-to-Nothingness
+elementaristics:deity_nothingness=自虚返无之神
 elementaristics:deity_azathoth=盲目痴愚之神
 elementaristics:dragon_aether=以太之龙
 elementaristics:dragon_fire=烈焰之龙
@@ -631,22 +631,22 @@ elementaristics:deity_storm=风暴
 elementaristics:deity_knight=骑士
 elementaristics:deity_sun=太阳
 elementaristics:deity_harbinger=先知
-elementaristics:deity_queen=寡食皇后
+elementaristics:deity_queen=寡食王后
 elementaristics:deity_goat=森之山羊
 elementaristics:deity_moth=The Moth
 elementaristics:deity_thread=门扉
 elementaristics:deity_mirror=The Mirror
 elementaristics:deity_dancer=舞者
-elementaristics:deity_king=盛宴国王
+elementaristics:deity_king=盛宴之王
 elementaristics:deity_mother=生命之母
 elementaristics:deity_moon=金黄澄月
 elementaristics:deity_witch=女巫
 
 
 #Compat - Thaumcraft
-tc.research_category.ELEMENTARISTICS=Elementaristics
-research.BASEELEMENTARISTICS.title=The Elementaristics
-research.BASEELEMENTARISTICS.stage.1=As I think about it... the knowledge of this book could be useful with my research on the Elementaristics, yet another school of magic.<BR>I will need another book for this work.
+tc.research_category.ELEMENTARISTICS=元素秘学
+research.BASEELEMENTARISTICS.title=元素秘学
+research.BASEELEMENTARISTICS.stage.1=正如我所认为的......这本书中的知识对我的元素秘学研究很有帮助，但我还需要了解魔法相关的知识。<BR>我需要另一本书来完成这一工作。
 
 research.ESSENCECREATION.title=Essence Creation
 research.ESSENCECREATION.stage.1=I sense potential support for the creation of elementaristic essences. However, I will need to invest some time in research.
