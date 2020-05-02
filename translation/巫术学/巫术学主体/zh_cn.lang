@@ -59,7 +59,7 @@ item.ebwizardry\:wand.progression=魔杖进度：%1$s/%2$s
 
 item.ebwizardry\:wand.levelup=%1$s 已经准备好升至 %2$s 级
 
-item.ebwizardry\:wand.addally=%1$s已被添加到您的盟友名单
+item.ebwizardry\:wand.addally=%1$s已被添加到你的盟友名单
 item.ebwizardry\:wand.removeally=%1$s已被移出你的盟友名单
 
 item.ebwizardry\:novice_fire_wand.name=烈焰魔杖
@@ -454,7 +454,7 @@ advancement.ebwizardry\:apprentice.desc=使用奥法宝典来升级你的魔杖
 advancement.ebwizardry\:special_upgrade=奥术进阶
 advancement.ebwizardry\:special_upgrade.desc=为魔杖装上魔力升级
 advancement.ebwizardry\:advanced=突飞猛进
-advancement.ebwizardry\:advanced.desc=将您的魔杖升到高级
+advancement.ebwizardry\:advanced.desc=将你的魔杖升到高级
 advancement.ebwizardry\:master=奥术大师
 advancement.ebwizardry\:master.desc=获得一根大师级魔杖
 advancement.ebwizardry\:max_out_wand=满配
@@ -828,7 +828,7 @@ spell.ebwizardry\:none.desc=要使用/give命令获取法术书， 请这样输�
 spell.ebwizardry\:oakflesh.desc=提高施法者的伤害抗性30秒。
 spell.ebwizardry\:paralysis.desc=释放一道强力的电击使目标麻痹5秒。被麻痹目标无法移动且依然会受到攻击伤害，但是受到太多伤害会提前解除麻痹效果。
 spell.ebwizardry\:petrify.desc=将目标石化，直到石化效果被打破，在黑暗中有几率提前解除石化效果。石化时不能移动或者做其他事情，但也不会受到伤害。
-spell.ebwizardry\:phase_step.desc=将施法者向前传送一小段距离，可以穿过墙壁。 范围升级可以让您传送的更远。
+spell.ebwizardry\:phase_step.desc=将施法者向前传送一小段距离，可以穿过墙壁。 范围升级可以让你传送的更远。
 spell.ebwizardry\:plague_of_darkness.desc=黑暗将吞噬一切……
 spell.ebwizardry\:pocket_furnace.desc=每次施法可以熔炼5个可被熔炼的物品（可以是不同的物品），快捷栏中的物品会被优先熔炼。
 spell.ebwizardry\:pocket_workbench.desc=为施法者打开工作台界面以便合成物品。
