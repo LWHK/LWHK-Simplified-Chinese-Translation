@@ -471,10 +471,10 @@ message.slime_task_set=§2The Protoplasmic Slime will execute the given tasks
 message.slime_task_reset=§dThe Protoplasmic Slime will now not execute tasks
 message.task_timer_cant_add=§cNo timer specified
 
-message.vision.1=§6"魔法出现之前, 虚无之中有七个孩子。"
-message.vision.2=§6"当魔法创生, 他的表面就此失去。"
-message.vision.3=§6"痛苦，折磨，依然残余于我身。"
-message.vision.4=§6"你知道那个传说吗？"
+message.vision.1=§6“魔法出现之前, 虚无之中有七个孩子”
+message.vision.2=§6“当魔法创生, 祂之表面就此失去”
+message.vision.3=§6“痛苦至今犹存”
+message.vision.4=§6“你可知那个传说？”
 
 message.drugs=这药效可比我想象中的要强得多... 我或许会体验到幻觉。
 
