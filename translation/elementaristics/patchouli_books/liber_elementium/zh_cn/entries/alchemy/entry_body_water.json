@@ -11,7 +11,7 @@
     {
       "type": "spotlight",
       "item": "elementaristics:body_water",
-      "text": "制作一件亲水之躯需要用到 $(l:manipulation/entry_basin)注魔盆$(),向其中注入$(l:alchemy/entry_matter)源力物质$()，$(li)水源素$(li)肉体源素$(li)大气源素",
+      "text": "制作一件亲水之躯需要用到 $(l:manipulation/entry_basin)注魔盆$(),向其中注入$(l:alchemy/entry_matter)源力物质$()，$(li)水元素$(li)肉体元素$(li)大气元素",
       "link_recipe": true
     }
   ]

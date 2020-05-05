@@ -22,14 +22,14 @@
       "type": "spotlight",
       "item": "elementaristics:block_silver_thread",
       "title": "杀死银白螺纹(Silver Thread)",
-      "text": "下一步, 你必须杀死银白螺纹, 或者至少是它的一部分。$(br)这一战斗的地点通常在 $(l:souls/entry_mind)“精神”$(), 追随者会在这里发现一些异常地域，这些地域可以召唤出银白螺纹。 $(br)想要进一步了解，请参阅对应的章节。",
+      "text": "下一步, 你必须杀死银白螺纹, 或者至少是它的一部分。$(br)这一战斗的地点通常在 $(l:souls/entry_mind)“精神”$(), 信徒会在这里发现一些异常地域，这些地域可以召唤出银白螺纹。 $(br)想要进一步了解，请参阅对应的章节。",
       "advancement": "elementaristics:progress_ascension_identification"
     },
     {
       "type": "spotlight",
       "item": "minecraft:bed",
       "title": "冥想",
-      "text": "在冥想阶段, 一种幽深的情绪会出现，并不断增强, 最后它会与你融为一体。 这一过程完全是在精神层面上发生的，所以不需要仪式帮助。你的追随者可能会通过药水来辅助你，让你的精神状态保持稳定。",
+      "text": "在冥想阶段, 一种幽深的情绪会出现，并不断增强, 最后它会与你融为一体。 这一过程完全是在精神层面上发生的，所以不需要仪式帮助。你的信徒可能会通过药水来辅助你，让你的精神状态保持稳定。",
       "advancement": "elementaristics:progress_ascension_4"
     },
     {

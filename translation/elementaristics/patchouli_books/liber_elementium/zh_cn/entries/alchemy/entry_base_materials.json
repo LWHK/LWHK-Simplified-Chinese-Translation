@@ -10,7 +10,7 @@
     {
       "type": "purifier_recipe",
       "recipe": "elementaristics:water_purest",
-      "text": "$(item)纯净之水$() 是非常纯粹的水. 喝下它将会洗去你身上的负面药水效果"
+      "text": "$(item)至纯之水$() 是非常纯粹的水. 喝下它将会洗去你身上的负面药水效果"
     },
     {
       "type": "reactor_recipe",
@@ -25,7 +25,7 @@
     {
       "type": "tunneler_recipe",
       "recipe": "elementaristics:motion_captured",
-      "text": "$(item)Captured Motion$() is frozen in place, but not in time. Touching it feels like a gust of wind, moving it feels like walking fast."
+      "text": "$(item)运动剪影$()是被冻结在了空间当中的运动, 而不是在时间当中的运动。碰到它就像碰到了一团风, 手持它似乎会走得更快。"
     },
     {
       "type": "spotlight",
