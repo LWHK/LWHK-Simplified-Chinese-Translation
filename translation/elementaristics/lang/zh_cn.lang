@@ -52,17 +52,17 @@ death.attack.damage_aether.player=%1$s saw him because of %2$s
 death.attack.damage_aether.item="%1$s saw him because of %2$s using %3$s
 
 #Spells
-elementaristics:damage_dragon=Dragon's Breath
-elementaristics:damage_generic=Generic Projectile
-elementaristics:damage_nullifying=Nullifying Projectile
+elementaristics:damage_dragon=龙息
+elementaristics:damage_generic=普通弹射物
+elementaristics:damage_nullifying=无效弹射物
 elementaristics:damage_mana=Mana Projectile
 elementaristics:damage_fire=Fiery Projectile
 elementaristics:damage_water=Watery Projectile
 elementaristics:damage_earth=Heavy Projectile
 elementaristics:damage_air=Air Projectile
 elementaristics:damage_magan=Magan Projectile
-elementaristics:damage_ancient=Ancient Call
-elementaristics:damage_insane=Call of Damnation
+elementaristics:damage_ancient=远古呼唤
+elementaristics:damage_insane=天谴之唤
 
 elementaristics:spell_fireball_charge=Fireball Charge
 elementaristics:spell_cleanse=Cleanse
@@ -96,26 +96,26 @@ item.head_hammer.name=Archaic Hammer Head
 item.clot_blood.name=Clot of Blood
 
 
-item.mirror_soul.name=Mirror of the Soul
+item.mirror_soul.name=灵魂之镜
 
 item.essence.name=Air Essence
 
 item.hammer_heat.name=Hammer of Heat
 
-item.dagger_sacrificial.name=Sacrificial Dagger
-item.heart_stone.name=Heart of Stone
+item.dagger_sacrificial.name=献祭匕首
+item.heart_stone.name=石之心
 item.tympanum_empty.name=Empty Tympanum
 
-item.incantation_chaos.name=Chaotic Incantation
-item.incantation_light.name=Incantation of Light
-item.incantation_feast.name=Hungry Incantation
-item.incantation_forging.name=Incantation of Forging
+item.incantation_chaos.name=混乱符咒
+item.incantation_light.name=光之符咒
+item.incantation_feast.name=饥饿符咒
+item.incantation_forging.name=锻造符咒
 item.incantation_recruiting.name=Incantation of Recruitment
 item.incantation_conflagration.name=Conflagrating Incantation
 item.incantation_wind.name=Incantation of Wind
-item.incantation_gaia.name=Incantation of Gaia
-item.incantation_stars.name=Incantation of Stars
-item.incantation_depths.name=Incantation of the Depths
+item.incantation_gaia.name=盖亚符咒
+item.incantation_stars.name=星之符咒
+item.incantation_depths.name=深渊符咒
 item.incantation_compression.name=Incantation of Compression
 item.incantation_day.name=Incantation of the Sun
 item.incantation_night.name=Incantation of the Moon
@@ -132,25 +132,25 @@ item.nexus_dimensional.name=Dimensional Nexus
 item.badge_cult.name=Cult Badge
 item.item_golden_thread.name=Golden Thread
 
-item.water_purest.name=Purest Water
+item.water_purest.name=至纯之水
 item.sparks_living.name=Living Sparks
 item.earth_purest.name=Purest Earth
 item.motion_captured.name=Captured Motion
 item.stardust.name=星尘
-item.sparks_brightest.name=Brightest Sparks
+item.sparks_brightest.name=极明火花
 item.wine_redmost.name=Redmost Wine
 item.thoughts_battling.name=Battling Thoughts
 item.vacuum_selfsustaining.name=Self-sustaining Vacuum
 item.lightning_tangible.name=Tangible Lightning
 item.moss_everchanging.name=Everchanging Moss
 item.gem_arcane.name=Arcane Gem
-item.catalyst_ordering.name=Ordering Catalyst
-item.catalyst_entropizing.name=Entropizing Catalyst
-item.flesh_lamb.name=Flesh of the Lamb
-item.soul_dead.name=Dead Soul
-item.powder_soul.name=Soul Powder
-item.matter_astral_body.name=Astral Body Matter
-item.seed_dormant.name=Dormant Seed
+item.catalyst_ordering.name=秩序触媒
+item.catalyst_entropizing.name=熵增触媒
+item.flesh_lamb.name=羔羊肉
+item.soul_dead.name=亡魂
+item.powder_soul.name=灵魂粉
+item.matter_astral_body.name=星体物质
+item.seed_dormant.name=休眠种子
 item.tincture_arcane.name=Arcane Tincture
 
 item.thaumagral_iron.name=Iron Thaumagral
@@ -285,7 +285,7 @@ tile.storage_energy_creative.name=The Truly Occult Energy Core Of Occult Truth (
 
 
 #Advancements
-advancement.elementaristics.root=元素纪元
+advancement.elementaristics.root=元素秘学
 advancement.elementaristics.book=克苏鲁梦境之旅
 
 advancement.elementaristics.concentrator=开始反应, 是吧?
@@ -304,11 +304,11 @@ advancement.elementaristics.slime=微震，所有人！
 #Advancements-Ascension
 advancement.elementaristics.ascension_1=如此遥远, 只是空无
 advancement.elementaristics.ascension_2=内域之门外
-advancement.elementaristics.ascension_identification=Know
-advancement.elementaristics.ascension_3=The Mind
-advancement.elementaristics.ascension_4=Broken Boundaries
+advancement.elementaristics.ascension_identification=知晓
+advancement.elementaristics.ascension_3=精神
+advancement.elementaristics.ascension_4=打破界限
 advancement.elementaristics.ascension_5=Rethought Possibilities
-advancement.elementaristics.ascension_6=Reforged Boundaries
+advancement.elementaristics.ascension_6=重铸界限
 advancement.elementaristics.ascension_7=Forged Possibilities
 advancement.elementaristics.ascension_8=虚无
 
@@ -423,7 +423,7 @@ entity.elemental_aether.name=以太元素
 
 
 #Categories-Keybinds
-category.elementaristics=元素纪元
+category.elementaristics=元素秘学
 key.elementaristics_down=下一页
 key.elementaristics_up=上一页
 key.elementaristics_master=Slime Master Key
@@ -471,10 +471,10 @@ message.slime_task_set=§2The Protoplasmic Slime will execute the given tasks
 message.slime_task_reset=§dThe Protoplasmic Slime will now not execute tasks
 message.task_timer_cant_add=§cNo timer specified
 
-message.vision.1=§6"魔法出现之前, 虚无之中有七个孩子。"
-message.vision.2=§6"当魔法创生, 他的表面就此失去。"
-message.vision.3=§6"痛苦，折磨，依然残余于我身。"
-message.vision.4=§6"你知道那个传说吗？"
+message.vision.1=§6“魔法出现之前, 虚无之中有七个孩子”
+message.vision.2=§6“当魔法创生, 祂之表面就此失去”
+message.vision.3=§6“痛苦至今犹存”
+message.vision.4=§6“你可知那个传说？”
 
 message.drugs=这药效可比我想象中的要强得多... 我或许会体验到幻觉。
 
