@@ -151,7 +151,7 @@ item.soul_dead.name=亡魂
 item.powder_soul.name=灵魂粉
 item.matter_astral_body.name=星体物质
 item.seed_dormant.name=休眠种子
-item.tincture_arcane.name=、
+item.tincture_arcane.name=
 
 item.thaumagral_iron.name=Iron Thaumagral
 item.thaumagral_gold.name=Golden Thaumagral
@@ -159,9 +159,9 @@ item.thaumagral_wood.name=Wooden Thaumagral
 item.thaumagral_stone.name=Stone Thaumagral
 item.thaumagral_diamond.name=Diamond Thaumagral
 
-item.charger_soul.name=Maganatic Accumulator
-item.tool_channeling.name=Channeling Tool
-item.body_water.name=Aquatic Body
+item.charger_soul.name=源力积聚室
+item.tool_channeling.name=引导工具
+item.body_water.name=亲水之躯
 item.key_winged.name=Winged Key
 item.gunpowder_energized.name=充能火药
 
@@ -243,12 +243,12 @@ tile.moss.name=Moss
 tile.block_moss_everchanging.name=Everchanging Moss
 
 #Blocks-Energy
-tile.generator_combustion.name=Arcane Combustion Generator
-tile.storage_energy.name=Occult Energy Core
+tile.generator_combustion.name=神秘燃烧产能室
+tile.storage_energy.name=神秘能量核心
 
 #Blocks-Redstone
 tile.block_transmitter_redstone.name=Redstone Transmitter
-tile.block_emulator_redstone.name=Redstone Emulator
+tile.block_emulator_redstone.name=红石模拟器
 tile.manipulator_supplying.name=Supplying Manipulator
 tile.manipulator_passive.name=Passivity Manipulator
 
