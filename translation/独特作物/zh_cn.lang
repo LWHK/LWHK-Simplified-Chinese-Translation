@@ -183,7 +183,7 @@ tile.uniquecrops.croplacusia.name=Lacusia
 tile.uniquecrops.crophexis.name=Hexis
 tile.uniquecrops.cropindustria.name=Industria
 tile.uniquecrops.cropquarry.name=Fossura
-tile.uniquecrops.cropdonutsteel.name=炸面圈钢
+tile.uniquecrops.cropdonutsteel.name=炸钢包圈
 tile.uniquecrops.cropinstabilis.name=Instabilis
 tile.uniquecrops.cropsucco.name=Succo
 tile.uniquecrops.cropmagnes.name=Magnes
@@ -420,7 +420,7 @@ uniquecrops.eula.text6=如果本协议的任何条款被认定为不可执行或
 uniquecrops.eula.text7=本mod在任何时候保留修改或替换本协议的权利。如果修改是实质性的，我们将在任何新条款生效前至少提前30天通知。构成重大变化的因素将由我们自行决定.
 
 # MULTIBLOCKS BOOK TEXT
-uniquecrops.bookmultiblocks.page.intro=To get started with multiblocks, which is the act of transforming a set of blocks placed into the world into another set of blocks, you need a catalyst. The usual catalyst will be the wildwood staff, along with whatever power is stored in it that the recipes will ask for. Arrange the set of blocks in the world as shown by the recipe input grid, and rightclick the center of the arrangement with the catalyst. If the catalyst is not a wildwood staff, then it is a consumable item.
+uniquecrops.bookmultiblocks.page.intro=可以将在世界中放置的一套特定的方块，转化为另一套特定的方块，这样的过程叫做创造一个多方块结构,想要创造一个多方块结构，你需要催化剂。常见的催化剂为原始木法杖, 以及法杖中所储存的，用于配方合成的魔力。Arrange the set of blocks in the world as shown by the recipe input grid, and rightclick the center of the arrangement with the catalyst. If the catalyst is not a wildwood staff, then it is a consumable item.
 uniquecrops.bookmultiblocks.page.craftystalks=Grow all of the Artisia crops as arranged in the recipe window to the fully grown stage. Once the multiblock is formed, give it some time to grow a crafting table. This part will then provide you with the GUI version of crafting your unique seeds. Placing a wildwood staff in the appropriate slot will let the recipe eat up crop power instead of the crafting ingredients instead.
 uniquecrops.bookmultiblocks.page.cocito=The solution to furnaces only cooking a single item at a time, this crop will smelt multiple dropped items at once. After the items are smelted, if they are left alone, the supercrop will smelt them into useless lumps, so pick them up beforehand.
 uniquecrops.bookmultiblocks.page.exedo=A supercrop that hungers for any nearby living creatures. Once one unlucky victim gets within range, they will shake, and then pounce upon them with large jaws from the earth, swallowing them whole and leaving behind some drops.

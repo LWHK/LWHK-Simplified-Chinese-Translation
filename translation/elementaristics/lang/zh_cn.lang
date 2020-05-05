@@ -77,15 +77,15 @@ elementaristics:spell_activate=Far Reach
 #-Ingredients
 item.elder_root.name=Elder Root
 item.quartz_vibrant.name=Vibrant Quartz
-item.matter_chaotic.name=Chaotic Matter
-item.matter_maganized.name=Maganized Matter
+item.matter_chaotic.name=混沌物质
+item.matter_maganized.name=源力物质
 item.module_matter_accelerating.name=Acceleration Module
-item.cluster_aether.name=Unrefined Aether Cluster
-item.cluster_air.name=Unrefined Air Cluster
-item.cluster_earth.name=Unrefined Earth Cluster
-item.cluster_fire.name=Unrefined Fire Cluster
-item.cluster_water.name=Unrefined Water Cluster
-item.tincture_opium.name=Magic Laudanum
+item.cluster_aether.name=未加工的 以太源质簇
+item.cluster_air.name=未加工的 大气源质簇
+item.cluster_earth.name=未加工的 大地源质簇
+item.cluster_fire.name=未加工的 火焰源质簇
+item.cluster_water.name=未加工的 水源质簇
+item.tincture_opium.name=魔法鸦片
 item.bundle_herbs.name=Bundle of Herbs
 item.petal_opium.name=Opium Petal
 item.seeds_opium.name=Opium Seeds
@@ -133,9 +133,9 @@ item.badge_cult.name=Cult Badge
 item.item_golden_thread.name=Golden Thread
 
 item.water_purest.name=至纯之水
-item.sparks_living.name=Living Sparks
-item.earth_purest.name=Purest Earth
-item.motion_captured.name=Captured Motion
+item.sparks_living.name=跃动火花
+item.earth_purest.name=精粹土壤
+item.motion_captured.name=运动剪影
 item.stardust.name=星尘
 item.sparks_brightest.name=极明火花
 item.wine_redmost.name=Redmost Wine
@@ -143,15 +143,15 @@ item.thoughts_battling.name=Battling Thoughts
 item.vacuum_selfsustaining.name=Self-sustaining Vacuum
 item.lightning_tangible.name=Tangible Lightning
 item.moss_everchanging.name=Everchanging Moss
-item.gem_arcane.name=Arcane Gem
+item.gem_arcane.name=神秘宝石
 item.catalyst_ordering.name=秩序触媒
 item.catalyst_entropizing.name=熵增触媒
-item.flesh_lamb.name=羔羊肉
+item.flesh_lamb.name=羔羊之肉
 item.soul_dead.name=亡魂
 item.powder_soul.name=灵魂粉
 item.matter_astral_body.name=星体物质
 item.seed_dormant.name=休眠种子
-item.tincture_arcane.name=Arcane Tincture
+item.tincture_arcane.name=
 
 item.thaumagral_iron.name=Iron Thaumagral
 item.thaumagral_gold.name=Golden Thaumagral
@@ -159,11 +159,11 @@ item.thaumagral_wood.name=Wooden Thaumagral
 item.thaumagral_stone.name=Stone Thaumagral
 item.thaumagral_diamond.name=Diamond Thaumagral
 
-item.charger_soul.name=Maganatic Accumulator
-item.tool_channeling.name=Channeling Tool
-item.body_water.name=Aquatic Body
+item.charger_soul.name=源力积聚室
+item.tool_channeling.name=引导工具
+item.body_water.name=亲水之躯
 item.key_winged.name=Winged Key
-item.gunpowder_energized.name=Energized Gunpowder
+item.gunpowder_energized.name=充能火药
 
 item.phial_nectar.name=Phial of Nectar
 item.water_clear.name=Clear Water
@@ -177,11 +177,11 @@ item.fragment_mother.name=Fragment of the Mother
 item.poison_glassblood.name=Glassblood Toxin
 tooltip.poison_glassblood.name=A strong poison that drains magic, too
 
-item.poison_wintersbreath.name=Winter's Breath
-tooltip.poison_wintersbreath.name=First comes the winter's breath, then comes the hunger
+item.poison_wintersbreath.name=寒冬吐息
+tooltip.poison_wintersbreath.name=首先袭来的是来自寒冬的吐息, 紧随其后的是无比的饥饿
 
-item.poison_sandthroat.name=Sandthroat Poison
-item.sandthroat_concentrated.name=Concentrated Sandthroat Poison
+item.poison_sandthroat.name=干裂之喉
+item.sandthroat_concentrated.name=浓缩干裂之喉
 tooltip.poison_sandthroat.name=ouch ouch soup hot owie
 
 item.scale_air.name=Air Scale
@@ -243,12 +243,12 @@ tile.moss.name=Moss
 tile.block_moss_everchanging.name=Everchanging Moss
 
 #Blocks-Energy
-tile.generator_combustion.name=Arcane Combustion Generator
-tile.storage_energy.name=Occult Energy Core
+tile.generator_combustion.name=神秘燃烧产能室
+tile.storage_energy.name=神秘能量核心
 
 #Blocks-Redstone
 tile.block_transmitter_redstone.name=Redstone Transmitter
-tile.block_emulator_redstone.name=Redstone Emulator
+tile.block_emulator_redstone.name=红石模拟器
 tile.manipulator_supplying.name=Supplying Manipulator
 tile.manipulator_passive.name=Passivity Manipulator
 
@@ -343,7 +343,7 @@ advancement.elementaristics.ascension_8.desc=From and to Nothingness!
 
 #Book
 item.elementaristics.book.name=自由:源质之书
-info.elementaristics.book.landing=“元素秘学”研究的是虚无的规律, 专注于探索未知的世界.$(br)由于普通人没有无限的知识，也没有永恒的记忆，所以这本书涵盖了后者 —— "书写永恒"。
+info.elementaristics.book.landing=“元素纪元”研究的是虚无的规律, 专注于探索未知的世界.$(br)由于普通人没有无限的知识，也没有永恒的记忆，所以这本书涵盖了后者 —— "书而永恒"。
 info.elementaristics.book.subtitle="天使知晓血"
 
 book.purifierTime=需要Ticks:
