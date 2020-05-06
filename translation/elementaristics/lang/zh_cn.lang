@@ -17,7 +17,7 @@ elementaristics.config.show_magan_bar=显示源力条
 elementaristics.config.cultist_textures=Aspect-based Cultist Textures
 
 #Potion effect
-elementaristics.potion.intoxicated=沉醉
+elementaristics.potion.intoxicated=迷醉
 elementaristics.potion.trance=恍惚
 elementaristics.potion.focused=专注
 elementaristics.potion.dread=恐惧
@@ -39,44 +39,45 @@ elementaristics.potion.fireball_charge=Fireball Charge
 elementaristics.potion.counterspell=Counterspell Field
 
 #Damage
-death.attack.damage_air=%1$s felt the wind's rage
-death.attack.damage_air.player=%1$s felt the wind's rage invoked by %2$s
-death.attack.damage_air.item="%1$s felt the wind's rage invoked by %2$s using %3$s
+death.attack.damage_air=%1$s 尝到了风之盛怒
+death.attack.damage_air.player=%1$s 尝到了由 %2$s 释放的风之盛怒
+death.attack.damage_air.item="%1$s 尝到了由 %2$s 使用 %3$s 释放的风之盛怒
 
-death.attack.damage_psychic=%1$s's mind collapsed
-death.attack.damage_psychic.player=%1$s's mind collapsed because of %2$s
-death.attack.damage_psychic.item="%1$s's mind collapsed because of %2$s using %3$s
+death.attack.damage_psychic=%1$s 的心智崩溃了
+death.attack.damage_psychic.player=因为 %2$s，%1$s 的心智崩溃了
+death.attack.damage_psychic.item=因为 %2$s 使用了 %3$s，%1$s 的心智崩溃了
 
-death.attack.damage_aether=%1$s saw him
-death.attack.damage_aether.player=%1$s saw him because of %2$s
-death.attack.damage_aether.item="%1$s saw him because of %2$s using %3$s
+death.attack.damage_aether=%1$s 看到了他
+death.attack.damage_aether.player=因为 %2$s，%1$s 看到了他
+death.attack.damage_aether.item==因为 %2$s 使用了 %3$s，%1$s 看到了他
+
 
 #Spells
 elementaristics:damage_dragon=龙息
 elementaristics:damage_generic=普通弹射物
 elementaristics:damage_nullifying=无效弹射物
-elementaristics:damage_mana=Mana Projectile
-elementaristics:damage_fire=Fiery Projectile
-elementaristics:damage_water=Watery Projectile
-elementaristics:damage_earth=Heavy Projectile
-elementaristics:damage_air=Air Projectile
-elementaristics:damage_magan=Magan Projectile
+elementaristics:damage_mana=魔力飞弹
+elementaristics:damage_fire=烈焰飞弹
+elementaristics:damage_water=水花飞弹
+elementaristics:damage_earth=重力飞弹
+elementaristics:damage_air=大气飞弹
+elementaristics:damage_magan=源力飞弹
 elementaristics:damage_ancient=远古呼唤
 elementaristics:damage_insane=天谴之唤
 
-elementaristics:spell_fireball_charge=Fireball Charge
-elementaristics:spell_cleanse=Cleanse
-elementaristics:spell_blink=Blink
-elementaristics:spell_crystal_protection=Crystal Protection
-elementaristics:spell_form_gaseous=Gaseous Form
-elementaristics:spell_counterspell=Counterspell
+elementaristics:spell_fireball_charge=充能火球
+elementaristics:spell_cleanse=净化
+elementaristics:spell_blink=闪现
+elementaristics:spell_crystal_protection=水晶防护
+elementaristics:spell_form_gaseous=气体形态
+elementaristics:spell_counterspell=法术反制
 elementaristics:spell_activate=Far Reach
 
 
 #Items
 #-Ingredients
-item.elder_root.name=Elder Root
-item.quartz_vibrant.name=Vibrant Quartz
+item.elder_root.name=古老根茎
+item.quartz_vibrant.name=闪耀石英
 item.matter_chaotic.name=混沌物质
 item.matter_maganized.name=源力物质
 item.module_matter_accelerating.name=Acceleration Module
@@ -86,19 +87,19 @@ item.cluster_earth.name=未加工的 大地源质簇
 item.cluster_fire.name=未加工的 火焰源质簇
 item.cluster_water.name=未加工的 水源质簇
 item.tincture_opium.name=魔法鸦片
-item.bundle_herbs.name=Bundle of Herbs
-item.petal_opium.name=Opium Petal
-item.seeds_opium.name=Opium Seeds
-item.essence_blank.name=Blank Essence
-item.ash.name=Ash
+item.bundle_herbs.name=一束草药
+item.petal_opium.name=鸦片瓣
+item.seeds_opium.name=鸦片种子
+item.essence_blank.name=空白源质
+item.ash.name=灰烬
 item.protoplasm.name=Protoplasmic Sample
-item.head_hammer.name=Archaic Hammer Head
-item.clot_blood.name=Clot of Blood
+item.head_hammer.name=古老锤头
+item.clot_blood.name=血凝块
 
 
 item.mirror_soul.name=灵魂之镜
 
-item.essence.name=Air Essence
+item.essence.name=大气源质
 
 item.hammer_heat.name=Hammer of Heat
 
@@ -128,7 +129,7 @@ item.incantation_glorious.name=Glorious Incantation
 item.incantation_emptiness.name=Hollow Incantation
 item.incantation_pact.name=Occult Contract
 
-item.nexus_dimensional.name=Dimensional Nexus
+item.nexus_dimensional.name=维度联结器
 item.badge_cult.name=Cult Badge
 item.item_golden_thread.name=Golden Thread
 
@@ -165,7 +166,7 @@ item.body_water.name=亲水之躯
 item.key_winged.name=Winged Key
 item.gunpowder_energized.name=充能火药
 
-item.phial_nectar.name=Phial of Nectar
+item.phial_nectar.name=神酒瓶
 item.water_clear.name=Clear Water
 item.heart_human.name=Human Heart
 item.splendor_eye.name=Splendorous Eye
@@ -213,7 +214,7 @@ item.essence_wood.name=Essence of the Wood
 item.essence_night.name=Essence of the Night
 
 #Blocks
-tile.stone_enriched.name=Enriched Stone
+tile.stone_enriched.name=强化石头
 tile.fabric_reason.name=Fabric of Reason
 tile.fabric_passion.name=Fabric of Passion
 tile.block_silver_thread.name=Silver Thread
