@@ -375,8 +375,8 @@ advancement.uniquecrops:heartPickup=自我牺牲
 advancement.uniquecrops:heartPickup.desc=制作出一个史蒂夫之心
 advancement.uniquecrops:teriyakiPickup=丰盛的鸡肉大餐
 advancement.uniquecrops:teriyakiPickup.desc=制作出一个照烧鸡肉碗
-advancement.uniquecrops:craftingWildwoodStaff=Wild Beginnings
-advancement.uniquecrops:craftingWildwoodStaff.desc=Craft or obtain a Wildwood Staff for the first time.
+advancement.uniquecrops:craftingWildwoodStaff=野性之始
+advancement.uniquecrops:craftingWildwoodStaff.desc=第一次制作或获得原始木法杖
 
 # CONDITIONS
 uniquecrops.condition.fullmoon=需要满月的时候。

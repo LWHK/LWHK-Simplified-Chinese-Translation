@@ -17,7 +17,7 @@ elementaristics.config.show_magan_bar=显示源力条
 elementaristics.config.cultist_textures=Aspect-based Cultist Textures
 
 #Potion effect
-elementaristics.potion.intoxicated=沉醉
+elementaristics.potion.intoxicated=迷醉
 elementaristics.potion.trance=恍惚
 elementaristics.potion.focused=专注
 elementaristics.potion.dread=恐惧
@@ -39,44 +39,45 @@ elementaristics.potion.fireball_charge=Fireball Charge
 elementaristics.potion.counterspell=Counterspell Field
 
 #Damage
-death.attack.damage_air=%1$s felt the wind's rage
-death.attack.damage_air.player=%1$s felt the wind's rage invoked by %2$s
-death.attack.damage_air.item="%1$s felt the wind's rage invoked by %2$s using %3$s
+death.attack.damage_air=%1$s 尝到了风之盛怒
+death.attack.damage_air.player=%1$s 尝到了由 %2$s 释放的风之盛怒
+death.attack.damage_air.item="%1$s 尝到了由 %2$s 使用 %3$s 释放的风之盛怒
 
-death.attack.damage_psychic=%1$s's mind collapsed
-death.attack.damage_psychic.player=%1$s's mind collapsed because of %2$s
-death.attack.damage_psychic.item="%1$s's mind collapsed because of %2$s using %3$s
+death.attack.damage_psychic=%1$s 的心智崩溃了
+death.attack.damage_psychic.player=因为 %2$s，%1$s 的心智崩溃了
+death.attack.damage_psychic.item=因为 %2$s 使用了 %3$s，%1$s 的心智崩溃了
 
-death.attack.damage_aether=%1$s saw him
-death.attack.damage_aether.player=%1$s saw him because of %2$s
-death.attack.damage_aether.item="%1$s saw him because of %2$s using %3$s
+death.attack.damage_aether=%1$s 看到了他
+death.attack.damage_aether.player=因为 %2$s，%1$s 看到了他
+death.attack.damage_aether.item==因为 %2$s 使用了 %3$s，%1$s 看到了他
+
 
 #Spells
 elementaristics:damage_dragon=龙息
 elementaristics:damage_generic=普通弹射物
 elementaristics:damage_nullifying=无效弹射物
-elementaristics:damage_mana=Mana Projectile
-elementaristics:damage_fire=Fiery Projectile
-elementaristics:damage_water=Watery Projectile
-elementaristics:damage_earth=Heavy Projectile
-elementaristics:damage_air=Air Projectile
-elementaristics:damage_magan=Magan Projectile
+elementaristics:damage_mana=魔力飞弹
+elementaristics:damage_fire=烈焰飞弹
+elementaristics:damage_water=水花飞弹
+elementaristics:damage_earth=重力飞弹
+elementaristics:damage_air=大气飞弹
+elementaristics:damage_magan=源力飞弹
 elementaristics:damage_ancient=远古呼唤
 elementaristics:damage_insane=天谴之唤
 
-elementaristics:spell_fireball_charge=Fireball Charge
-elementaristics:spell_cleanse=Cleanse
-elementaristics:spell_blink=Blink
-elementaristics:spell_crystal_protection=Crystal Protection
-elementaristics:spell_form_gaseous=Gaseous Form
-elementaristics:spell_counterspell=Counterspell
+elementaristics:spell_fireball_charge=充能火球
+elementaristics:spell_cleanse=净化
+elementaristics:spell_blink=闪现
+elementaristics:spell_crystal_protection=水晶防护
+elementaristics:spell_form_gaseous=气体形态
+elementaristics:spell_counterspell=法术反制
 elementaristics:spell_activate=Far Reach
 
 
 #Items
 #-Ingredients
-item.elder_root.name=Elder Root
-item.quartz_vibrant.name=Vibrant Quartz
+item.elder_root.name=古老根茎
+item.quartz_vibrant.name=闪耀石英
 item.matter_chaotic.name=混沌物质
 item.matter_maganized.name=源力物质
 item.module_matter_accelerating.name=Acceleration Module
@@ -86,19 +87,19 @@ item.cluster_earth.name=未加工的 大地源质簇
 item.cluster_fire.name=未加工的 火焰源质簇
 item.cluster_water.name=未加工的 水源质簇
 item.tincture_opium.name=魔法鸦片
-item.bundle_herbs.name=Bundle of Herbs
-item.petal_opium.name=Opium Petal
-item.seeds_opium.name=Opium Seeds
-item.essence_blank.name=Blank Essence
-item.ash.name=Ash
+item.bundle_herbs.name=一束草药
+item.petal_opium.name=鸦片瓣
+item.seeds_opium.name=鸦片种子
+item.essence_blank.name=空白源质
+item.ash.name=灰烬
 item.protoplasm.name=Protoplasmic Sample
-item.head_hammer.name=Archaic Hammer Head
-item.clot_blood.name=Clot of Blood
+item.head_hammer.name=古老锤头
+item.clot_blood.name=血凝块
 
 
 item.mirror_soul.name=灵魂之镜
 
-item.essence.name=Air Essence
+item.essence.name=大气源质
 
 item.hammer_heat.name=Hammer of Heat
 
@@ -128,7 +129,7 @@ item.incantation_glorious.name=Glorious Incantation
 item.incantation_emptiness.name=Hollow Incantation
 item.incantation_pact.name=Occult Contract
 
-item.nexus_dimensional.name=Dimensional Nexus
+item.nexus_dimensional.name=维度联结器
 item.badge_cult.name=Cult Badge
 item.item_golden_thread.name=Golden Thread
 
@@ -165,7 +166,7 @@ item.body_water.name=亲水之躯
 item.key_winged.name=Winged Key
 item.gunpowder_energized.name=充能火药
 
-item.phial_nectar.name=Phial of Nectar
+item.phial_nectar.name=神酒瓶
 item.water_clear.name=Clear Water
 item.heart_human.name=Human Heart
 item.splendor_eye.name=Splendorous Eye
@@ -213,7 +214,7 @@ item.essence_wood.name=Essence of the Wood
 item.essence_night.name=Essence of the Night
 
 #Blocks
-tile.stone_enriched.name=Enriched Stone
+tile.stone_enriched.name=强化石头
 tile.fabric_reason.name=Fabric of Reason
 tile.fabric_passion.name=Fabric of Passion
 tile.block_silver_thread.name=Silver Thread
@@ -221,7 +222,7 @@ tile.stone_runed.name=Runed Stone
 tile.block_golden_thread.name=Golden Thread
 
 #Blocks-Important Ones
-tile.pedestal.name=Pedestal
+tile.pedestal.name=基座
 tile.purifier.name=Purifier
 tile.concentrator.name=Concentrator
 tile.tunneler.name=Tunneler
@@ -280,8 +281,8 @@ tile.symbol_witch.name=Symbol of the Witch
 
 
 #Creative Only
-item.changer_soul.name=Soul Changer (Creative Only)
-tile.storage_energy_creative.name=The Truly Occult Energy Core Of Occult Truth (Creative Only)
+item.changer_soul.name=灵魂改变器 (创造模式专属)
+tile.storage_energy_creative.name=蕴含着神秘学真理的真实神秘核心(创造模式专属)
 
 
 #Advancements
@@ -293,7 +294,7 @@ advancement.elementaristics.purifier=水花四溅！
 advancement.elementaristics.chaos=幽深
 advancement.elementaristics.forging=没有敲打声
 advancement.elementaristics.tunneler=Whoosh!
-advancement.elementaristics.reactor=Not of the giant kind
+advancement.elementaristics.reactor=并不是那种超大的版本
 advancement.elementaristics.basin=自由流动
 advancement.elementaristics.energy=注意: 这是科技!
 advancement.elementaristics.binding=Just a frame of bones?
@@ -307,18 +308,18 @@ advancement.elementaristics.ascension_2=内域之门外
 advancement.elementaristics.ascension_identification=知晓
 advancement.elementaristics.ascension_3=精神
 advancement.elementaristics.ascension_4=打破界限
-advancement.elementaristics.ascension_5=Rethought Possibilities
+advancement.elementaristics.ascension_5=反思可能性
 advancement.elementaristics.ascension_6=重铸界限
-advancement.elementaristics.ascension_7=Forged Possibilities
+advancement.elementaristics.ascension_7=创造可能性
 advancement.elementaristics.ascension_8=虚无
 
 #Advancements-Descriptions
 advancement.elementaristics.book.desc=手持一本书，在夜色下焚烧一束草药
 
-advancement.elementaristics.pedestal.desc=Build a Lightning Pedestal to create essences using items
-advancement.elementaristics.concentrator.desc=Build a Concentrator to influence items with other items to create new items
-advancement.elementaristics.purifier.desc=Build an arcane dishwasher
-advancement.elementaristics.chaos.desc=Invoke the powers of chaos!
+advancement.elementaristics.pedestal.desc=建造出闪电基座，并使用物品制造出源质
+advancement.elementaristics.concentrator.desc=建造出浓缩器，并通过两个物品之间的相互影响制造出新的物品
+advancement.elementaristics.purifier.desc=制作出一个“魔法洗碗器”
+advancement.elementaristics.chaos.desc=掌握混沌之力!
 advancement.elementaristics.forging.desc=Invoke the purest heat, the arcane one
 advancement.elementaristics.tunneler.desc=Build a Tunneler to accelerate item particles
 advancement.elementaristics.reactor.desc=Build a Reactor to let (al-)chemicals react
@@ -328,17 +329,17 @@ advancement.elementaristics.binding.desc=Build a Heart of Stone
 advancement.elementaristics.glory.desc=Build a Splendorous Eye
 advancement.elementaristics.water_purest.desc=Craft Purest Water
 
-advancement.elementaristics.slime.desc=Tame a Protoplasmic Slime
+advancement.elementaristics.slime.desc=驯养一只原生质史莱姆
 #Advancements-Ascension-Descriptions
-advancement.elementaristics.ascension_1.desc=Study the essence of space
-advancement.elementaristics.ascension_2.desc=Connect the Wake with the Mind and Beyond
-advancement.elementaristics.ascension_identification.desc=Identify your Soul
-advancement.elementaristics.ascension_3.desc=Enter The Mind
-advancement.elementaristics.ascension_4.desc=Kill the Silver Thread
-advancement.elementaristics.ascension_5.desc=Refine your mind
-advancement.elementaristics.ascension_6.desc=Reforge your body
-advancement.elementaristics.ascension_7.desc=Forge the Golden Thread
-advancement.elementaristics.ascension_8.desc=From and to Nothingness!
+advancement.elementaristics.ascension_1.desc=学习到空间的本质
+advancement.elementaristics.ascension_2.desc=在“清醒” 与“精神”“彼岸”之间建立连接
+advancement.elementaristics.ascension_identification.desc=鉴定你的灵魂类别
+advancement.elementaristics.ascension_3.desc=进入“精神”
+advancement.elementaristics.ascension_4.desc=杀死银白螺纹
+advancement.elementaristics.ascension_5.desc=升华精神
+advancement.elementaristics.ascension_6.desc=重铸肉身
+advancement.elementaristics.ascension_7.desc=铸就金色门扉
+advancement.elementaristics.ascension_8.desc=自虚返无!
 
 
 #Book
@@ -476,7 +477,7 @@ message.vision.2=§6“当魔法创生, 祂之表面就此失去”
 message.vision.3=§6“痛苦至今犹存”
 message.vision.4=§6“你可知那个传说？”
 
-message.drugs=这药效可比我想象中的要强得多... 我或许会体验到幻觉。
+message.drugs=这药效可比我想象中的要强得多... 我或许会看到那些不存在的东西。
 
 message.cultist.sit=信徒会在此待命
 message.cultist.follow=信徒会跟随着你
@@ -493,22 +494,22 @@ message.cultist_stats.name=查看信徒的状态：
 message.cultist_aspect.name=信徒持有的要素：
 message.cultist_magan.name=Current Magan:
 
-message.soul_creative.name=Your current soul is a
-message.soul_switch_creative.name=You switched to a
+message.soul_creative.name=你当前的灵魂为
+message.soul_switch_creative.name=你的灵魂种类切换为
 
-message.soul_unknown.name=Your current soul is unknown
+message.soul_unknown.name=你尚未知晓你的灵魂种类
 message.view_stats.name=Viewing stats for
-message.max_magan.name=Your maximum magan is
-message.current_magan.name=Your current magan is
-message.regen_per_tick.name=Your magan regeneration rate per tick is
-message.ascension_stage.name=Your ascension stage:
-message.cultist_count.name=Your cultist count:
+message.max_magan.name=你的源力最大值为
+message.current_magan.name=你当前的源力值为
+message.regen_per_tick.name=你的每tick源力恢复率为
+message.ascension_stage.name=你的升华阶段为:
+message.cultist_count.name=你的信徒数量为:
 
 message.rite_fail_cultists.name=There's too many artificial souls here
 message.call_cultist_error.name=There must be more space for the cultists to appear
 
-message.no_cultists_secured.name=Visiting the Mind without having any loyal Cultists sounds like a foolish idea
-message.interact_silver_thread.error_fight=There's already a Silver Thread in the area
+message.no_cultists_secured.name=在没有任何效忠于你的信徒的情况下去造访“精神”，这可不是什么好主意
+message.interact_silver_thread.error_fight=这片区域内已经存在有了银白螺纹
 
 message.deity_tick.name=Tick time:
 message.deity_hour.name=Hour:
@@ -550,7 +551,7 @@ message.ascension_1.standard=§6墙倒塌了。那限制了我潜能的墙。
 message.meditation_ascension.name=§6意识已然重塑，下一步即是改造我的躯体。
 message.ascension_body.name=§6躯体已然重塑。皮肤摸起来就像是陶土，但更加坚硬。
 
-message.meditation_to_contentment.name=§6Ecstasy spreads, but will sooner wayne. But it always wants to leave something... contentment, ideally.
+message.meditation_to_contentment.name=§6狂喜弥漫, 但随即如同不息的车轮般向前离去。但它总会留下一些... 满足, 观念上的满足。
 message.meditation_to_dread.name=§6地球绕日旋转，永不消亡......但有时我们会忘记这个真相，而这些时刻即是恐惧降临之时。
 message.meditation_to_fear.name=§6日光隐去，黑暗升起。它吞噬一切，它散播恐惧。
 message.meditation_to_silence.name=§6随着意识习惯于恐惧，它突然静止。静止之后，万籁无声。
@@ -578,12 +579,12 @@ soul.soul_fire.name=§c火之灵魂
 soul.soul_air.name=§b大气灵魂
 soul.soul_earth.name=§2大地灵魂
 
-soul.soul_mana.name=§d魔力灵魂
-soul.soul_unstable.name=§4失稳灵魂
+soul.soul_mana.name=§d魔力之魂
+soul.soul_unstable.name=§4失稳之魂
 soul.soul_immutable.name=§7永滞之魂
 soul.soul_balanced.name=§f平衡之魂
 
-soul.soul_dragon.name=§e龙之魂
+soul.soul_dragon.name=§e巨龙之魂
 soul.soul_ancient.name=§0远古之魂
 
 soul.soul_servant.name=§3侍从之魂

@@ -105,7 +105,7 @@
     {
       "type": "spotlight",
       "item": "elementaristics:essence:18",
-      "text": "将 $(l:alchemy/entry_flesh_lamb)羔羊之肉$()放入$(l:manipulation/entry_basin)注魔盆$()，再注入生命, 灵魂, 光, 心智以及混沌元素, 充斥着混沌的树木源质, 这个关于堕落，昏暗，上帝以及羔羊(goats)的元素, 就这样被创造了出来.",
+      "text": "将 $(l:alchemy/entry_flesh_lamb)羔羊之肉$()放入$(l:manipulation/entry_basin)注魔盆$()，再注入生命, 灵魂, 光, 心智以及混沌元素, 充斥着混沌的森林源质, 这个关于堕落，昏暗，上帝以及羔羊(goats)的元素, 就这样被创造了出来.",
       "link_recipe": true
     }
   ]

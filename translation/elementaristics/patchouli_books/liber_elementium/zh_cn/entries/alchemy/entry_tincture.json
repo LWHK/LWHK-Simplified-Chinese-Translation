@@ -1,17 +1,17 @@
 {
-  "name": "Arcane Tincture",
+  "name": "奥术鸦片",
   "icon": "elementaristics:tincture_arcane",
   "category": "alchemy",
   "advancement": "elementaristics:progress_ascension_4",
   "pages": [
     {
       "type": "text",
-      "text": "Given the fact that to activate occult sentiments with meditation, occult intoxication is needed, one might search a possibility to achieve it even faster (and maybe safer)."
+      "text": "想要在冥想中激发神秘意义上的心理体验, 神秘学的迷醉状态是不可或缺的, 你或许想找到某种更迅速达到该目的的方法 (或者是更安全的)。"
     },
     {
       "type": "crafting",
       "recipe": "elementaristics:tincture_arcane",
-      "text": "This tincture must be drunken by the occultist, and will then weakly intoxicate them for a short amount of time."
+      "text": "这种鸦片只能由神秘学家们服用, 这会使他们在短时间内陷入到一种轻微的迷醉状态。"
     }
   ]
 }
