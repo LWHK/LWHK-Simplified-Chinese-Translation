@@ -17,7 +17,7 @@
     {
       "type": "text",
       "title": "Common Souls",
-      "text": "我将灵魂类别分为了三个组别: 普通，稀有和传奇灵魂. 就如你们所想的, 组别分类的依据是其稀有度。$(marked)普通灵魂$()组完全由$(marked)元素灵魂$()组成, 这种类别的灵魂有着特定的元素倾向。 "
+      "text": "我将灵魂类别分为了三个组别: 普通，稀有和超凡灵魂. 就如你们所想的, 组别分类的依据是其稀有度。$(marked)普通灵魂$()组完全由$(marked)元素灵魂$()组成, 这种类别的灵魂有着特定的元素倾向。 "
     },
     {
       "type": "text",
@@ -73,30 +73,30 @@
     },
     {
       "type": "spotlight",
-      "title": "Immutable Soul",
+      "title": "永滞之魂",
       "item": "elementaristics:essence:7",
       "text": "Some souls were born under more cruel circumstances than other souls. These souls can often only persist by acquiring a stronger Astral Body, which enhances their magic resistance.$(br)However, this comes at the cost of low magic affinity.$(br)These hardly changeable souls are called Immutable Souls."
     },
     {
       "type": "spotlight",
-      "title": "Balanced Soul",
+      "title": "平衡之魂",
       "item": "elementaristics:essence:14",
       "text": "Unlike most other rare souls, these souls suffer no disadvantages whatsoever. They might have been protected by some sort of higher entity, though this cannot be confirmed.$(br)One might consider them a jack of all trades."
     },
     {
       "type": "text",
-      "title": "Extraordinary Souls",
+      "title": "超凡灵魂",
       "text": "The $(marked)Extraordinary Souls$() are kin of higher entities. Their power is immense (compared to the power of the other souls).$(br)These powers generally come without many disadvantages."
     },
     {
       "type": "spotlight",
-      "title": "Ancient Soul",
+      "title": "远古之魂",
       "item": "elementaristics:essence:15",
       "text": "Ancient Souls directly descended from the Great Old Ones. Their magic power is equal the power of mana souls, except that it's provided by elder gods.$(br)Their connections to other deities are just as wide spread as their repertoire of spells."
     },
     {
       "type": "spotlight",
-      "title": "Dragon Soul",
+      "title": "巨龙之魂",
       "item": "elementaristics:essence:12",
       "text": "The lullaby of these souls was the cosmic ballad, with its symphonies of fire and water, air and earth, in the field of aether.$(br)These souls have strong connections to all primal aspects, and the multiversal dragons."
     },
