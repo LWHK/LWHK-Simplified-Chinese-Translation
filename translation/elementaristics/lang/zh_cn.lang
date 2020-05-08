@@ -12,7 +12,7 @@ elementaristics.config.category_client=客户端
 elementaristics.config.nexus_update_interval=联结器更新间隔
 elementaristics.config.mind_dimension_id=“精神”维度ID
 
-elementaristics.config.particle_amount=Elementaristics' Particle Amount
+elementaristics.config.particle_amount=元素秘学粒子效果数量
 elementaristics.config.show_magan_bar=显示源力条
 elementaristics.config.cultist_textures=Aspect-based Cultist Textures
 
@@ -22,10 +22,10 @@ elementaristics.potion.trance=恍惚
 elementaristics.potion.focused=专注
 elementaristics.potion.dread=恐惧
 elementaristics.potion.contentment=满足
-elementaristics.potion.ecstasy=Ecstasy
-elementaristics.potion.fear=Fear
-elementaristics.potion.laughter=笑
-elementaristics.potion.silence=沉默
+elementaristics.potion.ecstasy=狂喜
+elementaristics.potion.fear=恐惧
+elementaristics.potion.laughter=大笑
+elementaristics.potion.silence=寂静
 
 elementaristics.potion.health_share=Shared Health
 
@@ -33,10 +33,10 @@ elementaristics.potion.potential=Potential
 
 elementaristics.potion.fatherblessing=A Father's Blessing
 
-elementaristics.potion.gaseous=Gaseous Form
-elementaristics.potion.crystal_protection=Crystalline Shield
-elementaristics.potion.fireball_charge=Fireball Charge
-elementaristics.potion.counterspell=Counterspell Field
+elementaristics.potion.gaseous=气体形态
+elementaristics.potion.crystal_protection=水晶护盾
+elementaristics.potion.fireball_charge=火球充能
+elementaristics.potion.counterspell=反魔法护盾
 
 #Damage
 death.attack.damage_air=%1$s 尝到了风之盛怒
@@ -44,8 +44,8 @@ death.attack.damage_air.player=%1$s 尝到了由 %2$s 释放的风之盛怒
 death.attack.damage_air.item="%1$s 尝到了由 %2$s 使用 %3$s 释放的风之盛怒
 
 death.attack.damage_psychic=%1$s 的心智崩溃了
-death.attack.damage_psychic.player=因为 %2$s，%1$s 的心智崩溃了
-death.attack.damage_psychic.item=因为 %2$s 使用了 %3$s，%1$s 的心智崩溃了
+death.attack.damage_psychic.player=%1$s 的心智因为 %2$s而崩溃了
+death.attack.damage_psychic.item=%1$s 的心智因为 %2$s 使用了 %3$s而崩溃了
 
 death.attack.damage_aether=%1$s 看到了他
 death.attack.damage_aether.player=因为 %2$s，%1$s 看到了他
@@ -192,26 +192,26 @@ item.scale_water.name=Water Scale
 item.scale_aether.name=Aether Scale
 
 #Essences (Items and Blocks)
-item.essence_air.name=Air Essence
-item.essence_earth.name=Earth Essence
-item.essence_water.name=Water Essence
-item.essence_fire.name=Fire Essence
-item.essence_aether.name=Aether Essence
-item.essence_ice.name=Ice Essence
-item.essence_life.name=Life Essence
-item.essence_crystal.name=Crystal Essence
-item.essence_soul.name=Soul Essence
-item.essence_light.name=Light Essence
-item.essence_vacuum.name=Essence of Emptiness
-item.essence_magan.name=Magan Essence
-item.essence_mana.name=Mana Essence
-item.essence_electricity.name=Electricity Essence
-item.essence_order.name=Order Essence
-item.essence_chaos.name=Chaos Essence
-item.essence_body.name=Body Essence
-item.essence_mind.name=Mind Essence
-item.essence_wood.name=Essence of the Wood
-item.essence_night.name=Essence of the Night
+item.essence_air.name=大气源质
+item.essence_earth.name=大地源质
+item.essence_water.name=水之源质
+item.essence_fire.name=火之源质
+item.essence_aether.name=以太源质
+item.essence_ice.name=冰之源质
+item.essence_life.name=生命源质
+item.essence_crystal.name=水晶源质
+item.essence_soul.name=灵魂源质
+item.essence_light.name=光之源质
+item.essence_vacuum.name=空无源质
+item.essence_magan.name=源力源质
+item.essence_mana.name=魔力源质
+item.essence_electricity.name=电力源质
+item.essence_order.name=秩序源质
+item.essence_chaos.name=混沌源质
+item.essence_body.name=肉体源质
+item.essence_mind.name=心智源质
+item.essence_wood.name=森之源质
+item.essence_night.name=黑夜源质
 
 #Blocks
 tile.stone_enriched.name=强化石头
@@ -223,14 +223,14 @@ tile.block_golden_thread.name=Golden Thread
 
 #Blocks-Important Ones
 tile.pedestal.name=基座
-tile.purifier.name=Purifier
-tile.concentrator.name=Concentrator
+tile.purifier.name=净化器
+tile.concentrator.name=浓缩器
 tile.tunneler.name=Tunneler
 tile.filter_holder.name=Filter Holder
-tile.reactor.name=Reactor
+tile.reactor.name=反应器
 tile.casing_essence.name=Essence Casing
-tile.altar.name=Altar
-tile.basin_infusion.name=Infusion Basin
+tile.altar.name=祭坛
+tile.basin_infusion.name=注魔盆
 
 #Blocks-Plants
 tile.flower_ecstasy.name=Aphrodium
@@ -316,18 +316,18 @@ advancement.elementaristics.ascension_8=虚无
 #Advancements-Descriptions
 advancement.elementaristics.book.desc=手持一本书，在夜色下焚烧一束草药
 
-advancement.elementaristics.pedestal.desc=建造出闪电基座，并使用物品制造出源质
-advancement.elementaristics.concentrator.desc=建造出浓缩器，并通过两个物品之间的相互影响制造出新的物品
-advancement.elementaristics.purifier.desc=制作出一个“魔法洗碗器”
+advancement.elementaristics.pedestal.desc=制造出闪电基座，并使用物品制造出源质
+advancement.elementaristics.concentrator.desc=制造出浓缩器，并通过两个物品之间的相互影响制造出新的物品
+advancement.elementaristics.purifier.desc=制造出一个“魔法洗碗器”
 advancement.elementaristics.chaos.desc=掌握混沌之力!
 advancement.elementaristics.forging.desc=Invoke the purest heat, the arcane one
 advancement.elementaristics.tunneler.desc=Build a Tunneler to accelerate item particles
-advancement.elementaristics.reactor.desc=Build a Reactor to let (al-)chemicals react
-advancement.elementaristics.basin.desc=Build an Infusion Basin to infuse items with essences
-advancement.elementaristics.energy.desc=Build a Channeling Tool
-advancement.elementaristics.binding.desc=Build a Heart of Stone
+advancement.elementaristics.reactor.desc=制造出反应器来进行化学（炼金）反应
+advancement.elementaristics.basin.desc=制造出注魔盆，并向物品中注入源质
+advancement.elementaristics.energy.desc=制造出引导工具
+advancement.elementaristics.binding.desc=制造出石之心
 advancement.elementaristics.glory.desc=Build a Splendorous Eye
-advancement.elementaristics.water_purest.desc=Craft Purest Water
+advancement.elementaristics.water_purest.desc=制作出至纯之水
 
 advancement.elementaristics.slime.desc=驯养一只原生质史莱姆
 #Advancements-Ascension-Descriptions
