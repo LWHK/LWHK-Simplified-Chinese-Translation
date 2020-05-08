@@ -48,8 +48,8 @@ death.attack.damage_psychic.player=%1$s 的心智因为 %2$s而崩溃了
 death.attack.damage_psychic.item=%1$s 的心智因为 %2$s 使用了 %3$s而崩溃了
 
 death.attack.damage_aether=%1$s 看到了他
-death.attack.damage_aether.player=因为 %2$s，%1$s 看到了他
-death.attack.damage_aether.item==因为 %2$s 使用了 %3$s，%1$s 看到了他
+death.attack.damage_aether.player=%1$s因为 %2$s而看到了他
+death.attack.damage_aether.item==因为 %2$s 使用了 %3$s，所以%1$s 看到了他
 
 
 #Spells
