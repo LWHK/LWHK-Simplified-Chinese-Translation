@@ -12,7 +12,7 @@ spell.arcane_essentials:cyclone_shield=飓风守护
 spell.arcane_essentials:cyclone_shield.desc=在你所站立的地方创造一场风暴气旋，气旋可以偏转弹射物并缓慢的对附近的敌人造成伤害
 
 spell.arcane_essentials:dragon_roar=龙吟
-spell.arcane_essentials:dragon_roar.desc=使附近的敌人感到恐惧, 使他们陷入瘫痪！这个法术也会击落还飞在空中的弹射物.
+spell.arcane_essentials:dragon_roar.desc=使附近的敌人感到恐惧, 并陷入瘫痪之中！这个法术也会击落还飞在空中的弹射物。
 
 spell.arcane_essentials:fire_pledge=火之誓约
 spell.arcane_essentials:fire_pledge.desc=焚毁一切！在你面前召唤出一列间歇的火焰柱。
@@ -140,7 +140,7 @@ item.arcane_essentials:apprentice_lightning_sword.name=学徒闪电剑
 item.arcane_essentials:advanced_lightning_sword.name=『进阶』雷光之刃
 item.arcane_essentials:master_lightning_sword.name=『大师』雷霆之怒，逐风者的祝福之剑
 
-item.arcane_essentials:master_sorcery_sword.name=『大师』奥术晨曦,世界之钻的碎片
+item.arcane_essentials:master_sorcery_sword.name=『大师』奥术晨曦，世界之钻的碎片
 
 item.arcane_essentials:master_nature_sword.name=『大师』盖亚之握
 
