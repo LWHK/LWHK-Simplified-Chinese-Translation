@@ -51,10 +51,10 @@ item.ebwizardry\:wizard_handbook.desc=by %1$s
 
 item.ebwizardry\:wand.generic=魔杖
 
-item.ebwizardry\:wand.buff=+%1$s %2$s 强度
+item.ebwizardry\:wand.buff=+%1$s %2$s 法术强度
 item.ebwizardry\:wand.spell=当前法术：%1$s
 item.ebwizardry\:wand.mana=魔力值：%1$s/%2$s
-item.ebwizardry\:wand.progression=魔杖进度：%1$s/%2$s
+item.ebwizardry\:wand.progression=魔杖升级进度：%1$s/%2$s
 
 item.ebwizardry\:wand.levelup=%1$s 已经准备好升至 %2$s 级
 
@@ -158,7 +158,7 @@ item.ebwizardry\:armour_upgrade.desc2=%1$s使它到达%2$s传奇级别
 item.ebwizardry\:magic_silk.name=魔法绸缎
 
 item.ebwizardry\:wizard_armour.legendary=传奇
-item.ebwizardry\:wizard_armour.buff=-%1$s %2$s 损耗
+item.ebwizardry\:wizard_armour.buff=-%1$s %2$s 法术魔力损耗
 item.ebwizardry\:wizard_armour.mana=魔力：%1$s/%2$s
 
 item.ebwizardry\:wizard_hat.name=巫师帽
@@ -179,7 +179,7 @@ item.ebwizardry\:wizard_boots_ice.name=冰霜巫师靴子
 item.ebwizardry\:wizard_hat_lightning.name=雷电巫师帽
 item.ebwizardry\:wizard_robe_lightning.name=雷电巫师长袍
 item.ebwizardry\:wizard_leggings_lightning.name=雷电巫师护腿
-item.ebwizardry\:wizard_boots_lightning.name=雷电靴子
+item.ebwizardry\:wizard_boots_lightning.name=雷电巫师靴子
 
 item.ebwizardry\:wizard_hat_necromancy.name=死灵巫师帽
 item.ebwizardry\:wizard_robe_necromancy.name=死灵巫师长袍
@@ -191,10 +191,10 @@ item.ebwizardry\:wizard_robe_earth.name=自然巫师长袍
 item.ebwizardry\:wizard_leggings_earth.name=自然巫师护腿
 item.ebwizardry\:wizard_boots_earth.name=自然巫师靴子
 
-item.ebwizardry\:wizard_hat_sorcery.name=秘术巫师帽
-item.ebwizardry\:wizard_robe_sorcery.name=秘术巫师长袍
-item.ebwizardry\:wizard_leggings_sorcery.name=秘术巫师护腿
-item.ebwizardry\:wizard_boots_sorcery.name=秘术巫师靴子
+item.ebwizardry\:wizard_hat_sorcery.name=秘法巫师帽
+item.ebwizardry\:wizard_robe_sorcery.name=秘法巫师长袍
+item.ebwizardry\:wizard_leggings_sorcery.name=秘法巫师护腿
+item.ebwizardry\:wizard_boots_sorcery.name=秘法巫师靴子
 
 item.ebwizardry\:wizard_hat_healing.name=治愈巫师帽
 item.ebwizardry\:wizard_robe_healing.name=治愈巫师长袍
@@ -843,7 +843,7 @@ spell.ebwizardry\:poison_bomb.desc=向你指向的方向发射一枚毒液弹，
 spell.ebwizardry\:possession.desc=“自相残杀吧。”
 spell.ebwizardry\:ray_of_purification.desc=射出一道强力且致命的光线，使目标失明。如果目标是亡灵生物，则会受到双倍伤害且被点燃。
 spell.ebwizardry\:remove_curse.desc=移除当前影响施法者的任何诅咒。
-spell.ebwizardry\:replenish_hunger.desc=补充施法者4点饥饿值。
+spell.ebwizardry\:replenish_hunger.desc=补充施法者3点饥饿值。
 spell.ebwizardry\:resurrection.desc=有一名治疗大师在你旁边时，死亡不再必然，而仅仅是一个选项。
 spell.ebwizardry\:reversal.desc=移除一个负面药水效果并对目标施加该效果，目标将经历该效果所剩余的持续时间。法术强度将影响转移的作用效果的数量。
 spell.ebwizardry\:ring_of_fire.desc=在施法者周围制造一个火环，对周围的敌人造成伤害并将其点燃。
