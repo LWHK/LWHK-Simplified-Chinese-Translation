@@ -498,12 +498,12 @@ advancement.ebwizardry\:enchant_scroll.desc=制作一个空白卷轴，并在奥
 
 handbook.toast.title=手札已解锁新内容！
 
-gui.ebwizardry\:spell_book.tier=Tier: %s
-gui.ebwizardry\:spell_book.element=Element: %s
-gui.ebwizardry\:spell_book.element_undiscovered=Element: ?
-gui.ebwizardry\:spell_book.mana_cost=Mana Cost: %s
-gui.ebwizardry\:spell_book.mana_cost_continuous=Mana Cost: %s/second
-gui.ebwizardry\:spell_book.mana_cost_undiscovered=Mana Cost: ?
+gui.ebwizardry\:spell_book.tier=等阶: %s
+gui.ebwizardry\:spell_book.element=元素: %s
+gui.ebwizardry\:spell_book.element_undiscovered=元素: ?
+gui.ebwizardry\:spell_book.mana_cost=魔力消耗: %s
+gui.ebwizardry\:spell_book.mana_cost_continuous=魔力消耗: %s/s
+gui.ebwizardry\:spell_book.mana_cost_undiscovered=魔力消耗: ?
 
 container.ebwizardry\:arcane_workbench=奥术工作台
 container.ebwizardry\:arcane_workbench.apply=应用
@@ -1234,10 +1234,10 @@ config.ebwizardry.use_shaders=使用自定义光影
 config.ebwizardry.use_shaders.tooltip=控制是否开启某些法术附加的特殊光影。它们会使用原版的光影系统，并不应该对游戏的性能有多少影响，但可能与其他光影发生冲突。
 config.ebwizardry.use_shaders.true=开启——我就是冲着光影来的！
 config.ebwizardry.use_shaders.false=关闭——我用土豆玩MC
-config.ebwizardry.screen_shake=Screen Shake
-config.ebwizardry.screen_shake.tooltip=Whether to use the screen shake effect for certain spells.
-config.ebwizardry.blink_effect=Blink Effect
-config.ebwizardry.blink_effect.tooltip=Whether to use the screen blink effect for teleportation spells.
+config.ebwizardry.screen_shake=屏幕抖动
+config.ebwizardry.screen_shake.tooltip=控制是否在释放特定法术时产生屏幕抖动效果。
+config.ebwizardry.blink_effect=闪烁效果
+config.ebwizardry.blink_effect.tooltip=控制是否在释放传送类法术时产生闪烁效果
 
 config.ebwizardry.category.commands=命令设置
 config.ebwizardry.category.commands.tooltip=本模组的指令设定
