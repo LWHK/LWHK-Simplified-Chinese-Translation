@@ -1,4 +1,3 @@
-
 #PARSE_ESCAPES
 tile.ebwizardry\:arcane_workbench.name=奥术工作台
 tile.ebwizardry\:crystal_ore.name=水晶矿石
@@ -498,6 +497,13 @@ advancement.ebwizardry\:enchant_scroll=魔法卷轴！
 advancement.ebwizardry\:enchant_scroll.desc=制作一个空白卷轴，并在奥术工作台上用法术书附魔
 
 handbook.toast.title=手札已解锁新内容！
+
+gui.ebwizardry\:spell_book.tier=Tier: %s
+gui.ebwizardry\:spell_book.element=Element: %s
+gui.ebwizardry\:spell_book.element_undiscovered=Element: ?
+gui.ebwizardry\:spell_book.mana_cost=Mana Cost: %s
+gui.ebwizardry\:spell_book.mana_cost_continuous=Mana Cost: %s/second
+gui.ebwizardry\:spell_book.mana_cost_undiscovered=Mana Cost: ?
 
 container.ebwizardry\:arcane_workbench=奥术工作台
 container.ebwizardry\:arcane_workbench.apply=应用
@@ -1228,6 +1234,10 @@ config.ebwizardry.use_shaders=使用自定义光影
 config.ebwizardry.use_shaders.tooltip=控制是否开启某些法术附加的特殊光影。它们会使用原版的光影系统，并不应该对游戏的性能有多少影响，但可能与其他光影发生冲突。
 config.ebwizardry.use_shaders.true=开启——我就是冲着光影来的！
 config.ebwizardry.use_shaders.false=关闭——我用土豆玩MC
+config.ebwizardry.screen_shake=Screen Shake
+config.ebwizardry.screen_shake.tooltip=Whether to use the screen shake effect for certain spells.
+config.ebwizardry.blink_effect=Blink Effect
+config.ebwizardry.blink_effect.tooltip=Whether to use the screen blink effect for teleportation spells.
 
 config.ebwizardry.category.commands=命令设置
 config.ebwizardry.category.commands.tooltip=本模组的指令设定
