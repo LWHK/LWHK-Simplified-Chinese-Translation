@@ -525,13 +525,13 @@ element.sorcery=秘法
 element.healing=治愈
 
 element.magic.wizard=巫师
-element.fire.wizard=舞焰师
-element.ice.wizard=纵霜师
-element.lightning.wizard=驯雷师
-element.necromancy.wizard=御冥师
-element.earth.wizard=地术师
-element.sorcery.wizard=秘术师
-element.healing.wizard=治疗师
+element.fire.wizard=火焰巫师
+element.ice.wizard=冰霜巫师
+element.lightning.wizard=雷电巫师
+element.necromancy.wizard=死灵巫师
+element.earth.wizard=自然巫师
+element.sorcery.wizard=秘法巫师
+element.healing.wizard=治愈巫师
 
 spelltype.attack=攻击
 spelltype.defence=防御
