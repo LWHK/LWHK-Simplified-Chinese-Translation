@@ -101,7 +101,7 @@ item.hwell.loot_guardian.name=守卫者战利品球
 
 item.hwell.mutation_paste.name=突变物质
 
-item.hwell.empty.name=Nothing
+item.hwell.empty.name=空
 
 tile.hwell.mutation_paste_block.name=突变物质块
 
@@ -127,7 +127,7 @@ tile.hwell.myst_leaves.name=神秘树树叶
 tile.hwell.myst_planks_slab.name=神秘木板台阶
 tile.hwell.myst_planks_stairs.name=神秘木楼梯
 
-tile.hwell.asul_machine_case.name=蓝机器框架
+tile.hwell.asul_machine_case.name=蓝合金机器框架
 
 tile.hwell.moonstone_slab.name=月光石台阶
 tile.hwell.moonstone_stairs.name=月光石楼梯
