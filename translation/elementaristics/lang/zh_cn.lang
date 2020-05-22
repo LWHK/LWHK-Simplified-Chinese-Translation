@@ -152,7 +152,7 @@ item.soul_dead.name=亡魂
 item.powder_soul.name=灵魂粉
 item.matter_astral_body.name=星体物质
 item.seed_dormant.name=休眠种子
-item.tincture_arcane.name=
+item.tincture_arcane.name=奥术鸦片
 
 item.thaumagral_iron.name=Iron Thaumagral
 item.thaumagral_gold.name=Golden Thaumagral
@@ -304,7 +304,7 @@ advancement.elementaristics.slime=微震，所有人！
 
 #Advancements-Ascension
 advancement.elementaristics.ascension_1=如此遥远, 只是空无
-advancement.elementaristics.ascension_2=内域之门外
+advancement.elementaristics.ascension_2=内域门扉外
 advancement.elementaristics.ascension_identification=知晓
 advancement.elementaristics.ascension_3=精神
 advancement.elementaristics.ascension_4=打破界限
@@ -649,7 +649,7 @@ tc.research_category.ELEMENTARISTICS=元素秘学
 research.BASEELEMENTARISTICS.title=元素秘学
 research.BASEELEMENTARISTICS.stage.1=正如我所认为的......这本书中的知识对我的元素秘学研究很有帮助，但我还需要了解魔法相关的知识。<BR>我需要另一本书来完成这一工作。
 
-research.ESSENCECREATION.title=Essence Creation
+research.ESSENCECREATION.title=源质创生
 research.ESSENCECREATION.stage.1=I sense potential support for the creation of elementaristic essences. However, I will need to invest some time in research.
 research.ESSENCECREATION.stage.2=My research was successful!<BR>I can now create essences with a template, a "Blank Essence". This template closely resembles the structure of elementaristic essences and has an affinity for simple reactions.<LINE><PAGE>In order to create a Blank Essence, I will need to obtain Quartz and Chaotic Matter, matter that was through some alchemical reactions. Blank Essences may be transformed into other essences, depending on how I manipulate them.
 
