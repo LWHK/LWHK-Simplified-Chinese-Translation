@@ -69,13 +69,13 @@
       "type": "spotlight",
       "title": "失稳灵魂",
       "item": "elementaristics:essence:13",
-      "text": "When the Silver Thread of a soul is damaged, the mind of the future inheritor is damaged, too. When this happens, an Unstable Soul is born.$(br)These souls have broken boundaries, which can have beneficial effects, but also harms $(t:This can also express as Warp)sanity$()."
+      "text": "当心智中的银白螺纹受到损伤后, 其后代的心智也会受这一损伤的影响。这就是失稳灵魂出现的原因。$(br)这种灵魂的边界是破损的, 这一破损会给其宿主带来增益, 但代价是牺牲自身的理智 $(t:有时这也会被叫做扭曲) $()."
     },
     {
       "type": "spotlight",
       "title": "永滞之魂",
       "item": "elementaristics:essence:7",
-      "text": "Some souls were born under more cruel circumstances than other souls. These souls can often only persist by acquiring a stronger Astral Body, which enhances their magic resistance.$(br)However, this comes at the cost of low magic affinity.$(br)These hardly changeable souls are called Immutable Souls."
+      "text": "有些灵魂在出生时所处的环境远比其它灵魂的环境要残酷。These souls can often only persist by acquiring a stronger Astral Body, which enhances their magic resistance.$(br)However, this comes at the cost of low magic affinity.$(br)These hardly changeable souls are called Immutable Souls."
     },
     {
       "type": "spotlight",
