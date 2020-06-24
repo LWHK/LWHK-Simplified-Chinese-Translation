@@ -344,7 +344,7 @@ advancement.elementaristics.ascension_8.desc=自虚返无!
 
 #Book
 item.elementaristics.book.name=自由:源质之书
-info.elementaristics.book.landing=“元素纪元”研究的是虚无的规律, 专注于探索未知的世界.$(br)由于普通人没有无限的知识，也没有永恒的记忆，所以这本书涵盖了后者 —— "书而永恒"。
+info.elementaristics.book.landing=“元素纪元”研究的是虚无的规律, 专注于探索未知的世界.$(br)由于普通人没有无限的知识，也没有永恒的记忆，所以这本书的出现是为了解决第二个问题 —— "书而永恒"。
 info.elementaristics.book.subtitle="天使知晓血"
 
 book.purifierTime=需要Ticks:
