@@ -12,7 +12,7 @@ spell.ancientspellcraft\:tameanimal.name=驯养动物
 spell.ancientspellcraft\:tameanimal.desc=“听从吾命。” 一名游息者说道, 而森林中的动物服从了他的指令。
 spell.ancientspellcraft\:tameanimal.desc.aw=TODO
 spell.ancientspellcraft\:extinguish=熄灭火焰
-spell.ancientspellcraft\:extinguish.name=E熄灭火焰
+spell.ancientspellcraft\:extinguish.name=熄灭火焰
 spell.ancientspellcraft\:extinguish.desc=熄灭周围方块以及实体所带有的火, 包括施术者。如果施术者身上着火，这个法术还会为其附加上一个暂时的火焰抗性效果。作用范围会受到法术范围升级的影响。
 spell.ancientspellcraft\:curse_of_ender=末影诅咒
 spell.ancientspellcraft\:curse_of_ender.name=末影诅咒
@@ -30,14 +30,14 @@ spell.ancientspellcraft\:drought=旱灾
 spell.ancientspellcraft\:drought.name=旱灾
 spell.ancientspellcraft\:drought.desc=枯萎皱缩,\n凋谢靡弱,\n生命垂朽,\n草木零落
 
-spell.ancientspellcraft\:will_o_wisp=Will o' Wisp
-spell.ancientspellcraft\:will_o_wisp.name=Will o' Wisp
-spell.ancientspellcraft\:will_o_wisp.desc=Ask of the spirits to seek and find,\nEnchant the tag to name and bind,\nWisp will show where thy desire be,\nFollow along and there it be!
-spell.ancientspellcraft\:will_o_wisp.invalid_biome_name_in_tag=Biome name in the Enchanted Name Tag is not a valid.
-spell.ancientspellcraft\:will_o_wisp.try_listbiomes=The /listbiomes command can be used to list all the valid biome names
-spell.ancientspellcraft\:will_o_wisp.no_name_tag=The Wisp needs an Enchanted Name Tag in the offhand first, named after a biome.
-spell.ancientspellcraft\:will_o_wisp.tag_has_no_name=The Enchanted Name Tag first needs to be named after a biome with an anvil.
-spell.ancientspellcraft\:will_o_wisp.sent_to_biome=The Wisp is going towards biome %s
+spell.ancientspellcraft\:will_o_wisp=鬼火
+spell.ancientspellcraft\:will_o_wisp.name=鬼火
+spell.ancientspellcraft\:will_o_wisp.desc=问灵寻秘土，\n命名牌相束。\nW鬼火示所愿，\n循迹秘自现！
+spell.ancientspellcraft\:will_o_wisp.invalid_biome_name_in_tag=附魔命名牌上的生物群系名称是无效的
+spell.ancientspellcraft\:will_o_wisp.try_listbiomes=可以使用 /listbiomes 指令来列举出所有有效的生物群系名称
+spell.ancientspellcraft\:will_o_wisp.no_name_tag=鬼火法术需要你在副手持有一个已经记录有生物群系名称的附魔命名牌
+spell.ancientspellcraft\:will_o_wisp.tag_has_no_name=附魔命名牌首先需要在铁砧上被命名为生物群系名称
+spell.ancientspellcraft\:will_o_wisp.sent_to_biome=鬼火正在前往生物群系： %s
 
 spell.ancientspellcraft\:natures_sprout=自然萌芽
 spell.ancientspellcraft\:natures_sprout.name=自然萌芽
@@ -48,19 +48,19 @@ potion.ancientspellcraft\:curse_of_ender=末影诅咒
 
 #artefacts
 item.ancientspellcraft\:magic_shield.name=破法者
-item.ancientspellcraft\:magic_shield.desc=This ancient crystal shield casts a protective ward to defend its wielder while blocking.
+item.ancientspellcraft\:magic_shield.desc=这一面古老的水晶盾牌会在你抵挡伤害时释放出保护屏障
 
 #items
 item.ancientspellcraft\:spectral_shield.name=幽影之盾
 item.ancientspellcraft\:ancient_spellcraft_spell_book.name=法术书
-item.ancientspellcraft\:enchanted_name_tag.name=附魔名称标签
-item.ancientspellcraft\:enchanted_name_tag.desc_empty=Can be used to locate biomes with the Will o' Wisp Spell. Needs infusing with Magic Crystals at the Arcane Workbench
-item.ancientspellcraft\:enchanted_name_tag.desc_filled=Can be used to locate biomes with the Will o' Wisp Spell. Rename it with an Anvil after a biome name
-item.ancientspellcraft\:enchanted_name_tag.right_click=Needs to be used in the offhand together with the Will o' Wisp spell to locate a biome.
+item.ancientspellcraft\:enchanted_name_tag.name=附魔命名牌
+item.ancientspellcraft\:enchanted_name_tag.desc_empty=与鬼火法术搭配使用，可用于寻找特定的生物群系。需要被放置在奥术工作台中使用魔法水晶对其充能。
+item.ancientspellcraft\:enchanted_name_tag.desc_filled=与鬼火法术搭配使用，可用于寻找特定的生物群系。需要使用铁砧将其命名为一个生物群系的名称。
+item.ancientspellcraft\:enchanted_name_tag.right_click=需要将其放置在副手位，再搭配鬼火法术，才能寻找到特定的生物群系
 
 commands.ancientspellcraft\:listbiomes.usage=/%1$s
 
 #config
 
-config.ancientspellcraft.loot_injection_locations=Loot Injection Locations
-config.ancientspellcraft.loot_injection_locations.tooltip=List of loot tables to inject Ancient Spellcraft loot (as specified in loot_tables/chests/dungeon_additions.json) into.
+config.ancientspellcraft.loot_injection_locations=战利品注入
+config.ancientspellcraft.loot_injection_locations.tooltip=古代咒法应该注入的战利品表列表 (譬如 loot_tables/chests/dungeon_additions.json) into.
