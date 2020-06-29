@@ -7,18 +7,18 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"随即, 在虚无之中, 萌发出一道思想。这是来自盲目痴愚之神的幽思, 或许这给予了祂不朽之身。这道思想具象化为了五条巨龙, 它们随即使祂陷入了永恒的沉眠, 并将形式赋予了祂的梦境。\"$()"
+      "text": "$(o)\"随即，在虚无之中，萌发出一道思想。这是来自盲目痴愚之神的幽思，或许这给予了祂不朽之身。这道思想具象化为了五条巨龙，它们随即使祂陷入了永恒的沉眠，并将形式赋予了祂的梦境。\"$()"
     },
     {
       "type": "spotlight",
       "title": "Dragons",
       "item": "elementaristics:symbol_dragon_fire",
-      "text": "The symbols for these are created with $(item)Scales$() of the primal aspects in the $(l:glory/entry_rite_glorious)Glorious Rite$(). They are created by tossing $(marked)Prismarine Shards$() together with $(t:Air, Earth, Fire, Water, or Aether Essence)the matching essence$() and an $(l:alchemy/entry_gem)Arcane Gem$(). Then, a $(l:shaping/entry_hammer)Hammer of Heat$() must be used on these items on the ground.",
+      "text": "The symbols for these are created with $(item)Scales$() of the primal aspects in the $(l:glory/entry_rite_glorious)Glorious Rite$(). They are created by tossing $(marked)Prismarine Shards$() together with $(t:Air，Earth，Fire，Water，or Aether Essence)the matching essence$() and an $(l:alchemy/entry_gem)Arcane Gem$(). Then，a $(l:shaping/entry_hammer)Hammer of Heat$() must be used on these items on the ground.",
       "link_recipe": true
     },
     {
       "type": "text",
-      "text": "All dragons can provide aspects to an altar, and will buff matching elemental souls and dragon souls.$(br)That means that, as example, a Symbol of the Fire Dragon will buff a Fire Soul. The soul will be buffed by applying a speed, strength, resistance, and magan regeneration buff. It should be noted that Aether Dragons will buff $(marked)Ancient Souls$()."
+      "text": "All dragons can provide aspects to an altar，and will buff matching elemental souls and dragon souls.$(br)That means that，as example，a Symbol of the Fire Dragon will buff a Fire Soul. The soul will be buffed by applying a speed，strength，resistance，and magan regeneration buff. It should be noted that Aether Dragons will buff $(marked)Ancient Souls$()."
     }
   ]
 }

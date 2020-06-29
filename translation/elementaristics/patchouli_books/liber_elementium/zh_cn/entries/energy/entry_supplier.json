@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Supplying Manipulator$() will allow $(l:glory/entry_gods)Deity Symbols and Shrines$() to supply an effect to a Nexus at any given time, instead of just doing this during their hour. However, this will also increase energy consumption."
+      "text": "The $(item)Supplying Manipulator$() will allow $(l:glory/entry_gods)Deity Symbols and Shrines$() to supply an effect to a Nexus at any given time，instead of just doing this during their hour. However，this will also increase energy consumption."
     },
     {
       "type": "crafting",

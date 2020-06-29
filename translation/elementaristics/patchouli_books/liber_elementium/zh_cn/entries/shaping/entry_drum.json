@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Empty Tympanum$() is a Rite Tool of $(marked)Emptiness$(), and may also be used for music! In order to shift its pitch, it must be used when sneaking."
+      "text": "The $(item)Empty Tympanum$() is a Rite Tool of $(marked)Emptiness$()，and may also be used for music! In order to shift its pitch，it must be used when sneaking."
     },
     {
       "type": "crafting",

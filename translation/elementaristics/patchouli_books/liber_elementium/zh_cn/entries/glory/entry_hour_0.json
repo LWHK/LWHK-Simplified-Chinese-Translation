@@ -1,5 +1,5 @@
 {
-  "name": "Hour 0",
+  "name": "辰时 0",
   "icon": "elementaristics:symbol_nothingness",
   "category": "glory",
   "advancement": "elementaristics:progress_glory",
@@ -7,13 +7,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"The God from-and-to-Nothingness is both the first and the last hour of the day, the hour 0 or 24. He was born out of Nowhere, and this is exactly where he returns [returned?].\"$()"
+      "text": "$(o)\"自虚返无之神既是一天的开始也是一天的终结，也就是辰时 0 or 24。祂自无名无状之地初诞，亦于此地归无[又或者祂已然回归？]。\"$()"
     },
     {
       "type": "spotlight",
-      "title": "Symbol",
+      "title": "象征",
       "item": "elementaristics:symbol_nothingness",
-      "text": "This symbol is created with the $(l:alchemy/entry_flesh_lamb)Flesh of the Lamb$() in the $(l:glory/entry_rite_glorious)Glorious Rite$().",
+      "text": "这一象征的制作需要将 $(l:alchemy/entry_flesh_lamb)羔羊之肉$()放入到$(l:glory/entry_rite_glorious)神耀仪式$()中。",
       "link_recipe": true
     }
   ]

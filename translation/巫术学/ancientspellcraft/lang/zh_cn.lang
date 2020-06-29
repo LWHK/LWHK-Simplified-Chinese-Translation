@@ -48,7 +48,7 @@ potion.ancientspellcraft\:curse_of_ender=末影诅咒
 
 #artefacts
 item.ancientspellcraft\:magic_shield.name=破法者
-item.ancientspellcraft\:magic_shield.desc=这一面古老的水晶盾牌会在你抵挡伤害时释放出保护屏障
+item.ancientspellcraft\:magic_shield.desc=这一面古老的水晶盾牌会在你抵挡伤害时释放出保护屏障。
 
 #items
 item.ancientspellcraft\:spectral_shield.name=幽影之盾

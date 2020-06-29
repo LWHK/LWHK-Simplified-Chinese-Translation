@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(marked)Dormant Seeds$() are an essential component for most works on Vis Vitalis, as these are seeds with technically infinite potential.$(br)They can literally become anything, given the right influences and knowledge."
+      "text": "$(marked)Dormant Seeds$() are an essential component for most works on Vis Vitalis，as these are seeds with technically infinite potential.$(br)They can literally become anything，given the right influences and knowledge."
     },
     {
       "type": "crafting",
