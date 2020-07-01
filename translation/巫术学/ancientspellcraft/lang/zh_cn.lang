@@ -26,12 +26,12 @@ spell.ancientspellcraft\:conjure_shield=召唤护盾
 spell.ancientspellcraft\:conjure_shield.name=召唤护盾
 spell.ancientspellcraft\:conjure_shield.desc=召唤出一道幽影之盾来阻挡物理攻击。这一盾牌最长存在时间为60秒。
 
-spell.ancientspellcraft\:drought=旱灾
-spell.ancientspellcraft\:drought.name=旱灾
+spell.ancientspellcraft\:drought=天降大旱
+spell.ancientspellcraft\:drought.name=天降大旱
 spell.ancientspellcraft\:drought.desc=枯萎皱缩,\n凋谢靡弱,\n生命垂朽,\n草木零落
 
-spell.ancientspellcraft\:will_o_wisp=鬼火
-spell.ancientspellcraft\:will_o_wisp.name=鬼火
+spell.ancientspellcraft\:will_o_wisp=鬼火问道
+spell.ancientspellcraft\:will_o_wisp.name=鬼火问道
 spell.ancientspellcraft\:will_o_wisp.desc=问灵寻秘土，\n命名牌相束。\nW鬼火示所愿，\n循迹秘自现！
 spell.ancientspellcraft\:will_o_wisp.invalid_biome_name_in_tag=附魔命名牌上的生物群系名称是无效的
 spell.ancientspellcraft\:will_o_wisp.try_listbiomes=可以使用 /listbiomes 指令来列举出所有有效的生物群系名称
@@ -63,4 +63,4 @@ commands.ancientspellcraft\:listbiomes.usage=/%1$s
 #config
 
 config.ancientspellcraft.loot_injection_locations=战利品注入
-config.ancientspellcraft.loot_injection_locations.tooltip=古代咒法应该注入的战利品表列表 (譬如 loot_tables/chests/dungeon_additions.json) into.
+config.ancientspellcraft.loot_injection_locations.tooltip=古代咒法的战利品应该注入的战利品表列表 (譬如 loot_tables/chests/dungeon_additions.json)
