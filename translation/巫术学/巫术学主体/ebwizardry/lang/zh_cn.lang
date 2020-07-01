@@ -515,7 +515,7 @@ tier.apprentice=学徒
 tier.advanced=进阶
 tier.master=大师
 
-element.magic=无属性
+element.magic=戏法
 element.fire=火焰
 element.ice=冰霜
 element.lightning=雷电
@@ -855,7 +855,7 @@ spell.ebwizardry\:shulker_bullet.desc=射出一发自动追踪且会让目标漂
 spell.ebwizardry\:silverfish_swarm.desc=“啊啊啊！他们在使用人海战术！”
 spell.ebwizardry\:sixth_sense.desc=使施法者能够感知到附近的生物的位置，即使有墙壁阻隔，持续20秒。
 spell.ebwizardry\:slime.desc=命令史莱姆裹住目标，使其移速减缓并持续受伤。史莱姆会在十秒后消失。
-spell.ebwizardry\:slow_time.desc=操纵时间的秘术曾被认为已然流失在时间的长河里……直至今日。
+spell.ebwizardry\:slow_time.desc=操纵时间的秘术曾被认为已然遗失在时间的长河里……直至今日。
 spell.ebwizardry\:smoke_bomb.desc=在你指向的方向发射一个烟雾弹，能够在短时间内释放出烟雾并且使附近的生物致盲。
 spell.ebwizardry\:snare.desc=在地面放置一个陷阱，触发陷阱的生物会受到伤害并造成短暂的减速效果。
 spell.ebwizardry\:snowball.desc=向所指的方向方向丢雪球。
@@ -962,7 +962,7 @@ forfeit.ebwizardry\:flood=水涌了出来！
 forfeit.ebwizardry\:bury_self=地面在你身下坍塌！
 
 forfeit.ebwizardry\:spill_inventory=你的物品四下纷飞！
-forfeit.ebwizardry\:teleport_self=你被瞬间传送到了哪里！
+forfeit.ebwizardry\:teleport_self=你被瞬间传送到了未知之处！
 forfeit.ebwizardry\:levitate_self=你开始无助地向上漂浮！
 forfeit.ebwizardry\:vex_horde=一大堆恼鬼出现在你身边！
 forfeit.ebwizardry\:black_hole=旋转的漩涡出现在你面前！
