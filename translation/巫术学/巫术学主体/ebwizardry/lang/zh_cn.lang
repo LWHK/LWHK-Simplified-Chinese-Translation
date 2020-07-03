@@ -927,8 +927,8 @@ forfeit.ebwizardry\:do_nothing=什么也没有发生。
 forfeit.ebwizardry\:burn_self=%s在你的手中迸发出火焰！
 forfeit.ebwizardry\:fireball=一个火球出现在你的前面！
 forfeit.ebwizardry\:firebomb=燃烧弹出现在你的上方！
-forfeit.ebwizardry\:explode=突如其来的爆炸将你撞倒在地！
-forfeit.ebwizardry\:blazes=突然，敌对的烈焰人你周身显现！
+forfeit.ebwizardry\:explode=突如其来的爆炸将你掀翻在地！
+forfeit.ebwizardry\:blazes=突然，敌对的烈焰人在你周身显现！
 forfeit.ebwizardry\:burn_surroundings=你周围的区域被点燃了！
 forfeit.ebwizardry\:meteors=毁灭世界的烈焰从天而降！
 
@@ -940,7 +940,7 @@ forfeit.ebwizardry\:ice_wraiths=忽然，你的周围出现了充满敌意的冰
 forfeit.ebwizardry\:hailstorm=冰雹像雨点一样砸在你身上！
 forfeit.ebwizardry\:ice_giant=一个充满敌意的冰霜巨人出现在你面前！
 
-forfeit.ebwizardry\:thunder=卷轴发出震耳欲聋的声音，将你撞倒在地！
+forfeit.ebwizardry\:thunder=卷轴发出震耳欲聋的声音，将你震倒！
 forfeit.ebwizardry\:storm=看起来风暴正在酝酿之中！
 forfeit.ebwizardry\:lightning_sigils=注意你的脚下！
 forfeit.ebwizardry\:lightning=你被闪电击中了！
