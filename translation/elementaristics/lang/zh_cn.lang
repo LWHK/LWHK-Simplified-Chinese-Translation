@@ -169,7 +169,7 @@ item.gunpowder_energized.name=充能火药
 item.phial_nectar.name=神酒瓶
 item.water_clear.name=澄澈之水
 item.heart_human.name=人心
-item.splendor_eye.name=Splendorous Eye
+item.splendor_eye.name=光耀之眼
 
 item.reflection_sun.name=Reflection of the Sun
 item.item_lock.name=Closed Lock
@@ -247,10 +247,10 @@ tile.generator_combustion.name=神秘燃烧产能室
 tile.storage_energy.name=神秘能量核心
 
 #Blocks-Redstone
-tile.block_transmitter_redstone.name=Redstone Transmitter
+tile.block_transmitter_redstone.name=红石信号传送器
 tile.block_emulator_redstone.name=红石模拟器
-tile.manipulator_supplying.name=Supplying Manipulator
-tile.manipulator_passive.name=Passivity Manipulator
+tile.manipulator_supplying.name=供给激发器
+tile.manipulator_passive.name=被动激发器
 
 #Blocks-Deity Symbols
 tile.symbol_nothingness.name=Symbol from-and-to Nothingness
