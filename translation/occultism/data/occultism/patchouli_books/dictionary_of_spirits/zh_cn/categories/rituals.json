@@ -1,6 +1,6 @@
 {
   "name": "仪式",
-  "description": "本章节总览了mod中的所有仪式以及仪式要求。Click the icons below for categories of rituals, or look to the right for general information.",
+  "description": "本章节总览了mod中的所有仪式以及仪式要求。你可以点击各分类中的对应仪式按钮，或者在本章节中的右侧查询仪式的基本信息。",
   "icon": "occultism:textures/gui/book/robe.png",
   "sortnum": 4
 }
