@@ -13,7 +13,7 @@
       "type": "spotlight",
       "title": "Symbol",
       "item": "elementaristics:symbol_witch",
-      "text": "This symbol is created with $(item)an Enchanted Book$() in the $(l:glory/entry_rite_glorious)Glorious Rite$().$(br)The symbol can be linked to an altar，and will supply the $(marked)Magan$() aspect. It can also work as a boost for enchanting tables，and will greatly increase Magan regen，and will decrease Magan stunting times.",
+      "text": "This symbol is created with $(item)an Enchanted Book$() in the $(l:glory/entry_rite_glorious)Glorious Rite$().$(br)The symbol can be linked to an altar，and will supply the $(marked)Magan$() aspect。It can also work as a boost for enchanting tables，and will greatly increase Magan regen，and will decrease Magan stunting times.",
       "link_recipe": true
     }
   ]

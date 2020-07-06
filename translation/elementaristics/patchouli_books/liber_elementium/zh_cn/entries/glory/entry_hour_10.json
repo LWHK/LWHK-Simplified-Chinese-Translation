@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"The first spirits departed，and then The Storm was formed，the first spirits to become a god. $(br)They're angry，yes，but for how long? Nobody knows，and nobody can expect them. $(br)They might bring rain.\"$()"
+      "text": "$(o)\"The first spirits departed，and then The Storm was formed，the first spirits to become a god。$(br)They're angry，yes，but for how long? Nobody knows，and nobody can expect them。$(br)They might bring rain.\"$()"
     },
     {
       "type": "spotlight",

@@ -11,7 +11,7 @@
       "type": "spotlight",
       "item": "elementaristics:moss_everchanging",
       "link_recipe": true,
-      "text": "Everchanging Moss is created with rather bloody means.$(br)In order to create it，one must slay a living being with a $(l:shaping/entry_dagger)Sacrificial Dagger$() on a patch of $(l:vitalis/entry_moss)Moss$(). $(br)This will taint the patch in blood and imbue it with the soul of the victim.$(br)The moss can simply be harvested to yield results."
+      "text": "Everchanging Moss is created with rather bloody means.$(br)In order to create it，one must slay a living being with a $(l:shaping/entry_dagger)Sacrificial Dagger$() on a patch of $(l:vitalis/entry_moss)Moss$()。$(br)This will taint the patch in blood and imbue it with the soul of the victim.$(br)The moss can simply be harvested to yield results."
     }
   ],
   "advancement": "elementaristics:progress_ascension_2"

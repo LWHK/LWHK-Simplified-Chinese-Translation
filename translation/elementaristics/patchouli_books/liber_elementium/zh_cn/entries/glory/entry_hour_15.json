@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"You hear her? In the Wood，the Goat awaits. The Wood was born out of the Goat，who bred it，with all love and devotion such a god can muster，so basically none. In the Wood，you may find the letter of a loved one，or a feast set up ready... or you might find a dead Lamb.\"$()"
+      "text": "$(o)\"You hear her? In the Wood，the Goat awaits。The Wood was born out of the Goat，who bred it，with all love and devotion such a god can muster，so basically none。In the Wood，you may find the letter of a loved one，or a feast set up ready..。or you might find a dead Lamb.\"$()"
     },
     {
       "type": "spotlight",

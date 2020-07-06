@@ -12,7 +12,7 @@
     },
     {
       "type": "text",
-      "text": "In order to create the Tacituryllis a $(l:vitalis/entry_seed)Dormant Seed$() must be swallowed under the emotion of $(marked)silence$() while in the $(marked)Overworld$()，at least at height 120 and at night，with no entities nearby.$(br2)$(o)Total silence. Perfect.$()"
+      "text": "In order to create the Tacituryllis a $(l:vitalis/entry_seed)Dormant Seed$() must be swallowed under the emotion of $(marked)silence$() while in the $(marked)Overworld$()，at least at height 120 and at night，with no entities nearby.$(br2)$(o)Total silence。Perfect.$()"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Runed Stones$() are an essential component in the creation of $(marked)symbols$(). To craft them，the Forging Rite must be performed."
+      "text": "$(item)Runed Stones$() are an essential component in the creation of $(marked)symbols$()。To craft them，the Forging Rite must be performed."
     },
     {
       "type": "elementaristics:forging_recipe",

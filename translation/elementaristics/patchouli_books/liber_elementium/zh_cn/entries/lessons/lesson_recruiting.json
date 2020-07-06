@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "信徒也会在遭受攻击后尝试自我防卫。$(br)Each Cultist will have an Aspect assigned，depending on the Rite Tool that was offered. A Cultist has a Magan pool of 80 Units，which will be drained during rites. A Cultist's stats can be viewed with a $(item)Mirror of the Soul$(). Whenever the Cultist's owner is starting a rite near the Cultist，the Cultist will also position themselves near the Nexus."
+      "text": "信徒也会在遭受攻击后尝试自我防卫。$(br)Each Cultist will have an Aspect assigned，depending on the Rite Tool that was offered。A Cultist has a Magan pool of 80 Units，which will be drained during rites。A Cultist's stats can be viewed with a $(item)Mirror of the Soul$()。Whenever the Cultist's owner is starting a rite near the Cultist，the Cultist will also position themselves near the Nexus."
     }
   ],
   "advancement": "elementaristics:progress_forging"

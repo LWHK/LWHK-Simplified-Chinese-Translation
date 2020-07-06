@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"The Mirror is sometimes called the Second Gate，for it separates the Mind and Beyond. It reflects the Sun，always，and was woven by the Thread，be it only to escape the Dragons' rage and entertain them with the lights of magic.\"$()"
+      "text": "$(o)\"The Mirror is sometimes called the Second Gate，for it separates the Mind and Beyond。It reflects the Sun，always，and was woven by the Thread，be it only to escape the Dragons' rage and entertain them with the lights of magic.\"$()"
     },
     {
       "type": "spotlight",
@@ -19,7 +19,7 @@
     {
       "type": "spotlight",
       "item": "elementaristics:reflection_sun",
-      "text": "To reflect the sun，the occultist will need a $(l:shaping/entry_mirror)Mirror of the Soul$() to be held towards the sun，while holding an $(l:alchemy/entry_gem)Arcane Gem$() in the off-hand. The pseudo-emotion of laughter will need to be present，too.",
+      "text": "To reflect the sun，the occultist will need a $(l:shaping/entry_mirror)Mirror of the Soul$() to be held towards the sun，while holding an $(l:alchemy/entry_gem)Arcane Gem$() in the off-hand。The pseudo-emotion of laughter will need to be present，too.",
       "link_recipe": true
     }
   ]
