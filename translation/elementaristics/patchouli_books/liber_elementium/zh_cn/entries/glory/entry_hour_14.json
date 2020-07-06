@@ -7,13 +7,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"She rose out of suffering. This queen did not rise, but another king did, and this king is watching a dancer in a mirror woven out of a single thread. This queen awaits, still unsated, for a king to fall. She is always hungry.\"$()"
+      "text": "$(o)\"She rose out of suffering. This queen did not rise，but another king did，and this king is watching a dancer in a mirror woven out of a single thread. This queen awaits，still unsated，for a king to fall. She is always hungry.\"$()"
     },
     {
       "type": "spotlight",
       "title": "Symbol",
       "item": "elementaristics:symbol_queen",
-      "text": "This symbol is created with a $(item)Rabbit's Foot$() in the $(l:glory/entry_rite_glorious)Glorious Rite$().$(br)When active, this deity will gnaw on $(t:The hunger bar of the players)the energy of all players$() nearby, converting it to Occult Energy.",
+      "text": "This symbol is created with a $(item)Rabbit's Foot$() in the $(l:glory/entry_rite_glorious)Glorious Rite$().$(br)When active，this deity will gnaw on $(t:The hunger bar of the players)the energy of all players$() nearby，converting it to Occult Energy.",
       "link_recipe": true
     }
   ]

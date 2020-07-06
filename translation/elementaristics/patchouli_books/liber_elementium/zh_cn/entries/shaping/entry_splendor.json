@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Splendorous Eye$() is an essential tool to interact with glorious entities.$(br)Besides that, it is also a $(marked)Rite Tool$() of Light."
+      "text": "The $(item)Splendorous Eye$() is an essential tool to interact with glorious entities.$(br)Besides that，it is also a $(marked)Rite Tool$() of Light."
     },
     {
       "type": "elementaristics:forging_recipe",

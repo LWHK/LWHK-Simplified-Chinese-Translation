@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Rite of $(marked)the Feast on the Soul$() is a rite invoking the aspect of bodies and the aspect of life.$(br)It can be performed by a single person, and will fill hunger and grant saturation upon completion."
+      "text": "The Rite of $(marked)the Feast on the Soul$() is a rite invoking the aspect of bodies and the aspect of life.$(br)It can be performed by a single person，and will fill hunger and grant saturation upon completion."
     },
     {
       "type": "tunneler_recipe",

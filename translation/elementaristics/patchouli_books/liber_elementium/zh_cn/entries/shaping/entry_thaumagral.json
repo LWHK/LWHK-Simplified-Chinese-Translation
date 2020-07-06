@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Thaumagrals$() are like wands, basically. $(br)Very sharp and metallic wands. Be careful with that toy. $(br)"
+      "text": "$(item)Thaumagrals$() are like wands，basically. $(br)Very sharp and metallic wands. Be careful with that toy. $(br)"
     },
     {
       "type": "elementaristics:forging_recipe",

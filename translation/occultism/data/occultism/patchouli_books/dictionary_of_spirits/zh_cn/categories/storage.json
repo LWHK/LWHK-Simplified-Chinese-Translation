@@ -1,0 +1,6 @@
+{
+  "name": "维度储存",
+  "description": "维度储存可以让你储存大量的物品，并且可以远程操控这些物品。此外，灵魂助手（spirit helpers）可以传输这些物品，甚至还可以帮助你自动地合成你想要的东西。",
+  "icon": "occultism:storage_controller_base",
+  "sortnum": 5
+}

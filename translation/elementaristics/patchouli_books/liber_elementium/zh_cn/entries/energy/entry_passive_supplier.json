@@ -1,12 +1,12 @@
 {
-  "name": "Passivity Manipulator",
+  "name": "被动激发器",
   "icon": "elementaristics:manipulator_passive",
   "category": "energy",
   "advancement": "elementaristics:progress_energy",
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Passivity Manipulator$() will allow $(l:glory/entry_gods)Deity Symbols and Shrines$() apply their passive effect at all times. This doesn't directly come at any cost; however, it does mean that no other manipulators, like $(l:energy/entry_supplier)Supplying Manipulators$() can be placed."
+      "text": "$(item)被动激发器$()可以使得$(l:glory/entry_gods)神之印记以及圣祠$()始终激发它们对应的正面效果。这一过程一般不会没什么消耗; 然而，一旦放置了这一激发器，就无法放置其它激发器了，譬如 $(l:energy/entry_supplier)供给操控器$()。"
     },
     {
       "type": "crafting",

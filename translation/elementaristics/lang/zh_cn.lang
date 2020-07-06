@@ -27,11 +27,11 @@ elementaristics.potion.fear=恐惧
 elementaristics.potion.laughter=大笑
 elementaristics.potion.silence=寂静
 
-elementaristics.potion.health_share=Shared Health
+elementaristics.potion.health_share=生命共享
 
-elementaristics.potion.potential=Potential
+elementaristics.potion.potential=潜在
 
-elementaristics.potion.fatherblessing=A Father's Blessing
+elementaristics.potion.fatherblessing=父之赐福
 
 elementaristics.potion.gaseous=气体形态
 elementaristics.potion.crystal_protection=水晶护盾
@@ -80,7 +80,7 @@ item.elder_root.name=古老根茎
 item.quartz_vibrant.name=闪耀石英
 item.matter_chaotic.name=混沌物质
 item.matter_maganized.name=源力物质
-item.module_matter_accelerating.name=Acceleration Module
+item.module_matter_accelerating.name=加速模块
 item.cluster_aether.name=未加工的 以太源质簇
 item.cluster_air.name=未加工的 大气源质簇
 item.cluster_earth.name=未加工的 大地源质簇
@@ -111,23 +111,23 @@ item.incantation_chaos.name=混乱符咒
 item.incantation_light.name=光之符咒
 item.incantation_feast.name=饥饿符咒
 item.incantation_forging.name=锻造符咒
-item.incantation_recruiting.name=Incantation of Recruitment
+item.incantation_recruiting.name=征召符咒
 item.incantation_conflagration.name=Conflagrating Incantation
-item.incantation_wind.name=Incantation of Wind
+item.incantation_wind.name=风之符咒
 item.incantation_gaia.name=盖亚符咒
 item.incantation_stars.name=星之符咒
 item.incantation_depths.name=深渊符咒
-item.incantation_compression.name=Incantation of Compression
-item.incantation_day.name=Incantation of the Sun
-item.incantation_night.name=Incantation of the Moon
-item.incantation_weather.name=Incantation of the Sky
-item.incantation_binding.name=Binding Incantation
-item.incantation_unbinding.name=Unbinding Incantation
-item.incantation_health_share.name=Sharing Incantation
-item.incantation_reforging.name=Incantation of Reforging
+item.incantation_compression.name=压缩符咒
+item.incantation_day.name=曜日符咒
+item.incantation_night.name=澄月符咒
+item.incantation_weather.name=碧空符咒
+item.incantation_binding.name=绑定符咒
+item.incantation_unbinding.name=解绑符咒
+item.incantation_health_share.name=共享符咒
+item.incantation_reforging.name=重铸符咒
 item.incantation_glorious.name=Glorious Incantation
 item.incantation_emptiness.name=Hollow Incantation
-item.incantation_pact.name=Occult Contract
+item.incantation_pact.name=神秘契约
 
 item.nexus_dimensional.name=维度联结器
 item.badge_cult.name=Cult Badge
@@ -139,9 +139,9 @@ item.earth_purest.name=精粹土壤
 item.motion_captured.name=运动剪影
 item.stardust.name=星尘
 item.sparks_brightest.name=极明火花
-item.wine_redmost.name=Redmost Wine
-item.thoughts_battling.name=Battling Thoughts
-item.vacuum_selfsustaining.name=Self-sustaining Vacuum
+item.wine_redmost.name=殷红之酒
+item.thoughts_battling.name=战斗冲动
+item.vacuum_selfsustaining.name=自在虚空
 item.lightning_tangible.name=Tangible Lightning
 item.moss_everchanging.name=Everchanging Moss
 item.gem_arcane.name=神秘宝石
@@ -167,17 +167,16 @@ item.key_winged.name=Winged Key
 item.gunpowder_energized.name=充能火药
 
 item.phial_nectar.name=神酒瓶
-item.water_clear.name=Clear Water
-item.heart_human.name=Human Heart
-item.splendor_eye.name=Splendorous Eye
+item.water_clear.name=澄澈之水
+item.heart_human.name=人心
+item.splendor_eye.name=光耀之眼
 
 item.reflection_sun.name=Reflection of the Sun
 item.item_lock.name=Closed Lock
 item.fragment_mother.name=Fragment of the Mother
 
-item.poison_glassblood.name=Glassblood Toxin
-tooltip.poison_glassblood.name=A strong poison that drains magic, too
-
+item.poison_glassblood.name=璃血之毒
+tooltip.poison_glassblood.name=又一种能够榨干你的魔力的毒药
 item.poison_wintersbreath.name=寒冬吐息
 tooltip.poison_wintersbreath.name=首先袭来的是来自寒冬的吐息, 紧随其后的是无比的饥饿
 
@@ -248,10 +247,10 @@ tile.generator_combustion.name=神秘燃烧产能室
 tile.storage_energy.name=神秘能量核心
 
 #Blocks-Redstone
-tile.block_transmitter_redstone.name=Redstone Transmitter
+tile.block_transmitter_redstone.name=红石信号传送器
 tile.block_emulator_redstone.name=红石模拟器
-tile.manipulator_supplying.name=Supplying Manipulator
-tile.manipulator_passive.name=Passivity Manipulator
+tile.manipulator_supplying.name=供给激发器
+tile.manipulator_passive.name=被动激发器
 
 #Blocks-Deity Symbols
 tile.symbol_nothingness.name=Symbol from-and-to Nothingness
@@ -316,7 +315,7 @@ advancement.elementaristics.ascension_8=虚无
 #Advancements-Descriptions
 advancement.elementaristics.book.desc=手持一本书，在夜色下焚烧一束草药
 
-advancement.elementaristics.pedestal.desc=制造出闪电基座，并使用物品制造出源质
+advancement.elementaristics.pedestal.desc=制造出基座，并使用物品制造出源质
 advancement.elementaristics.concentrator.desc=制造出浓缩器，并通过两个物品之间的相互影响制造出新的物品
 advancement.elementaristics.purifier.desc=制造出一个“魔法洗碗器”
 advancement.elementaristics.chaos.desc=掌握混沌之力!
@@ -344,7 +343,7 @@ advancement.elementaristics.ascension_8.desc=自虚返无!
 
 #Book
 item.elementaristics.book.name=自由:源质之书
-info.elementaristics.book.landing=“元素纪元”研究的是虚无的规律, 专注于探索未知的世界.$(br)由于普通人没有无限的知识，也没有永恒的记忆，所以这本书涵盖了后者 —— "书而永恒"。
+info.elementaristics.book.landing=“元素纪元”研究的是虚无的规律, 专注于探索未知的世界.$(br)由于普通人没有无限的知识，也没有永恒的记忆，所以这本书的出现是为了解决第二个问题 —— "书而永恒"。
 info.elementaristics.book.subtitle="天使知晓血"
 
 book.purifierTime=需要Ticks:
@@ -364,7 +363,7 @@ tooltip.wine_redmost.name=你知道在你喝了这个以后，你会做出什么
 tooltip.flesh_lamb.name=狼本就吃羊
 tooltip.protoplasm_sample.smell=闻起来像
 
-tooltip.golden_thread.aspect=Bound Aspect:
+tooltip.golden_thread.aspect=绑定源质种类:
 
 tooltip.charge=Current Power:
 tooltip.magan=Current Magan:
@@ -477,7 +476,7 @@ message.vision.2=§6“当魔法创生, 祂之表面就此失去”
 message.vision.3=§6“痛苦至今犹存”
 message.vision.4=§6“你可知那个传说？”
 
-message.drugs=这药效可比我想象中的要强得多... 我或许会看到那些不存在的东西。
+message.drugs=这药可比我想象中的带劲多了... 那是幻觉吗？
 
 message.cultist.sit=信徒会在此待命
 message.cultist.follow=信徒会跟随着你
@@ -492,7 +491,7 @@ message.protoplasm.task_need_inventory=该方块必须带有储存栏
 
 message.cultist_stats.name=查看信徒的状态：
 message.cultist_aspect.name=信徒持有的要素：
-message.cultist_magan.name=Current Magan:
+message.cultist_magan.name=现有源力:
 
 message.soul_creative.name=你当前的灵魂为
 message.soul_switch_creative.name=你的灵魂种类切换为
@@ -505,8 +504,8 @@ message.regen_per_tick.name=你的每tick源力恢复率为
 message.ascension_stage.name=你的升华阶段为:
 message.cultist_count.name=你的信徒数量为:
 
-message.rite_fail_cultists.name=There's too many artificial souls here
-message.call_cultist_error.name=There must be more space for the cultists to appear
+message.rite_fail_cultists.name=这里有太多人工制造出的灵魂了
+message.call_cultist_error.name=信徒的出现需要更大的空间
 
 message.no_cultists_secured.name=在没有任何效忠于你的信徒的情况下去造访“精神”，这可不是什么好主意
 message.interact_silver_thread.error_fight=这片区域内已经存在有了银白螺纹
@@ -562,11 +561,11 @@ message.know_soul_fire=§6我的灵魂像火焰一样发出怒吼......我将永
 message.know_soul_water=§6水之静流，水之感受......水轻触到了我的灵魂。
 message.know_soul_air=§6大气涌动，我亦随之而流......如此和谐。
 message.know_soul_earth=§6心脏跳动，世界移转......而我居于一切的中心。
-message.know_soul_magan=§6The fabric was stitched and so was I... and I am a masterpiece.
+message.know_soul_magan=§6魔力交织盘旋，我亦如此... 我为其中之杰作。
 message.know_soul_balanced=§6我即是我本身......虽然不是真正的我，但又比谎言更加真实。
 message.know_soul_immutable=§6我曾固执己见......并而且我将继续如此。
 message.know_soul_unstable=§6我的墙将理智收留在内，却将知识隔离在外......而如今我的墙坍塌了。
-message.know_soul_mana=§6The fabric was stitched... but I was the string.
+message.know_soul_mana=§6那精巧之物已然在编织中成型......而我则是那万千丝线中的一缕。
 message.know_soul_ancient=§6伟大的入梦者仍在沉睡......但我已经觉醒。
 message.know_soul_dragon=§6龙并非在怒吼，而是在歌唱......整个世界都将聆听我的声音。
 

@@ -1,38 +1,38 @@
 {
-  "name": "The Soul",
+  "name": "灵魂",
   "icon": "elementaristics:textures/gui/icons/souls.png",
   "category": "soulogy",
   "pages": [
     {
       "type": "text",
-      "text": "$(marked)The Soul$() is with $(marked)The Body$() and $(marked)The Mind$() one of the three known essential components of every being that should be considered 'alive'.$(br)Every sane soul is made out of three components: $(br2)-An Anima$(br)-An Astral Body$(br)-A Silver Thread"
+      "text": "$(marked)灵魂$()与$(marked)身体$()以及$(marked)心智$()是任何可被叫做“活着的”存在的三种关键组成部分.$(br)所有清醒的灵魂又有以下三个组成部分: $(br2)-An Anima$(br)-An Astral Body$(br)-A Silver Thread"
     },
     {
       "type": "text",
-      "text": "The exact process of soul creation is unknown; however, it is known that it is external, somewhere in the $(marked)Layer of Chaos$() and influenced by other spheres nearby with $(marked)Arcane Radiation$(), determining many important aspects. $(br)The process seems to be a fantastic play of the ever contending forces."
+      "text": "灵魂创生的具体过程无人知晓; 然而，人们至少知道这一过程发生在外部，在 $(marked)混沌层$()中的某处， and influenced by other spheres nearby with $(marked)奥术辐射$()，determining many important aspects. $(br)这一过程就好似数种相互竞争的力量所组成的荒诞嬉戏。"
     },
     {
       "type": "text",
       "title": "The Anima",
-      "text": "$(marked)The Anima$() is basically the core of the soul, creating emotions and controlling the complex.$(br)It is filled with $Magan, a blend of various aspects, from which one is $Mana, raw arcane energy itself, which determines the arcane receptivity of its owner. It should be noted that it also interferes with the soul's health."
+      "text": "$(marked)The Anima$() is basically the core of the soul，creating emotions and controlling the complex.$(br)It is filled with $Magan，a blend of various aspects，from which one is $Mana，raw arcane energy itself，which determines the arcane receptivity of its owner. It should be noted that it also interferes with the soul's health."
     },
     {
       "type": "text",
       "title": "The Astral Body",
-      "text": "The Astral Body is created through the complete $(marked)entropification of stardust$(), which is how it got its name. It surrounds the Anima like a protecting shell, which basically is its main function, as the Anima greatly attracts chaos energy due to it's immersive amout of arcane energy. The Astral Body refines this chaotic energy or repels it, based on the intensity."
+      "text": "The Astral Body is created through the complete $(marked)entropification of stardust$()，which is how it got its name. It surrounds the Anima like a protecting shell，which basically is its main function，as the Anima greatly attracts chaos energy due to it's immersive amout of arcane energy. The Astral Body refines this chaotic energy or repels it，based on the intensity."
     },
     {
       "type": "text",
-      "text": "The Astral Body can also, unlike the other parts of the soul, contain information about other entities, such as multiversal dragons or even deities. This may be handy later..."
+      "text": "The Astral Body can also，unlike the other parts of the soul，contain information about other entities，such as multiversal dragons or even deities. This may be handy later..."
     },
     {
       "type": "text",
       "title": "The Silver Thread",
-      "text": "$(marked)The Silver Thread$() is the connection of the soul to the body, which reached entire universes (just to get the soul to its owner upon creation). It is the conduit of all the information the soul produces and the root of our sanity. The origin of the Silver Thread is unknown, and every speculation seems equally implausible and unrealistic."
+      "text": "$(marked)The Silver Thread$() is the connection of the soul to the body，which reached entire universes (just to get the soul to its owner upon creation). It is the conduit of all the information the soul produces and the root of our sanity. The origin of the Silver Thread is unknown，and every speculation seems equally implausible and unrealistic."
     },
     {
       "type": "text",
-      "text": "The Silver Thread can be damaged and even be broken, causing the owner of the soul to either become insane ($(marked)and break their borders of reason$()) or to die. Without a Silver Thread, a soul will cease to exist."
+      "text": "The Silver Thread can be damaged and even be broken，causing the owner of the soul to either become insane ($(marked)and break their borders of reason$()) or to die. Without a Silver Thread，a soul will cease to exist."
     }
   ]
 }

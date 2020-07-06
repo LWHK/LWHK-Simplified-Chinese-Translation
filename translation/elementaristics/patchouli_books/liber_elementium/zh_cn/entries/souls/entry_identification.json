@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "我的研究表明，灵魂之间有着种类之别. $(br)我可以通过 $(marked)启蒙之叹$()仪式来确定我的灵魂类别。"
+      "text": "我的研究表明，灵魂之间有着种类之别。$(br)我可以通过 $(marked)启蒙之叹$()仪式来确定我的灵魂类别。"
     },
     {
       "type": "concentrator_recipe",
@@ -17,18 +17,18 @@
     {
       "type": "text",
       "title": "Common Souls",
-      "text": "我将灵魂类别分为了三个组别: 普通，稀有和超凡灵魂. 就如你们所想的, 组别分类的依据是其稀有度。$(marked)普通灵魂$()组完全由$(marked)元素灵魂$()组成, 这种类别的灵魂有着特定的元素倾向。 "
+      "text": "我将灵魂类别分为了三个组别: 普通，稀有和超凡灵魂。就如你们所想的，组别分类的依据是其稀有度。$(marked)普通灵魂$()组完全由$(marked)元素灵魂$()组成，这种类别的灵魂有着特定的元素倾向。 "
     },
     {
       "type": "text",
       "title": "Elemental Souls",
-      "text": "元素灵魂又分为五种: 大气, 大地, 火焰, 水以及源力灵魂. 它们都是在多种条件的影响下，并由某个占据主导地位的元素创生而来的. $(br)需要注意的是，并没有像是 \"以太灵魂\"这种东西, 以太仅仅是空间, 并不会提供放出射线的可能性。"
+      "text": "元素灵魂又分为五种: 大气，大地，火焰，水以及源力灵魂。它们都是在多种条件的影响下，并由某个占据主导地位的元素创生而来的。$(br)需要注意的是，并没有像是 \"以太灵魂\"这种东西，以太仅仅是空间，并不会提供放出射线的可能性。"
     },
     {
       "type": "spotlight",
       "title": "大气灵魂",
       "item": "elementaristics:essence:0",
-      "text": "由于在其创生过程中，大气元素占据了主导地位, 这些灵魂更为亲近该元素。$(br拥有这种种类的灵魂的生物会比其它的生物更为敏捷迅速。"
+      "text": "由于在其创生过程中，大气元素占据了主导地位，这些灵魂更为亲近该元素。$(br拥有这种种类的灵魂的生物会比其它的生物更为敏捷迅速。"
     },
     {
       "type": "spotlight",
@@ -52,7 +52,7 @@
       "type": "spotlight",
       "title": "源力灵魂",
       "item": "elementaristics:essence:5",
-      "text": "不像其它的普通灵魂, 源力灵魂所产生的影响不局限于单方面, 而是散播与多方面之中。$(br)尽管它们没有某一方面的专长, 但它们在魔力操控方面上拥有得天独厚的潜力。"
+      "text": "不像其它的普通灵魂，源力灵魂所产生的影响不局限于单方面，而是散播与多方面之中。$(br)尽管它们没有某一方面的专长，但它们在魔力操控方面上拥有得天独厚的潜力。"
     },
     {
       "type": "text",
@@ -69,41 +69,41 @@
       "type": "spotlight",
       "title": "失稳灵魂",
       "item": "elementaristics:essence:13",
-      "text": "当心智中的银白螺纹受到损伤后, 其后代的心智也会受这一损伤的影响。这就是失稳灵魂出现的原因。$(br)这种灵魂的边界是破损的, 这一破损会给其宿主带来增益, 但代价是牺牲自身的理智 $(t:有时这也会被叫做扭曲) $()."
+      "text": "当心智中的银白螺纹受到损伤后，其后代的心智也会受这一损伤的影响。这就是失稳灵魂出现的原因。$(br)这种灵魂的边界是破损的，这一破损会给其宿主带来增益，但代价是牺牲自身的理智 $(t:有时这也会被叫做扭曲) $()."
     },
     {
       "type": "spotlight",
       "title": "永滞之魂",
       "item": "elementaristics:essence:7",
-      "text": "有些灵魂在出生时所处的环境远比其它灵魂的环境要残酷。These souls can often only persist by acquiring a stronger Astral Body, which enhances their magic resistance.$(br)However, this comes at the cost of low magic affinity.$(br)These hardly changeable souls are called Immutable Souls."
+      "text": "有些灵魂在出生时所处的环境远比其它灵魂的环境要残酷。These souls can often only persist by acquiring a stronger Astral Body，which enhances their magic resistance.$(br)However，this comes at the cost of low magic affinity.$(br)These hardly changeable souls are called Immutable Souls."
     },
     {
       "type": "spotlight",
       "title": "平衡之魂",
       "item": "elementaristics:essence:14",
-      "text": "Unlike most other rare souls, these souls suffer no disadvantages whatsoever. They might have been protected by some sort of higher entity, though this cannot be confirmed.$(br)One might consider them a jack of all trades."
+      "text": "Unlike most other rare souls，these souls suffer no disadvantages whatsoever。They might have been protected by some sort of higher entity，though this cannot be confirmed.$(br)One might consider them a jack of all trades."
     },
     {
       "type": "text",
       "title": "超凡灵魂",
-      "text": "The $(marked)Extraordinary Souls$() are kin of higher entities. Their power is immense (compared to the power of the other souls).$(br)These powers generally come without many disadvantages."
+      "text": "The $(marked)Extraordinary Souls$() are kin of higher entities。Their power is immense (compared to the power of the other souls).$(br)These powers generally come without many disadvantages."
     },
     {
       "type": "spotlight",
       "title": "远古之魂",
       "item": "elementaristics:essence:15",
-      "text": "Ancient Souls directly descended from the Great Old Ones. Their magic power is equal the power of mana souls, except that it's provided by elder gods.$(br)Their connections to other deities are just as wide spread as their repertoire of spells."
+      "text": "Ancient Souls directly descended from the Great Old Ones。Their magic power is equal the power of mana souls，except that it's provided by elder gods.$(br)Their connections to other deities are just as wide spread as their repertoire of spells."
     },
     {
       "type": "spotlight",
       "title": "巨龙之魂",
       "item": "elementaristics:essence:12",
-      "text": "The lullaby of these souls was the cosmic ballad, with its symphonies of fire and water, air and earth, in the field of aether.$(br)These souls have strong connections to all primal aspects, and the multiversal dragons."
+      "text": "The lullaby of these souls was the cosmic ballad，with its symphonies of fire and water，air and earth，in the field of aether.$(br)These souls have strong connections to all primal aspects，and the multiversal dragons."
     },
     {
       "type": "text",
       "title": "Ascended Souls",
-      "text": "Not all souls are directly created by the multiverse.$(br)Some are created by gods, nature, or even humans.$(br)These souls always keep a part of what they used to be; however, they are still one of the greatest mysteries to Soulogy."
+      "text": "Not all souls are directly created by the multiverse.$(br)Some are created by gods，nature，or even humans.$(br)These souls always keep a part of what they used to be; however，they are still one of the greatest mysteries to Soulogy."
     }
   ]
 }
