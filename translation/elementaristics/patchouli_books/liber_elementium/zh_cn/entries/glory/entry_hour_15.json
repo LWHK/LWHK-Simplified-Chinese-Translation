@@ -1,5 +1,5 @@
 {
-  "name": "Hour 15",
+  "name": "辰时 15",
   "icon": "elementaristics:symbol_goat",
   "category": "glory",
   "advancement": "elementaristics:progress_glory",
@@ -7,13 +7,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"You hear her? In the Wood，the Goat awaits。The Wood was born out of the Goat，who bred it，with all love and devotion such a god can muster，so basically none。In the Wood，you may find the letter of a loved one，or a feast set up ready..。or you might find a dead Lamb.\"$()"
+      "text": "$(o)\"你听到她了？森林之中，山羊静立着。山羊了孕育这片森林，就像是神所能给予凡人的爱与奉献那样那样哺育了它，所以她几无所剩。森林之中，你也许能找到热恋中的人的书信，亦或者一顿静候享用的盛宴....或者，你会发现一只死去的羔羊。\"$()"
     },
     {
       "type": "spotlight",
       "title": "Symbol",
       "item": "elementaristics:symbol_goat",
-      "text": "This symbol is created with $(l:lessons/lesson_collection)Essence of the Wood$() in the $(l:glory/entry_rite_glorious)Glorious Rite$().$(br)When active，this deity will increase the growth of all plants nearby.",
+      "text": "这一印记的制作需要将$(l:lessons/lesson_collection)森林源质$()放入$(l:glory/entry_rite_glorious)神耀仪式$()。$(br)激活后，神性将会促进附近的作物生长。",
       "link_recipe": true
     }
   ]
