@@ -6,7 +6,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The $(item)Winged Key$() is a Bauble that will lengthen the jumping time for its wearer.$(br)It has an internal Magan count，that will be used when jumping for an extended time. It reloads when its wearer is on the ground."
+      "text": "The $(item)Winged Key$() is a Bauble that will lengthen the jumping time for its wearer.$(br)It has an internal Magan count，that will be used when jumping for an extended time。It reloads when its wearer is on the ground."
     },
     {
       "type": "elementaristics:forging_recipe",

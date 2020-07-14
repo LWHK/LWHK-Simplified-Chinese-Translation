@@ -7,7 +7,7 @@
     {
       "type": "spotlight",
       "item": "elementaristics:flower_ecstasy",
-      "text": "$(item)Aphrodium$() smells sweet like honey，and feels like the softest silk. $(br)One can feel the blood running faster only by looking at it.$(br2)And maybe，just maybe，the dreams near such a flower are as $(marked)sweet$() as its nectar.",
+      "text": "$(item)Aphrodium$() smells sweet like honey，and feels like the softest silk。$(br)One can feel the blood running faster only by looking at it.$(br2)And maybe，just maybe，the dreams near such a flower are as $(marked)sweet$() as its nectar.",
       "link_recipe": true
     },
     {

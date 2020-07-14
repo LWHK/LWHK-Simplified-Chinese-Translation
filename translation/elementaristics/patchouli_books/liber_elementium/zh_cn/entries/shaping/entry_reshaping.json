@@ -14,7 +14,7 @@
     },
     {
       "type": "text",
-      "text": "The last condition is probably the hardest to achieve，as it $(l)will$() require the help of $(l:lessons/lesson_recruiting)Cultists$()... or other means.$(br)In order to recruit all these cultists，the needed $(marked)$(t:The Hammer of Heat，the Heart of Stone，and the Splendorous Eye)Rite Tools$() must also be obtained."
+      "text": "The last condition is probably the hardest to achieve，as it $(l)will$() require the help of $(l:lessons/lesson_recruiting)Cultists$()..。or other means.$(br)In order to recruit all these cultists，the needed $(marked)$(t:The Hammer of Heat，the Heart of Stone，and the Splendorous Eye)Rite Tools$() must also be obtained."
     },
     {
       "type": "elementaristics:forging_recipe",

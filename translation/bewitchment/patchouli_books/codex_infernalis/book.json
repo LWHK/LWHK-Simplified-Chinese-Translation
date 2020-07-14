@@ -1,0 +1,10 @@
+{
+  "name": "Codex Infernalis",
+  "version": "616",
+  "landing_text": "Simply holding this book feels wrong… do you dare proceed?",
+  "model": "bewitchment:codex_infernalis",
+  "book_texture": "bewitchment:textures/gui/book.png",
+  "show_toasts": false,
+  "creative_tab": "bewitchment",
+  "show_progress": false
+}

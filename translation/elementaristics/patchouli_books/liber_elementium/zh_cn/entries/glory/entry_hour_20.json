@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(o)\"Watching the Dancer，the King feasts，obviously，in his throne，watching as the world progresses，as bodies decay，and hungers grow. The King feasts on the hunger in the world，and where the King feasts，one might feast with him.\"$()"
+      "text": "$(o)\"Watching the Dancer，the King feasts，obviously，in his throne，watching as the world progresses，as bodies decay，and hungers grow。The King feasts on the hunger in the world，and where the King feasts，one might feast with him.\"$()"
     },
     {
       "type": "spotlight",

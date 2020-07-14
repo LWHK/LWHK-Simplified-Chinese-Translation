@@ -19,7 +19,7 @@
     },
     {
       "type": "text",
-      "text": "Generally，whenever a deity supplies an potion effect，an aspect，or something else，OE must be used. Otherwise，it will have no effect.$(br2)The upgraded $(o)statues$() are，as already said，more efficient. They can also be prayed to，which generally is done by interacting with it. If praying is possible，this will usually apply interesting effects."
+      "text": "一般来说，当神性发挥作用时（buff，元素增益，又或者其它的形式），必须使用到OE。如果没有OE，那它就不会生效.$(br2)印记的升级版本，$(o)雕像$()，会比印记得效率更高。你同样可以向其祈祷，只要与其交互一下就可以了。如果祈祷生效了，那么你通常会获得一些有趣的增益。"
     }
   ]
 }
