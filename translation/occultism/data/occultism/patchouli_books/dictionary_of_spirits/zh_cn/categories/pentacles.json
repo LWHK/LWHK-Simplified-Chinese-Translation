@@ -1,6 +1,6 @@
 {
-  "name": "Pentacles",
-  "description": "A comprehensive list of ritual pentacles.",
+  "name": "五芒星",
+  "description": "各种仪式所需的所有五芒星阵。",
   "icon": "occultism:textures/gui/book/pentagram_rose.png",
   "sortnum": 3
 }

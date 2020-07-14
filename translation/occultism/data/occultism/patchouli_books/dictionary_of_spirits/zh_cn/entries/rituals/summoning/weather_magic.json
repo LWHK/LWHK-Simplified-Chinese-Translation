@@ -1,35 +1,35 @@
 {
-  "name": "Weather Magic",
+  "name": "天气魔法",
   "icon": "minecraft:wheat",
   "category": "rituals/summoning",
   "sortnum": 30,
   "pages": [
     {
       "type": "text",
-      "text": "Weather magic is especially useful for farmers and others depending on specific weather. Summons spirits to modify the weather. Different types of weather modification require different power levels."
+      "text": "天气魔法对农民以及其他需要特定天气的场合特别有用。召唤灵魂来改变天气。不同类型的天气变化需要不同的等级的灵魂。"
     },
     {
       "type": "summoning",
-      "heading": "Clear Weather",
-      "pentacle": "$(l:pentacles/summon_djinni)Ophyx' Calling$(/l)",
+      "heading": "晴天",
+      "pentacle": "$(l:pentacles/summon_djinni)奥菲克斯的召唤$(/l)",
       "activation_item": "occultism:book_of_binding_bound_djinni",
-      "ingredients": "$(li)1x $(item)Beetroot $()$(li)1x $(item)Potato $()$(li)1x $(item)Carrot $()$(li)1x $(item)Wheat $()"
+      "ingredients": "$(li)1x $(item)甜菜根$()$(li)1x $(item)土豆$()$(li)1x $(item)胡萝卜$()$(li)1x $(item)小麦$()"
     },
     {
       "type": "summoning_sacrifice",
-      "heading": "Rainy Weather",
-      "pentacle": "$(l:pentacles/summon_afrit)Abras' Conjure$(/l)",
+      "heading": "雨天",
+      "pentacle": "$(l:pentacles/summon_afrit)阿巴拉的戏法$(/l)",
       "activation_item": "occultism:book_of_binding_bound_afrit",
-      "sacrifice": "Cow",
-      "ingredients": "$(li)1x $(item)Dead Bush $()$(li)1x $(item)Cactus $()$(li)1x $(item)Sand $()$(li)1x $(item)Diamond $()"
+      "sacrifice": "牛",
+      "ingredients": "$(li)1x $(item)枯萎的灌木$()$(li)1x $(item)仙人掌$()$(li)1x $(item)沙子$()$(li)1x $(item)钻石$()"
     },
     {
       "type": "summoning_sacrifice",
-      "heading": "Thunderstorm",
-      "pentacle": "$(l:pentacles/summon_afrit)Abras' Conjure$(/l)",
+      "heading": "雷暴",
+      "pentacle": "$(l:pentacles/summon_afrit)阿巴拉的戏法$(/l)",
       "activation_item": "occultism:book_of_binding_bound_afrit",
-      "sacrifice": "Cow",
-      "ingredients": "$(li)1x $(item)Ghast Tear $()$(li)2x $(item)Gunpowder $()$(li)1x $(item)Bone $()"
+      "sacrifice": "牛",
+      "ingredients": "$(li)1x $(item)恶魂之泪$()$(li)2x $(item)火药$()$(li)1x $(item)骨头$()"
     }
   ]
 }

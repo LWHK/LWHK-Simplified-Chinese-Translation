@@ -1,18 +1,18 @@
 {
-  "name": "Demon's Dream",
+  "name": "恶魔之梦",
   "icon": "occultism:datura",
   "category": "getting_started",
   "sortnum": 1,
   "pages": [
     {
-      "title": "Demon's Dream",
+      "title": "恶魔之梦",
       "type": "spotlight",
       "item": "occultism:datura",
-      "text": "Demon's dream is a herb that gives humans the $(thing)Third Eye$(), as well as the ability to interact with $(thing)Otherworld$() materials. Seeds can be found like wheat seeds, by breaking grass. Consuming the grown fruit activates the ability."
+      "text": "恶魔之梦是一种给予玩家$(thing)第三只眼$()能力的一种草药，这种能力可以与$(thing)彼岸$()的材料进行交互。恶魔之梦的种子获取方式和小麦种子一样，打草。食用成熟的恶魔之梦可以激活第三只眼。"
     },
     {
       "type": "text",
-      "text": "An additional side effect of demon's dream, that other ways to obtain the $(thing)Third Eye$() do not bring, is the ability to interact with $(thing)Otherworld$() materials. While under the effect of demon's dream you are able to harvest Otherstone as well as Otherworld trees."
+      "text": "不过食用恶魔之梦也有一个其他获取$(thing)第三只眼$()能力方法所没有的额外效果，那就是可以与$(thing)彼岸$()的材料进行交互。当你拥有恶魔之梦效果时，你可以采集彼岸石以及彼岸原木。"
     },
     {
       "type": "image",
@@ -23,7 +23,7 @@
     },
     {
       "type": "text",
-      "text": "The consumption of demon's dream allows to see parts of $(thing)The Other Place$() that intersect with our plane of existence."
+      "text": "食用恶魔之梦可以使得你看到部分与我们所在位面平面相交的$(thing)彼岸$()。"
     }
   ]
 }
