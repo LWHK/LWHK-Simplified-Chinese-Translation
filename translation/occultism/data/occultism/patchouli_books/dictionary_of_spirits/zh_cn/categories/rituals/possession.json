@@ -1,7 +1,0 @@
-{
-  "name": "占据仪式",
-  "description": "占据仪式可以将灵魂与活着的生物绑定在一起，召唤师可以借此手段在一定程度上的操纵这一被控制的生物。操控的区间很大，上至控制其物品掉落，下至操控其完成一些召唤师的指令。",
-  "icon": "occultism:textures/gui/book/possession.png",
-  "parent": "rituals",
-  "sortnum": 2
-}

@@ -1,7 +1,0 @@
-{
-  "name": "绑定仪式",
-  "description": "绑定仪式可以将灵魂注入物品中，这些物品可以被用于一些特殊的地方。The created items can act like simple empowering enchantments, 亦或者可以向其中编入一些复杂的流程，用以帮助召唤师完成工作。",
-  "icon": "occultism:textures/gui/book/infusion.png",
-  "parent": "rituals",
-  "sortnum": 3
-}

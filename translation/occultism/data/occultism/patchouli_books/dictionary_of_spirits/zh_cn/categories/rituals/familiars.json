@@ -1,7 +1,0 @@
-{
-  "name": "Familiar Rituals",
-  "description": "Familiar rituals通过召唤灵魂来直接帮助召唤师、灵魂通常寄居在动物的肉身之中，allowing them to resist essence decay for the most part. 这些灵魂会为玩家提供buff，且也会主动地保护召唤师。",
-  "icon": "occultism:textures/gui/book/parrot.png",
-  "parent": "rituals",
-  "sortnum": 4
-}
