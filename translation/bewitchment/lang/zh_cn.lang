@@ -1,4 +1,9 @@
-﻿#BLOCKS
+﻿#BOOKS
+
+item.bewitchment.book1.name=影之书
+info.bewitchment.book1.landing=巫术是一门关于自然与魔法的艺术，这本书将会指引你去寻找你自身的隐秘。
+
+#BLOCKS
 tile.bewitchment.blessed_stone.name=祝福之石
 tooltip.bewitchment.blessed_stone=给予无限的祭坛之力，创造模式专属。
 
@@ -429,7 +434,7 @@ item.bewitchment.stone_ichor.name=岩汁
 item.bewitchment.diabolical_vein.name=恶魔血管
 item.bewitchment.pure_filament.name=真丝
 item.bewitchment.witches_stitching.name=女巫缝线
-item.bewitchment.sanguine_cloth.name=血污布料
+item.bewitchment.sanguine_cloth.name=猩红布匹
 item.bewitchment.spirit_string.name=魂丝
 item.bewitchment.golden_thread.name=金线
 
@@ -612,7 +617,7 @@ entity.bewitchment.baphomet.name=巴弗灭
 entity.bewitchment.leonard.name=伦纳德
 
 entity.Villager.bewitchment.alchemist=炼金术士
-entity.Villager.bewitchment.witch=树篱女巫
+entity.Villager.bewitchment.witch=绿野女巫
 
 #ENCHANTMENT
 enchantment.bewitchment.magic_protection=魔力保护
