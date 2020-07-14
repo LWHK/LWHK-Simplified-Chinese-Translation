@@ -1,5 +1,5 @@
 {
-  "name": "寓言",
+  "name": "占卜",
   "icon": "occultism:divination_rod",
   "category": "getting_started",
   "sortnum": 3,
@@ -7,24 +7,24 @@
     {
       "type": "spotlight",
       "item": "occultism:divination_rod",
-      "text": "Otherworld materials play an important role in interacting with spirits. As they are rare and not visible to the naked eye, finding them requires special tools. The divination rod allows to find Otherworld materials based on their similarities to materials common to our world."
+      "text": "灵界材料在与灵体沟通的过程中起着重要作用，由于它们数量稀少且肉眼无法看见，所以想要找到它们，你需要一些特殊的工具。占卜棒就是其中之一。基于灵界材料与我们生存的现实世界的材料之间的相似性，它可以帮助我们寻找到灵界材料的所在地点。"
     },
     {
       "type": "text",
-      "text": "The divination rod uses a spirit attuned gem attached to a wooden rod. The gem resonates with the chosen material, and this movement is amplified by the wooden rod, allowing to detect nearby Otherworld materials.$(br2) The rod works by detecting resonance between real world and Otherworld materials. Attuned the rod to a real world material, and it will find the corresponding Otherworld block."
+      "text": "一根木头杆子，一颗灵谐宝石，将宝石镶嵌于木棒的一端，占卜棒就制作好了。宝石会与其所选定的材料产生共鸣，而这一共鸣会被木棒放大，这一过程可以帮助你找到最近的灵界材料。$(br2)占卜棒能够探测到现实世界的材料以及灵界材料之间产生的共鸣，使占卜棒与现实世界材料像调谐，它会为你找到相对应的灵界材料。"
     },
     {
       "type": "text",
-      "title": "Use of the Rod",
-      "text": "Shift-right-click a block to attune the rod to the corresponding Otherworld block.$(br)$(li)$(item)Andesite$() - $(item)Otherstone$()$(li)$(item)Oak Log$() - $(item)Otherwood Log$()$(li)$(item)Oak Leaves$() - $(item)Otherworld Leaves$()$(li)$(item)Netherrack$() - $(item)Iesnium Ore$()$(br2)Then right-click and hold until the rod animation finishes."
+      "title": "占卜棒的用法",
+      "text": "手持占卜棒潜行右键点击任意方块，它就可以帮助你找到相对应的灵界材料。$(br)$(li)$(item)安山岩$() - $(item)灵界石$()$(li)$(item)橡木原木$() - $(item)灵界原木$()$(li)$(item)橡木树叶$() - $(item)灵界树叶$()$(li)$(item)地狱岩$() - $(item)Iesnium Ore$()$(br2)调谐之后右键，接着等待占卜棒的动画结束。"
     },
     {
       "type": "text",
-      "text": "A white crystal indicates no target blocks found, while degrees of purple indicate how close to the target block the diviner is. Only horizontal distance is considered, so the crystal will glow fully purple, even if many blocks above or below the target. The range of the divination rod is 96 blocks. The closest the rod can detect is 6 blocks, at that point the crystal glows fully purple, and getting closer will not change the color any further."
+      "text": "白色水晶意味着周围没有目标方块，紫色的深浅意味着占卜棒距离目标方块的远近程度。这一判断只会判断其水平距离，所以即便是有许多目标方块在的你的上方或者下方，水晶依然会完全变紫。占卜棒的探测范围为96格。判定为极近的范围为6格之内，目标方块只要在6格以内就会是完全的紫色，即便再接近也不会产生颜色变化了。"
     },
     {
       "type": "text",
-      "title": "Otherworld Groves",
+      "title": "灵界草丛",
       "text": "Otherworld Groves are lush, overgrown caves, with $(item)Otherworld Trees$(), and walls of $(item)Otherstone$(), and represent the fastest way to get everything one needs to get set up as a summoner. To find them, attune your divination rod to Otherworld leaves or logs, as unlike Otherstone, they only spawn in these groves."
     },
     {

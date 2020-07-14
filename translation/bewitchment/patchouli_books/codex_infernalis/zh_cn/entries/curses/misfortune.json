@@ -1,0 +1,12 @@
+{
+  "name": "灾厄缠身",
+  "category": "curses",
+  "icon": "minecraft:arrow",
+  "pages": [
+	{
+	  "type": "bewitchment:curse_recipe",
+	  "recipe": "bewitchment:misfortune",
+	  "text": "随即基于目标除却凋零以及中毒以外的debuff。不是持续性的，而是在诅咒期间随机的给予。"
+	}
+  ]
+}
