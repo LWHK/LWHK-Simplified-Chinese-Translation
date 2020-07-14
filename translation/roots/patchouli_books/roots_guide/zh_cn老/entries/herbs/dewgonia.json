@@ -1,0 +1,25 @@
+{
+  "name": "露海棠",
+  "icon": "roots:dewgonia",
+  "category": "herbs",
+  "advancement": "roots:pyre",
+  
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "roots:dewgonia",
+      "link_recipe": true,
+      "text": "露海棠扎根茎上，通透水灵，但远没有其外表一般脆弱。$(br2)$(info)种植于$(l:resources/elemental_soil)水素土$()之上的露海棠方可生长。"
+    },
+    {
+      "type": "ritual_crafting_template",
+      "recipe": "dewgonia"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "resources/elemental_soil"
+      ]
+    }
+  ]
+}

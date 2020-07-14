@@ -1,0 +1,27 @@
+{
+    "name": "药剂袋",
+    "icon": "roots:apothecary_pouch",
+    "category": "apparatus",
+    "advancement": "roots:spirit_herb",
+    "secret": true,
+    "pages": [
+      {
+        "type": "spotlight",
+        "item": "roots:apothecary_pouch",
+        "text": "升级版的法术收容袋，具有容纳力与实用性的双重改进。$(br2)药草被仔细地收纳在袋中的小玻璃瓶里以防彼此混杂，方便更多的收纳。"
+      },
+      {
+        "type": "fey_crafting_template",
+        "recipe": "apothecary_pouch"
+      },
+      {
+        "type": "relations",
+        "entries": [
+          "apparatus/component_pouch",
+          "basics/spells",
+          "herbs/spirit_herb",
+          "resources/wildwood"
+        ]
+      }
+    ]
+  }

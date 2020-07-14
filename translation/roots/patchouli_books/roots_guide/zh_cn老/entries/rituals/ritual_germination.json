@@ -1,0 +1,34 @@
+{
+  "name": "萌芽",
+  "icon": "roots:ritual_germination",
+  "category": "rituals",
+  "advancement": "roots:spirit_herb",
+  "flag": "roots:ritual_germination",
+  "pages": [
+    {
+      "type": "text",
+      "text": "自然之力，广若星河，而能眠于小小种芽之中，待人发掘。萌芽仪式便可在效用期间激发植种与树苗内蕴藏的自然力量，催发它们的生长。$(br2)$(info)需要屹立石柱来进行该仪式。$(br2)$(warning)无温室玻璃时该仪式对反季作物无效。"
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_germination"
+    },
+    {
+      "type": "multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "roots:bonfire",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          ["       ","       ","       ","       ","       ","       ","       "],
+          ["   C   ","       ","       ","       ","       ","       ","   C   "],
+          ["   R   ","       ","       ","       ","       ","       ","   R   "],
+          ["   R   ","       ","       ","   0   ","       ","       ","   R   "]
+        ]
+      }
+    }
+  ]
+}

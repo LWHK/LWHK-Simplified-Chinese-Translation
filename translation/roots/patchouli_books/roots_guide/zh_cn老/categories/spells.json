@@ -1,0 +1,6 @@
+{
+  "name": "咒术配方",
+  "sortnum" : 2,
+  "description": "咒术，以药草为试剂，使法杖引导出弹指间改天换地的魔法。$(br2)魔法的效用越巨大，用以引导的药草配方就越艰涩，$(l:basics/spells)合成也越冗杂$()。",
+  "icon": "roots:staff"
+}

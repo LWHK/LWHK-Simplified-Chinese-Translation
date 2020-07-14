@@ -1,0 +1,37 @@
+{
+  "name": "结界庇护",
+  "icon": "roots:ritual_warding_protection",
+  "category": "rituals",
+  "advancement": "roots:stalicripe",
+  "flag": "roots:ritual_warding_protection",
+  "pages": [
+    {
+      "type": "text",
+      "text": "护佑仪式旁的生物免于伤害。$(br2)需要屹立石柱来进行该仪式。"
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_warding_protection"
+    },
+    {
+      "type": "multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "roots:bonfire",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          ["       "," C   C ","       ","       ","       ","   C   ","       "],
+          ["   C   "," R   R ","       ","C     C","       ","   R   ","       "],
+          ["   R   "," R   R ","       ","R     R","       ","   R   ","       "],
+          ["   R   "," R   R ","       ","R  0  R","       ","   R   ","       "]
+        ]
+      }
+    },
+    { "type": "text",
+      "text": "屹立石柱并不需要完全遵照图示摆放，只需保证数目与类型一致即可。"
+    }
+  ]
+}

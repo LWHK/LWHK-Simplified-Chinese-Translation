@@ -1,0 +1,12 @@
+{
+  "name": "【被封锁的物品】",
+  "icon": "minecraft:barrier",
+  "category": "apparatus",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "minecraft:barrier",
+      "text": "████，一旦被██，███就会█████产出█████。$(br2)$(warning)被封锁的原因：配合█████████，其可██地通过█████████。也因如此，███████亦被██至第█████。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "净化",
+  "icon": "roots:ritual_purity",
+  "category": "rituals",
+  "advancement": "roots:baffle_cap",
+  "flag": "roots:ritual_purity",
+  "pages": [
+    {
+      "type": "text",
+      "text": "在效用期间去除仪式四周所有生物正在罹患的病痛与负面效果，熄灭其身上的火焰。$(br2)效用目标除了施法者本人，也$(warning)包括所有可能在四周游荡的敌对生物。$(br2)$(info)正在被疗愈的僵尸村民会在这场仪式中更快地恢复肉身。"
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_purity"
+    }
+  ]
+}

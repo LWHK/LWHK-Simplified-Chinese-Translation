@@ -1,0 +1,51 @@
+{
+  "name": "蕴生工具",
+  "icon": "roots:living_pickaxe",
+  "category": "apparatus",
+  "advancement": "roots:fey_crafter",
+  "secret": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "内蕴魔草，外缀珍金，蕴生工具均能缓慢地以顽强的生命力修补它们的一切折损。$(br2)$(info)它们的效能等价于铁质工具，而附魔亲和性却优若黄金。"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_pickaxe"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_axe"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_shovel"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_hoe"
+    },
+    {
+      "type": "fey_crafting_template",
+      "recipe": "living_sword"
+    },
+    {
+      "type": "spotlight",
+      "item": "roots:living_arrow",
+      "text": "这些细细的木条尽管还不足以自我修复，但仍能以其锋芒对目标施以致命打击。"
+    },
+    {
+      "type": "fey_crafting_template",
+      "anchor": "living_arrow",
+      "recipe": "living_arrow"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "basics/other_imbuer",
+        "apparatus/wildwood_bow",
+        "apparatus/wildwood_quiver"
+      ]
+    }
+  ]
+}

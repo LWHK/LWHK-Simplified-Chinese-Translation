@@ -1,0 +1,33 @@
+{
+  "name": "动物收获",
+  "icon": "roots:ritual_animal_harvest",
+  "category": "rituals",
+  "advancement": "roots:wildewheet",
+  "flag": "roots:ritual_animal_harvest",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这一仪式将感化附近的动物，使其情愿给予它们自身的产物，且并不会遭受苦楚。$(br2)$(info)受感化的动物将成长得更快$(br2)$(info)需要屹立石柱来进行该仪式。"
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_animal_harvest"
+    },
+    {
+      "type": "multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "roots:bonfire",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          ["   C   ","       ","       ","C     C","       ","       ","       "],
+          ["   R   ","       ","       ","R     R","       ","       ","       "],
+          ["   R   ","       ","       ","R  0  R","       ","       ","       "]
+        ]
+      }
+    }
+  ]
+}

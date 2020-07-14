@@ -1,0 +1,28 @@
+{
+    "name": "法术收容袋",
+    "icon": "roots:component_pouch",
+    "category": "apparatus",
+    "priority": true,
+    "advancement": "roots:root",
+    "secret": true,
+    "pages": [
+      {
+        "type": "spotlight",
+        "item": "roots:component_pouch",
+        "text": "所有的咒术$(warning)都极其依赖于药草。法术收容袋即是一个为咒术提供药草的最基础途径。$(br2)$(info)一整片的药草对咒术来说过于具象，而法术收容袋就可以助你将它们一丝一缕地分解下来，为咒所用。"
+      },
+      {
+        "type":"crafting",
+        "recipe": "crafttweaker:ct_shaped-1118325027",
+        "title": "法术收容袋",
+        "text": "袋内右侧的槽位仅供收纳各类药草，而左侧则可供存放一切琐物。$(br2)$(info)执行咒术后，屏幕左下角会显示当前咒术可用的药草余量。"
+      },
+      {
+        "type": "relations",
+        "entries": [
+          "basics/spells",
+          "apparatus/apothecary_pouch"
+        ]
+      }
+    ]
+  }

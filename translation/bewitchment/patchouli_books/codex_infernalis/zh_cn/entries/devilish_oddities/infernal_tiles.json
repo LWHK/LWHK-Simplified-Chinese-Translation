@@ -1,11 +1,11 @@
 {
-  "name": "Infernal Tiles",
+  "name": "恶魔装饰方块",
   "category": "devilish_oddities",
   "icon": "bewitchment:nethersteel",
   "pages": [
 	{
 	  "type": "text",
-	  "text": "On top of wearable apparel, there are also many blocks and other such items connected to demons."
+	  "text": "除了可以穿的装备以外，还有许多与恶魔有关的物品以及方块。"
 	},
 	{
 	  "type": "empty",
@@ -13,8 +13,8 @@
 	},
 	{
 	  "type": "text",
-	  "title": "Nethersteel",
-	  "text": "A strange semi-metallic material. It feels warm, almost as if alive… This material is too... capricious to be shaped into tools, but can often be shaped into decorative blocks and idols. It’s also critical in creating many demonic baubles. This dubious substance is created as follows:"
+	  "title": "下界钢",
+	  "text": "一种奇怪的半金属物质，摸起来有种温暖的触感，就好像它是活物… 这种材料实在是过于... 易塑了，没办法用它来做成工具，但可以将其制作为装饰物或者崇拜雕像。它也在一些恶魔饰品的制造中起着重要作用。这种不太靠得住的材料的制作方法如下所示："
 	},
 	{
 	  "type": "crafting",
@@ -22,8 +22,8 @@
 	},
 	{
 	  "type": "text",
-	  "title": "Scorned Bricks",
-	  "text": "No matter the climate, this red-tinted slaty stone is always as cold as the night. If you press your ear to it, you can swear you hear cries and screams… This material is believed to be used by demons to build their great palaces hidden beyond the angles of time, and can be created using the Hellworld brew on Embittered Bricks, as well as follows:"
+	  "title": "鄙夷方砖",
+	  "text": "无论周围气候如何，这种石板样且微泛红色的石头摸起来总是像夜晚那样清冷。将耳朵贴到石砖上，你可以惊恐地听到其尖叫以及哭泣的声音… 人们认为恶魔就是用这种材料建造它们的处所，借以躲过时天使的搜查，and can be created using the Hellworld brew on Embittered Bricks, as well as follows:"
 	},
 	{
 	  "type": "crafting",

@@ -1,0 +1,24 @@
+{
+  "name": "供奉盘",
+  "icon": "roots:offertory_plate",
+  "category": "apparatus",
+  "advancement": "roots:runestone",
+  "secret": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "供奉盘，以闪烁着魔能的符文石精镌而成。置于其上的物品将献祭于仪式，供奉至精灵。"
+    },
+    {
+      "type":"crafting",
+      "recipe": "roots:offertory_plate",
+      "title": "Offering Plate"
+    },
+    {
+      "type": "relations",
+      "entries": [
+        "rituals/ritual_summon_creatures"
+    ]
+    }
+  ]
+}

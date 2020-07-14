@@ -1,0 +1,64 @@
+{
+  "name": "转变",
+  "icon": "roots:ritual_transmutation",
+  "category": "rituals",
+  "advancement": "roots:runestone",
+  "flag": "roots:ritual_transmutation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "大自然的馈赠通常难于窥见，好在借助柴堆的神力，你可以将许多平凡之物嬗变为宝。$(br2)$(info)需要屹立石柱来进行该仪式。"
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_transmutation"
+    },
+    {
+      "type": "multiblock",
+      "enable_visualize": false,
+      "multiblock": {
+        "mapping": {
+          "0": "roots:bonfire",
+          "R": "roots:runestone",
+          "C": "roots:chiseled_runestone"
+        },
+        "pattern": [
+          ["       ","       ","       ","       ","       ","       ","       "],
+          ["   C   ","       ","       ","       ","       ","       ","       "],
+          ["   R   ","       ","       ","       ","       ","       ","       "],
+          ["   R   ","       ","       ","   0   ","       ","       ","       "]
+        ]
+      }
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:dye:3",
+      "link_recipe": true,
+      "text": "枯死的草丛会转变为可可豆"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:log:3",
+      "link_recipe": true,
+      "text": "白桦木会转变为丛林木"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:leaves:3",
+      "link_recipe": true,
+      "text": "白桦树叶会转变为丛林树叶"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:melon_block",
+      "link_recipe": true,
+      "text": "放置在$(info)流动水或静止水之上的南瓜会转变为西瓜。"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:cactus",
+      "link_recipe": true,
+      "text": "放置在$(info)沙子上的南瓜会转变为仙人掌。"
+    }
+  ]
+}

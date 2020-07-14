@@ -1,0 +1,17 @@
+{
+  "name": "暴风雨",
+  "icon": "roots:ritual_heavy_storms",
+  "category": "rituals",
+  "advancement": "roots:cloud_berry",
+  "flag": "roots:ritual_heavy_storms",
+  "pages": [
+    {
+      "type": "text",
+      "text": "唤起强烈的季风，从而引起$(warning)在仪式持续过程中无法被平息的疾风暴雨，除非仪式被 $(l:basics/bucket_of_water)一桶水$()浇熄。$(br2)同样地，暴雨亦可扑灭所有正在被焚烧的生物。"
+    },
+    {
+      "type": "pyre_template",
+      "ritual": "ritual_heavy_storms"
+    }
+  ]
+}
