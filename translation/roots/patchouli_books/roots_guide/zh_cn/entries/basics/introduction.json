@@ -1,5 +1,5 @@
 {
-    "name": "Introduction",
+    "name": "导论",
     "icon": "roots:pestle",
     "category": "basics",
     "advancement": "roots:root",
@@ -8,11 +8,11 @@
     "pages": [
       {
         "type": "text",
-        "text": "There is much that lies hidden in the forests and plains, at the tops of mountains and the bottom of oceans.$(br2)In all of these expanses of nature, the Druid strives to learn all that they can about the world, and in these experiences learn how to manipulate nature in wondrous ways."
+        "text": "森林，平原，上至高山之极巅，下至阔海之幽底，潜藏着无数的隐秘。$(br2)在这广阔邈远的自然中，德鲁伊们一步一步地在这未知之中探索着，搜寻那些可被知道的知识，并从这些经验之中学习如何使用巧妙的方式操纵自然。"
       },
       {
         "type": "text",
-        "text": "To begin, start by breaking some tall grass. Look for $(info) $(l:herbs/wildroot)Wildroot$() and Terra Spores, with which you can grow $(l:herbs/terra_moss)Terra Moss$(), to begin your own journey.$(br2)There are a number of other $(l:basics/resources)essential resources$() that you may gather along the way, and if, at any time, you find yourself \"stuck\", $(l:basics/letter)you may wish to read the letter included in this guide$()."
+        "text": "你需要从高草中获取$(info) $(l:herbs/wildroot)野生根茎$()与大地孢子来起手，种植大地孢子又可以为你带来一些$(l:herbs/terra_moss)大地菌丝$()，接着你便可以开始你的自然之旅了。$(br2)发掘自然的途中，你还需要不断收集一些$(l:basics/resources)重要资源$()。凡路必有绊脚石，若你的思绪不巧被“卡”住了，不妨来读一读这封$(l:basics/letter)记录在本书中的，来自德鲁伊的遗信$()，或许能对你有所助益。"
       },
       {
         "type": "relations",

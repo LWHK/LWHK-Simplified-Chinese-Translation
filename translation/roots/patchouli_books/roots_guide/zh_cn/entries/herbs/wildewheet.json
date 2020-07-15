@@ -1,5 +1,5 @@
 {
-  "name": "Wildewheet",
+  "name": "野麦",
   "icon": "roots:wildewheet",
   "category": "herbs",
   "advancement": "roots:runic_shears",
@@ -9,13 +9,13 @@
       "type": "spotlight",
       "item": "roots:wildewheet",
       "link_recipe": true,
-      "text": "This lesser-known but hardy variety of wheat is adored by animals, although they are hesitant to eat it.$(br2)$(info) Wildewheet can be crafted into seeds, which can be planted on normal farmland."
+      "text": "这种鲜为人知的小麦变种颇能忍受环境影响，生命力十分的顽强，因此动物们喜欢以此为食，但它们在食用野麦时却显得犹豫不决。$(br2)$(info) 你可以将野麦制作为它的种子，野麦种子可以种植在耕地上。"
     },
     {
       "type": "runic_shears_template",
       "recipe": "wildewheet",
       "name": "Wildewheet",
-      "text": "Use Runic Shears on a fully grown wheat crop to obtain your first wildewheet."
+      "text": "对着成熟的小麦作物使用符文剪刀，你可以获得野麦。"
     },
     {
       "type": "crafting",

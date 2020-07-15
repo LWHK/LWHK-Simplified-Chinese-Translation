@@ -1,5 +1,5 @@
 {
-  "name": "Stalicripe",
+  "name": "石笋",
   "icon": "roots:stalicripe",
   "category": "herbs",
   "advancement": "roots:pyre",
@@ -8,7 +8,7 @@
       "type": "spotlight",
       "item": "roots:stalicripe",
       "link_recipe": true,
-      "text": "A rough, rugged plant that feels rough - almost the texture of recently hewn stone.$(br2)$(info) Can only be grown on $(l:resources/elemental_soil)Terran Soil.$()"
+      "text": "看上去就相当坚硬粗糙的植物- 看上去就像是刚被砍掉一小块的的石头的粗糙截面。$(br2)$(info)只有种在 $(l:resources/elemental_soil)地素土$()上才能生长。"
     },
     {
       "type": "ritual_crafting_template",

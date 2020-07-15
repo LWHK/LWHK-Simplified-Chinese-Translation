@@ -1,5 +1,5 @@
 {
-  "name": "Other Imbuements",
+  "name": "其它注造器用法",
   "icon": "roots:imbuer",
   "category": "basics",
   "advancement": "roots:root",
@@ -8,19 +8,19 @@
     {
       "type": "spotlight",
       "item": "roots:imbuer",
-      "text": "In addition to $(l:basics/spells)imbuing and removing spells$(), the Imbuer can also be used to repair items.$(br2)Place a damaged item in the Imbuer and then places the appropriate repair material in next. These are consumed once the process is complete, and the damaged item is repaired & returned."
+      "text": "注造器除了能够$(l:basics/spells)注入以及抹消咒术$()，还可以用于修复物品损伤。$(br2)向注造器中放入磨损的物品，接着再向其中放入合适的修复材料，这些材料会在修复完成后被消耗掉。经此处理后的损伤物品将会光洁如初，耐久度完全恢复。"
     },
     {
       "type": "spotlight",
       "item": "roots:wildwood_helmet",
       "advancement": "roots:wildwood",
-      "text": "$(l:apparatus/wildwood_armor)Wildwood armor pieces$() along with the $(l:apparatus/wildwood_bow)wildwood bow$() & $(l:apparatus/wildwood_quiver)quiver$() can be repaired with $(l:resources/wildwood)wildwood bark$().$(br2)In addition to the Imbuer, wildwood bark can repair these items in an anvil for the usual costs."
+      "text": "$(l:apparatus/wildwood_armor)野木套装$()以及$(l:apparatus/wildwood_bow)野木弓$() & $(l:apparatus/wildwood_quiver)野木箭袋$()都可以通过$(l:resources/wildwood)野木树皮$()进行修复。$(br2)你也可以在铁砧中对野木套装使用树皮修复，不过使用的材料量会与通常的其它物品的修复消耗一致。"
     },
     {
       "type": "spotlight",
       "item": "roots:sylvan_helmet",
       "advancement": "roots:runic_shears",
-      "text": "$(l:apparatus/sylvan_armor)Sylvan armor pieces$() can be repaired with $(l:resources/fey_leather)fey leather$().$(br2)In addition to the Imbuer, fey leather can repair these items in an anvil for the usual costs."
+      "text": "$(l:apparatus/sylvan_armor)繁森套装$()可以使用$(l:resources/fey_leather)精灵皮革$().$(br2)In addition to the Imbuer, fey leather can repair these items in an anvil for the usual costs."
     },
     {
       "type": "spotlight",

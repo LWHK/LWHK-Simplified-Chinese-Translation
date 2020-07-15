@@ -1,6 +1,6 @@
 {
-    "name": "Natural Resources",
+    "name": "自然资源",
     "sortnum" : 4,
-    "description": "Asides from herbs, there are a number of resources to be gathered from this world (and others).$(br2)Some of these resources are used in the construction of armor & weapons, while others are used to better the growing of herbs and the construction of rituals.",
+    "description": "除却草药之外，在主世界（当然，也包括其它世界）当中你还能找到大量可供采集的资源。$(br2)有些资源可被用于制造武器以及防具，而有些则可以促进草药的生长，亦或者用于仪式构建之中。",
     "icon": "roots:bark_oak"
   }
