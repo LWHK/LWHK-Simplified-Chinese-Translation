@@ -1,5 +1,5 @@
 {
-  "name": "Geas",
+  "name": "誓约",
   "icon": "roots:spell_dust",
   "category": "spells",
   "advancement": "roots:wildewheet",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "The targeted creature is placed under a geas, preventing them from attacking the caster for a short period of time."
+      "text": "目标生物将会受到誓约的束缚，短时间内生物无法攻击施术者。"
     },
     {
       "type": "spell_template",

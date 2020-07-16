@@ -1,5 +1,5 @@
 {
-  "name": "Gathering",
+  "name": "集聚",
   "icon": "roots:ritual_gathering",
   "category": "rituals",
   "advancement": "roots:wildewheet",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Items that litter the ground will be picked up at regular intervals and deposited into an inventory placed directly beneath the pyre.$(br2)$(standing_stones) $(l:rituals/ritual_gathering#multiblock)This ritual requires standing stones.$()"
+      "text": "仪式将会以 一定的时间间隔搜寻并拾捡附近的物品，并将这些物品储存至柴堆下方的容器中。$(br2)$(standing_stones) $(l:rituals/ritual_gathering#multiblock)这一仪式需要石柱进行辅助。$()"
     },
     {
       "type": "pyre_template",

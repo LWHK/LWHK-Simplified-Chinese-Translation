@@ -1,5 +1,5 @@
 {
-  "name": "Rampant Growth",
+  "name": "狂野生长",
   "icon": "roots:spell_dust",
   "category": "spells",
   "advancement": "roots:spirit_herb",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "A channeled spell which infuses surrounding plants with natural energy, rapidly increasing their growth.$(br2)$(info) Although fast, this spell can be expensive if you do not have the resources to maintain it."
+      "text": "引导咒术，向周围的植物注入自然能量，极大地加速植物生长。$(br2)$(info) 尽管很快，但如果你没有足够的资源去维持咒术引导，那么这个咒术的成本还是相当昂贵的。"
     },
     {
       "type": "spell_template",

@@ -1,5 +1,5 @@
 {
-  "name": "Flower Growth",
+  "name": "花卉生长",
   "icon": "roots:ritual_flower_growth",
   "category": "rituals",
   "advancement": "roots:pyre",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Sprout forth a variety of beautiful flowers. They grow quickly in the area around the ritual, and can be used for many things.$(br2)$(info) This ritual is an excellent source of flowers in order to make $(l:resources/petals)petals$()."
+      "text": "催生出各式各样的珍奇花朵。花朵会出现于仪式周围，采摘下来，这些花朵有着许多用途。$(br2)$(info)这一仪式的绝好的$(l:resources/petals)花瓣$()来源。"
     },
     {
       "type": "pyre_template",

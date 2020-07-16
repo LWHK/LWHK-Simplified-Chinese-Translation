@@ -1,5 +1,5 @@
 {
-  "name": "Radiance",
+  "name": "闪耀辉光",
   "icon": "roots:spell_dust",
   "category": "spells",
   "advancement": "roots:infernal_bulb",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "A radiant beam of fire & sunlight strikes all targets in the direction you're facing.$(br2)$(info) This energy is especially effective against the undead."
+      "text": "在你所指向的地方召唤一道蕴含了火焰以及阳光的力量的射线。$(br2)$(info) 这股力量对亡灵尤其有效。"
     },
     {
       "type": "spell_template",

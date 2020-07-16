@@ -1,5 +1,5 @@
 {
-    "name": "Ritual Automation",
+    "name": "自动化仪式",
     "icon": "roots:bonfire",
     "category": "rituals",
     "advancement": "roots:pyre",
@@ -8,11 +8,11 @@
     "pages": [
         {
           "type": "text",
-          "text": "Once a ritual has been begun on a Pyre, the Pyre will begin looking for the same ingredients (or similar where the ore dictionary is used) in inventories below it. If found, these will be inserted into the Pyre.$(br2)At the end of a ritual, if the Pyre contains the items to repeat itself, the fire does not go out but starts anew, consuming the items."
+          "text": "一旦柴堆开启了某个仪式，柴堆就会在其下方的容器内搜寻与目前所使用的原料相同(或者相似，如果是以矿物词典的形式进行合成) 的物品。如果检测到有相同的物品，那么柴堆就会将这些物品置入它的内置空间中。$(br2)仪式将要结束时，如果柴堆还有着足够重复进行仪式的材料，柴堆就会开始新一轮的仪式，当然，会消耗原料。"
         },
         {
           "type": "multiblock",
-          "name": "Chest Location",
+          "name": "箱子位置",
           "multiblock": {
             "mapping": {
               "0": "minecraft:chest",
@@ -25,15 +25,15 @@
               [" ", " ", " "]
             ]
           },
-          "text": "Any inventory will suffice, be it vanilla or modded."
+          "text": "任意的容器都可以，无论是原版的还是mod添加的。"
         },
       {
         "type": "text",
-        "text": "In addition to consuming items, the Pyre will also attempt to consume nearby fire in order to light itself.$(br2)Given the correct ingredients, the decay of nearby fire will be hastened and the ritual will be started.$(br2)Fire can be placed anywhere in a 3x3x3 cube around the Pyre, as demonstrated in the following visualisation.$(br2)$(warning) Currently only vanilla fire is supported."
+        "text": "除了物品消耗，柴堆还会尝试消耗附近的火种来点亮自身。$(br2)在有了正确的原料以及配比后，附近的火焰熄灭速度会加快，仪式也即将开始。$(br2)火焰方块可以放置在柴堆附近的3x3x3的空间内，下方有可视详解图。$(br2)$(warning)目前可用于消耗的火焰种类仅包括原版火焰。"
       },
       {
           "type": "multiblock",
-          "name": "Fire Locations",
+          "name": "火焰位置",
           "multiblock": {
             "mapping": {
               "0": "roots:bonfire",
@@ -48,7 +48,7 @@
               ["     ", "     ", "     "]
             ]
           },
-          "text": "All positions of bars & grass are places the Pyre will look for fire."
+          "text": "柴堆会在上图中的所有铁锭以及草的位置寻找火焰。"
       }
     ]
 }

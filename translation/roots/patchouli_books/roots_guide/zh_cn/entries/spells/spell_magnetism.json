@@ -1,5 +1,5 @@
 {
-  "name": "Magnetism",
+  "name": "磁化之力",
   "icon": "roots:spell_dust",
   "category": "spells",
   "advancement": "roots:staff",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "While iron is known for its magnetic properties, combining it with redstone and wildroot allows for a more magical approach to the concept of item retrieval.$(br2)Instead of pulling items towards the caster, they are instantly teleported to your feet.$(br2)$(info) Experience orbs may also be collected with this spell."
+      "text": "人们都知道铁有磁力，如果我们将铁与红石和野根混合在一起，我们就能用咒术的力量进行物品吸附了。$(br2)这一咒术不会将附近的物品拉扯到你身边，而是直接将这些物品传送到你的脚下。$(br2)$(info) 咒术同样也会对经验球生效。"
     },
     {
       "type": "spell_template",

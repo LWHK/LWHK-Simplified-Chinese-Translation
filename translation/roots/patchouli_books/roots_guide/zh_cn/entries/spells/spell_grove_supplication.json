@@ -1,5 +1,5 @@
 {
-    "name": "Grove Supplication",
+    "name": "森流祈愿",
     "icon": "roots:spell_dust",
     "category": "spells",
     "advancement": "roots:root",
@@ -7,7 +7,7 @@
     "pages": [
       {
         "type": "text",
-        "text": "Supplicates and entreats the spirits of the fey to come forth to a nearby, anchoring Grove Stone. After its activation, the stone itself, acting as an anchor or a gateway, will visibly pull energy towards itself.$(br2)As time progresses, the activated Stone will begin transforming the world around it."
+        "text": "祈愿精灵之魂聚集于此，定锚森林之石。咒术生效之后，森林之石既是锚也是门径，将周围的能量拉扯到它身边，这一过程是以可视形式发生的。$(br2)咒术生效之后，被激活的森林之石会逐渐改变周围的世界环境。"
       },
       {
         "type": "spell_template",

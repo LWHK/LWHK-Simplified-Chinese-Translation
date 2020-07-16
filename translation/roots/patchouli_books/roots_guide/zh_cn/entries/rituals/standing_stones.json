@@ -1,5 +1,5 @@
 {
-    "name": "Standing Stones",
+    "name": "石柱",
     "icon": "roots:chiseled_runestone",
     "category": "rituals",
     "advancement": "roots:pyre",
@@ -8,11 +8,11 @@
     "pages": [
         {
           "type": "text",
-          "text": "In addition to the $(l:basics/pyre)Pyre$() and the required ingredients, some rituals require standing stones.$(br2)These two- or three- high blocks of $(resources/runestone)runestone$() capped with $(resources/runestone#chiseled)chiseled runestone$() are detailed in the ritual entry.$(br2)$(warning) Placement of these can vary from what is documented, but the lowest stone $(bold)must$() be on the same level as the Pyre."
+          "text": "一些仪式除了需要$(l:basics/pyre)柴堆$()以及仪式材料，还需要石柱。$(br2)这些两格或者三格高的 $(resources/runestone)符文石$()，其上还会放上一些$(resources/runestone#chiseled)雕凿符文石$()作为加盖。石柱的详细的数据会在对应仪式章节中介绍。$(br2)$(warning) 石柱摆放的位置可以与书上所说的位置不一致，但石柱最底下的符文石$(bold)必须$()与柴堆处于同一水平面。"
         },
         {
           "type": "multiblock",
-          "name": "3-high Stones",
+          "name": "三格高石柱",
           "multiblock": {
             "mapping": {
               "0": "roots:chiseled_runestone",
@@ -29,7 +29,7 @@
         },
       {
           "type": "multiblock",
-          "name": "4-high stones",
+          "name": "四格高石柱",
           "multiblock": {
             "mapping": {
               "0": "roots:chiseled_runestone",
@@ -46,7 +46,7 @@
       },
       {
         "type": "text",
-        "text": "Indeed, not all rituals require standing stones, but some rituals may require other objects (such as offering plates or trees).$(br2)All rituals with external requirements will show $(standing_stones) along with a link to a display of one potential arrangement of them.$(br2)In addition, all displays can be visualised in-world by clicking on the eye in the bottom-left corner."
+        "text": "不是所有的仪式都需要石柱，有些仪式还会需要使用别的东西(譬如供奉盘以及树木)。$(br2)有着额外需求的仪式都会有$(standing_stones) 这一提示，同时还会给出一个链接，这一链接会显示一种石柱的潜在排列可能。$(br2)此外，所有的操作都可以在世界中以可视化的形式出现，只需点击一下演示图例左下角的那个小眼睛。"
       }
 
     ]

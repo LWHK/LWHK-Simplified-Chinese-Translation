@@ -1,5 +1,5 @@
 {
-  "name": "Sense Animals",
+  "name": "感知动物",
   "icon": "roots:spell_dust",
   "category": "spells",
   "advancement": "roots:wildewheet",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Animals near to the caster will begin glowing, making it easy to pinpoint their location.$(br2)$(info) Glowing animals can be seen through all solid objects."
+      "text": "施术者周围的动物开始发光，循着光亮，施术者可以很快找到那些藏起来的动物。$(br2)$(info) 你可以穿过固体方块看到发光的动物。"
     },
     {
       "type": "spell_template",

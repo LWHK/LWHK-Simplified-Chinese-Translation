@@ -1,5 +1,5 @@
 {
-  "name": "Iced Touch",
+  "name": "冰霜之触",
   "icon": "roots:spell_dust",
   "category": "spells",
   "advancement": "roots:dewgonia",
@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "This is a simple spell for applying the effects of water in the world without getting wet yourself! It can be used on fire to extinguish it or lava to make obsidian."
+      "text": "这一咒法可以让你在手不沾水的情况下对水施加效果！它也可以用来熄灭火焰以及冷凝黑曜石。"
     },
     {
       "type": "spell_template",
