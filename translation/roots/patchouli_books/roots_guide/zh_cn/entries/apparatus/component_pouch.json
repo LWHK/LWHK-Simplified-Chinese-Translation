@@ -14,7 +14,7 @@
       {
         "type":"crafting",
         "recipe": "roots:component_pouch",
-        "title": "Component Pouch",
+        "title": "药草袋",
         "text": "袋内右侧的槽位仅供收纳各类药草，而左侧则可供存放一些琐物。$(br2)$(info) 施放咒术后，屏幕左下角会显示当前咒术可用的药草余量。"
       },
       {
