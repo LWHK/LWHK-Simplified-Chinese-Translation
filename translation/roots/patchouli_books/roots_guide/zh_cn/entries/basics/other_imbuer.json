@@ -20,12 +20,12 @@
       "type": "spotlight",
       "item": "roots:sylvan_helmet",
       "advancement": "roots:runic_shears",
-      "text": "$(l:apparatus/sylvan_armor)繁森套装$()可以使用$(l:resources/fey_leather)精灵皮革$().$(br2)In addition to the Imbuer, fey leather can repair these items in an anvil for the usual costs."
+      "text": "$(l:apparatus/sylvan_armor)繁森套装$()可以使用$(l:resources/fey_leather)精灵皮革$().$(br2)你也可以在铁砧中对繁森套装使用精灵皮革修复，不过使用的材料量会与通常的其它物品的修复消耗一致。"
     },
     {
       "type": "spotlight",
       "item": "minecraft:iron_helmet",
-      "text": "Standard vanilla items can be repaired with their relevant anvil repair item, but without the repair cost.$(br2)In addition, many other modded items can also be repaired -- if they can be repaired in an anvil."
+      "text": "原版物品同样也可以在注造器上使用对应的材料进行修复，但没有原版修复的经验消耗。$(br2)此外，如果是mod添加的物品，只要铁砧可以修复这一物品，那么注造器同样也可以。"
     },
       {
         "type": "relations",
