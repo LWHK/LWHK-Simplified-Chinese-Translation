@@ -23,7 +23,7 @@
       },
       {
         "type": "multiblock",
-        "name": "Grove Stone",
+        "name": "森林之石",
         "multiblock": {
           "mapping": {
             "0": "roots:grove_stone",
@@ -43,7 +43,7 @@
       },
       {
         "type": "multiblock",
-        "name": "Fey Crafter",
+        "name": "精灵工作台",
         "multiblock": {
           "mapping": {
             "0": "roots:fey_crafter"

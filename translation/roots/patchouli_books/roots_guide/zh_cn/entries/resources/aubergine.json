@@ -24,7 +24,7 @@
     {
       "type": "runic_shears_template",
       "recipe": "aubergine",
-      "name": "Aubergine",
+      "name": "茄子",
       "text": "对着成熟的胡萝卜使用符文剪刀，你可以获得茄子。",
       "advancement": "roots:runic_shears"
     },
