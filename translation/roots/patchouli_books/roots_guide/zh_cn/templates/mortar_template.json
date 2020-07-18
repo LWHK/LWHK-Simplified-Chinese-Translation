@@ -63,7 +63,7 @@
     },
     {
       "type": "text",
-      "text": "将原料放入研钵，手持研杵研磨。Adding more of the same ingredient increases the output.",
+      "text": "将原料放入研钵，手持研杵研磨。可以一次性放入多个原料。",
       "x": 0,
       "y": 70
     }
