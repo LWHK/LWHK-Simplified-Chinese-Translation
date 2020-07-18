@@ -10,7 +10,7 @@ item.spell_dust.name=咒术尘
 item.staff.name=法杖
 item.straw.name=稻草
 item.flour.name=面粉
-item.firestarter.name=起火器
+item.firestarter.name=生火器
 item.living_pickaxe.name=蕴生之镐
 item.living_axe.name=蕴生之斧
 item.living_shovel.name=蕴生之锹
@@ -30,12 +30,12 @@ item.wildwood_helmet.name=野木头盔
 item.wildwood_chestplate.name=野木胸甲
 item.wildwood_leggings.name=野木护腿
 item.wildwood_boots.name=野木靴子
-item.component_pouch.name=药草袋
-item.creative_pouch.name=创造药草袋
-item.apothecary_pouch.name=药剂袋
+item.component_pouch.name=药草口袋
+item.creative_pouch.name=创造药草口袋
+item.apothecary_pouch.name=药师口袋
 item.wildwood_door.name=野木门
-item.life_essence.name=未知生命源质
-item.life_essence.entity_name=%s 的生命源质
+item.life_essence.name=未知生命精华
+item.life_essence.entity_name=%s 的生命精华
 
 tile.mortar.name=研钵
 tile.imbuer.name=注造器
@@ -77,8 +77,8 @@ tile.grove_stone.name=森林之石
 tile.fey_crafter.name=精灵工匠台
 tile.fey_light.name=精灵之光
 
-roots.tooltip.petaldust.notag=这个咒术尘没有NBT数据! 它很有可能会出错, 不要使用它!
-roots.tooltip.staff.notag=这个法杖没有NBT数据! 它很有可能会出错, 不要使用它!
+roots.tooltip.petaldust.notag=这个咒术尘没有NBT数据! 它很有可能会出错，不要使用它!
+roots.tooltip.staff.notag=这个法杖没有NBT数据! 它很有可能会出错，不要使用它!
 roots.tooltip.staff.selected=已选择槽位： 
 roots.tooltip.pouch_divider=: x
 roots.tooltip.trap_paper_health=生命： 
@@ -90,12 +90,13 @@ roots.tooltip.creative_pouch1=仅限创造模式。
 roots.tooltip.creative_pouch2=携带或装备后不消耗施法材料。
 roots.tooltip.life_essence=使用符文剪刀来获取。
 roots.tooltip.life_essence.uses=消耗：%s/%s
+roots.tooltip.livinghoe=可一次性破坏大范围内的植物
 
 roots.info.staff.slot_and_spell=所选的槽位 (%d) 已经有咒术: %s
-roots.info.staff.no_slots=你的法杖已经没有位置给新的咒术!
-roots.info.staff.empty_slot=法杖槽位已经清空.
-roots.info.pouch.no_herbs=你在你的法术收容袋里没有足够的 %s !
-roots.info.pouch.no_pouch=你需要一个装有所需药草的法术收容袋来施放咒术！
+roots.info.staff.no_slots=你的法杖已经没有位置写入新的咒术!
+roots.info.staff.empty_slot=法杖槽位已经清空
+roots.info.pouch.no_herbs=你的药草袋里没有足够的 %s !
+roots.info.pouch.no_pouch=你需要一个装有所需药草的药草袋来施放咒术！
 roots.info.pyre.repeat1=潜行右击
 roots.info.pyre.repeat2=空手
 roots.info.pyre.repeat3=来重复仪式
@@ -143,8 +144,8 @@ roots.ritual.ritual_germination.name=自然萌芽
 roots.ritual.ritual_purity.name=净化
 roots.ritual.ritual_frost_lands.name=霜冻之地
 roots.ritual.ritual_animal_harvest.name=动物采收
-roots.ritual.ritual_summon_creatures.name=生物召唤
-roots.ritual.ritual_wild_growth.name=野根生长
+roots.ritual.ritual_summon_creatures.name=召唤生物
+roots.ritual.ritual_wild_growth.name=野性涌动
 roots.ritual.ritual_overgrowth.name=过度生长
 roots.ritual.ritual_flower_growth.name=繁花争艳
 roots.ritual.ritual_transmutation.name=自然嬗变
@@ -174,18 +175,18 @@ item.ritual_healing_aura.name=仪式: 治疗光环
 item.ritual_heavy_storms.name=仪式: 暴风雨
 item.ritual_divine_protection.name=仪式: 神圣庇佑
 item.ritual_fire_storm.name=仪式: 火焰风暴
-item.ritual_spreading_forest.name=仪式: 森林蔓延
+item.ritual_spreading_forest.name=仪式: 绵延森流
 item.ritual_windwall.name=仪式: 风之墙
 item.ritual_warding_protection.name=仪式: 结界庇护
-item.ritual_germination.name=仪式: 萌芽
+item.ritual_germination.name=仪式: 自然萌芽
 item.ritual_purity.name=仪式: 净化
 item.ritual_frost_lands.name=仪式: 霜冻之地
-item.ritual_animal_harvest.name=仪式: 动物收获
-item.ritual_summon_creatures.name=仪式: 生物召唤
-item.ritual_wild_growth.name=仪式: 野根生长
+item.ritual_animal_harvest.name=仪式: 动物采收
+item.ritual_summon_creatures.name=仪式: 召唤生物
+item.ritual_wild_growth.name=仪式: 野性涌动
 item.ritual_overgrowth.name=仪式: 过度生长
-item.ritual_flower_growth.name=仪式: 花卉生长
-item.ritual_transmutation.name=仪式: 转变
+item.ritual_flower_growth.name=仪式: 繁花争艳
+item.ritual_transmutation.name=仪式: 自然嬗变
 item.ritual_gathering.name=仪式：集聚
 
 #Knifes
@@ -211,7 +212,7 @@ advancement.roots.pyre.desc=为魔法仪式和合成搭建一个柴堆!
 advancement.roots.fey_crafter=森林 101
 advancement.roots.fey_crafter.desc=建造一个精灵工匠台来获取森林之石头之力
 advancement.roots.grove_stone=屹立如初
-advancement.roots.grove_stone.desc=用仪式向精灵祈愿来激活森林之石
+advancement.roots.grove_stone.desc=用咒术向精灵祈愿来激活森林之石
 advancement.roots.pereskia=精灵花瓣
 advancement.roots.pereskia.desc=利用火堆合成木麒麟
 advancement.roots.runic_shears=跨领域剪
@@ -243,7 +244,7 @@ advancement.roots.sylvan_armor.desc=获得一整套繁森盔甲
 advancement.roots.wildwood_armor=自然之护
 advancement.roots.wildwood_armor.desc=获得一整套野木盔甲
 advancement.roots.apothecary_pouch=草药之家
-advancement.roots.apothecary_pouch.desc=合成药剂袋来提高你的存储空间
+advancement.roots.apothecary_pouch.desc=合成药师口袋来提高你的存储空间
 advancement.roots.wildwood=荒野，野木!
 advancement.roots.wildwood.desc=通过任意形式野根生长仪式获得野木
 
@@ -266,7 +267,7 @@ item.cloud_berry.name=云莓
 item.baffle_cap.name=困惑蘑菇
 tile.baffle_cap.name=困惑蘑菇
 tile.baffle_cap_mushroom.name=困惑蘑菇
-tile.baffle_cap_huge_stem.name=巨大的困惑蘑菇干
+tile.baffle_cap_huge_stem.name=巨大的困惑蘑菇茎干
 tile.baffle_cap_huge_top.name=巨大的困惑蘑菇顶部
 
 # Bark
@@ -307,15 +308,15 @@ item.cooked_pereskia.name=烤熟的木麒麟
 item.wildewheet_bread.name=野麦面包
 item.fey_leather.name=精灵皮革
 
-tile.magmatic_soil.effect=收获作物时直接烤制该作物掉落物。
-tile.aqueous_soil.effect=让作物在成熟时自动收获并掉落。
-tile.caelic_soil.effect=使作物生长速度加快。
-tile.terran_soil.effect=在收获作物时增加其产量。
+tile.magmatic_soil.effect=收获作物时直接烤制该作物掉落物
+tile.aqueous_soil.effect=让作物在成熟时自动收获并掉落
+tile.caelic_soil.effect=使作物生长速度加快
+tile.terran_soil.effect=在收获作物时增加其产量
 
 # JEI
-container.roots.summon_creatures.name=生物召唤
+container.roots.summon_creatures.name=召唤生物
 container.roots.runic_shears.name=符文剪刀
-container.roots.runic_shears_entity.name=仪式剪刀实体
+container.roots.runic_shears_entity.name=使用符文剪刀剪取实体
 container.roots.runic_carving.name=符文雕刻
 container.roots.ritual_crafting.name=柴堆合成仪式
 container.roots.mortar_and_pestle.name=钵与杵
@@ -325,23 +326,23 @@ container.roots.spell_costs.name=咒术消耗
 container.roots.spell_modifiers.name=咒术修改
 container.roots.bark_carving.name=树皮雕刻
 container.roots.terra_moss.name=苔藓刮取
-jei.roots.terra_moss.desc=用小刀从苔藓圆石刮掉获得. 注入大地孢子的圆石在与水相邻时会长出苔藓
-jei.roots.terra_spores.desc=破坏草可掉落; 可将与水相邻的圆石变成苔藓圆石
-jei.roots.wildroot.desc=破坏草可掉落，另外还极为罕见的从野木树的叶子可掉落
+jei.roots.terra_moss.desc=用小刀从苔藓圆石刮掉获得。注入大地苔藓孢子的圆石在与水相邻时会长出苔藓
+jei.roots.terra_spores.desc=破坏草可掉落；可将与水相邻的圆石变成苔石
+jei.roots.wildroot.desc=破坏草可掉落，另外还极为罕见的从野木树的叶子中掉落
 jei.roots.bark.desc=通过用小刀破坏原木可获得
-jei.roots.wildwood.desc=曾经是德鲁伊的圣树, 现在世上唯一剩下的就是它们的野根. 一个熟练的德鲁伊利用这些残留物, 并加以正确的咒语和组分, 可以激活野根生长仪式
-jei.roots.wildwood_sapling.desc=一棵稀有的珍贵幼苗, 不再生成, 几乎所有的它们都随着老年德鲁伊而隐秘
-jei.roots.wildwood_leaves.desc=与其它树的叶子不同, 神圣的野木不再有孕育树苗的力量. 相反，野根作为野木所有部分中的共同生命核心, 可能被发现藏在树叶和树枝之间
+jei.roots.wildwood.desc=曾经是德鲁伊的圣树，现在世上唯一剩下的就是它们的野根。一个熟练的德鲁伊利用这些残留物，并加以正确的咒语和组分，可以激活野性涌动仪式
+jei.roots.wildwood_sapling.desc=一棵稀有的珍贵幼苗，不再生成，几乎所有的它们都随着老年德鲁伊而隐秘
+jei.roots.wildwood_leaves.desc=与其它树的叶子不同，庄严的野木不再有孕育树苗的力量。相反，野根作为野木所有部分中的共同生命核心，可能被发现藏在树叶和树枝之间
 jei.roots.elemental_soil_fire.desc=把一块元素土扔进岩浆而形成
-jei.roots.elemental_soil_water.desc=把一块元素土扔进水中, 并等待几秒钟而形成
-jei.roots.elemental_soil_air.desc=把一块元素土扔到离天空更近的表面上而不被发现而形
-jei.roots.elemental_soil_earth.desc=把一块元素土扔到被天空和地面深处覆盖的表面而形成
-jei.roots.runic_shears.cooldown=每%d秒可获取物品
+jei.roots.elemental_soil_water.desc=把一块元素土扔进水中，并等待几秒钟而形成
+jei.roots.elemental_soil_air.desc=把一块元素土扔到露天的高空而形成
+jei.roots.elemental_soil_earth.desc=把一块元素土置入不见天日的地底而形成
+jei.roots.runic_shears.cooldown=每%d秒可获取一次物品
 jei.roots.open_book_button_text=打开书
 # Quiver
 roots.quiver.picked_up_arrow=重新取回箭
-roots.quiver.quiver_full=你的箭袋满了
-roots.quiver.fragile=这些生长的箭不能捡起
+roots.quiver.quiver_full=你的箭袋已满
+roots.quiver.fragile=这些箭袋长出的箭不能捡起
 roots.quiver.broke=所有箭都坏了
 
 # Config
@@ -363,7 +364,7 @@ config.roots.category.crops.tooltip=配置生长类与收获类咒术的相关�
 roots.hud.grove_stone.valid=有效石头
 roots.hud.pyre.recipe=合成: %s
 roots.hud.pyre.ritual=仪式: %s
-roots.hud.pyre.progress=进度: %s 分钟剩余
+roots.hud.pyre.progress=进度: 剩余 %s 分钟
 
 roots.hud.top.pyre.recipe=合成:
 roots.hud.top.pyre.ritual=仪式:
@@ -372,20 +373,20 @@ roots.hud.top.pyre.progress_info=分钟剩余
 
 # Runic Shears
 roots.runic_shears.cooldown=此时精灵没有什么等价物可以送给你.
-roots.life_essence.cooldown=你暂时还不能提取这个生物的源质。
-roots.life_essence.invalid=这个生物的生命源质无法提取。
+roots.life_essence.cooldown=你暂时还不能提取这个生物的精华。
+roots.life_essence.invalid=这个生物的生命精华无法提取。
 
 roots.runic_shears.right_click=右击
 roots.runic_shears.sneak_right_click=潜行右击
 roots.runic_shears.tooltip1=%s一个方块或实体来尝试收集精灵的馈赠。
-roots.runic_shears.tooltip2=%s一个实体来尝试提取它的生命源质。
+roots.runic_shears.tooltip2=%s一个实体来尝试提取它的生命精华。
 
 # Ritual of Transmutation
-roots.ritual.transmutation.deadbush_cocoa=通过转变仪式获取, 附近的枯灌丛会变成可可豆.
-roots.ritual.transmutation.birch_jungle=通过转变仪式获取, 附近的白桦树木会变成丛林树木.
-roots.ritual.transmutation.birch_jungle_leaves=通过转变仪式获取, 附近的白桦树叶会变成丛林树叶.
-roots.ritual.transmutation.pumpkin_melon=通过转变仪式获取, 靠近水的南瓜或者在水中的南瓜会变成西瓜.
-roots.ritual.transmutation.pumpkin_cactus=通过转变仪式获取, 南瓜放在沙上会变成仙人掌.
+roots.ritual.transmutation.deadbush_cocoa=通过自然嬗变仪式获取，附近的枯灌丛会变成可可豆.
+roots.ritual.transmutation.birch_jungle=通过自然嬗变仪式获取，附近的白桦树木会变成丛林树木.
+roots.ritual.transmutation.birch_jungle_leaves=通过自然嬗变仪式获取，附近的白桦树叶会变成丛林树叶.
+roots.ritual.transmutation.pumpkin_melon=通过自然嬗变仪式获取，靠近水的南瓜或者在水中的南瓜会变成西瓜.
+roots.ritual.transmutation.pumpkin_cactus=通过自然嬗变仪式获取，南瓜放在沙上会变成仙人掌.
 
 # CraftTweaker commands
 roots.commands.dump.desc=§2/ct roots_properties [mode]\n§3返回特定所有物列表至CraftTweaker日志文件。

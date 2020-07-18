@@ -20,7 +20,7 @@
       "type": "spotlight",
       "item": "roots:sylvan_helmet",
       "advancement": "roots:runic_shears",
-      "text": "$(l:apparatus/sylvan_armor)繁森套装$()可以使用$(l:resources/fey_leather)精灵皮革$().$(br2)你也可以在铁砧中对繁森套装使用精灵皮革修复，不过使用的材料量会与通常的其它物品的修复消耗一致。"
+      "text": "$(l:apparatus/sylvan_armor)繁森套装$()可以使用$(l:resources/fey_leather)精灵皮革$()进行修复。$(br2)你也可以在铁砧中对繁森套装使用精灵皮革修复，不过使用的材料量会与通常的其它物品的修复消耗一致。"
     },
     {
       "type": "spotlight",
