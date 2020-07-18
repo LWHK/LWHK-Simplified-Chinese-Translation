@@ -16,7 +16,7 @@
     {
       "type": "crafting",
       "recipe": "roots:imbuer",
-      "title": "Imbuer",
+      "title": "注造器",
       "text": "稍待片刻，静候注造完毕，是时咒术也将准备就绪。在法杖注造的过程之中，$(br2)待注入的咒术尘$(info) $(l:basics/spells#augmentation)可被其它试剂所增强$()。"
     },
     {
