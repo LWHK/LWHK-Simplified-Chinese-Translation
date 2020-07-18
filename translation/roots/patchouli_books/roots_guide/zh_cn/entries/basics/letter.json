@@ -19,48 +19,48 @@
       {
         "type": "text",
         "title": "野根",
-        "text": "我对$(l:herbs/wildroot)野根$()有着较为深入的研究，这一奇异的，魔力充盈的根茎于地中杂乱生长，又或者潜匿在繁密的高草丛之间。$(br2)许久以前，它曾是一种名为“野木“的巨树之根。虽再也无法在这片大地上得见当年野木，但它留存于世的根茎却仍生机盎然。$(br2)与其它作物一样，野根可以在潮湿的耕地中生长。"
+        "text": "我对$(l:herbs/wildroot)野根$()有着较为深入的研究，这一奇异的，魔力充盈的根茎可能杂乱地生长在地里，也可能潜匿在繁密的高草丛之间。$(br2)许久以前，它曾是一种名为“野木”的巨树之根。虽再也无法在这片大地上得见当年野木，但它留存于世的根茎却仍生机盎然。$(br2)与其它作物一样，野根可以在潮湿的耕地中生长。"
       },
       {
         "type": "crafting",
         "recipe": "mysticalworld:stuffed_aubergine",
         "title": "茄子",
-        "text": "$(l:resources/aubergine)茄子$()，这种不起眼的植物，可单独烹制，亦可与其它其它蔬菜结合，细细烹调，亦为美味佳肴。$(br2)它所蕴藏的魔力较为微弱，但仍会是一些咒术及仪式中不可或缺的一员。与野根一样，茄子也可以种植与耕地上。"
+        "text": "$(l:resources/aubergine)茄子$()，这种不起眼的植物，既可单独烹制，亦可与其它其它蔬菜结合，细细烹调，亦为美味佳肴。$(br2)它所蕴藏的魔力较为微弱，但仍会是一些咒术及仪式中不可或缺的一员。与野根一样，茄子也可以种植与耕地上。"
       },
       {
         "type": "text",
-        "title": "大地孢子",
-        "text": "The $(l:herbs/terra_moss)strange spores$() which may be found in tall grass grow best when placed on rough stone near water. When scraped away carefully with a knife, it is clear that magic suffuses them.$(br2)However, fear not that you will spend your days breaking grass in search of spores, for there is a ritual, that of $(l:rituals/ritual_overgrowth)Overgrowth$(), which will magically grow this moss on suitable stone."
+        "title": "大地苔藓孢子",
+        "text": "这种$(l:herbs/terra_moss)奇异的孢子$()藏匿在高草之中，水汽可以使得它快速生长。当其长成为苔藓后，你便可以用小刀将其轻轻刮下；单是将其拿在手心，你就能感觉到其中所蕴藏的魔法能量。$(br2)当然，你无需担心这一过程会耗费过多的时间，因为有着特定的仪式可以让你迅速获得这些苔藓，该仪式为$(l:rituals/ritual_overgrowth)过度生长$()仪式，它将会在合适的石头上生成苔藓，方便刮取。"
       },
       {
         "type": "text",
         "title": "其它作物",
-        "text": "Fear not sacrificing the space around you for the cultivation of other crops, such as wheat or carrots. These will give you sustenance, and, you may find others like you in the world willing to trade their currency for your goods.$(br2)A well-kept garden will forever be a boon to you, and you might eventually find $(l:apparatus/runestone)a means to keep away trampling animals & monsters$()."
+        "text": "不必担心那些普通作物占据了你过多的田地，将其带回厨房精心制作，这些食物也能满足你的口腹之欲；同时，当你于草木山川之中游历时，你也能发现一些和你有着类似苦恼的人，只要你手头的货物是他们所需要的，它们就不会吝惜口袋中的钱财。$(br2)一个精心照料的田地总是能为你源源不断地产出收益，而为了守卫田地的和平宁静，你需要找到一些$(l:apparatus/runestone)能够驱逐那些试图入侵田地的怪物的方法$()。"
       },
       {
         "type": "text",
         "title": "其它德鲁伊",
-        "text": "Indeed, within these encampments you may find like-minded druids more progressed in the arts, who may be willing to trade essential items and resources in return for this currency.$(br2)This may give you a needed boost in resources, or perhaps, if discovered early enough, unlock new ideas and concepts. Some of them may even be willing to trade away their most valuable items!"
+        "text": "的确，在旅途中，你可能会找到一些与你在德鲁伊艺术之路上有着相同目标，但所研之精深还在你之上的德鲁伊，这些德鲁伊可能会愿意用一些关键物品以及资源来交换你手头的货物。$(br2)这一交换可能会在资源上给你一定的帮助，甚至如果你在早期就获得了这些资源，这些资源还有可能为你解锁新的想法和概念。有些德鲁伊甚至还有可能掏出传家宝与你进行交易！"
       },
       {
         "type": "text",
         "title": "稀有资源",
-        "text": "My research into the various spells & rituals has found that some require rare resources, be they from tropical climes, the wettest swamps or from the driest deserts.$(br2)Being older, I was unable to make such a journey, but have heard tell of a $(l:rituals/ritual_transmutation)ritual that harnesses runestones to turn mundane things into others$().$(br2)However, none of the texts available to me detailed it."
+        "text": "在深入研究了咒术以及仪式的相关知识之后，我发现有一些咒术消耗的资源尤其昂贵，有些于热带的悬崖峭壁傲然而立，有些则生长于潮湿闷热的沼泽，而有些则蛰伏于干旱至极的沙漠之中。$(br2)年老体衰的我已不足以完成一次漫长的旅途，但我曾听说$(l:rituals/ritual_transmutation)有些仪式可以通过操纵符文石，将一种资源转换为另一种$()。$(br2)然而，我却从未找到过有关这种仪式的详细文本。"
       },
       {
         "type": "text",
-        "text": "As I have mentioned my advancing years, the passage of time begins to feel like a closing loop that will end my current cycle on the land.$(br2)There have been times when I have had not had time to wait for crop to ripen, and at a lack of the common fertilizer which all herbs seem to respond to.$(br2)In these times of need, I found the $(l:spells/spell_growth_infusion)Spell of Growth Infusion$() useful, though tedious by nature."
+        "text": "就如我所说的，时光已在我身上留下了太多痕迹，流逝的时光犹如一个封闭的圆圈，而这一圆圈暗示了我，在这片广袤大地上的我，的生命循环也要迎来了终结。$(br2)孤身一人的我有时我无法忍受作物成熟的漫长等待，在这种时候，我多么希望我能有一种可以对所有的作物都起效的肥料，这样不就不必陷入苦苦等待之中了。$(br2)在这些需求的驱使下，我发现了$(l:spells/spell_growth_infusion)生机灌注咒术$()对这种情况尤为适用，尽管用多了之后，这一方法也十分单调乏味。"
       },
       {
         "type": "text",
-        "text": "Other texts speak of greater spells & rituals to grow entire fields & forests, and others yet to harvest them, but these are beyond my meagre skills. Perhaps you will succeed where I could not.$(br2)$(br2)Some final words: never despair! If you find yourself at a loss, and my words unable to help, ensure every avenue of research has been exhausted.$(br2)Often frustrations are eased by unlocking a new herb."
+        "text": "我这还留有了一些文本，其中的一部分是关于如何利用咒术以及仪式来催生田地一级树林，而另一部分讲解了如何采收那些生长出来的资源，但这些内容之深奥玄妙，我又岂敢以我浅薄的学识染指其中。后来的同行者，只希望你能在这条路上走的比我更远。$(br2)$(br2)我还有一言：永远不要放弃自己的信念！如果你感到前途暗淡而不知所措，亦或者我所说的无法帮助你解开困局，请你再往回检查一下，是否每条研究道路的内容都被你钻研通透了，如果没有，往往前方的道路就隐藏在这些被你忽视的角落当中。$(br2)如果你还是找不到方向，你可以尝试制作一些新的草药，这或许会给你新的启发。"
       },
       {
         "type": "text",
-        "text": "Fare the well, my friend! Although I will not live to see it, I know that even in your darkest moments there will be such sources of light and understanding that I cannot even comprehend them.$(br2)$(br2)- $(o)the name is too faded to read$()"
+        "text": "一路顺风，我的朋友！尽管我不能亲自看着你如何一步步成长，然而我却也知道，即便是在最黑暗的时刻，总会有光，总会有知识，以一种我无法理解的形式出现你眼前，为你展开一片新的天地。$(br2)$(br2)- $(o)署名已模糊不清$()"
       },
       {
         "type": "empty"
       }
     ]
-  }
+}

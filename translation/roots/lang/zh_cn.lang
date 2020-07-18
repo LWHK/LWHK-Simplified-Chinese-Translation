@@ -38,7 +38,7 @@ item.life_essence.name=未知生命源质
 item.life_essence.entity_name=%s 的生命源质
 
 tile.mortar.name=研钵
-tile.imbuer.name=注造台
+tile.imbuer.name=注造器
 tile.thatch.name=茅草
 tile.bonfire.name=柴堆
 tile.reinforced_bonfire.name=强化柴堆
@@ -126,7 +126,7 @@ roots.spell.spell_second_wind.name=吐故纳新
 roots.spell.spell_magnetism.name=磁化之力
 roots.spell.spell_sense_danger.name=危险感知
 roots.spell.spell_harvest.name=收获
-roots.spell.spell_rampant_growth.name=野蛮生长
+roots.spell.spell_rampant_growth.name=狂野生长
 roots.spell.spell_supplication.name=森流祈愿
 roots.spell.spell_fey_light.name=精灵微光
 roots.spell.spell_iced_touch.name=冰霜之触

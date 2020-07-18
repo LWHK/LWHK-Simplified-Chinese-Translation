@@ -82,19 +82,19 @@
     },
     {
       "type": "header",
-      "text": "Creation",
+      "text": "制作配方",
       "x": -1,
       "y": 0
     },
     {
       "type": "header",
-      "text": "Casting Cost",
+      "text": "施放消耗",
       "x": -1,
       "y": 76
     },
     {
       "type": "text",
-      "text": "See $(l:basics/spells)spellcrafting$().",
+      "text": "参见$(l:basics/spells)spellcrafting$().",
       "x": 27,
       "y": 140
     }
