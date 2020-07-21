@@ -1498,10 +1498,10 @@ golem.material.coldiron=寒铁
 golem.material.text.coldiron=这个傀儡是用寒铁制作的。虽然它与铁傀儡有许多相同的特性，但它提供了额外的力量来对抗恶魔和灵魂。
 
 research.MATSTUDSILVER.title=材料研究：银
-research.MATSTUDSILVER.stage.1=白银是一种贵金属，已经被找到来进行交易。 然而，尽管银的可塑性不如黄金，但银还是非常柔软和可塑。 <BR>亡灵生物似乎被银击退了，夜晚的其他生物也是如此。
+research.MATSTUDSILVER.stage.1=白银是一种贵金属，已经被找到来进行交易。然而，尽管银的可塑性不如黄金，但银还是非常柔软和可塑。<BR>亡灵生物似乎被银击退了，夜晚的其他生物也是如此。
 research.f_MATSTUDSILVER.text=调查银块
 golem.material.silver=银
-golem.material.text.silver=傀儡是由银制成的。 这种柔软且具有延展性的金属对亡灵生物也很有效。
+golem.material.text.silver=傀儡是由银制成的。这种柔软且具有延展性的金属对亡灵生物也很有效。
 
 research.MATSTUDDRAGONSBLOOD.title=材料研究：龙血树树脂
 research.MATSTUDDRAGONSBLOOD.stage.1=龙血树的树脂具有多种有趣的特性，尤其是其结构与人类的肉非常相似。<BR>尽管它可能不是制作傀儡的理想材料，但使用它可能是一种有趣而又可怕的经验

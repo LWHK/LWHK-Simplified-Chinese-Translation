@@ -236,12 +236,12 @@ uniquecrops.book.pageenderlily=末影百合喜欢传送自己到周围的空农�
 uniquecrops.book.pageferoxia=就像驯服野马那样, 有许多种方式可以savage plants促进其成长。但当你手工种植或是收获它时, 这本书会在这页的下一页中记录该作物每一阶段的生长要求。这种植株似乎与种植它的人绑定在了一起, 所以种植它的人必须待在游戏里才会促使其成长。此外, 一旦植株被收获，新种植下去的植株的生长步骤与之前的是不一样的。
 uniquecrops.book.pageinvisibilia=一旦种植, 那些没有佩戴特定眼镜的人是完全看不见sneaky crops的. 而当你看到它时，你就可以采摘下它了。
 uniquecrops.book.pageknowledge=它们无限地渴求着知识, 这些植株会在小范围内搜寻是否存在书架, 然后会在其上方的箱子容器内寻找可以被其吃掉其中的知识的书籍。我得提醒你，它并不仅仅是在复制书籍, 而且它也不会去吃它已经吃过的书。
-uniquecrops.book.pagemaryjane=熊熊燃烧! 这种植物喜欢类似于下界的环境。关于它的外观没什么可以多说的，唯一一个要注意的点是，它们会发出微弱的光。 当它完全生长之后, 收获这一植物的人只有站在火中才能成功收获它, 如果不这么做，那么这些植物就会喷吐出熊熊火焰，把自己烧为灰烬。
+uniquecrops.book.pagemaryjane=熊熊燃烧! 这种植物喜欢类似于下界的环境。关于它的外观没什么可以多说的，唯一一个要注意的点是，它们会发出微弱的光。当它完全生长之后, 收获这一植物的人只有站在火中才能成功收获它, 如果不这么做，那么这些植物就会喷吐出熊熊火焰，把自己烧为灰烬。
 uniquecrops.book.pagemerlinia=就像由T.H.White所写的那本经典书籍中所描述的, 这种植物似乎在时间上不断地向后倒退, 最开始显示出一种完全生长的状态, 然后倒退回其最幼小的状态。在你对其使用了一种特别的骨粉之后，这种情况便会发生。
 uniquecrops.book.pagemillennium=这种植物会消耗大量时间来进行生长; 它的名字“千岁兰”真的是一点也不夸张! 我甚至不确定它的掉落物是什么。因此想要培育这种植物，你得用上其它mod的催生装置才行。
 uniquecrops.book.pagemusica=这种作物会随着节拍以及音符盒的音乐翩翩起舞，在其跳舞时它们才会生长。它们对于曲子的口味选择由你决定。收获后会掉落随机音乐唱片。
 uniquecrops.book.pageprecision=These bright sparkers are quite precise! So precise, that there is only a small window where they can be successfully harvested to drop anything useful. Take cues from the growth visuals.
-uniquecrops.book.pageweepingbells=这种植物十分害羞, 但又很需要你的关心。 Weeping bells只会在你直直看向它的时候才会生长。即使他们成熟了,也不要移开你的视线,因为这样做会使得你的注意力转移到别处，惹他们生气。
+uniquecrops.book.pageweepingbells=这种植物十分害羞, 但又很需要你的关心。Weeping bells只会在你直直看向它的时候才会生长。即使他们成熟了,也不要移开你的视线,因为这样做会使得你的注意力转移到别处，惹他们生气。
 uniquecrops.book.pageeula=这可能是你见过的最守规矩的作物之一.因此当你想种植这些作物时,你得同意它们的协议.
 uniquecrops.book.pagedyeius=染料植物! 所有的染料都浓缩在了这一个植物里，你并不再需要分开种植各种不同的染料植物。它们的外观和各自的掉落物取决于收获时是白天还是夜晚。
 uniquecrops.book.pagecobblonia=这些作物非常的坚硬! 它们或许看上去仅仅像是一些普通的的石头, 但它们确实会在某些情况下发挥出自身的用处。一旦其成熟, 你就可以在其土壤两侧分别放上水和熔岩,以此可以免费地获取到随机数量的圆石。
@@ -410,7 +410,7 @@ uniquecrops.enchanting.missingcrops=Not all hexis crops are present.
 uniquecrops.enchanting.cropgrowth=Minimum crop growth requirements not met:
 
 # EULA LICENSE TEXT
-uniquecrops.eula.text0=在点击“I AGREE”按钮并种植或收获此作物之前,请仔细阅读此最终用户许可协议。当你点击“I AGREE”按钮并种植或收获作物，即表示您同意接受本协议的条款和条件的约束。 如果您不同意本协议的条款，请勿点击“我同意”按钮，您将不可以种植或收获作物。
+uniquecrops.eula.text0=在点击“I AGREE”按钮并种植或收获此作物之前,请仔细阅读此最终用户许可协议。当你点击“I AGREE”按钮并种植或收获作物，即表示您同意接受本协议的条款和条件的约束。如果您不同意本协议的条款，请勿点击“我同意”按钮，您将不可以种植或收获作物。
 uniquecrops.eula.text1=本mod严格按照本协议条款，授予您不可撤销的、不可占用的、不可转让的、有限的种植和使用农作物的许可，本模组仅用于您的个人、非商业目的.
 uniquecrops.eula.text2=在你同意此协议之后，你将不允许:许可，出售，出租，租赁，分配，分发，传输，主机，外包，披露披露或以其他方式对作物进行商业开发，或将作物提供给任何第三方.
 uniquecrops.eula.text3=本mod保留修改、暂停或永久停止其所连接的作物或任何服务的权利，无论是否通知您，也不向您承担任何责任.
