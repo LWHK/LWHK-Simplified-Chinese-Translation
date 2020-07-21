@@ -1,4 +1,12 @@
-﻿#BLOCKS
+﻿#BOOKS
+
+item.bewitchment.book_of_shadows.name=影之书
+info.bewitchment.book_of_shadows.landing=巫术是一门关于自然与魔法的艺术，这本书将会指引你去寻找你自身的隐秘。
+
+item.bewitchment.codex_infernalis.name=地狱法典
+info.bewitchment.codex_infernalis.landing=光是拿在手上，你就觉得这本书不太对劲… 敢来试一试吗？
+
+#BLOCKS
 tile.bewitchment.blessed_stone.name=祝福之石
 tooltip.bewitchment.blessed_stone=给予无限的祭坛之力，创造模式专属。
 
@@ -249,7 +257,7 @@ item.bewitchment.cold_iron_axe.name=寒铁斧
 item.bewitchment.cold_iron_shovel.name=寒铁锹
 item.bewitchment.cold_iron_hoe.name=寒铁锄
 
-item.bewitchment.cleaver_sword.name=屠夫之刃
+item.bewitchment.cleaver_sword.name=屠戮之刃
 
 item.bewitchment.garlic_grilled.name=烤大蒜
 item.bewitchment.elderberry_jelly.name=接骨木果冻
@@ -309,8 +317,8 @@ tooltip.bewitchment.grimoire_magia=贮存魔力: %d / %d
 item.bewitchment.juniper_key.name=杜松木钥匙
 tooltip.bewitchment.juniper_key=授予对 %d、%d、%d、%s 的访问权
 
-item.bewitchment.juniper_key_ring.name=杜松木钥匙圈 
-tooltip.bewitchment.juniper_key_ring.header=授权于:
+item.bewitchment.juniper_key_ring.name=杜松木钥匙环
+tooltip.bewitchment.juniper_key_ring.header=获得授权:
 tooltip.bewitchment.juniper_key_ring=-> %d, %d, %d, %s
 
 tile.bewitchment.stone_leonard_statue.name=伦纳德雕像-石头
@@ -332,9 +340,6 @@ tile.bewitchment.stone_lilith_statue.name=莉莉丝雕像-石头
 tile.bewitchment.nether_brick_lilith_statue.name=莉莉丝雕像-地狱砖
 tile.bewitchment.scorned_brick_lilith_statue.name=莉莉丝雕像-鄙夷方砖
 tile.bewitchment.gold_lilith_statue.name=莉莉丝雕像-黄金
-
-tile.bewitchment.goddess_statue.name=女神雕像
-tooltip.bewitchment.goddess_statue=移除玩家身上的所有诅咒
 
 
 
@@ -395,7 +400,7 @@ item.bewitchment.stone_ichor.name=岩汁
 item.bewitchment.diabolical_vein.name=恶魔血管
 item.bewitchment.pure_filament.name=真丝
 item.bewitchment.witches_stitching.name=女巫缝线
-item.bewitchment.sanguine_cloth.name=血污布料
+item.bewitchment.sanguine_cloth.name=猩红布匹
 item.bewitchment.spirit_string.name=魂丝
 item.bewitchment.golden_thread.name=金线
 
@@ -408,10 +413,6 @@ tile.bewitchment.coquina_stairs.name=贝壳灰岩楼梯
 
 tile.bewitchment.nethersteel_slab.name=下界钢台阶
 tile.bewitchment.nethersteel_stairs.name=下界钢楼梯
-
-
-tile.bewitchment.hedgewitches_carpet.name=绿野女巫地毯
-tile.bewitchment.alchemists_carpet.name=炼金术士地毯
 
 item.bewitchment.aconitum.name=乌头
 tooltip.bewitchment.aconitum=一种用来猎捕狼蛛的有毒花朵
@@ -574,7 +575,7 @@ entity.bewitchment.baphomet.name=巴弗灭
 entity.bewitchment.leonard.name=伦纳德
 
 entity.Villager.bewitchment.alchemist=炼金术士
-entity.Villager.bewitchment.witch=树篱女巫
+entity.Villager.bewitchment.witch=绿野女巫
 
 #ENCHANTMENT
 enchantment.bewitchment.magic_protection=魔力保护
@@ -640,7 +641,7 @@ curse.bewitchment.hydrophobia=恐水咒
 curse.bewitchment.lightning_rod=招雷咒
 curse.bewitchment.darkness=暗夜咒
 curse.bewitchment.palor_pestilence=白疫咒
-curse.bewitchment.paranoia=Curse of Paranoia
+curse.bewitchment.paranoia=偏执咒
 
 #FORTUNE
 fortune.has_fortune=%s的未来已经被揭示:%s
@@ -689,23 +690,22 @@ tarot.is_protected=%s 被严密地守护着。
 tarot.not_protected=%s 基本上就是裸奔。
 tarot.has_effect=%s 嗑了药。
 tarot.no_effect=%s 没有特殊效果在身。
-tarot.mobkills=%1$s 手刃了 %2$s 只怪物.
+tarot.mobkills=%1$s 手刃了 %2$s 只怪物。
 tarot.has_boss=%s 曾在危险面前倚刀长笑。
 tarot.no_boss=%s 尚未征服过任何伟大的存在。
-tarot.bloodshed=%1$s has robbed life from %2$s individual(s).
-tarot.is_shrouded=I can't see the target...
+tarot.bloodshed=%1$s 被 %2$s 夺走了生命
+tarot.is_shrouded=我看不到目标...
 
-tarot.demon_pledged=%s has pledged their soul to a demon.
-tarot.not_pledged=%s has no affiliation in the black arts.
+tarot.demon_pledged=%s 将他的灵魂抵押给了恶魔。
+tarot.not_pledged=%s 与这门黑暗艺术不再有关联了。
 
-tarot.is_cursed=%s has a rather bleak affliction.
-tarot.is_not_cursed=%s has no magical ailments.
+tarot.is_cursed=%s 宁愿承受这一苦痛悲凉。
+tarot.is_not_cursed=%s 没有患上魔法带来的疾病。
 
 baphomet.getcontract=你接受了七天的 %s 作为施舍。
 baphomet.lowlevel=你的级别太低了。
 baphomet.notpledged=你尚未对巴弗灭宣誓。
-baphomet.alreadyhascontract=你已经签订过一个契约了
-
+baphomet.alreadyhascontract=你已经有契约在身了
 #RITUAL
 ritual.null=你没有听说过这样的仪式
 
@@ -756,6 +756,7 @@ ritual.bewitchment.lesser_curse_cleansing=次级诅咒净化仪式
 ritual.bewitchment.greater_curse_cleansing=高级诅咒净化仪式
 ritual.bewitchment.biome_shift=沧海桑田仪式
 ritual.bewitchment.drought=炽热之沙仪式
+ritual.bewitchment.sowing_salt=枯萎之地仪式
 
 #INFO
 itemGroup.bewitchment=Bewitchment
@@ -769,6 +770,8 @@ tarot.player_offline=%s 处于离线状态
 
 juniper_key.invalid=您必须持有有效的杜松木钥匙才能使用
 
+skeleton_key.invalid.xp=你感觉你在触摸到骷髅钥匙时险些被榨干
+skeleton_key.invalid.me=骷髅钥匙拒绝变化成正确的形状
 
 advancements.bewitchment.crafted_altar.title=女巫的勾当
 advancements.bewitchment.crafted_altar.description=制作一个石头女巫祭坛
@@ -794,12 +797,45 @@ advancements.bewitchment.wore_green_witch_set.title=德鲁依特
 advancements.bewitchment.wore_green_witch_set.description=穿上全套的绿野女巫袍服和林精腰带
 advancements.bewitchment.obtained_box.title=带来惊喜的小结构
 advancements.bewitchment.obtained_box.description=在游戏中获得封魔盒
+advancements.bewitchment.argonaut.title=阿尔戈号的船员
+advancements.bewitchment.argonaut.description=FIREBOLT! FIREBOLT! FIREBOLT! FIREBOLT! FIREBOLT!
+advancements.bewitchment.ghost.title=净化进行中
+advancements.bewitchment.ghost.description=杀死一只幽灵
+advancements.bewitchment.slash.title=撕裂
+advancements.bewitchment.slash.description=获得一把屠戮之刃
+advancements.bewitchment.voodoo.title=谁在下咒？
+advancements.bewitchment.voodoo.description=制作出一个巫毒娃娃
+advancements.bewitchment.beast.title=野兽生涯
+advancements.bewitchment.beast.description=杀死一名狼人
+advancements.bewitchment.burn.title=缓缓灼烧
+advancements.bewitchment.burn.description=杀死一只杜尔登
+advancements.bewitchment.cauldron.title=蝾螈之眼，青蛙之趾
+advancements.bewitchment.cauldron.description=合成出釜锅
+advancements.bewitchment.distillery.title=物质渗出
+advancements.bewitchment.distillery.description=合成出蒸馏塔
+advancements.bewitchment.loom.title=纺车的学问
+advancements.bewitchment.loom.description=合成出纺车
+advancements.bewitchment.oven.title=汉赛尔与格莱特
+advancements.bewitchment.oven.description=合成出烤炉
+advancements.bewitchment.sigil_table.title=不是朱砂
+advancements.bewitchment.sigil_table.description=合成出符文台
+advancements.bewitchment.diabolus.title=恶魔，交易
+advancements.bewitchment.diabolus.description=与恶魔定下契约
+advancements.bewitchment.fda.title=未经FDA批准
+advancements.bewitchment.fda.description=合成出飞天软膏
+advancements.bewitchment.broom.title=自由飞行
+advancements.bewitchment.broom.description=合成出扫帚
+advancements.bewitchment.gaze.title=请不要再凝视镜面，只因其苦涩无情
+advancements.bewitchment.gaze.description=合成出水晶球
+advancements.bewitchment.cold_iron.title=仲夏夜之梦
+advancements.bewitchment.cold_iron.description=合成出寒铁锭
+advancements.bewitchment.brazier.title=神圣气息
+advancements.bewitchment.brazier.description=制作出火盆
 
 commands.fortune.get=%s 的命运: %s
 commands.fortune.set=%s 的命运被设定为 %s
 commands.fortune.remove=%s 的命运已被移除
 commands.fortune.execute=%s 的命运已被接受
-commands.fortune.execute.fail=%s's fortune failed to apply, condition not met!
 commands.fortune.nofortune=%s 没有命运
 commands.fortune.null=%s 不是一种命运
 
@@ -1199,12 +1235,12 @@ entity.bewitchment.given_name.366=Vanir
 entity.bewitchment.given_name.367=Pax
 
 # SCP Foundation, aka Cyber's nightmares
-entity.bewitchment.given_name.368=深红王
-entity.bewitchment.given_name.369=阿拉卡达的大使
-entity.bewitchment.given_name.370=黑领主
-entity.bewitchment.given_name.371=白领主
-entity.bewitchment.given_name.372=黄领主
-entity.bewitchment.given_name.373=红领主
+entity.bewitchment.given_name.368=The Scarlet King
+entity.bewitchment.given_name.369=Ambassador of Alagadda
+entity.bewitchment.given_name.370=Black Lord
+entity.bewitchment.given_name.371=White Lord
+entity.bewitchment.given_name.372=Yellow Lord
+entity.bewitchment.given_name.373=Red Lord
 
 # Continuation of mainline demon names
 entity.bewitchment.given_name.374=Faraii
@@ -1349,108 +1385,105 @@ entity.bewitchment.given_name.501=Erichtho
 entity.bewitchment.given_name.502=Amatsu-Mikaboshi
 
 //Titles
-entity.bewitchment.prefix.0=King
-entity.bewitchment.prefix.1=President
-entity.bewitchment.prefix.2=Duke
-entity.bewitchment.prefix.3=Marquis
-entity.bewitchment.prefix.4=Prince
-entity.bewitchment.prefix.5=Count
-entity.bewitchment.prefix.6=Knight
-entity.bewitchment.prefix.7=Commander
-entity.bewitchment.prefix.8=General
-entity.bewitchment.prefix.9=Archduke
-entity.bewitchment.prefix.10=Immortal
-entity.bewitchment.prefix.11=Baron
-entity.bewitchment.prefix.12=Grand Duke
-entity.bewitchment.prefix.13=Grand Prince
-entity.bewitchment.prefix.14=Margrave
-entity.bewitchment.prefix.15=Count-Palatine
-entity.bewitchment.prefix.16=Earl
-entity.bewitchment.prefix.17=Viscount
-entity.bewitchment.prefix.18=Baronet
-entity.bewitchment.prefix.19=Esquire
-entity.bewitchment.prefix.20=Sovereign Prince
-entity.bewitchment.prefix.21=Emperor
-entity.bewitchment.prefix.22=Admiral
-entity.bewitchment.prefix.23=Lieutenant
-entity.bewitchment.prefix.24=Chieftain
-entity.bewitchment.prefix.25=Suzerain
-entity.bewitchment.prefix.26=Sovereign
-entity.bewitchment.prefix.27=Regent
-entity.bewitchment.prefix.28=Commodore
-entity.bewitchment.prefix.29=Captain
-entity.bewitchment.prefix.30=Fool
-entity.bewitchment.prefix.31=Scion
-entity.bewitchment.prefix.32=Judge
-entity.bewitchment.prefix.33=Lord
-entity.bewitchment.prefix.34=Advisor
-entity.bewitchment.prefix.35=Vice-President
-entity.bewitchment.prefix.36=Archon
-entity.bewitchment.prefix.37=Corrector
-entity.bewitchment.prefix.38=Councillor
-entity.bewitchment.prefix.39=Doctor
-entity.bewitchment.prefix.40=Minister
-entity.bewitchment.prefix.41=Governor
-entity.bewitchment.prefix.42=Executor
-entity.bewitchment.prefix.43=Sergeant
-entity.bewitchment.prefix.44=Judicator
-entity.bewitchment.prefix.45=Legate
-entity.bewitchment.prefix.46=Warlord
-entity.bewitchment.prefix.47=Berserker
-entity.bewitchment.prefix.48=Thane
-entity.bewitchment.prefix.49=Vassal
-entity.bewitchment.prefix.50=High-King
-entity.bewitchment.prefix.51=Overlord
-entity.bewitchment.prefix.52=Consort
-entity.bewitchment.prefix.53=Viceroy
-entity.bewitchment.prefix.54=Senator
-entity.bewitchment.prefix.55=Burgrave
-entity.bewitchment.prefix.56=Gentleman
-entity.bewitchment.prefix.57=Princely Count
-entity.bewitchment.prefix.58=Colonel
-entity.bewitchment.prefix.59=Cadet
-entity.bewitchment.prefix.60=Marshal
-entity.bewitchment.prefix.61=Bishop
-entity.bewitchment.prefix.62=Guard
-entity.bewitchment.prefix.63=Chief
-entity.bewitchment.prefix.64=Specialist
-entity.bewitchment.prefix.65=Landgrave
-entity.bewitchment.prefix.66=King of Kings
-entity.bewitchment.prefix.67=Despot
-entity.bewitchment.prefix.68=Basileus
-entity.bewitchment.prefix.69=Dominus
-entity.bewitchment.prefix.70=Rex
-entity.bewitchment.prefix.71=Sir
-entity.bewitchment.prefix.72=Vice Admiral
-entity.bewitchment.prefix.73=Ensign
-entity.bewitchment.prefix.74=Scout
-entity.bewitchment.prefix.75=Officer
-entity.bewitchment.prefix.76=Haruspex
+entity.bewitchment.prefix.0=王
+entity.bewitchment.prefix.1=统领者
+entity.bewitchment.prefix.2=公爵
+entity.bewitchment.prefix.3=侯爵
+entity.bewitchment.prefix.4=王子
+entity.bewitchment.prefix.5=伯爵
+entity.bewitchment.prefix.6=骑士
+entity.bewitchment.prefix.7=指挥官
+entity.bewitchment.prefix.8=将军
+entity.bewitchment.prefix.9=皇太子
+entity.bewitchment.prefix.10=不朽者
+entity.bewitchment.prefix.11=男爵
+entity.bewitchment.prefix.12=大公
+entity.bewitchment.prefix.13=大王子
+entity.bewitchment.prefix.14=边疆伯爵
+entity.bewitchment.prefix.15=尊贵如王的伯爵
+entity.bewitchment.prefix.16=伯爵
+entity.bewitchment.prefix.17=子爵
+entity.bewitchment.prefix.18=准男爵
+entity.bewitchment.prefix.19=绅士
+entity.bewitchment.prefix.20=摄政王
+entity.bewitchment.prefix.21=君主
+entity.bewitchment.prefix.22=司令
+entity.bewitchment.prefix.23=中尉
+entity.bewitchment.prefix.24=首领
+entity.bewitchment.prefix.25=宗主
+entity.bewitchment.prefix.26=国王
+entity.bewitchment.prefix.27=摄政王
+entity.bewitchment.prefix.28=准将
+entity.bewitchment.prefix.29=指挥
+entity.bewitchment.prefix.30=愚者
+entity.bewitchment.prefix.31=子弟
+entity.bewitchment.prefix.32=审判者
+entity.bewitchment.prefix.33=领主
+entity.bewitchment.prefix.34=顾问
+entity.bewitchment.prefix.35=副统领
+entity.bewitchment.prefix.36=执政官
+entity.bewitchment.prefix.37=校订者
+entity.bewitchment.prefix.38=议员
+entity.bewitchment.prefix.39=医生
+entity.bewitchment.prefix.40=大臣
+entity.bewitchment.prefix.41=管理者
+entity.bewitchment.prefix.42=执行者
+entity.bewitchment.prefix.43=中士
+entity.bewitchment.prefix.44=严法者
+entity.bewitchment.prefix.45=使节
+entity.bewitchment.prefix.46=军阀
+entity.bewitchment.prefix.47=狂战士
+entity.bewitchment.prefix.48=乡绅
+entity.bewitchment.prefix.49=封臣
+entity.bewitchment.prefix.50=高位王
+entity.bewitchment.prefix.51=大君主
+entity.bewitchment.prefix.52=伙伴
+entity.bewitchment.prefix.53=总督
+entity.bewitchment.prefix.54=参议员
+entity.bewitchment.prefix.55=贵族
+entity.bewitchment.prefix.56=绅士
+entity.bewitchment.prefix.57=高贵伯爵
+entity.bewitchment.prefix.58=上校
+entity.bewitchment.prefix.59=学员
+entity.bewitchment.prefix.60=元帅
+entity.bewitchment.prefix.61=主教
+entity.bewitchment.prefix.62=守卫
+entity.bewitchment.prefix.63=首领
+entity.bewitchment.prefix.64=专家
+entity.bewitchment.prefix.65=伯爵
+entity.bewitchment.prefix.66=万王之王
+entity.bewitchment.prefix.67=暴君
+entity.bewitchment.prefix.68=异邦的国王
+entity.bewitchment.prefix.69=上帝
+entity.bewitchment.prefix.70=王
+entity.bewitchment.prefix.71=先生
+entity.bewitchment.prefix.72=中将
+entity.bewitchment.prefix.73=少尉
+entity.bewitchment.prefix.74=侦察员
+entity.bewitchment.prefix.75=军官
+entity.bewitchment.prefix.76=僧人
 entity.bewitchment.prefix.77=Big
-entity.bewitchment.prefix.78=High Mage
-entity.bewitchment.prefix.79=Mage
-entity.bewitchment.prefix.80=Mystic
-entity.bewitchment.prefix.81=Scryer
-entity.bewitchment.prefix.82=Scorned
-entity.bewitchment.prefix.83=Prophet
-entity.bewitchment.prefix.84=Auspex
-entity.bewitchment.prefix.85=Wizard
-entity.bewitchment.prefix.86=Magnate
-entity.bewitchment.prefix.87=Mercenary
-entity.bewitchment.prefix.88=Soothsayer
-entity.bewitchment.prefix.89=Archmage
-entity.bewitchment.prefix.90=Augur
-entity.bewitchment.prefix.91=Chancellor
-entity.bewitchment.prefix.92=Squire
+entity.bewitchment.prefix.78=高位巫师
+entity.bewitchment.prefix.79=巫师
+entity.bewitchment.prefix.80=神秘者
+entity.bewitchment.prefix.81=占卜师
+entity.bewitchment.prefix.82=轻蔑者
+entity.bewitchment.prefix.83=先知
+entity.bewitchment.prefix.84=鸟卜者
+entity.bewitchment.prefix.85=术士
+entity.bewitchment.prefix.86=权贵
+entity.bewitchment.prefix.87=佣兵
+entity.bewitchment.prefix.88=预言家
+entity.bewitchment.prefix.89=大法师
+entity.bewitchment.prefix.90=占兆官
+entity.bewitchment.prefix.91=司法官
+entity.bewitchment.prefix.92=地主
 entity.bewitchment.prefix.93=Vidame
-entity.bewitchment.prefix.94=Premier
-entity.bewitchment.prefix.95=Elder
-entity.bewitchment.prefix.96=Chief Executive
-entity.bewitchment.prefix.97=Chief Minister
-entity.bewitchment.prefix.98=Minister-President
-entity.bewitchment.prefix.99=Prime Minister
-entity.bewitchment.prefix.100=Patriarch
-entity.bewitchment.prefix.101=Matriarch
+entity.bewitchment.prefix.94=首相
+entity.bewitchment.prefix.95=年长者
+entity.bewitchment.prefix.96=最终裁定者
+entity.bewitchment.prefix.100=主教
+entity.bewitchment.prefix.101=女族长
 
 # Thaumcraft compat
 tc.aspect.diabolus=恶魔，不洁，亵渎
@@ -1485,6 +1518,6 @@ golem.trait.blessed=祝福
 golem.trait.text.blessed=这个傀儡与恶魔和灵魂对抗时显得特别强大。
 
 golem.trait.uncanny=离奇
-golem.trait.text.uncanny=这种傀儡与人类的肉具有不可思议的相似之处。甚至对其他怪物都对它有种轻微的排斥感。
+golem.trait.text.uncanny=这种傀儡与人类的肉具有不可思议的相似之处。甚至其他怪物都对它有种轻微的排斥感。
 
 ritual.cannot_start=然而，什么事都没有发生……
