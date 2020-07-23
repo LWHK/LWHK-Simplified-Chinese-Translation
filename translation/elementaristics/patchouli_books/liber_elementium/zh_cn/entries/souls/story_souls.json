@@ -5,34 +5,34 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(marked)灵魂$()与$(marked)身体$()以及$(marked)心智$()是任何可被叫做“活着的”存在的三种关键组成部分.$(br)所有清醒的灵魂又有以下三个组成部分: $(br2)-An Anima$(br)-An Astral Body$(br)-A Silver Thread"
+      "text": "$(marked)灵魂$()与$(marked)身体$()以及$(marked)心智$()是任何可被叫做“活着的”存在的三种关键组成部分.$(br)所有清醒的灵魂又有以下三个组成部分: $(br2)-An Anima$(br)-An Astral Body$(br)-银白螺纹（A Silver Thread）"
     },
     {
       "type": "text",
-      "text": "灵魂创生的具体过程无人知晓; 然而，人们至少知道这一过程发生在外部，在 $(marked)混沌层$()中的某处， and influenced by other spheres nearby with $(marked)奥术辐射$()，determining many important aspects。$(br)这一过程就好似数种相互竞争的力量所组成的荒诞嬉戏。"
+      "text": "灵魂创生的具体过程无人知晓; 然而，人们至少知道这一过程发生在外部，在 $(marked)混沌层$()中的某处，并受到周围其他领域的影响 $(marked)奥术辐射$()，决定了许多重要的方面。$(br)这一过程就好似数种相互竞争的力量所组成的荒诞嬉戏。"
     },
     {
       "type": "text",
       "title": "The Anima",
-      "text": "$(marked)The Anima$() is basically the core of the soul，creating emotions and controlling the complex.$(br)It is filled with $Magan，a blend of various aspects，from which one is $Mana，raw arcane energy itself，which determines the arcane receptivity of its owner。It should be noted that it also interferes with the soul's health."
+      "text": "$(marked)The Anima$()基本上讲是灵魂的核心，是创造情感并控制情感的复合体。$(br)它充满了$源力（Magan同时也是各方面的混合，其中一个是$魔力（Mana），原始法术能量本身，它决定了其拥有者的法术接受能力。应该注意的是，它也会影响灵魂的健康程度。"
     },
     {
       "type": "text",
       "title": "The Astral Body",
-      "text": "The Astral Body is created through the complete $(marked)entropification of stardust$()，which is how it got its name。It surrounds the Anima like a protecting shell，which basically is its main function，as the Anima greatly attracts chaos energy due to it's immersive amout of arcane energy。The Astral Body refines this chaotic energy or repels it，based on the intensity."
+      "text": "The Astral Body是通过完成 $(marked)entropification的星尘$()这就是它得名的原因。它围绕着the Anima像一个保护壳，这就是它的主要功能，因为the Anima极大程度上地吸引混沌能量，且它沉浸在法术能量中。The Astral Body根据强度来提炼或排斥这种混沌能量。"
     },
     {
       "type": "text",
-      "text": "The Astral Body can also，unlike the other parts of the soul，contain information about other entities，such as multiversal dragons or even deities。This may be handy later..."
+      "text": "而且The Astral Body，与灵魂的其他部分不同，它包含了关于其他实体的信息，比如multiversal dragons，甚至是神。"
     },
     {
       "type": "text",
-      "title": "The Silver Thread",
-      "text": "$(marked)The Silver Thread$() is the connection of the soul to the body，which reached entire universes (just to get the soul to its owner upon creation)。It is the conduit of all the information the soul produces and the root of our sanity。The origin of the Silver Thread is unknown，and every speculation seems equally implausible and unrealistic."
+      "title": "银白螺纹（The Silver Thread）",
+      "text": "$(marked)银白螺纹（The Silver Thread）$() 是灵魂和身体的连接，它甚至达到了整个宇宙 (只是为了让灵魂在被创造时到达它的主人那里)。它是灵魂产生的所有信息的管道，也是我们理智的根源。银白螺纹（The Silver Thread）的起源是未知的，每一个猜测似乎都是不可信和不现实的。"
     },
     {
       "type": "text",
-      "text": "The Silver Thread can be damaged and even be broken，causing the owner of the soul to either become insane ($(marked)and break their borders of reason$()) or to die。Without a Silver Thread，a soul will cease to exist."
+      "text": "银白螺纹（The Silver Thread）会被损坏甚至被破坏，这导致灵魂的主人变得疯狂($(marked)打破他们理性的边界$())或者使他们死亡。如果没有银白螺纹（A Silver Thread），灵魂将不复存在"
     }
   ]
 }

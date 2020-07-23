@@ -1,12 +1,12 @@
 {
-  "name": "Cleanse",
+  "name": "净化",
   "icon": "",
   "category": "soulogy",
   "advancement": "elementaristics:progress_ascension_5",
   "pages": [
     {
       "type": "text",
-      "text": "The $(marked)Cleansing$() Spell will heal its user by a moderate amount，and will remove one negative potion effect，too."
+      "text": "The $(marked)净化$() 这个法术将会给施法者一定的治疗，并且移除一个负面效果。"
     }
   ]
 }

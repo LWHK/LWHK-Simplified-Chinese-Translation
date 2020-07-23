@@ -1,12 +1,12 @@
 {
-  "name": "Blink",
+  "name": "闪烁",
   "icon": "",
   "category": "soulogy",
   "advancement": "elementaristics:progress_ascension_5",
   "pages": [
     {
       "type": "text",
-      "text": "The $(marked)Blink$() spell will teleport its user towards the point they're looking at.$(br)This spell will，by default，teleport to the safest spot，guaranteeing to have ground under the feet after teleporting.$(br)Alternatively，the caster can sneak while using it。This will cast an unsafe，but accurate，teleport."
+      "text": "$(marked)闪烁$() 法术将传送施法者到他们正在看的地方.$(br)默认情况下，这个法术会将施法者传送到最安全的地点，保证传送后有地面在脚下。$(br)或者，施法者可以偷偷地使用它。这时将释放一个不安全但准确的传送。"
     }
   ]
 }

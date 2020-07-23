@@ -1,16 +1,16 @@
 {
-  "name": "Crystal Protection",
+  "name": "水晶防护",
   "icon": "",
   "category": "soulogy",
   "advancement": "elementaristics:progress_ascension_5",
   "pages": [
     {
       "type": "text",
-      "text": "$(marked)Crystal Protection$() is a special spell.$(br)It will cover its user with hard crystals，which are sustained by Magan.$(br2)The effect will prevent all damage to have full effect，and will instead decrease it to the least amount."
+      "text": "$(marked)水晶防护$()是一种特殊的法术$(br)它将用由源力（Magan）维持的坚硬水晶覆盖在施法者的身上。$(br2)这个法术将阻止所有的伤害产生完全效果，而不是减少到最小的数量。"
     },
     {
       "type": "text",
-      "text": "Each time the protected target is hit，the effect's duration will decrease，and Magan will be consumed.$(br)If either the effect ends，or the Magan drops to zero，no damage will be absorbed."
+      "text": "每次被保护的目标被击中，法术的持续时间将减少，且源力（Magan）将被消耗.$(br)如果法术的效果结束，或者源力（Magan）降为零，那么没有伤害会被吸收。"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "name": "Fireball Charge",
+  "name": "充能火球",
   "icon": "",
   "category": "soulogy",
   "advancement": "elementaristics:progress_ascension_5",
   "pages": [
     {
       "type": "text",
-      "text": "The $(marked)Fireball Charge$() will transform its user into an explosive ball of fire!$(br)This will immensely increase their speed; however，this fireball might not be able to stop。Once this fireball collides with a living entity，it will explode，dealing immense amounts of damage.$(br)The effect can immediately be stopped by sneaking."
+      "text": "$(marked)充能火球$()会把它的用户变成一个爆炸性的火球！$(br)这将极大地提高它们的速度;然而，这个火球可能无法停止。一旦这个火球与一个有生命的实体碰撞，它会发生爆炸，并造成巨大的伤害。$(br)通过潜行可以阻止这种效果。"
     }
   ]
 }

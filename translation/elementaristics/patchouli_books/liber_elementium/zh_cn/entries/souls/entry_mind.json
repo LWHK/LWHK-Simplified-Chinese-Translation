@@ -1,16 +1,16 @@
 {
-  "name": "The Mind",
+  "name": "心灵",
   "icon": "elementaristics:block_silver_thread",
   "category": "soulogy",
   "advancement": "elementaristics:progress_ascension_identification",
   "pages": [
     {
       "type": "text",
-      "text": "$(marked)The Mind$() is one of the more unusual places for a cultist to visit，yet it is indeed very important。$(br)It is the place where one must fight the $(marked)Silver Thread$()，an entity of the soul which sets boundaries (and sanity etc。we all know that)."
+      "text": "$(marked)心灵$() 对于一个信徒来说，这是一个比较不寻常的地方，但它确实非常重要$(br)这是作为一个人，必须与之争斗的地方 $(marked)银线$()，限定了灵魂的界限 (还有理智。这是我们都知道的)."
     },
     {
       "type": "text",
-      "text": "In order to enter the Mind，one must first consume $(l:alchemy/entry_laudanum)Magic Laudanum$() through the flame and then sleep in a bed.$(br)Then，they will find themselves in the Mind，though it is highly recommended to be secured with some kind of occult help for what may be done here."
+      "text": "要想进入心灵世界，就必须要先毁灭一切 $(l:alchemy/entry_laudanum)魔法鸦片酊$() 穿过那心中的火焰，然后睡在床上。$(br)他们会在头脑中找到自己的位置，尽管我们强烈建议他们在这里做一些神秘的事情。"
     },
     {
       "type": "image",
@@ -19,11 +19,11 @@
         "elementaristics:textures/images/fly.png"
       ],
       "border": true,
-      "text": "$(l)The Mind$()"
+      "text": "$(l)心灵$()"
     },
     {
       "type": "text",
-      "text": "The Player will find themselves between two layers，from which one is made out of $(item)Fabric of Passion$() (above) while the other one is made out of $(item)Fabric of Reason$() (below)，though more Fabric of Passion might be found underneath it。$(br)Additionally，another layer of Passion can be found over the current one."
+      "text": "你会发现你处在两层之间，而其中一层就是由这两层组成的 $(item)激情的织物$() (above) 而另一个是由 $(item)由于织物n$() (below)，尽管在它的背后可能隐藏着更多的激情。$(br)从理论上讲，另一层激情可以在当前的激情之上找到。"
     },
     {
       "type": "image",
@@ -32,26 +32,26 @@
         "elementaristics:textures/images/thread.png"
       ],
       "border": true,
-      "text": "Looking around in this place，one might sooner or later find an anomaly."
+      "text": "环顾这个地方,迟早人们会发现异常。"
     },
     {
-      "type": "spotlight",
+      "type": "焦点",
       "item": "elementaristics:block_silver_thread",
-      "text": "In the center of those，a tangible fraction of the Silver Thread can be found。When activated，it will summon the actual Silver Thread，which has to be slain。Once it is slain by a player，the player can use this block to teleport back to their bed."
+      "text": "在这些方块的中央，你可以找到银白螺纹（the silver thread）的有形部分。当它被激活时，它便会召唤真正的银白螺纹（the silver thread）。一旦它被玩家杀死，玩家就可以使用这个方块传送回自己的床上。"
     },
     {
       "type": "entity",
       "entity": "elementaristics:silver_thread",
       "offset": 0.1,
-      "text": "$(l)The Silver Thread$()"
+      "text": "$(l)银白螺纹（the silver thread）$()"
     },
     {
       "type": "text",
-      "text": "The Silver Thread on its own is not that strong，compared to other more powerful entities。However，it has the ability to only be damaged by two units，and that only by players。This makes the fight against it a fight of time，in which the player must try not to get hit。Shields and items that slow down enemies are recommended.$(br)As the Silver Thread will change location upon being hit，the fighting player must be cautious."
+      "text": "与其他更强大的实体相比，银白螺纹（the silver thread）本身并没有那么强大。然而，它每次最多只能受到两个单位的伤害，而且只能被玩家伤害。这使得与它的战斗成为一场时间之战，在这场战斗中，玩家必须小心谨慎地不被击中。在此推荐使用盾牌和某些物品来减慢敌人的速度。$(br)因为银白螺纹（the silver thread）会在被击中后改变位置，所以玩家在战斗时必须小心。"
     },
     {
       "type": "text",
-      "text": "In order to leave the Mind，one must activate the tangible Silver Thread again，after the Silver Thread entity has been slain."
+      "text": "为了离开心灵世界，你必须在银白螺纹（the silver thread）被杀死后，再次激活有形的银线。"
     }
   ]
 }
