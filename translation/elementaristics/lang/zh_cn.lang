@@ -20,7 +20,7 @@ elementaristics.config.cultist_textures=Aspect-based Cultist Textures
 elementaristics.potion.intoxicated=迷醉
 elementaristics.potion.trance=恍惚
 elementaristics.potion.focused=专注
-elementaristics.potion.dread=恐惧
+elementaristics.potion.dread=惊惧
 elementaristics.potion.contentment=满足
 elementaristics.potion.ecstasy=狂喜
 elementaristics.potion.fear=恐惧
@@ -125,7 +125,7 @@ item.incantation_binding.name=绑定符咒
 item.incantation_unbinding.name=解绑符咒
 item.incantation_health_share.name=共享符咒
 item.incantation_reforging.name=重铸符咒
-item.incantation_glorious.name=Glorious Incantation
+item.incantation_glorious.name=神耀符咒
 item.incantation_emptiness.name=Hollow Incantation
 item.incantation_pact.name=神秘契约
 
@@ -551,7 +551,7 @@ message.meditation_ascension.name=§6意识已然重塑，下一步即是改造�
 message.ascension_body.name=§6躯体已然重塑。皮肤摸起来就像是陶土，但更加坚硬。
 
 message.meditation_to_contentment.name=§6狂喜弥漫, 但随即如同不息的车轮般向前离去。但它总会留下一些... 满足, 观念上的满足。
-message.meditation_to_dread.name=§6地球绕日旋转，永不消亡......但有时我们会忘记这个真相，而这些时刻即是恐惧降临之时。
+message.meditation_to_dread.name=§6地球绕日旋转，永不消亡......但有时我们会忘记这个真相，而这些时刻即是惊惧降临之时。
 message.meditation_to_fear.name=§6日光隐去，黑暗升起。它吞噬一切，它散播恐惧。
 message.meditation_to_silence.name=§6随着意识习惯于恐惧，它突然静止。静止之后，万籁无声。
 message.meditation_to_laughter.name=§6突然间我们大笑不止。
