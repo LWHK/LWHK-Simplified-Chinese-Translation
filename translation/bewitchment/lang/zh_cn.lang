@@ -441,23 +441,23 @@ item.bewitchment.sanguine_cloth.name=猩红布匹
 item.bewitchment.spirit_string.name=魂丝
 item.bewitchment.golden_thread.name=金线
 
-tile.bewitchment.mossy_scorned_bricks.name=苔痕鄙夷方砖s
+tile.bewitchment.mossy_scorned_bricks.name=苔痕鄙夷方砖
 tile.bewitchment.mossy_scorned_brick_slab.name=苔痕鄙夷方砖台阶
 tile.bewitchment.mossy_scorned_brick_stairs.name=苔痕鄙夷方砖楼梯
 
 tile.bewitchment.coquina_slab.name=贝壳灰岩台阶
 tile.bewitchment.coquina_stairs.name=贝壳灰岩楼梯
 
-tile.bewitchment.nethersteel_slab.name=Nethersteel台阶
-tile.bewitchment.nethersteel_stairs.name=Nethersteel楼梯
+tile.bewitchment.nethersteel_slab.name=下界钢台阶
+tile.bewitchment.nethersteel_stairs.name=下界钢楼梯
 
 tile.bewitchment.greenwitch_fleece.name=Hedgewitch Fleece
 tile.bewitchment.besmirched_fleece.name=Besmirched Fleece
 tile.bewitchment.alchemists_fleece.name=Alchemist Fleece
 
-tile.bewitchment.hedgewitches_carpet.name=Hedgewitch Carpet
-tile.bewitchment.besmirched_carpet.name=Besmirched Carpet
-tile.bewitchment.alchemists_carpet.name=Alchemist Carpet
+tile.bewitchment.hedgewitches_carpet.name=绿野女巫地毯
+tile.bewitchment.besmirched_carpet.name=污渍法师地毯
+tile.bewitchment.alchemists_carpet.name=炼金术师地毯
 
 item.bewitchment.aconitum.name=乌头
 tooltip.bewitchment.aconitum=一种用来猎捕狼蛛的有毒花朵
@@ -685,10 +685,10 @@ incense.bewitchment.intensity=强度
 incense.bewitchment.concentration=浓度
 
 curse.bewitchment.return_to_sender=返弹咒
-curse.bewitchment.misfortune=厄运咒
+curse.bewitchment.misfortune=灾厄咒
 curse.bewitchment.conflagration=炎上咒
 curse.bewitchment.solar_hatred=金乌之仇
-curse.bewitchment.overheating=中暑
+curse.bewitchment.overheating=惧热咒
 curse.bewitchment.hydrophobia=恐水咒
 curse.bewitchment.lightning_rod=招雷咒
 curse.bewitchment.darkness=暗夜咒
@@ -816,6 +816,8 @@ ritual.bewitchment.greater_curse_cleansing=高级诅咒净化仪式
 ritual.bewitchment.biome_shift=沧海桑田仪式
 ritual.bewitchment.drought=炽热之沙仪式
 ritual.bewitchment.sowing_salt=枯萎之地仪式
+ritual.bewitchment.natures_blessing=自然祝福仪式
+
 
 #INFO
 itemGroup.bewitchment=Bewitchment
@@ -829,8 +831,8 @@ tarot.player_offline=%s 处于离线状态
 
 juniper_key.invalid=您必须持有有效的杜松木钥匙才能使用
 
-skeleton_key.invalid.xp=The Skeleton Key drains you to the touch
-skeleton_key.invalid.me=The Skeleton Key refuses to take on the right shape
+skeleton_key.invalid.xp=你感觉你在触摸到骷髅钥匙时险些被榨干
+skeleton_key.invalid.me=骷髅钥匙拒绝变化成正确的形状
 
 advancements.bewitchment.crafted_altar.title=女巫的勾当
 advancements.bewitchment.crafted_altar.description=制作一个石头女巫祭坛
@@ -853,7 +855,7 @@ advancements.bewitchment.wore_alchemist_set.description=穿上全套的炼金术
 advancements.bewitchment.wore_besmirched_set.title=地狱烈焰之主
 advancements.bewitchment.wore_besmirched_set.description=穿上全套的污渍法师袍服和地狱饰品
 advancements.bewitchment.wore_green_witch_set.title=德鲁依特
-advancements.bewitchment.wore_green_witch_set.description=穿上全套的绿野女巫袍服和林精腰带
+advancements.bewitchment.wore_green_witch_set.description=穿上全套的绿野女巫袍服和森林女神腰带
 advancements.bewitchment.obtained_box.title=带来惊喜的小结构
 advancements.bewitchment.obtained_box.description=在游戏中获得封魔盒
 advancements.bewitchment.argonaut.title=阿尔戈号的船员
