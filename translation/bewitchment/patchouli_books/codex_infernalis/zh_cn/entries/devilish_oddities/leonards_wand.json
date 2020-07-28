@@ -1,16 +1,16 @@
 {
-  "name": "Leonard's Wand",
+  "name": "伦纳德法杖",
   "category": "devilish_oddities",
   "icon": "bewitchment:leonards_wand",
   "pages": [
 	{
 	  "type": "text",
-	  "text": "A special wand belonging to Master Leonard himself. Those who manage to acquire it are able to cast brews just as they would a spell, and each brew gives about 8 “charges”. Though actually acquiring it is another matter. Leonard only gives it up when his current shade is killed, which is no easy task."
+	  "text": "这一法杖的主人为大师伦纳德。持有这一法杖的人可以像施放法术那样施放药水效果，每瓶药水可以给予你8层“充能”，然而，法杖本身没有充能，你需要自行给法杖充能。伦纳德只有在其影子被击杀后才会放弃自己的法杖，然而这件事并不容易。"
 	},
 	{
 	  "type": "spotlight",
 	  "item": "bewitchment:leonards_wand",
-	  "text": "The wand cannot be repaired or enchanted"
+	  "text": "这一法杖无法修复，也无法附魔。"
 	}
   ]
 }

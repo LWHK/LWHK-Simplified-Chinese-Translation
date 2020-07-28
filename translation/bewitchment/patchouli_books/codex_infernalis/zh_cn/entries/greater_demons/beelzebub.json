@@ -1,23 +1,23 @@
 {
-  "name": "Lord Beelzebub",
+  "name": "魔王别西卜",
   "category": "greater_demons",
   "icon": "minecraft:rotten_flesh",
   "pages": [
 	{
 	  "type": "text",
-	  "text": "Do you even know what you've done? You attempt to understand us, in ignorance, and in vain."
+	  "text": "你知道你正在做什么吗？你居然敢尝试理解我们，无知，也徒劳无用。"
 	},
 	{
 	  "type": "text",
-	  "text": "There will be a time I come to you. You will see what I can do. And you will run in fear as you know my name. My minions will darken the skies."
+	  "text": "终有一刻我会降临于你身边，而你，将会有幸见识到我真正的力量。知晓了我的名字，你只能带着恐惧逃窜。我的仆从遮天蔽日，你，无处可逃。"
 	},
 	{
 	  "type": "text",
-	  "text": "A crushed, fly-like entity with a human face is smeared against this page. It also smells really bad."
+	  "text": "一个破碎的，类似于苍蝇却有着一张人脸的实体被涂抹在了本页上，散发着令人作呕的气味。"
 	},
 	{
 	  "type": "text",
-	  "text": "There is nothing you can do to stop me. Moloch, Lilith, Herne, Leonard, Baphomet, they are all but shallow reflections in the grand scheme of things. I'm what lies underneath."
+	  "text": "你阻止不了我。摩洛克，莉莉丝，赫恩，伦纳德，巴弗灭，它们只是万事万物的宏伟图景中最肤浅的投影，而我，则身居于底层之中。"
 	}
   ]
 }

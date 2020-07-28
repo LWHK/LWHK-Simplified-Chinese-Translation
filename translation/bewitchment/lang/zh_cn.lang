@@ -193,7 +193,7 @@ tile.bewitchment.mossy_scorned_brick_wall.name=苔痕鄙夷方砖墙
 tile.bewitchment.despair_brick_wall.name=绝望方砖墙
 tile.bewitchment.ochre_despair_brick_wall.name=赭色绝望方砖墙
 tile.bewitchment.coquina_wall.name=贝壳灰岩墙
-tile.bewitchment.embittered_brick_wall.name=愤怒方砖墙
+tile.bewitchment.embittered_brick_wall.name=鄙夷方砖墙
 tile.bewitchment.nethersteel_wall.name=下界钢墙
 
 tile.bewitchment.mossy_scorned_brick_fence.name=苔痕鄙夷方砖栅栏
@@ -411,7 +411,7 @@ item.bewitchment.silver_nugget.name=银粒
 item.bewitchment.cold_iron_nugget.name=寒铁粒
 item.bewitchment.salt.name=盐
 
-item.bewitchment.stew_of_the_grotesque.name=大乱炖
+item.bewitchment.stew_of_the_grotesque.name=荒谬炖菜
 
 item.bewitchment.unfired_jar.name=未烧制的粘土罐子
 item.bewitchment.empty_jar.name=空粘土罐子
