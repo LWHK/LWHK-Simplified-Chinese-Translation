@@ -118,7 +118,7 @@
 			},
 			{
 				"type": "text",
-				"value": "创造魔法符文，始终绕不过去的第一个坎就是摹画图样。\n\n想要进行摹画，你需要一块空白样板，以及符文锻造锤以及凿子。 利用这些工具，你可以一点点地在样板上凿出你所需要的符文。\n\n雕凿样板时务必小心，因为任何细小的失误都会让所有工作推倒重来！"
+				"value": "创造魔法符文，始终绕不过去的第一个坎就是摹画图样。\n\n想要进行摹画，你需要一块空白样板，以及符文锻造锤以及凿子。利用这些工具，你可以一点点地在样板上凿出你所需要的符文。\n\n雕凿样板时务必小心，因为任何细小的失误都会让所有工作推倒重来！"
 			}
 		],
 		"related_recipes": [
@@ -159,7 +159,7 @@
 			},
 			{
 				"type": "text",
-				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保多有的东西都放置在了正确的位置，如果你讲物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。The next step will be to take the rune to your Manaweaving Altar to put the enchantment onto the rune."
+				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保多有的东西都放置在了正确的位置，如果你讲物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。下一步则是为你的符文附魔。"
 			}
 		],
 		"related_recipes": [
@@ -182,7 +182,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Manaweave Enchanting"
+				"value": "符文附魔"
 			},
 			{
 				"type": "text",
@@ -232,11 +232,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "节肢动物之祸"
+				"value": "节肢杀手"
 			},
 			{
 				"type": "text",
-				"value": "节肢动物之祸附魔可以提高你对节肢动物的伤害，譬如蜘蛛，洞穴蜘蛛，蠹虫以及末影人。"
+				"value": "节肢杀手附魔可以提高你对节肢动物的伤害，譬如蜘蛛，洞穴蜘蛛，蠹虫以及末影人。"
 			}
 		],
 		"related_recipes": [
@@ -902,11 +902,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Magic Broom"
+				"value": "魔法扫帚"
 			},
 			{
 				"type": "text",
-				"value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?"
+				"value": "魔法扫帚被附魔上了自动收集掉落物的能力，它可以收集指定容器周围的掉落物，并将掉落物放入容器内。这一造物用处很大。我在想，我能不能再造出一点新玩意？"
 			}
 		],
 		"related_recipes": [
@@ -921,7 +921,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ender Disc"
+				"value": "末影唱片"
 			},
 			{
 				"type": "text",
@@ -940,11 +940,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Arcane Crown"
+				"value": "奥术王冠"
 			},
 			{
 				"type": "text",
-				"value": "This legendary crown was originally forged by an archmage of old.  Imbued with tremendous power, it serves to make a mage able to cast spells more efficiently.  It also draws in ambient magic, allowing a larger resevoir of mana.  Finally, it is rumored that this crown can also occasionally protect its wearer from debilitating effects, but only every so often."
+				"value": "这一传奇的王冠是由远古时期的大法师铸造的。戴上它之后，你能感觉到其中汹涌而澎湃的能量，运用这股能量，你可以更有效率的施法。同时它还会牵引周围的原生魔力，加速你的魔力再生速度。最后，也有传言称这一王冠可以保护佩戴者免受虚弱侵袭，but only every so often."
 			},
 			{
 				"type": "title",
