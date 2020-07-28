@@ -20,7 +20,7 @@ elementaristics.config.cultist_textures=Aspect-based Cultist Textures
 elementaristics.potion.intoxicated=迷醉
 elementaristics.potion.trance=恍惚
 elementaristics.potion.focused=专注
-elementaristics.potion.dread=恐惧
+elementaristics.potion.dread=惊惧
 elementaristics.potion.contentment=满足
 elementaristics.potion.ecstasy=狂喜
 elementaristics.potion.fear=恐惧
@@ -125,11 +125,11 @@ item.incantation_binding.name=绑定符咒
 item.incantation_unbinding.name=解绑符咒
 item.incantation_health_share.name=共享符咒
 item.incantation_reforging.name=重铸符咒
-item.incantation_glorious.name=Glorious Incantation
+item.incantation_glorious.name=神耀符咒
 item.incantation_emptiness.name=Hollow Incantation
 item.incantation_pact.name=神秘契约
 
-item.nexus_dimensional.name=维度联结器
+item.nexus_dimensional.name=维度联结点
 item.badge_cult.name=Cult Badge
 item.item_golden_thread.name=Golden Thread
 
@@ -334,7 +334,7 @@ advancement.elementaristics.ascension_1.desc=学习到空间的本质
 advancement.elementaristics.ascension_2.desc=在“清醒” 与“精神”“彼岸”之间建立连接
 advancement.elementaristics.ascension_identification.desc=鉴定你的灵魂类别
 advancement.elementaristics.ascension_3.desc=进入“精神”
-advancement.elementaristics.ascension_4.desc=杀死银白螺纹
+advancement.elementaristics.ascension_4.desc=杀死银白门径
 advancement.elementaristics.ascension_5.desc=升华精神
 advancement.elementaristics.ascension_6.desc=重铸肉身
 advancement.elementaristics.ascension_7.desc=铸就金色门扉
@@ -342,7 +342,7 @@ advancement.elementaristics.ascension_8.desc=自虚返无!
 
 
 #Book
-item.elementaristics.book.name=自由:源质之书
+item.elementaristics.book.name=源质之书
 info.elementaristics.book.landing=“元素纪元”研究的是虚无的规律, 专注于探索未知的世界.$(br)由于普通人没有无限的知识，也没有永恒的记忆，所以这本书的出现是为了解决第二个问题 —— "书而永恒"。
 info.elementaristics.book.subtitle="天使知晓血"
 
@@ -444,11 +444,11 @@ hud.store=Store
 
 hud.mode.name=Current Mode:
 
-rite.item_power.name=Local Item Power:
-rite.progress.name=Progress:
-rite.progress_ready.name=Progress: §2ready
-rite.aspects.name=Local Aspects:
-rite.aspects_needed.name=Aspects Needed:
+rite.item_power.name=当前物品能量：
+rite.progress.name=进度：
+rite.progress_ready.name=进度： §2准备好了
+rite.aspects.name=当前要素：
+rite.aspects_needed.name=需求要素：
 
 hud.energy_current=Current Energy:
 hud.energy_from=Draining Energy from:
@@ -508,7 +508,7 @@ message.rite_fail_cultists.name=这里有太多人工制造出的灵魂了
 message.call_cultist_error.name=信徒的出现需要更大的空间
 
 message.no_cultists_secured.name=在没有任何效忠于你的信徒的情况下去造访“精神”，这可不是什么好主意
-message.interact_silver_thread.error_fight=这片区域内已经存在有了银白螺纹
+message.interact_silver_thread.error_fight=这片区域内已经存在有了银白门径
 
 message.deity_tick.name=Tick time:
 message.deity_hour.name=Hour:
@@ -551,7 +551,7 @@ message.meditation_ascension.name=§6意识已然重塑，下一步即是改造�
 message.ascension_body.name=§6躯体已然重塑。皮肤摸起来就像是陶土，但更加坚硬。
 
 message.meditation_to_contentment.name=§6狂喜弥漫, 但随即如同不息的车轮般向前离去。但它总会留下一些... 满足, 观念上的满足。
-message.meditation_to_dread.name=§6地球绕日旋转，永不消亡......但有时我们会忘记这个真相，而这些时刻即是恐惧降临之时。
+message.meditation_to_dread.name=§6地球绕日旋转，永不消亡......但有时我们会忘记这个真相，而这些时刻即是惊惧降临之时。
 message.meditation_to_fear.name=§6日光隐去，黑暗升起。它吞噬一切，它散播恐惧。
 message.meditation_to_silence.name=§6随着意识习惯于恐惧，它突然静止。静止之后，万籁无声。
 message.meditation_to_laughter.name=§6突然间我们大笑不止。

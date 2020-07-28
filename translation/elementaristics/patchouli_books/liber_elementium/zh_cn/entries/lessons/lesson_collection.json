@@ -10,7 +10,7 @@
     {
       "type": "spotlight",
       "item": "elementaristics:essence:4",
-      "text": "以太(Aether)元素掌管着星空，未知以及可能性的留存，有时它的范围甚至包括时空以及存在物（exsistence）。 $(br)对于它的直接却也模糊的定义，很容易让人们误认它为'其它'元素。"
+      "text": "以太(Aether)元素掌管着星空，未知以及可能性的留存，有时它的范围甚至包括时空以及存在物（exsistence）。$(br)对于它的直接却也模糊的定义，很容易让人们误认它为'其它'元素。"
     },
     {
       "type": "spotlight",
@@ -20,12 +20,12 @@
     {
       "type": "spotlight",
       "item": "elementaristics:essence:1",
-      "text": "大地(Earth)元素关乎着固体物质。 $(br)它与生命有着很紧密的联系，人们同时也会认为，'生命'这一复杂概念要包含的元素远不止这一个方面。"
+      "text": "大地(Earth)元素关乎着固体物质。$(br)它与生命有着很紧密的联系，人们同时也会认为，'生命'这一复杂概念要包含的元素远不止这一个方面。"
     },
     {
       "type": "spotlight",
       "item": "elementaristics:essence:3",
-      "text": "火焰(Fire)元素掌管了力量，权势，还有理所当然的火。 $(br)需要注意的是，火焰元素不必然的包括所有种类的能量; 但是可以肯定，热能是绝对被包括的。 $(br)有时火焰元素也可代表意识(consciousness)。$(br)通常，所有通过某种过程使自身与能量发生关联的元素都会或多或少的与火焰元素相关。"
+      "text": "火焰(Fire)元素掌管了力量，权势，还有理所当然的火。$(br)需要注意的是，火焰元素不必然的包括所有种类的能量; 但是可以肯定，热能是绝对被包括的。$(br)有时火焰元素也可代表意识(consciousness)。$(br)通常，所有通过某种过程使自身与能量发生关联的元素都会或多或少的与火焰元素相关。"
     },
     {
       "type": "spotlight",
@@ -36,7 +36,7 @@
       "type": "elementaristics:purifier_recipe",
       "recipe": "elementaristics:essence_crystal",
       "name": "水晶元素",
-      "text": "水晶(Crystal)元素象征着所有具有晶体结构的物质，因此它与秩序(Order)元素也有着一定的相关性。 $(br)有人会将其形容为 '更高级的大地元素'。"
+      "text": "水晶(Crystal)元素象征着所有具有晶体结构的物质，因此它与秩序(Order)元素也有着一定的相关性。$(br)有人会将其形容为 '更高级的大地元素'。"
     },{
       "type": "elementaristics:purifier_recipe",
       "recipe": "elementaristics:essence_order",
@@ -70,7 +70,7 @@
       "type": "elementaristics:tunneler_recipe",
       "recipe": "elementaristics:essence_body",
       "name": "肉体元素",
-      "text": "肉体，我的肉体，我们的肉体，所有人的肉体。 也许它就是一切的根源。"
+      "text": "肉体，我的肉体，我们的肉体，所有人的肉体。也许它就是一切的根源。"
     },
     {
       "type": "elementaristics:tunneler_recipe",
@@ -87,13 +87,13 @@
     {
       "type": "spotlight",
       "item": "elementaristics:essence:17",
-      "text": "魔力元素描述了原生的神秘能量，并且所有的灵魂在在一定上包含魔力。 它可以由 $(l:manipulation/entry_sacrifice)$(marked)压缩仪式$()制作得来。",
+      "text": "魔力元素描述了原生的神秘能量，并且所有的灵魂在在一定上包含魔力。它可以由 $(l:manipulation/entry_sacrifice)$(marked)压缩仪式$()制作得来。",
       "link_recipe": true
     },
     {
       "type": "spotlight",
       "item": "elementaristics:essence:15",
-      "text": "混沌元素是 $(marked)以太$()元素中代表混沌的那一面，它是一种破坏性的成分，阻止着宇宙朝向完全的秩序化。 它就像一团活火不断燃烧，而秩序就像是其中飘散出来的灰烬。 $(br2)(对以太元素释放 $(l:manipulation/entry_chaos)混沌仪式$()可以创造出这种元素)",
+      "text": "混沌元素是 $(marked)以太$()元素中代表混沌的那一面，它是一种破坏性的成分，阻止着宇宙朝向完全的秩序化。它就像一团活火不断燃烧，而秩序就像是其中飘散出来的灰烬。$(br2)(对以太元素释放 $(l:manipulation/entry_chaos)混沌仪式$()可以创造出这种元素)",
       "link_recipe": true
     },
     {
