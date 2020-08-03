@@ -5,13 +5,13 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(marked)Everchanging Moss$() is a Rite Material of Life，and an important ingredient，too.$(br)$(o)It feels squishy$()"
+      "text": "$(marked)Everchanging Moss$()是生命仪式的材料，也是重要的组成部分。$(br)$(o)这令人感觉黏糊糊的$()。"
     },
     {
       "type": "spotlight",
       "item": "elementaristics:moss_everchanging",
       "link_recipe": true,
-      "text": "Everchanging Moss is created with rather bloody means.$(br)In order to create it，one must slay a living being with a $(l:shaping/entry_dagger)Sacrificial Dagger$() on a patch of $(l:vitalis/entry_moss)Moss$()。$(br)This will taint the patch in blood and imbue it with the soul of the victim.$(br)The moss can simply be harvested to yield results."
+      "text": "Everchanging Moss用血腥的手段来得到。$(br)为了得到它，你必须用 $(l:shaping/entry_dagger)献祭匕首$()在一块$(l:vitalis/entry_moss)苔藓$()上杀死一个活着的生物。$(br)这会使这片土地沾上鲜血并使其充满受害者的灵魂。$(br)这些苔藓可以通过简单的收获得到结果。"
     }
   ],
   "advancement": "elementaristics:progress_ascension_2"

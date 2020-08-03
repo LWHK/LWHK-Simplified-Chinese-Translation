@@ -7,12 +7,12 @@
     {
       "type": "spotlight",
       "item": "elementaristics:flower_dread",
-      "text": "The $(item)Horrylis$() could hardly survive on its own，were it not sustained by magic.$(br)Its smell reminds you of something long forgotten，something that should have stayed forgotten.$(br2)The nights spent close to this flower were nights of utter $(marked)hopelessness$().",
+      "text": "那名为$(item)Horrylis$()的花如果没有魔法的维持，仅凭它自己几乎无法生存。$(br)它的气味会让你想起一些早已遗忘的东西，一些本应被遗忘在记忆深处的东西。$(br2)在这花旁度过的夜晚$(marked)是有如地狱般，让人绝望的夜晚。$().",
       "link_recipe": true
     },
     {
       "type": "text",
-      "text": "This flower is created by swallowing $(l:vitalis/entry_seed)Dormant Seeds$() at night，while it's raining.$(br)The person swallowing the seed must be under the feeling of $(marked)dread$()."
+      "text": "这朵花是通过在雨夜吞咽$(l:vitalis/entry_seed)休眠种子而诞生的。$()$(br)那些吞咽下种子的人一定感到非常恐惧吧。$()."
     }
   ]
 }

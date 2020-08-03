@@ -1,14 +1,14 @@
 {
-  "name": "Rite: Feast",
+  "name": "灵魂之上的盛宴",
   "icon": "elementaristics:incantation_feast",
   "category": "vis_vitalis",
   "pages": [
     {
       "type": "text",
-      "text": "The Rite of $(marked)the Feast on the Soul$() is a rite invoking the aspect of bodies and the aspect of life.$(br)It can be performed by a single person，and will fill hunger and grant saturation upon completion."
+      "text": " $(marked)灵魂之上的盛宴$()是一种能唤起身体和生命另一面的仪式。$(br)这个仪式可以由一个人来完成，完成后将会填补举行仪式者的饥饿并使人达到饱和状态。"
     },
     {
-      "type": "tunneler_recipe",
+      "type": "tunneler配方",
       "recipe": "elementaristics:incantation_feast",
       "link_recipe": true,
       "text": "$(o)Nomnomnomnomnom$()"

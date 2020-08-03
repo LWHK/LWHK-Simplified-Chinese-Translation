@@ -1,17 +1,17 @@
 {
-  "name": "Sharing Health",
+  "name": "生命共享",
   "icon": "elementaristics:incantation_health_share",
   "category": "vis_vitalis",
   "advancement": "elementaristics:progress_potential",
   "pages": [
     {
       "type": "text",
-      "text": "With at least one bound entity and the potion effect of $(marked)Health Sharing$()，it is possible to equally divide all damage the cultist with said potion effect takes。$(t:Interestingly enough，regenerated health will also be divided among the bound entities...)This damage will then be applied to all bound entities.$()$(br2)There are many ways of obtaining the Health Sharing effect temporarily; however，usually，this is done with a ritual."
+      "text": "当至少有一个被绑定的实体和$(marked)生命共享$()效果时，可以平均分配拥有效果的信徒所受到的伤害。$(t:有趣的是，再生的生命值也将与绑定的实体平均分配...)这个伤害将被应用到所有被绑定的实体上。$()$(br2)获得临时的生命共享效果的方式有很多;然而，这通常是一种仪式。"
     },
     {
-      "type": "concentrator_recipe",
+      "type": "浓缩器配方",
       "recipe": "elementaristics:incantation_health_share",
-      "text": "$(o)This does not make you married$()"
+      "text": "$(o))This does not make you married。$()"
     }
   ]
 }

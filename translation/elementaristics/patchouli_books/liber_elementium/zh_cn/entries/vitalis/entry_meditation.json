@@ -1,32 +1,32 @@
 {
-  "name": "Meditation",
+  "name": "冥想",
   "category": "vis_vitalis",
   "icon": "minecraft:bed",
   "advancement": "elementaristics:progress_ascension_4",
   "pages": [
     {
       "type": "text",
-      "text": "Meditation is a highly beneficial exercise，which can improve both the physical and the mental health of a person。$(br)However，to fully reach the potential of meditation，one might have to break boundaries，as in slaying the $(marked)Silver Thread$()."
+      "text": "冥想是一个非常有益的运动,它可以同时改善一个人的身体和心理健康。$(br)然而，在杀死$(marked)银白门径$()后，人们完全达到深度冥想状态，便能打破界限。"
     },
     {
       "type": "text",
-      "text": "To perform meditation，one must simply sleep in a Bed，at any given time。This will normally cause a boost in health and Magan regeneration。$(br)However，meditation might also move deeper sentiments，given the right influences..。This influence being $(marked)intoxication$()，with the best way of achieving it being $(l:alchemy/entry_tincture)Arcane Tincture$()。$(br)These extremely amplified emotions have different effects."
+      "text": "进行冥想，必须要先简单地睡在床上，在任何给定的时间里。这通常会促进生命和源力（Magan）的再生。$(br)然而，冥想也有可能蕴藏着更为深邃的情绪，给予正确的影响……这个影响被称为$(marked)迷醉$()，而实现它的最佳方式是 $(l:alchemy/entry_tincture)奥术酊剂$()。$(br)这些被极度放大的情绪会产生不同的影响。"
     },
     {
       "type": "text",
-      "text": "$(l)Contentment$()$(br)This emotion will，like almost every other emotion，increase the Magan regeneration。It will also increase the jump height，and the walk and mining speed。$(br2)$(l)Dread$()$(br)Dread causes a slightly higher Magan regeneration than Contentment。However，it provokes bad luck and weakness，though it grants slight protection."
+      "text": "$(l)满足$()$(br)像几乎其他所有的情绪一样，这种情绪将会加快源力（Magan）的回复速度。这同时也会增加跳跃的高度，行走和采矿的速度。$(br2)$(l)恐惧$()$(br)会使源力（Magan）的回复速度快于满足。然而，它虽能给予轻微的保护，但却会招致厄运和虚弱。"
     },
     {
       "type": "text",
-      "text": "$(l)Ecstasy$()$(br)This emotion fuels the cultist with desire，even thriving in their body's health，though the weakest desire brings no benefits to Magan regeneration at all。For this，a greater power of ecstasy might be required。$(br2)$(l)Fear$()$(br)Fear will set the cultist in a constant state of insecurity，increasing their capabilities in fleeing，but never helping with Magan regeneration."
+      "text": "$(l)狂喜$()$(br)这种情绪能够激发信徒的欲望，甚至使他们的身体健康茁壮成长，尽管最弱的欲望对源力（Magan）的再生没有任何好处。为此，这可能需要一种更强大的狂喜力量。$(br2)$(l)恐惧$()$(br)恐惧将使信徒处在持续性的不安状态中，这会增强他们逃跑的能力，但却不会加快源力（magan）的再生。"
     },
     {
       "type": "text",
-      "text": "$(l)Laughter$()$(br)While not being an emotion in the traditional sense，this sentiment is completely unstoppable，until it ceases on its own。It will immensely increase the regeneration of Magan.$(br2)$(l)Silence$()$(br)Not really being the opposite of laughter，but not really being anything in general，this emotion will prevent all Magan regeneration，but will increase strength and resistance."
+      "text": "$(l)大笑$()$(br)虽然不是传统意义上的一种情绪,但这种情绪是完全不可阻挡的,只能直到它自行停止。它会极大地增强源力（Magan)的再生速度。$(br2)$(l)寂静$()$(br)并不是笑的反面，但也不是一般意义上的任何东西，这种情绪会减缓源力（Magan）的再生速度，但会增加力量和抵抗。"
     },
     {
       "type": "text",
-      "text": "The probability of one of these being applied may be manipulated with certain means，like special $(marked)perfumes$()。However，one can only obtain emotions by meditation when intoxicated，and this counts always."
+      "text": "可以利用某些装置来操纵其中之一被应用的可能性，比如说 $(marked)香水$()。然而，人们只能通过冥想在迷醉状态下，获得一定数量。"
     }
   ]
 }

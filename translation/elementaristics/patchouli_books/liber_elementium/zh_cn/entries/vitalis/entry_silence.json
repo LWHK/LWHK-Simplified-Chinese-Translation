@@ -7,12 +7,12 @@
     {
       "type": "spotlight",
       "item": "elementaristics:flower_silence",
-      "text": "The $(item)Tacituryllis$() is a carnivorous plant，catching all bugs silently，leaving the area quiet from all of these nasty noises.$(br)Its scent leaves you in a sleepless trance state.$(br2)Maybe meditating next to it might bring even more $(marked)silence$().",
+      "text": "$(item)Tacituryllis$()是一种食肉植物，它会安静地捕捉周围所有的虫子，让这个地方远离这些令人生厌的噪音。$(br)它的气味会使你陷入一种失眠恍惚的状态。$(br2)也许在它旁边冥想能得到更多的$(marked)寂静$()效果。",
       "link_recipe": true
     },
     {
       "type": "text",
-      "text": "In order to create the Tacituryllis a $(l:vitalis/entry_seed)Dormant Seed$() must be swallowed under the emotion of $(marked)silence$() while in the $(marked)Overworld$()，at least at height 120 and at night，with no entities nearby.$(br2)$(o)Total silence。Perfect.$()"
+      "text": "为了得到Tacituryllis，需要在$(marked)寂静$()的效果下吞咽一个$(l:vitalis/entry_seed)休眠种子$()，且必须在$(marked)主世界$()中，至少高度在120，时间为晚上，周围没有实体。$(br2)$(o)Total silence。Perfect.$()"
     }
   ]
 }

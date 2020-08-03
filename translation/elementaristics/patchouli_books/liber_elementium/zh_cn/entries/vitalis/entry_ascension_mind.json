@@ -6,11 +6,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "反思步骤是升华中与精神层面关系最为密切的步骤。它完全由$(marked)冥想$()构成。$(br2)开启这一步骤，你需要在$(marked)狂喜$()状态下进入到$(marked)恍惚$()之中。$(br)狂喜有着不可思议的力量，你可以通过饮下$(l:alchemy/entry_wine)$(item)殷红之酒$()获得这种状态。"
+      "text": "反思这一步是提升精神最多的步骤。它完全由冥想 $(marked)构成$().$(br2)这个步骤是在$(marked)恍惚状态$() 和狂喜状态下 $(marked)开始的$().$(br)这种狂喜状态一定是一种不可思议的力量，一种由殷红之酒所赐予的 $(l:alchemy/entry_wine)$(item)力量$()."
     },
     {
       "type": "text",
-      "text": "要想继续下一步骤，I will need to apply a certain emotion to myself and then meditate。I will learn what to feel next once I am in the state of rethinking。$(br2)If I want to be prepared completely，I'll need to be able to feel $(o)right$() at all times."
+      "text": "为了继续，我需要给自己注入某种情绪，然后冥想。一旦我处于反思的状态，我就会知道我接下来的感受。$(br2)如果我想完全做好准备，那么我需要在任何时候都 $(o)保持$() 感觉良好."
     }
   ]
 }

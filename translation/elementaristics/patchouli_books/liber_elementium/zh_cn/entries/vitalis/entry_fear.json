@@ -7,12 +7,12 @@
     {
       "type": "spotlight",
       "item": "elementaristics:flower_fear",
-      "text": "From the inside，the $(item)Phobaryllis$() is filled with chambers of mucus.$(br)Touching it lets a chill run down your spine，and the flower itself produces some weird noises，now and then，too.$(br2)Meditating near this is definitely $(marked)unsettling$().",
+      "text": "$(item)Phobaryllis$()的内部充满着黏液。$(br)触摸它会让一股寒意顺着你的脊柱向上流动，而且这种花本身也会时不时地发出一些奇怪的声音。$(br2)在这花旁冥想绝对是$(marked)令人不安的$()。",
       "link_recipe": true
     },
     {
       "type": "text",
-      "text": "The Phobaryllis is created by swallowing a $(l:vitalis/entry_seed)Dormant Seed$() while under the emotion of $(marked)fear$().$(br)The person swallowing the seed must be in the $(marked)Nether$()，at least under height 20，with at least two entities nearby.$(br2)The pressure of both the planet and the company weighs stronger than expected$()."
+      "text": "Phobaryllis是 $(l:vitalis/entry_seed)在恐惧状态下吞咽$()休眠种子 $(marked)而诞生的$()。$(br)吞下种子的人必须在 $(marked)地下$()，至少低于20的高度，且附近至少有两个生命实体。$(br2)脚下的星球将我牢牢地压迫在地，那是一种完全无法抗拒的压力，加之恐怖生物伺于周围，两者合而为一，那些所带来的压力与恐惧，有点超出了我的预料$()。"
     }
   ]
 }

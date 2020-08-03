@@ -7,12 +7,12 @@
     {
       "type": "spotlight",
       "item": "elementaristics:flower_ecstasy",
-      "text": "$(item)Aphrodium$() smells sweet like honey，and feels like the softest silk。$(br)One can feel the blood running faster only by looking at it.$(br2)And maybe，just maybe，the dreams near such a flower are as $(marked)sweet$() as its nectar.",
+      "text": "$(item)Aphrodium$()有着如同蜂蜜般的香甜气息，摸起来就像是柔软的丝绸。$(br)只要看上那么一眼，就会感觉到全身的血液在血管中加速流动着。$(br2)也许，仅仅是也许，在这朵花旁做的梦会$(marked)甜美$()得如同它的花蜜一样",
       "link_recipe": true
     },
     {
       "type": "text",
-      "text": "Aphrodium is created by eating a $(l:vitalis/entry_seed)Dormant Seed$() under the greatest influence of ecstasy，ideally reached by consuming $(item)Redmost Wine$().$(br2)And this is a feast dedicated to a flower，right?"
+      "text": "Aphrodium是在狂喜的最大影响状态下吃一颗$(l:vitalis/entry_seed)休眠种子$()所诞生的，这通过饮用$(item)殷红之酒$()可以达到.$(br2)这是献给一朵花的盛宴，对吧?"
     }
   ]
 }
