@@ -442,7 +442,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Efficiency"
+				"value": "效率"
 			},
 			{
 				"type": "text",
@@ -497,7 +497,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Feather Falling"
+				"value": "羽落"
 			},
 			{
 				"type": "text",
@@ -544,7 +544,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fire Aspect"
+				"value": "火焰附加"
 			},
 			{
 				"type": "text",
@@ -575,7 +575,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fire Protection"
+				"value": "火焰保护"
 			},
 			{
 				"type": "text",
@@ -622,7 +622,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Flame"
+				"value": "火矢"
 			},
 			{
 				"type": "text",
@@ -645,7 +645,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fortune"
+				"value": "时运"
 			},
 			{
 				"type": "text",
@@ -684,7 +684,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Frost Walker"
+				"value": "冰霜行者"
 			},
 			{
 				"type": "text",
@@ -770,7 +770,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Infinity"
+				"value": "无限"
 			},
 			{
 				"type": "text",
@@ -793,7 +793,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Knockback"
+				"value": "击退"
 			},
 			{
 				"type": "text",
@@ -824,7 +824,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Looting"
+				"value": "抢夺"
 			},
 			{
 				"type": "text",
