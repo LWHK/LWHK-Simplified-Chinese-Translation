@@ -1,5 +1,5 @@
 {
-	"Manaweaving": {
+	"魔力编织": {
 		"category": "basics",
 		"sections": [
 			{
@@ -59,7 +59,7 @@
 			}
 		]
 	},
-	"Manaweaving Altar": {
+	"织魔祭坛": {
 		"category": "manaweaving",
 		"sections": [
 			{
@@ -82,7 +82,7 @@
 			}
 		]
 	},
-	"Ritual Foci": {
+	"仪式聚能核心": {
 		"category": "sorcery",
 		"sections": [
 			{
@@ -109,7 +109,7 @@
 			}
 		]
 	},
-	"Runescribing": {
+	"符文摹画": {
 		"category": "basics",
 		"sections": [
 			{
@@ -140,7 +140,7 @@
 			}
 		]
 	},
-	"Runeforging (Runes)": {
+	"符文锻造 (Runes)": {
 		"category": "basics",
 		"sections": [
 			{
@@ -177,7 +177,7 @@
 			}
 		]
 	},
-	"Manaweave Enchanting": {
+	"符文附魔": {
 		"category": "basics",
 		"sections": [
 			{
@@ -204,7 +204,7 @@
 			}
 		]
 	},
-	"Aqua Affinity": {
+	"亲水": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -227,7 +227,7 @@
 			}
 		]
 	},
-	"Bane of Arthropods": {
+	"节肢杀手": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -897,7 +897,7 @@
 			}
 		]
 	},
-	"Magic Broom": {
+	"魔法扫帚": {
 		"category": "constructs",
 		"sections": [
 			{
@@ -916,7 +916,7 @@
 			}
 		]
 	},
-	"Ender Disc": {
+	"末影唱片": {
 		"category": "artifice",
 		"sections": [
 			{
@@ -935,7 +935,7 @@
 			}
 		]
 	},
-	"Arcane Crown": {
+	"奥术王冠": {
 		"category": "artifice",
 		"sections": [
 			{
@@ -958,7 +958,7 @@
 		"related_recipes": [
 		]
 	},
-	"Hellfire Staff": {
+	"地狱火法杖": {
 		"category": "artifice",
 		"sections": [
 			{
@@ -1740,7 +1740,7 @@
 			}
 		]
 	},
-	"Mana and Regeneration": {
+	"魔力与再生": {
 		"index": 0,
 		"category": "basics",
 		"sections": [
@@ -1756,7 +1756,7 @@
 		"related_recipes": [
 		]
 	},
-	"Casting Spells": {
+	"施放法术": {
 		"index": 0,
 		"category": "sorcery",
 		"sections": [
@@ -1772,7 +1772,7 @@
 		"related_recipes": [
 		]
 	},
-	"Spell Books": {
+	"法术书": {
 		"index": 0,
 		"category": "sorcery",
 		"sections": [
@@ -1808,7 +1808,7 @@
 		"related_recipes": [
 		]
 	},
-	"Scribing Spells": {
+	"编写法术": {
 		"index": 0,
 		"category": "sorcery",
 		"sections": [
@@ -1836,7 +1836,7 @@
 			}
 		]
 	},
-	"Vellum": {
+	"皮纸": {
 		"index": 0,
 		"category": "sorcery",
 		"sections": [
@@ -1863,7 +1863,7 @@
 		"related_recipes": [			
 		]
 	},
-	"Shape: Projectile": {
+	"形状：弹射物": {
 		"index": "1",
 		"category": "sorcery",
 		"sections": [
@@ -1883,7 +1883,7 @@
 			}
 		]
 	},
-	"Shape: Self": {
+	"形状：自我施法": {
 		"index": "1",
 		"category": "sorcery",
 		"sections": [
@@ -1903,7 +1903,7 @@
 			}
 		]
 	},
-	"Shape: Bolt": {
+	"形状：电弧": {
 		"index": "1",
 		"category": "sorcery",
 		"sections": [
@@ -1923,7 +1923,7 @@
 			}
 		]
 	},
-	"Shape: Touch": {
+	"形状：触摸施法": {
 		"index": "1",
 		"category": "sorcery",
 		"sections": [
@@ -1943,7 +1943,7 @@
 			}
 		]
 	},
-	"Component: Fire Damage": {
+	"构件：火焰伤害": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -1963,7 +1963,7 @@
 			}
 		]
 	},
-	"Component: Frost Damage": {
+	"构件：冰霜伤害": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -1983,7 +1983,7 @@
 			}
 		]
 	},
-	"Component: Lightning Damage": {
+	"构件：雷电伤害": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2003,7 +2003,7 @@
 			}
 		]
 	},
-	"Component: Leap": {
+	"构件：跳跃": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2023,7 +2023,7 @@
 			}
 		]
 	},
-	"Component: Slowfall": {
+	"构件：羽落": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2043,7 +2043,7 @@
 			}
 		]
 	},
-	"Component: Break": {
+	"构件：破坏": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2063,7 +2063,7 @@
 			}
 		]
 	},
-	"Component: Rift": {
+	"构件：裂隙": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2083,7 +2083,7 @@
 			}
 		]
 	},
-	"Component: Fling": {
+	"构件：Fling": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2103,7 +2103,7 @@
 			}
 		]
 	},
-	"Component: Gust": {
+	"构件：狂风": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2123,7 +2123,7 @@
 			}
 		]
 	},
-	"Component: Silence": {
+	"构件：沉默": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2143,7 +2143,7 @@
 			}
 		]
 	},
-	"Component: Gravity Well": {
+	"构件：重力井": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2163,7 +2163,7 @@
 			}
 		]
 	},
-	"Component: Entangle": {
+	"构件：缠绕": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2183,7 +2183,7 @@
 			}
 		]
 	},
-	"Component: Chrono Anchor": {
+	"构件：回溯之锚": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2203,7 +2203,7 @@
 			}
 		]
 	},
-	"Component: Haste": {
+	"构件：加速": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2223,7 +2223,7 @@
 			}
 		]
 	},
-	"Component: Slow": {
+	"构件：减速": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2243,7 +2243,7 @@
 			}
 		]
 	},
-	"Component: Strength": {
+	"构件：力量": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2263,7 +2263,7 @@
 			}
 		]
 	},
-	"Component: Weakness": {
+	"构件：虚弱": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2283,7 +2283,7 @@
 			}
 		]
 	},
-	"Component: Swift Swim": {
+	"构件：快泳": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2303,7 +2303,7 @@
 			}
 		]
 	},
-	"Component: Watery Grave": {
+	"构件：水墓": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2323,7 +2323,7 @@
 			}
 		]
 	},
-	"Component: Blind": {
+	"构件：致盲": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2343,7 +2343,7 @@
 			}
 		]
 	},
-	"Component: Night Vision": {
+	"构件：夜视": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2363,7 +2363,7 @@
 			}
 		]
 	},
-	"Component: Light": {
+	"构件：照亮": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2383,7 +2383,7 @@
 			}
 		]
 	},
-	"Component: Invisibility": {
+	"构件：隐形": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2403,7 +2403,7 @@
 			}
 		]
 	},
-	"Modifier: Damage": {
+	"修饰：伤害": {
 		"index": "3",
 		"category": "sorcery",
 		"sections": [
@@ -2423,7 +2423,7 @@
 			}
 		]
 	},
-	"Modifier: Radius": {
+	"修饰：半径": {
 		"index": "3",
 		"category": "sorcery",
 		"sections": [
@@ -2443,7 +2443,7 @@
 			}
 		]
 	},
-	"Modifier: Speed": {
+	"修饰：速度": {
 		"index": "3",
 		"category": "sorcery",
 		"sections": [
@@ -2463,7 +2463,7 @@
 			}
 		]
 	},
-	"Modifier: Magnitude": {
+	"修饰：增强": {
 		"index": "3",
 		"category": "sorcery",
 		"sections": [
@@ -2483,7 +2483,7 @@
 			}
 		]
 	},
-	"Modifier: Duration": {
+	"修饰：持续时间": {
 		"index": "3",
 		"category": "sorcery",
 		"sections": [
@@ -2503,7 +2503,7 @@
 			}
 		]
 	},
-	"Modifier: Range": {
+	"修饰：法术距离": {
 		"index": "3",
 		"category": "sorcery",
 		"sections": [
@@ -2523,7 +2523,7 @@
 			}
 		]
 	},
-	"Component: Shield": {
+	"构件：护盾": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2543,7 +2543,7 @@
 			}
 		]
 	},
-	"Component: Heal": {
+	"构件：治疗": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
@@ -2563,7 +2563,7 @@
 			}
 		]
 	},
-	"Performing a Ritual": {
+	"举行仪式": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2619,7 +2619,7 @@
 			}
 		]
 	},
-	"Ritual of Aurora": {
+	"晨曦仪式": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2639,7 +2639,7 @@
 			}
 		]
 	},
-	"Ritual of Arcana": {
+	"奥术仪式": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2747,7 +2747,7 @@
 			}
 		]
 	},
-	"Ritual of Summoning": {
+	"召唤仪式": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2771,7 +2771,7 @@
 			}
 		]
 	},
-	"Ritual of Visiting": {
+	"造访仪式": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2795,7 +2795,7 @@
 			}
 		]
 	},
-	"Player Charms": {
+	"玩家符咒": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2815,7 +2815,7 @@
 			}
 		]
 	},
-	"Ritual Kits": {
+	"仪式袋": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2835,7 +2835,7 @@
 			}
 		]
 	},
-	"Metal Ritual Runes": {
+	"金属仪式符文": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2859,7 +2859,7 @@
 			}
 		]
 	},
-	"Manaweave Projector": {
+	"织魔放映机": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
@@ -2879,7 +2879,7 @@
 			}
 		]
 	},
-	"Combining Patterns": {
+	"图样融合": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
@@ -2895,7 +2895,7 @@
 		"related_recipes": [
 		]
 	},
-	"Manaweaving Silks": {
+	"织魔丝绸": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
@@ -2919,7 +2919,7 @@
 			}
 		]
 	},
-	"Stone Runes": {
+	"石质符文": {
 		"index": 0,
 		"category": "basics",
 		"sections": [
@@ -3103,7 +3103,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Warding": {
+	"符文样式：守护": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -3143,7 +3143,7 @@
 			}
 		]
 	},
-	"Magic Staves and Wands": {
+	"各式魔杖": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
@@ -3191,7 +3191,7 @@
 			}
 		]
 	},
-	"Bubble Boat": {
+	"气泡船": {
 		"index": 0,
 		"category": "constructs",
 		"sections": [
@@ -3494,13 +3494,13 @@
 			}
 		]
 	},
-	"Component: Blink": {
+	"构件：闪现": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Component: Blink"
+				"value": "构件：闪现"
 			},
 			{
 				"type": "text",
@@ -3514,13 +3514,13 @@
 			}
 		]
 	},
-	"Component: Transplace": {
+	"构件：转位": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Component: Transplace"
+				"value": "构件：转位"
 			},
 			{
 				"type": "text",

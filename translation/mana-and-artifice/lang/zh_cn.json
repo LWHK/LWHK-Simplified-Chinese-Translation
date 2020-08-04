@@ -318,9 +318,9 @@
 	
 	"mana-and-artifice:modifiers/damage": "伤害",
 	"mana-and-artifice:modifiers/duration": "持续时间",
-	"mana-and-artifice:modifiers/magnitude": "Magnitude",
+	"mana-and-artifice:modifiers/magnitude": "增强",
 	"mana-and-artifice:modifiers/radius": "范围半径",
-	"mana-and-artifice:modifiers/range": "范围长度",
+	"mana-and-artifice:modifiers/range": "法术距离",
 	"mana-and-artifice:modifiers/speed": "速度",
 	
 	"entity.minecraft.villager.mana-and-artifice.spellmonger": "法术商人",
