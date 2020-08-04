@@ -39,7 +39,7 @@
 	"item.mana-and-artifice.manaweaver_wand": "织魔者法杖",
 	"item.mana-and-artifice.manaweaver_wand.not_recognized": "无法识别这一图样。",
 		
-	"item.mana-and-artifice.player_charm": "玩家福州",
+	"item.mana-and-artifice.player_charm": "玩家符咒",
 	"item.mana-and-artifice.player_charm.attuned": "调谐对象：%s",
 	"item.mana-and-artifice.player_charm.not_attuned": "未调谐",
 	"item.mana-and-artifice.purified_vinteum_dust": "纯净温特姆粉末",
@@ -137,7 +137,7 @@
 	"item.mana-and-artifice.staff_c": "Magic Staff",
 	
 	"item.mana-and-artifice.sight_unguent": "Unguent of Seeing",
-	"item.mana-and-artifice.sight_unguent.flavor_text": "It smells terrible.",
+	"item.mana-and-artifice.sight_unguent.flavor_text": "闻起来真恶心",
 	
 	"item.mana-and-artifice.vellum": "皮纸",
 	"item.mana-and-artifice.vinteum_dust": "温特姆粉末",
