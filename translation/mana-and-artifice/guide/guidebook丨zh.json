@@ -186,7 +186,7 @@
 			},
 			{
 				"type": "text",
-				"value": "制作出符文后，你需要向其注入魔力，以开启符文附魔的初始阶段。\n\n将物品以及需求试剂放置到织魔祭坛上，然后，使用织魔者法杖画出祭坛上方显示的需求图案。\n\n此外，你还可以将织魔放映机放置于祭坛旁，这样你就可以在祭坛旁放映图案了\n\n如果你不小心失误了，你可以用织魔者法杖激活织魔放映机，放映机会放映出祭坛上一个显示的图案，你可以依据这个图案重新绘制。\n\n当你以正确的顺序绘制了正确的图案，并且正确地加入了物品，祭坛会将所有东西吸入，并开始符文附魔。 \n\n现在，我们只需在符文铁砧上将符文与物品相互结合，一切就大功告成了、"
+				"value": "制作出符文后，你需要向其注入魔力，以开启符文附魔的初始阶段。\n\n将物品以及需求试剂放置到织魔祭坛上，然后，使用织魔者法杖画出祭坛上方显示的需求图案。\n\n此外，你还可以将织魔放映机放置于祭坛旁，这样你就可以在祭坛旁放映图案了。\n\n如果你不小心失误了，你可以用织魔者法杖激活织魔放映机，放映机会放映出祭坛上一个显示的图案，你可以依据这个图案重新绘制。\n\n当你以正确的顺序绘制了正确的图案，并且正确地加入了物品，祭坛会将所有东西吸入，并开始符文附魔。 \n\n现在，我们只需在符文铁砧上将符文与物品相互结合，一切就大功告成了、"
 			}
 		],
 		"related_recipes": [
@@ -2533,7 +2533,7 @@
 			},
 			{
 				"type": "text",
-				"value": "利用魔法，我可以在周身创造出屏障。protecting against kinetic force.  I wonder if there are other types of shields that would protect me against more?"
+				"value": "利用魔法，我可以在周身创造出屏障，这一屏障可以阻挡那些朝我飞来的物品。我在想，有没有可能创造出一种新的护盾，可以帮助我防御更多种类的伤害？"
 			}
 		],
 		"related_recipes": [
@@ -2821,11 +2821,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "仪式工具箱"
+				"value": "仪式袋"
 			},
 			{
 				"type": "text",
-				"value": "Having to draw out a ritual each and every time can be time consuming.  Enter the ritual kit.\n\nTo bind the kit to a specific ritual pattern, sneak while activating the centre of a ritual.\n\nSneak right click the kit on empty space to open the bag.  Place all items needed for the ritual inside the kit.\n\nActivating the kit on a sufficiently sized, empty flat space will instantly place and activate the ritual.  Items will be consumed from the kit.\n\nAdditionally, rituals activated from a kit complete significantly faster than ones drawn manually."
+				"value": "一笔一划地在地上画出仪式，一次还好，次数多了既费时又耗力。使用仪式袋可以帮助你解决这一问题。\n\n激活仪式后，仪式会显示出所需要的试剂，摆放好试剂之后，拿着仪式袋潜行右键仪式中心，即可将仪式袋与该仪式绑定。\n\n潜行右键空气可以打开袋子。在其中你可以放上粉笔以及仪式试剂。\n\n对着平坦且空间足够的表面右键仪式袋，将会立刻在目标处开启一个与仪式袋绑定的仪式。这一过程消耗的是仪式袋内的物品。\n\n此外，使用仪式袋布置的仪式，在仪式运行速度上将会比手动布置的仪式快很多。"
 			}
 		],
 		"related_recipes": [
@@ -2841,11 +2841,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Metal Ritual Runes"
+				"value": "金属仪式符文"
 			},
 			{
 				"type": "text",
-				"value": "It may be desirable to have certain rituals not remove their ritual runes when completing.  Creating the ritual pattern out of metal ritual runes will achieve this goal."
+				"value": "仪式完成后，地面的仪式符文会被移除，但你可能并不想这样。使用金属铸造出的符文将会满足你的愿望，仪式过后，这种符文依旧会留存于地上。"
 			}
 		],
 		"related_recipes": [
@@ -2865,11 +2865,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Manaweave Projector"
+				"value": "织魔放映机"
 			},
 			{
 				"type": "text",
-				"value": "For those wizards that are either unwilling or unable to draw manaweave patterns manually, they can craft a manaweave projector.  These devices, when placed, will draw mana from players within 2 blocks.  When full, it will have drawn in 100 mana.  \n\nActivating the block when full will cause it to emit the current pattern.  Activating the block with a manaweave pattern recipe scrap will change the pattern that is emitted."
+				"value": "对于那些不想或者无法手动绘制织魔图样的人，他们可以使用织魔放映机来满足他们的需求。这一设备一旦被放置，就会抽取附近两格以内的玩家体内的魔力。它一共可以抽取100点魔力。\n\n激活充能完毕的放映机，会使其放映出目前它所选定的图样； Activating the block with a manaweave pattern recipe scrap will change the pattern that is emitted."
 			}
 		],
 		"related_recipes": [
@@ -2885,7 +2885,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Combining Patterns"
+				"value": "图样融合"
 			},
 			{
 				"type": "text",
@@ -2901,11 +2901,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Manaweaving Silks"
+				"value": "织魔丝绸"
 			},
 			{
 				"type": "text",
-				"value": "Certain silks can be created by combining the right ingredients at a manaweaving altar.  These silks are used in other crafting recipes."
+				"value": "在织魔祭坛内放入正确的原料，就可以制作出一些特别的丝绸。这些丝绸将会被使用于其它的合成配方。"
 			}
 		],
 		"related_recipes": [
@@ -2925,11 +2925,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Stone Runes"
+				"value": "石质符文"
 			},
 			{
 				"type": "text",
-				"value": "Basic stone runes are a cornerstone of magical crafting.  A blank stone rune is crafted with various dye colors to create magical patterns.  These runes are then used to focus magical effects such as rituals and enchanting.\n\nMages often craft bags specifically to carry these runes."
+				"value": "基础的石质符文是魔法合成中的重要组成部分。一个小小的石质空白符文，将其与各式染料混合，就可以制作出带有独特魔法样式的对应颜色符文。这些彩色符文将会在那些需要聚集魔法能量的过程中起大作用，比如仪式以及附魔。\n\n法师们也常备着一个小袋子，来专门储存这些符文。"
 			}
 		],
 		"related_recipes": [
@@ -2949,7 +2949,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Air"
+				"value": "符文样式：风"
 			},
 			{
 				"type": "text",
@@ -2969,7 +2969,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Arcane"
+				"value": "符文样式：奥术"
 			},
 			{
 				"type": "text",
@@ -2989,7 +2989,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Aura"
+				"value": "符文样式：灵气"
 			},
 			{
 				"type": "text",
@@ -3009,7 +3009,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Defense"
+				"value": "符文样式：防御"
 			},
 			{
 				"type": "text",
@@ -3029,7 +3029,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Earth"
+				"value": "符文样式：大地"
 			},
 			{
 				"type": "text",
@@ -3049,7 +3049,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Ender"
+				"value": "符文样式：末影"
 			},
 			{
 				"type": "text",
@@ -3069,7 +3069,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Fire"
+				"value": "符文样式：火"
 			},
 			{
 				"type": "text",
@@ -3089,7 +3089,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Metal Ritual Rune"
+				"value": "符文样式：金属仪式符文"
 			},
 			{
 				"type": "text",
@@ -3109,11 +3109,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Warding"
+				"value": "符文样式：守护"
 			},
 			{
 				"type": "text",
-				"value": "Warding runes are used to ward a block against use.  Once applied, only the one who placed the ward or those on the same team can use or destroy the block.\n\nNote that this feature is not fully implemented."
+				"value": "守护符文可以用于守护一个方块，使其无法被使用。一旦施放，只有施加守护效果的玩家以及与该玩家同一小队的玩家可以使用或者破坏该方块。\n\nNote that this feature is not fully implemented."
 			}
 		],
 		"related_recipes": [
@@ -3129,7 +3129,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Water"
+				"value": "符文样式：水"
 			},
 			{
 				"type": "text",
@@ -3149,11 +3149,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Magic Staves and Wands"
+				"value": "各式魔杖"
 			},
 			{
 				"type": "text",
-				"value": "Magic staves and wands are aesthetic choices for mages who want to cast from them.  They can also be found as loot in dungeons, and may have a random spell on it with limited charges.  Staves and wands with charges do not consume mana to cast, but will eventually break.\n\nA spell can be combined with a staff or wand at a manaweaving table."
+				"value": "对于法师而言，使用法杖或者魔杖施法，才能体现出法师的尊贵优雅。你可以在战利品箱中发现一些早已沾满了尘埃的法杖，其内还记录了一些法术，只不过使用次数极为有限。 Staves and wands with charges do not consume mana to cast, but will eventually break.\n\n可以在织魔台上将法术绑定到法杖上。"
 			}
 		],
 		"related_recipes": [
@@ -3197,11 +3197,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Bubble Boat"
+				"value": "气泡船"
 			},
 			{
 				"type": "text",
-				"value": "The Bubble Boat works like a normal boat, however it can be placed underwater, and does not get flooded underwater.  Instead, it quickly brings the passenger to the surface.  It may have other uses and interactions for the creative types."
+				"value": "气泡船与普通的船极为类似，然而，气泡船可以放置在水中，且不会沉底。不仅不会沉底，它还会迅速的带着它的乘客冲向水面。 在你的奇思妙想下，或许这艘船能够被开发出新的用法。"
 			}
 		],
 		"related_recipes": [
