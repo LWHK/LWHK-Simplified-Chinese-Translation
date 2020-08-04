@@ -8,11 +8,11 @@
 			},
 			{
 				"type": "text",
-				"value": "魔力编织指的是将你的魔法注入到你的造物的过程，法术，仪式，符文，还有更多东西可以进行魔力编织。"
+				"value": "Manaweaving is the process of infusing your own magic into your creations.  Spells, rituals, runes, and more can make use of it."
 			},
 			{
 				"type": "text",
-				"value": "魔力编织的第一步，是制作一把织魔者法杖。"
+				"value": "To do it, first craft a Manaweaver's Wand."
 			},
 			{
 				"type": "item",
@@ -21,7 +21,7 @@
 			},
 			{
 				"type": "text",
-				"value": "接着，将法杖拿在手中，并尝试使用它（持续右击）；接着，你需要在空气中画出相应的形状，当你画完之后，只需松开右键即可。"
+				"value": "Next, hold the wand in your hand and begin using it (hold the right mouse button).  Then, draw the shape in the air.  Stop using the wand when you're done."
 			},
 			{
 				"type": "image",
@@ -31,7 +31,7 @@
 			},
 			{
 				"type": "text",
-				"value": "魔力编织需要高度的专注，而这一专注需要耗费大量魔力。绘画的时候保持心平气和，焦虑只会让你不断地失误：不正确的图案将不会起任何作用。\n\n据说一些法师在使用织魔者法杖时，表示自己听到了清脆的铃声，尽管我们不能确认是否真的有法师这样子说过，但可以确定的是，这一铃声表明了织魔者法杖正在工作。\n\n也有一些人无法或者不愿意在空气中绘制图形。在如此的需求下，织魔放映机应运而生。将其放置于地上，它就会抽取你（或者是其他人，只要靠得够近）体内的魔力反哺自身。当放映机激活后，他就可以放映出图形，当然，你需要在放映机激活前就选择好需要放映的图形。"
+				"value": "The concentration required will consume your mana quickly.  Do not let this rush you, however, lest you make mistakes: an incorrectly pattern will do nothing.\n\nSome mages claim to have heard chimes while using a manaweaver wand.  While not confirmed, such an occurrence would be an indication that the wand is working.\n\nThere are also those that are either unable or unwilling to draw the shapes in the air.  To that end, the manaweave projector was developed.  Simply place it on the ground and it will draw in your mana (or that of others nearby) to power itself.  When activated, it will project the pattern it is set to after a few seconds."
 			},
 			{
 				"type": "image",
@@ -64,11 +64,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "织魔祭坛"
+				"value": "Manaweaving Altar"
 			},
 			{
 				"type": "text",
-				"value": "织魔祭坛可以在注魔之池上融合原料以及织魔符号。"
+				"value": "The manaweaving altar helps combine ingredients and manaweaving symbols over a pool of enchanted water."
 			}
 		],
 		"related_recipes": [
@@ -91,7 +91,7 @@
 			},
 			{
 				"type": "text",
-				"value": "当编写法术时，法师们不仅需要搜集对应法术构件所需要的原料，而且还需要调和魔法能量的“野性”。想要维系法术稳定，聚能核心不可或缺，而在一些复杂性更高的法术中，对于聚能核心的需求水涨船高，因此你需要在这些法术的制作过程使用到高级版的聚能核心。"
+				"value": "When making spells, a wizard needs to have a way to control the wild magical energies in addition to the ingredients needed to make each spell piece.  These foci are very important to keep the spell stable, and higher versions are needed as the complexity of the spell in question increases."
 			}
 		],
 		"related_recipes": [
@@ -114,11 +114,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文摹画"
+				"value": "Runescribing"
 			},
 			{
 				"type": "text",
-				"value": "创造魔法符文，始终绕不过去的第一个坎就是摹画图样。\n\n想要进行摹画，你需要一块空白样板，以及符文锻造锤以及凿子。利用这些工具，你可以一点点地在样板上凿出你所需要的符文。\n\n雕凿样板时务必小心，因为任何细小的失误都会让所有工作推倒重来！"
+				"value": "The first step in any endeavor to create magical runes is to scribe the pattern.  \n\nTake a blank pattern to your runescribing table, along with your runesmith's hammer and chisel.  Using these tools, chisel out the desired pattern of the rune.\n\nTake care when chiselling your pattern, as any mistakes will require starting over completely!"
 			}
 		],
 		"related_recipes": [
@@ -145,11 +145,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文锻造 (Runes)"
+				"value": "Runeforging (Runes)"
 			},
 			{
 				"type": "text",
-				"value": "下一步的工作就是使用样板锻造出符文。\n\n当你制作好了符文样板，你还需要一份加热过的温特姆粉末，以及一个作为加工场所的符文铁砧。\n\n将样板放置到铁砧上，再在样板上涂上温特姆粉末。"
+				"value": "The next step in the overall enchanting process is to actually forge your rune from your pattern.\n\nOnce you have your completed rune pattern, you will need to take it and some superheated vinteum to your runic anvil.\n\nPlace the pattern on the anvil, and the superheated vinteum on top.  "
 			},
 			{
 				"type": "image",
@@ -159,7 +159,7 @@
 			},
 			{
 				"type": "text",
-				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保多有的东西都放置在了正确的位置，如果你讲物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。下一步则是为你的符文附魔。"
+				"value": "Take your runesmith's hammer and begin to strike the items on the anvil.  Be careful to have everything set up correctly, or the items will not fit together properly, and they will pop off the anvil.\n\nOnce you hit the item enough times, your forging will be complete.  The next step will be to take the rune to your Manaweaving Altar to put the enchantment onto the rune."
 			}
 		],
 		"related_recipes": [
@@ -182,11 +182,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文附魔"
+				"value": "Manaweave Enchanting"
 			},
 			{
 				"type": "text",
-				"value": "制作出符文后，你需要向其注入魔力，以开启符文附魔的初始阶段。\n\n将物品以及需求试剂放置到织魔祭坛上，然后，使用织魔者法杖画出祭坛上方显示的需求图案。\n\n此外，你还可以将织魔放映机放置于祭坛旁，这样你就可以在祭坛旁放映图案了\n\n如果你不小心失误了，你可以用织魔者法杖激活织魔放映机，放映机会放映出祭坛上一个显示的图案，你可以依据这个图案重新绘制。\n\n当你以正确的顺序绘制了正确的图案，并且正确地加入了物品，祭坛会将所有东西吸入，并开始符文附魔。 \n\n现在，我们只需在符文铁砧上将符文与物品相互结合，一切就大功告成了、"
+				"value": "Now that your rune is completed, you will need to infuse mana into it to apply the initial stage of the enchantment to the rune.\n\nPlace the item along with any other required reagents onto the manaweaving altar.  Then, using a manaweaver's wand, draw the required patterns on top of the altar.\n\nAlternately, you can use a manaweave projector placed adjacent to the altar to project the patterns.\n\nIf you make a mistake, you can activate the altar with the wand in your hand to have the wand draw the most recent pattern back out of the altar.\n\nOnce you've drawn the correct patterns, in the correct order, with the correct items, the altar will draw it all in to enchant the rune.  \n\nAll that's left now is to combine the rune with an item back at the runic anvil."
 			}
 		],
 		"related_recipes": [
@@ -209,11 +209,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "亲水"
+				"value": "Aqua Affinity"
 			},
 			{
 				"type": "text",
-				"value": "亲水附魔将会加速你在水下的挖掘速度。它基本上能够将水下挖掘速度提升至与在陆地上的挖掘速度差不多的水平。"
+				"value": "The Aqua Affinity enchantment speeds up how fast you can mine blocks underwater. It basically makes mining underwater the same speed as mining on land."
 			}
 		],
 		"related_recipes": [
@@ -232,11 +232,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "节肢杀手"
+				"value": "Bane of Arthropods"
 			},
 			{
 				"type": "text",
-				"value": "节肢杀手附魔可以提高你对节肢动物的伤害，譬如蜘蛛，洞穴蜘蛛，蠹虫以及末影人。"
+				"value": "The Bane of Arthropods enchantment increases your attack damage against mobs such as spiders, cave spiders, silverfish, and endermites."
 			}
 		],
 		"related_recipes": [
@@ -287,11 +287,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "绑定诅咒"
+				"value": "Binding Curse"
 			},
 			{
 				"type": "text",
-				"value": "绑定诅咒附魔能够让你诅咒一个物品，一旦带有这一附魔的装备被穿上，就再也无法脱下。只有当该装备因耐久为0而破损或者玩家阵亡，穿戴者才能逃脱这永恒的束缚。"
+				"value": "The Curse of Binding enchantment lets you curse an item. Once a cursed item is worn, it can not be removed until the item breaks or the wearer dies."
 			}
 		],
 		"related_recipes": [
@@ -310,11 +310,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "消失诅咒"
+				"value": "Vanishing Curse"
 			},
 			{
 				"type": "text",
-				"value": "消失诅咒附魔可以让你诅咒一个物品，当玩家死亡时，这一被诅咒的物品会直接消失，而不会掉落在地上。"
+				"value": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the cursed item will disappear when the wearer dies instead of being dropped."
 			}
 		],
 		"related_recipes": [
@@ -333,11 +333,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "爆炸保护"
+				"value": "Blast Protection"
 			},
 			{
 				"type": "text",
-				"value": "爆炸保护附魔可以减轻由爆炸带来的伤害，爆炸包括TNT爆炸，苦力怕爆炸，恶魂的火球，凋零充能完毕时发出的爆炸，以及末影水晶的爆炸。"
+				"value": "The Blast Protection enchantment reduces the damage from explosions such as TNT explosions, creeper explosions, ghast fireballs, initial wither boss explosions, and ender crystals."
 			}
 		],
 		"related_recipes": [
@@ -380,11 +380,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "引雷"
+				"value": "Channeling"
 			},
 			{
 				"type": "text",
-				"value": "引雷附魔可以附加至三叉戟上，三叉戟，若敌对生物在雨天时被带有这一附魔的，且是被掷出的三叉戟击中（近身攻击时无效），则会在被击中的生物处召唤一个闪电。"
+				"value": "The Channeling enchantment can be added to a trident. With this enchantment, your trident will summon a lightning bolt at a mob if you throw the trident and it hits the mob (while its standing in the rain)."
 			}
 		],
 		"related_recipes": [
@@ -403,7 +403,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "深海探索者"
+				"value": "Depth Strider"
 			},
 			{
 				"type": "text",
@@ -902,11 +902,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "魔法扫帚"
+				"value": "Magic Broom"
 			},
 			{
 				"type": "text",
-				"value": "魔法扫帚被附魔上了自动收集掉落物的能力，它可以收集指定容器周围的掉落物，并将掉落物放入容器内。这一造物用处很大。我在想，我能不能再造出一点新玩意？"
+				"value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?"
 			}
 		],
 		"related_recipes": [
@@ -921,7 +921,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "末影唱片"
+				"value": "Ender Disc"
 			},
 			{
 				"type": "text",
@@ -940,11 +940,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "奥术王冠"
+				"value": "Arcane Crown"
 			},
 			{
 				"type": "text",
-				"value": "这一传奇的王冠是由远古时期的大法师铸造的。戴上它之后，你能感觉到其中汹涌而澎湃的能量，运用这股能量，你可以更有效率的施法。同时它还会牵引周围的原生魔力，加速你的魔力再生速度。最后，也有传言称这一王冠可以保护佩戴者免受虚弱侵袭，but only every so often."
+				"value": "This legendary crown was originally forged by an archmage of old.  Imbued with tremendous power, it serves to make a mage able to cast spells more efficiently.  It also draws in ambient magic, allowing a larger resevoir of mana.  Finally, it is rumored that this crown can also occasionally protect its wearer from debilitating effects, but only every so often."
 			},
 			{
 				"type": "title",
@@ -1746,11 +1746,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "魔力与再生"
+				"value": "Mana and Regeneration"
 			},
 			{
 				"type": "text",
-				"value": "在魔法的领域里，许多操作都需要消耗一定的资源，而这一资源就叫做“魔力”。你的最大魔力值取决于你的魔法等级，每次魔法等级提升都会增加你的魔力上限。也有小道消息称，一些特殊的饰品、附魔、药水可以增加你的最大魔力值。\n\n无论你的最大魔力值是多少，60秒就足以将你的魔力从0恢复至满值。然而，操控魔法本身是一件比较累人的事，所以想要维持这一回复速度，你还得吃好，吃饱！"
+				"value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 60 seconds, as long as you are well-fed.  Magic is hungry work after all!"
 			}
 		],
 		"related_recipes": [
@@ -1762,11 +1762,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "施放法术"
+				"value": "Casting Spells"
 			},
 			{
 				"type": "text",
-				"value": "创造法术之后，若想激活法术，使用它即可、法术会在被激活后会尝试生效，这一尝试需要魔力维持，所以它会抽取你的魔力。\n\n你可以主副手同时握着不同的法术且同时使用它们，而究竟哪一个法术可以生效则取决于目标，而且这一过程你也无法主动选择哪个法术可以生效。"
+				"value": "After you have created a spell, simply hold it in your hand and activate the item.  The spell will attempt to take effect, draining your mana in the process if successful.\n\nYou can hold a spell in each hand and activate them both at the same time.  You cannot choose which one to activate, though only one of them may succeed depending on targets."
 			}
 		],
 		"related_recipes": [
@@ -1778,11 +1778,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "法术书"
+				"value": "Spell Books"
 			},
 			{
 				"type": "text",
-				"value": "当你创造了几个法术之后，你就会苦恼于找不到地方来放置这些法术。\n\n你可以按下 X 或者 Z 键来切换法术书内的法术， 当然，你必须先装备法术书才能这样操作。"
+				"value": "Once you start gaining several spells, you'll find that you need a place to carry them all.\n\nThe spell book spells can be switched between by pressing the X or Z keys while the book is equipped."
 			}
 		],
 		"related_recipes": [
@@ -1802,7 +1802,7 @@
 			},
 			{
 				"type": "text",
-				"value": "法术书确实很好，but I wonder if I can find a way to bind a spell book to a specific combination of manaweaving symbols?  如果我不小心遗失了这本书，又或者破坏了这本书，我又可以从印记中召回我的书，这一过程不会丢失书上分毫的内容。\n\n一定有某种方法可以做到这件事。\n\nFor the pre-alpha, the combination is Horarium, Aeternum, Triangulus."
+				"value": "Spell books are well and good, but I wonder if I can find a way to bind a spell book to a specific combination of manaweaving symbols?  Then, if I ever lose the book or if it is destroyed, I can simply summon it back with its contents intact.\n\nThere has to be a way.\n\nFor the pre-alpha, the combination is Horarium, Aeternum, Triangulus."
 			}
 		],
 		"related_recipes": [
@@ -1818,7 +1818,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我得搭建一个适合研究工作空间，这样的一片小地方能够让我更好的把我对法术的构思记录在纸上。\n\n先是一张位置合适，摆放整洁的桌子，宽敞的桌面适合放置一些物品；还得准备些能够承受魔法抄写的纸；对了，还有一瓶合适的墨水，没了墨水还怎么做研究。我最好再备上一点魔法粉尘。\n\n万事俱备，接下来就可以进行研究了。首先，我得选择一种塑造法术的方式，这一方式决定了魔法会以何种形式出现在世界中。我认为应该有有数种方式可以供自己学习并选择。\n\n在这之后，我应该选择一个构件，这一构件会决定这一法术在世界中产生的效果。\n\n这些应该足够编写一个基础法术了。然而，我还需深入考虑，法术的哪几个方面是可以供我自定义设计的。想要改变最终的输出，我得修改法术“等式”的一部分内容。\n\n当我最终设计出了我心仪的法术，I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell. 还好，在我脑海里的小桌已经为这一步预留了一个位置。\n\n...我真的很想知道是否有某种方法可以制作出更为复杂的法术，譬如说，能够在一个法术释放里产生多种效果？应该是有的。"
+				"value": "I'll need to set up a proper workspace for me to get my spell ideas from my head onto paper.\n\nA table with all the proper places to store everything, paper that is designed to accept magical script, and the proper ink.  I'll need some arcane ash as well.\n\nOnce I've got all that together, I can get started.  I'll need to pick a way to shape the spell.  This will be the way it targets the world.  I'm sure there are several shapes that I can learn.\n\nAfter that, I will need to pick a component so that the spell actually does something.\n\nThat alone is enough to make a basic spell.  However, I can think of several aspects of spells that could be modified.  I'll need to add in modifiers to the equation of the spell so that I can change these values.\n\nWhen my spell is all written out the way I want it, I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell.  Luckily the table I have in mind will have a spot to do just that.\n\n...I do wonder though if there are ways to make more complicated spells, such as ones that can do multiple things in a single cast?  There must be."
 			}
 		],
 		"related_recipes": [
@@ -1842,11 +1842,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "制作皮纸"
+				"value": "Making Vellum"
 			},
 			{
 				"type": "text",
-				"value": "普通纸张无法承载法术配方，皮纸似乎是一个更好的选择。在水中稍微处理一下皮革，皮纸就做好了。"
+				"value": "Basic paper seems unable to take spells.  Vellum seems to be a better candidate.  I can make vellum by working leather in water."
 			},
 			{
 				"type": "image",
@@ -1856,7 +1856,7 @@
 			},
 			{
 				"type": "text",
-				"value": "任何非流动的水源都可以处理皮革，但如果我们在坩埚里处理皮革，产出的皮纸的质量肯定要好上不少。"
+				"value": "Any source of standing water will do, but I am able to get better results if the water is in a cauldron."
 			}
 			
 		],
@@ -1869,11 +1869,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "弹射物施法"
+				"value": "Projectile"
 			},
 			{
 				"type": "text",
-				"value": "这一形状构件会在施法者的位置生成一个弹射物，这一弹射物的飞行方向与施法者的视线一致。弹射物会被重力影响，但加快弹射物的飞行速度可以显著减少单位时间内由重力产生的下坠、"
+				"value": "This spell shape will spawn a projectile at the caster, in the direction that the caster is looking.  The projectile is affected by gravity, but making it move faster lessens this effect."
 			}
 		],
 		"related_recipes": [
@@ -1889,11 +1889,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "自我施法"
+				"value": "Self"
 			},
 			{
 				"type": "text",
-				"value": "这一形状构件以施法者自身作为目标。"
+				"value": "This shape will cause the spell to affect the caster directly when cast."
 			}
 		],
 		"related_recipes": [
@@ -1909,11 +1909,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "电弧施法"
+				"value": "Bolt"
 			},
 			{
 				"type": "text",
-				"value": "电弧形状构件使法术变为长距离即时命中的法术。但这一构件需要比较高的瞄准精度。由于这一构件将魔法拉伸成了长距离形态，因此它无法像其它形状构件那样，能够在一定范围内产生影响。"
+				"value": "The bolt shape is a long range instantaneous effect, but requires a great deal of precision to target.  Due to the longer range, it can't seem to hit as wide a range as other shapes."
 			}
 		],
 		"related_recipes": [
@@ -1929,11 +1929,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "触摸施法"
+				"value": "Touch"
 			},
 			{
 				"type": "text",
-				"value": "这一构件所能初级的范围相对较短，但是，更近的施法距离意味着跟少的魔力消耗。所以，你可以更大程度的调节这一构件的范围半径。\n\n你应该在调节半径时小心一些，如果你把半径设的过大，那你有可能会被自己的法术击中。"
+				"value": "This shape is a relatively short range effect, however the close proximity to the me requires much less energy to cast.  As a result, it has a much higher capacity for radius.\n\nI should be careful putting too much radius into this.  The effects could potentially hit me as well."
 			}
 		],
 		"related_recipes": [
@@ -1949,11 +1949,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "火焰伤害"
+				"value": "Fire Damage"
 			},
 			{
 				"type": "text",
-				"value": "这一效果构件将会在其影响之处燃起火焰，绽出的炽热花火会对目标造成大量伤害，能够在点燃敌人之间就将其焚为灰烬。"
+				"value": "This effect lights whatever it touches on fire.  The initial heat bloom is extremely potent and will scorch targets before igniting them."
 			}
 		],
 		"related_recipes": [
@@ -1969,11 +1969,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "冰霜伤害"
+				"value": "Frost Damage"
 			},
 			{
 				"type": "text",
-				"value": "这一效果构件可以急剧降低目标的温度，由温度急速变换而带来的打击将会对目标造成巨大的伤害。"
+				"value": "This effect drastically lowers the temperature of whatever it targets.  The shock from the temperature change can cause significant damage."
 			}
 		],
 		"related_recipes": [
@@ -1989,11 +1989,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "雷电伤害"
+				"value": "Lightning Damage"
 			},
 			{
 				"type": "text",
-				"value": "我找到一种方法，可以将纯净的火焰极度压缩，然后通过一场剧烈的爆炸释放出能量。如此操作的结果，其光效与闪电几无二致。 这股能量也能够以比其它构件更强的力量吸引周遭的事物到你的旁边，在一些情况下可十分有用。"
+				"value": "I've figured out a way to channel pure fire into a blast so concentrated that it more resembles lightning than anything else.  This causes convulsions that seem to launch things back away from me with more force than other spells.  This could be useful."
 			}
 		],
 		"related_recipes": [
@@ -2009,11 +2009,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "跳跃"
+				"value": "Leap"
 			},
 			{
 				"type": "text",
-				"value": "我已经找到了操控周身的空气的方法，依赖于这种方法，我可以在气流的帮助下跳的更高。\n\n不过，你得再落地之前看清楚你脚下的东西，也得注意不要跳得太高了。"
+				"value": "I've figured out how I can channel currents of air around myself to launch me higher into the air whenever I jump.  \n\nI'll need to be careful of what's below me when I land, and how far I fall."
 			}
 		],
 		"related_recipes": [
@@ -2029,11 +2029,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "羽落"
+				"value": "Slowfall"
 			},
 			{
 				"type": "text",
-				"value": "我已经学会了操纵脚下空气聚合在一起的方法，借助这一技巧，我可以在空中缓慢而轻柔地落地，而不会对脚造成伤害。我距离在天空翱翔只有一步之遥了！"
+				"value": "I've learned how to coalesce the air below me into a cushion that gently carries me towards the ground.  I'm one step closer to true flight!"
 			}
 		],
 		"related_recipes": [
@@ -2049,11 +2049,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "破坏"
+				"value": "Break"
 			},
 			{
 				"type": "text",
-				"value": "凝聚我的魔力，我可以破坏一些方块。泥土，石头，以及其它方块，都在我的命令下瑟瑟发抖，几近破碎。大地似乎也对我做出了回应，我感到我的脚下在微微的晃动、"
+				"value": "I can focus my magic to break things.  Dirt, Stone, and more all shatters at my command.  I can feel the earth shake below my feet."
 			}
 		],
 		"related_recipes": [
@@ -2069,11 +2069,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "裂隙"
+				"value": "Rift"
 			},
 			{
 				"type": "text",
-				"value": "我找到了一种方法，这一方法可以让我在本维度以及其它临近维度之间撕开一个小裂隙。列席的大小足以让我通过，而且我感觉列席通向的总是同一个空间。也许我可以将 我的物品储存于这个裂隙中，这样那些小偷小摸之人就侵犯不到我的财产了。\n\n有趣的是，不同的法师使用裂隙打开的空间也是不一样的，这可能是由于法术配方中的各部分之间的微妙反应不尽相同。"
+				"value": "I have discovered how to tear a small rift between this dimension and one of the neighbouring ones.  It's large enough to fit myself through, but it does always seem to go to the same place for me.  Maybe I can use it to store a few things safely away from prying eyes and sticky fingers.\n\nInterestingly, other mages that have cast this spell have their rift open to a different location.  It must be something to do with how their magic interacts with the spell's formula."
 			}
 		],
 		"related_recipes": [
@@ -2093,7 +2093,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我可以操控空气降低我的降落速度，我也可以利用类似的操作将敌人推开。这一构件可以用来赶走那些试图鬼鬼祟祟地接近你的苦力怕，当然，手速要够快。"
+				"value": "I can use similar air magic to when I slow my falling speed to push against other creatures and force them away from me.  This might be a good spell in a pinch when another creeper sneaks up on me, if I'm fast enough."
 			}
 		],
 		"related_recipes": [
@@ -2109,11 +2109,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "狂风"
+				"value": "Gust"
 			},
 			{
 				"type": "text",
-				"value": "如果可以用大地魔法破坏方块，那我也可以用风魔法来做同样的事。这一构件可以操控气流破坏诸如草，树叶，植物和雪，而不会破坏被其覆盖的方块。"
+				"value": "While breaking blocks is a useful tool with earth magic, I can use air magic for a more gentle effect.  This will clear out grass, leaves, plants, and snow while leaving the dirt and stone intact."
 			}
 		],
 		"related_recipes": [
@@ -2129,11 +2129,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "沉默"
+				"value": "Silence"
 			},
 			{
 				"type": "text",
-				"value": "有些法师话真的很多，我的想出一种办法来让他们闭嘴。"
+				"value": "Other wizards talk too much.  I should do something about that."
 			}
 		],
 		"related_recipes": [
@@ -2149,11 +2149,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "重力井"
+				"value": "Gravity Well"
 			},
 			{
 				"type": "text",
-				"value": "那天，我看到一个苹果从书上掉了下来，我顿时有了灵感。我能否创造一个法术来增强苹果所受的重力呢？\n\n我或许不用局限于一个小小的苹果上。\n\n我能不能增强自身的重力？这可比增强苹果重力容易多了。"
+				"value": "I saw an apple falling of a tree the other day, and it gave me an idea.  What if I used a spell to enhance the gravity of that apple?\n\nMaybe that's thinking too small.\n\nWhat if I could increase gravity on myself?  It would have seemingly all kinds of uses."
 			}
 		],
 		"related_recipes": [
@@ -2169,11 +2169,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "缠绕"
+				"value": "Entangle"
 			},
 			{
 				"type": "text",
-				"value": "我发现，那些学习德鲁伊艺术的人们，会在穿越树林时与树林中的植物们交谈。有时我甚至感觉，我能从这些植物的移动，以及它们在风中摇摆的姿势，来判断出它们想要说的。我想，要是我摆出足够和善的态度，它们会不会帮助我阻挡那些想要伤害我的生物？"
+				"value": "I've seen many that follow the druidic arts talking to plants as they move through the forests.  It sometimes even seems as thought they answer, with how they move and sway in the wind.  I wonder, if I asked them nicely, if they would assist me in restraining those that seek to do me harm?"
 			}
 		],
 		"related_recipes": [
@@ -2189,11 +2189,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "回溯之锚"
+				"value": "Chrono Anchor"
 			},
 			{
 				"type": "text",
-				"value": "我做到了，驻足于时光长河的岸边，时光就在我眼前静静流淌，即刻亦为永恒，尽管这只有短短的一瞬。操纵这一强大的构件，我能够在时间之中抛锚停泊。在施法后，若经历了足够的时间，又或者惨剧降临到了我的头上，强大的魔力会把我猛然拉进时光长河，我的所有物理层面的状态都会回溯到施法时的状态。"
+				"value": "I've done it.  I've managed to step on to the shores of the river of time, albeit only briefly.  Using this powerful magic, I can anchor myself in time.  When enough time has passed, or if tragedy befalls me, I will be yanked back through time to where I cast the spell with all of my physical attributes returned as well."
 			}
 		],
 		"related_recipes": [
@@ -2209,11 +2209,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "加速"
+				"value": "Haste"
 			},
 			{
 				"type": "text",
-				"value": "我能够利用火的能量来增加我的速度。虽然很难具体解释感受如何，但这一构件确实会给人一种强劲动力喷涌而出的感觉，就好像有人点着了我的.....emmmmmm"
+				"value": "I have figured out how to use the power of fire to increase my speed.  It's hard to explain, but it feels like a surge of extreme motivation, like someone lit a fire under my...oh."
 			}
 		],
 		"related_recipes": [
@@ -2229,11 +2229,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "减速"
+				"value": "Slow"
 			},
 			{
 				"type": "text",
-				"value": "研究了一番乌龟之后，我可以通过魔法来减缓目标的速度。"
+				"value": "By studying turtles, I have figured out a way to use magic to slow the movements of my target down."
 			}
 		],
 		"related_recipes": [
@@ -2249,11 +2249,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "力量"
+				"value": "Strength"
 			},
 			{
 				"type": "text",
-				"value": "通过强化目标与大地之间的联系，我能够增强它们的力量。"
+				"value": "By reinforcing my target's connection to the earth, I am able to grant them increased strength."
 			}
 		],
 		"related_recipes": [
@@ -2269,11 +2269,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "虚弱"
+				"value": "Weakness"
 			},
 			{
 				"type": "text",
-				"value": "我能够将力量从目标身上抽离出来，目标会因此凋零且虚弱。"
+				"value": "I am able to pull the strength directly out of my target, leaving them withered and weak."
 			}
 		],
 		"related_recipes": [
@@ -2289,11 +2289,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "快泳"
+				"value": "Swift Swim"
 			},
 			{
 				"type": "text",
-				"value": "我发现，在旅途中总会需要花费大量时间呆在水底。然而，潜藏在水底的威胁会让你的水下活动变得举步维艰，体验不可谓不差。 因此，我设计了一种方法来帮助控制我周围的水流，这些水流可以推着我前进。这会对我的水下生活有极大的助益，当然，前提是你还得在水里长时间憋气。"
+				"value": "I find I need to spend a large part of my time in the water.  However, threats and predators there make the experience nerve wracking.  So, I devised a way to help control the water currents around me in order to propel me forward.  That should help even the scales, provided I can hold my breath long enough."
 			}
 		],
 		"related_recipes": [
@@ -2309,11 +2309,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "水墓"
+				"value": "Watery Grave"
 			},
 			{
 				"type": "text",
-				"value": "我于噩梦中得到了灵感：被淹溺的挣扎痛苦，被拉向破碎，黑暗，寒冷的深渊处的绝望，我奋力抬头，却只能看到不断隐没消逝的光芒，我沉没于这一深不见底的暗流，拼命挣扎却只能在水面溅起些许水花。突然间，我从噩梦中惊醒，梦中的窒息感仿佛还未消退，我急忙狠狠地呼吸了几下。缓了一下后，我连忙跑向桌旁，拿起了笔和纸，记录刚刚的体验并思考如何复刻这样的感觉。我思考这样的问题并不是为了残害他人，单纯的思考其实无伤大雅。但也许，我也能利用这一思考得出的知识，扭转那些避无可避的结局？"
+				"value": "It came to me in a nightmare.  A feeling of drowning, being pulled down into the crushing, dark, cold abyss.  I looked up and watched the light fade as I sank deeper beneath the waves.  I woke up gasping for air.  I immediately started taking notes on how I might be able to leverage that effect.  I wouldn't wish it on anyone, but it couldn't hurt to know how it works.  Maybe I can use the same knowledge to protect myself from the same fate?"
 			}
 		],
 		"related_recipes": [
@@ -2329,11 +2329,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "致盲"
+				"value": "Blind"
 			},
 			{
 				"type": "text",
-				"value": "我意识到了，那些同样想用法术攻击我的人必须要有我的视野，如果使其致盲，那么他们就很难打的中我，但或许也会导致相反的事情，他们也可能会换用那些极具破坏力的大范围杀伤性法术，这些法术往往不需要视野。也许我在使用这一构件时得小心谨慎些、"
+				"value": "It seems to me that most of the spells others target against me require sight.  Take that away, and they either need to fight with reduced accuracy, or switch to more destructive spells.  Perhaps I should keep my distance when using this."
 			}
 		],
 		"related_recipes": [
@@ -2349,11 +2349,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "夜视"
+				"value": "Night Vision"
 			},
 			{
 				"type": "text",
-				"value": "真不知道末影人是怎么做到的，不用耗费什么力气就能够在虚空中自由穿行。而我呢，黑暗之中两眼一瞎，单单是穿越我的实验室就无比的困难，不是撞到那个就是撞到这个，感觉都要把我的小腿骨撞断了。也许我可以找到一些方法来操纵末影人的力量，这样我就可以在黑暗中畅行无阻了。"
+				"value": "I wonder how the Endermen do it.  Move so effortlessly through the void.  I can't make it across my lab in the dark without smashing my shins off of a piece of furniture.  I think I may have figured out a way to harness the power of endermen to help me see as they do in the dark."
 			}
 		],
 		"related_recipes": [
@@ -2369,11 +2369,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "照亮"
+				"value": "Light"
 			},
 			{
 				"type": "text",
-				"value": "当置身于黑暗之中，追寻光就是人类的本性之一。而巫师解决这一问题的手段优雅又简单，所以在日常情境中的照亮工作往往都是巫师完成的最快。"
+				"value": "When thrust into the dark, it is a person's natural instinct to look for light.  Wizards are typically able to do so magically with ease, and are often the first ones to banish the darkness."
 			}
 		],
 		"related_recipes": [
@@ -2389,11 +2389,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "隐形"
+				"value": "Invisibility"
 			},
 			{
 				"type": "text",
-				"value": "法师总是能用魔法创造奇迹。诏下猛烈的火焰以及狂暴的雷霆，召唤突如其来的风暴，穿越于维度之间，轻而易举就能进行长途传送，这些都只是法师之力的一部分而已。但大多数情况下，进行这些操作都需要一定的时间的准备。\n\n但我发现，很多时候解决问题的方法并没有那么复杂，只需让对方看不到我，问题就能迎刃而解。"
+				"value": "Mages can do some amazing things with magic.  Calling down fire and thunder, summoning gale force winds, stepping across dimensions and over long distances, and so much more.  But most times, those kinds of things take time and preparation.\n\nI've found, that sometimes the best way to get things done is to not be seen at all."
 			}
 		],
 		"related_recipes": [
@@ -2409,11 +2409,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "伤害"
+				"value": "Damage"
 			},
 			{
 				"type": "text",
-				"value": "我修改了法术配方，这种法术配方可以凝聚我的力量，使其破坏力大增。这一过程所需的魔力肯定会增加，但为了痛击我的敌人，这都是些值得付出的代价。"
+				"value": "I can alter the formula of the spell to allow me to concentrate my power to a greater destructive effect.  It costs me more mana to do so, but a harder hit may be worth it."
 			}
 		],
 		"related_recipes": [
@@ -2429,11 +2429,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "范围半径"
+				"value": "Radius"
 			},
 			{
 				"type": "text",
-				"value": "通过改变法术配方，我可以增大我的法术的影响范围。如此施法造成的压力有时让我感觉不堪重负，但是这真的很值得，尤其是当你制造出了一个超大的火球的时候，你会觉得物超所值。"
+				"value": "I can change the formula of the spell to allow me to affect a larger area.  The strain is sometimes staggering, but there's nothing quite so satisfying as a huge fireball."
 			}
 		],
 		"related_recipes": [
@@ -2449,11 +2449,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "速度"
+				"value": "Speed"
 			},
 			{
 				"type": "text",
-				"value": "通过修改法术配方，我可以让法术更快生效。弹射物的飞行速度会加快，那些受到击退效果的敌人也会以更快的速度被弹开。我在想，这一自定义方式还能与其它的部件产生什么样的火花？"
+				"value": "I can alter the formula of a spell to cause movement effects to happen faster.  Projectiles move more quickly, and enemies are flung away from me with greater velocity.  I wonder what else is possible with this?"
 			}
 		],
 		"related_recipes": [
@@ -2469,11 +2469,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "增强"
+				"value": "Magnitude"
 			},
 			{
 				"type": "text",
-				"value": "我可以通过改变法术配方而增强法术效果，但这一效果增强侧重的是长期效果而不是瞬时效果。我可能会在某些时候用得上这一技巧，我可不要把它忘了。"
+				"value": "I can alter the formula for a spell to have a much more substantial effect.  This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it.  I'll have to keep it in mind."
 			}
 		],
 		"related_recipes": [
@@ -2489,11 +2489,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "持续时间"
+				"value": "Duration"
 			},
 			{
 				"type": "text",
-				"value": "修改了法术配方之后，只要花上更多的魔力，那些原来只能持续几秒的效果就能够持续的更久一些了。这可十分有用。"
+				"value": "I can make spells that last a few seconds last a little longer at the cost of more mana.  This could be very helpful."
 			}
 		],
 		"related_recipes": [
@@ -2509,7 +2509,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "法术距离"
+				"value": "Range"
 			},
 			{
 				"type": "text",
@@ -2529,11 +2529,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "护盾"
+				"value": "Shield"
 			},
 			{
 				"type": "text",
-				"value": "利用魔法，我可以在周身创造出屏障。protecting against kinetic force.  I wonder if there are other types of shields that would protect me against more?"
+				"value": "I can use my magic to create a barrier around myself, protecting against kinetic force.  I wonder if there are other types of shields that would protect me against more?"
 			}
 		],
 		"related_recipes": [

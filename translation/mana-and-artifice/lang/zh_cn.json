@@ -28,22 +28,22 @@
 	"item.mana-and-artifice.flat_lands_book": "Book of the Flat Lands",
 	
 	"item.mana-and-artifice.guide_book": "奥秘古籍",
-	"item.mana-and-artifice.guide_book.magic_unlocked": "将这本古籍拿在手上，你感到了由它发出的强烈呼唤。你匆匆游览了前面的几页，而随着阅读的愈发深入，这些艰深晦涩的知识已然耗费了你数个小时的时间。书上的知识让你豁然开朗，你能察觉到周围的魔法能量像是漩涡一般环绕着你。你已经窥见了奥术这门隐秘知识的一角！",
+	"item.mana-and-artifice.guide_book.magic_unlocked": "将这本古籍拿在手上，你感到了由它发出的强烈呼唤。你匆匆浏览了前面的几页，而随着阅读的愈发深入，这些艰深晦涩的知识已然耗费了你数个小时的时间。书上的知识让你豁然开朗，你能察觉到周围的魔法能量像是漩涡一般环绕着你。你已经窥见了奥术这门隐秘知识的一角！",
 	"item.mana-and-artifice.grimoire": "Grimoire",
 	
-	"item.mana-and-artifice.hellfire_staff": "地狱之火法杖",
+	"item.mana-and-artifice.hellfire_staff": "地狱火法杖",
 	
 	"item.mana-and-artifice.infused_silk": "蕴魔丝绸",
 	
 	"item.mana-and-artifice.magic_broom": "魔法扫帚",
 	"item.mana-and-artifice.manaweaver_wand": "织魔者法杖",
-	"item.mana-and-artifice.manaweaver_wand.not_recognized": "无法识别出这一组合。",
+	"item.mana-and-artifice.manaweaver_wand.not_recognized": "无法识别这一图样。",
 		
-	"item.mana-and-artifice.player_charm": "Player Charm",
-	"item.mana-and-artifice.player_charm.attuned": "Attuned to %s",
-	"item.mana-and-artifice.player_charm.not_attuned": "Not attuned",
-	"item.mana-and-artifice.purified_vinteum_dust": "Purified Vinteum Dust",
-	"item.mana-and-artifice.purified_vinteum_ingot": "Purified Vinteum Ingot",
+	"item.mana-and-artifice.player_charm": "玩家福州",
+	"item.mana-and-artifice.player_charm.attuned": "调谐对象：%s",
+	"item.mana-and-artifice.player_charm.not_attuned": "未调谐",
+	"item.mana-and-artifice.purified_vinteum_dust": "纯净温特姆粉末",
+	"item.mana-and-artifice.purified_vinteum_ingot": "纯净温特姆锭",
 	
 	"item.mana-and-artifice.fast_ritual_kit": "Fast Ritual Kit",
 	"item.mana-and-artifice.ritual_kit": "Ritual Kit",
@@ -94,10 +94,10 @@
 	
 	"item.mana-and-artifice.runic_silk": "Runic Silk",
 	
-	"item.mana-and-artifice.runesmith_hammer": "Runesmith's Hammer",
-	"item.mana-and-artifice.runesmith_chisel": "Runesmith's Chisel",
-	"item.mana-and-artifice.rune_pattern": "Rune Pattern",
-	"item.mana-and-artifice.rune_pattern.blank": "Blank",
+	"item.mana-and-artifice.runesmith_hammer": "符文锻造锤",
+	"item.mana-and-artifice.runesmith_chisel": "符文锻造凿",
+	"item.mana-and-artifice.rune_pattern": "符文图样",
+	"item.mana-and-artifice.rune_pattern.blank": "空白石板",
 	"item.mana-and-artifice.rune_pattern.progress": "In Progress",
 	
 	"item.mana-and-artifice.spectral_elytra": "Spectral Elytra",
@@ -123,8 +123,8 @@
 	
 	"item.mana-and-artifice.spell_book": "咒语书",
 	"item.mana-and-artifice.spell": "法术",
-	"item.mana-and-artifice.spell.recipe_display_name": "Spell Recipe: %1$s - %2$s",
-	"item.mana-and-artifice.spell.display_name": "Spell: %1$s - %2$s",
+	"item.mana-and-artifice.spell.recipe_display_name": "法术配方：%1$s - %2$s",
+	"item.mana-and-artifice.spell.display_name": "法术：%1$s - %2$s",
 	"item.mana-and-artifice.spell.shape_attributes": "%1$sShape Attributes%2$s",
 	"item.mana-and-artifice.spell.component_attributes": "%1$sComponent Attributes%2$s",
 	"item.mana-and-artifice.spell.attribute_display": "%1$s  %2$s: %3$s%4$s",
@@ -140,25 +140,25 @@
 	"item.mana-and-artifice.sight_unguent.flavor_text": "It smells terrible.",
 	
 	"item.mana-and-artifice.vellum": "皮纸",
-	"item.mana-and-artifice.vinteum_dust": "Vinteum Dust",
-	"item.mana-and-artifice.vinteum_coated_iron": "Vinteum Coated Iron",
-	"item.mana-and-artifice.vinteum_ingot": "Vinteum Ingot",
-	"item.mana-and-artifice.superheated_vinteum_ingot": "Superheated Vinteum Ingot",
+	"item.mana-and-artifice.vinteum_dust": "温特姆粉末",
+	"item.mana-and-artifice.vinteum_coated_iron": "温特姆覆膜铁锭",
+	"item.mana-and-artifice.vinteum_ingot": "温特姆锭",
+	"item.mana-and-artifice.superheated_vinteum_ingot": "过热温特姆锭",
 	
 	"item.mana-and-artifice.wand": "Magic Wand",
-	"item.mana-and-artifice.wizard_chalk": "Wizard Chalk",
-	"item.mana-and-artifice.wizard_chalk_uses": "%d uses remaining",
+	"item.mana-and-artifice.wizard_chalk": "巫师粉笔",
+	"item.mana-and-artifice.wizard_chalk_uses": "还可使用 %d 次",
 	
 	"block.mana-and-artifice.brazier": "Brazier",
 	"block.mana-and-artifice.brazier.auto_on": "Auto-active is on",
 	"block.mana-and-artifice.brazier.auto_off": "Auto-active is off",
 	
 	"block.mana-and-artifice.chimerite_ore": "Chimerite Ore",
-	"block.mana-and-artifice.vinteum_ore": "Vinteum Ore",
-	"block.mana-and-artifice.vinteum_block": "Vinteum Block",
+	"block.mana-and-artifice.vinteum_ore": "温特姆矿石",
+	"block.mana-and-artifice.vinteum_block": "温特姆块",
 	"block.mana-and-artifice.aum": "Aum",
 	"block.mana-and-artifice.runescribing_table": "Runescribing Table",
-	"block.mana-and-artifice.inscription_table": "Inscription Table",
+	"block.mana-and-artifice.inscription_table": "铭文桌",
 	"block.mana-and-artifice.tarma_root": "Tarma Root",
 	"block.mana-and-artifice.cerublossom": "Cerublossom",
 	"block.mana-and-artifice.desert_nova": "Desert Nova",
@@ -181,10 +181,10 @@
 	"block.mana-and-artifice.chalk_rune_o": "仪式符文",
 	"block.mana-and-artifice.chalk_rune_p": "仪式符文",
 	
-	"block.mana-and-artifice.hellfire": "Hellfire",
+	"block.mana-and-artifice.hellfire": "地狱烈焰",
 	
-	"block.mana-and-artifice.manaweaving_altar": "Manaweaving Altar",
-	"block.mana-and-artifice.manaweave_projector": "Manaweave Projector",
+	"block.mana-and-artifice.manaweaving_altar": "织魔祭坛",
+	"block.mana-and-artifice.manaweave_projector": "织魔放映机",
 	
 	"block.mana-and-artifice.pedestal": "Pedestal",
 	"block.mana-and-artifice.particle_emitter": "Particle Emitter",
@@ -250,7 +250,7 @@
 	"mana-and-artifice:manaweaving/manaweaving_staff_c": "Imbue Staff",
 	"mana-and-artifice:manaweaving/manaweaving_wand": "Imbue Wand",
 	
-	"mechanic.mana-and-artifice.manaweaving_pattern": "Manaweave Pattern:",	
+	"mechanic.mana-and-artifice.manaweaving_pattern": "织魔图样：",	
 	
 	"mechanic.mana-and-artifice:basics": "基础",
 	"mechanic.mana-and-artifice:rituals": "仪式",
@@ -262,13 +262,13 @@
 	"mechanic.mana-and-artifice:enchantments": "附魔",
 	
 	
-	"mana-and-artifice:rituals/return": "Ritual of Return",
-	"mana-and-artifice:rituals/homestead": "Ritual of Homestead",
-	"mana-and-artifice:rituals/summon": "Ritual of Summoning",
-	"mana-and-artifice:rituals/visit": "Ritual of Visiting",
-	"mana-and-artifice:rituals/aurora": "Ritual of Aurora",
-	"mana-and-artifice:rituals/eventide": "Ritual of Eventide",	
-	"mana-and-artifice:rituals/arcana": "Ritual of Arcana",
+	"mana-and-artifice:rituals/return": "回返仪式",
+	"mana-and-artifice:rituals/homestead": "居所仪式",
+	"mana-and-artifice:rituals/summon": "召唤仪式",
+	"mana-and-artifice:rituals/visit": "造访仪式",
+	"mana-and-artifice:rituals/aurora": "晨曦仪式",
+	"mana-and-artifice:rituals/eventide": "薄暮仪式",	
+	"mana-and-artifice:rituals/arcana": "奥术仪式",
 	"mana-and-artifice:rituals/ancient_stone": "Ritual of Ancient Stone",
 	"mana-and-artifice:rituals/deep_ocean": "Ritual of the Deep Ocean",
 	"mana-and-artifice:rituals/endless_void": "Ritual of the Endless Void",
@@ -314,7 +314,7 @@
 	"mana-and-artifice:components/slowfall": "羽落",	
 	"mana-and-artifice:components/transplace": "移位",
 	"mana-and-artifice:components/blink": "闪现",
-	"mana-and-artifice:components/blink.failed": "无法找到闪现位置。",
+	"mana-and-artifice:components/blink.failed": "无法找到可供闪现的位置。",
 	
 	"mana-and-artifice:modifiers/damage": "伤害",
 	"mana-and-artifice:modifiers/duration": "持续时间",
