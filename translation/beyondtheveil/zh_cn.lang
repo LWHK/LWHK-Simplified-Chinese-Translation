@@ -468,7 +468,7 @@ dweller.carpentereasyjob.talk1=你到底买不买我的东西？
 
 dweller.lhkeeper.talk0=噢。|{一个旅行者}[...]:欢迎。
 dweller.lhkeeper.talk1=我猜你是在永无止尽的旅途中，偶然发现了我们的渔村。:我只能对你表示羡慕，毕竟我只能被困在这里，{看守这座灯塔。
-dweller.lhkeeper.talk2=虽然如此，但我有个疑惑，像你这样的探险家如何看待我们这卑微的渔村？|这[所有]你肯定欣赏的美景，给你留下的最深的印象是什么？
+dweller.lhkeeper.talk2=虽然如此，但我有个疑惑，像你这样的探险家如何看待我们这简陋的渔村？|这[所有]你肯定欣赏的美景，给你留下的最深的印象是什么？
 dweller.lhkeeper.talk2.option0=它直击我的心灵:给我一种奇异的:敬畏感。
 dweller.lhkeeper.talk2.option1=我不喜欢它。:这里的空气中:弥漫着敌意。
 dweller.lhkeeper.hamletliketalk0={噢，}很高兴听到你这么说。那么告诉我，探险家，:是什么让你感受到了如此{奇异}的{敬畏感}？ 
