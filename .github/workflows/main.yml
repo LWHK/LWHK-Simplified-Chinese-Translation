@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: production
+          ref: CHS
       - name: Reset promotion branch
         run: |
           git fetch origin master:master
@@ -17,4 +17,4 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          branch: production-promotion
+          branch: CHS
