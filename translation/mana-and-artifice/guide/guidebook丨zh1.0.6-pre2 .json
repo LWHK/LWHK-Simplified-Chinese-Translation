@@ -1,0 +1,3790 @@
+{
+	"Manaweaving How-To": {
+		"category": "manaweaving",
+		"index": -3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "What is Manaweaving"
+			},
+			{
+				"type": "text",
+				"value": "Manaweaving is the process of infusing your own magic into your creations.  Spells, rituals, runes, and more can make use of it."
+			},
+			{
+				"type": "text",
+				"value": "To do it, first craft a Manaweaver's Wand."
+			},
+			{
+				"type": "item",
+				"location": "mana-and-artifice:manaweaver_wand",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "Next, hold the wand in your hand and begin using it (hold the right mouse button).  Then, draw the shape in the air.  Stop using the wand when you're done."
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/manaweaving.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "text",
+				"value": "The concentration required will consume your mana quickly.  Do not let this rush you, however, lest you make mistakes: an incorrectly pattern will do nothing.\n\nSome mages claim to have heard chimes while using a manaweaver wand.  While not confirmed, such an occurrence would be an indication that the wand is working.\n\nThere are also those that are either unable or unwilling to draw the shapes in the air.  To that end, the manaweave projector was developed.  Simply place it on the ground and it will draw in your mana (or that of others nearby) to power itself.  When activated, it will project the pattern it is set to after a few seconds."
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/manaweave_projector.png",
+				"width": 128,
+				"height": 128
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:chimerite_ore",
+				"type": "none"
+			},
+			{
+				"location": "mana-and-artifice:manaweaving_altar",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:manaweave_projector",
+				"type": "crafting"
+			}
+		]
+	},
+	"Occulus": {
+		"category": "basics",
+		"index": -3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Occulus"
+			},
+			{
+				"type": "text",
+				"value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, hover your mouse over the progress bar on the right."
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:occulus",
+				"type": "crafting"
+			}
+		]
+	},
+	"Factions": {
+		"category": "basics",
+		"index": -3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Factions"
+			},
+			{
+				"type": "text",
+				"value": "At a certain point in your journey through the world of the arcane, you will need to choose a faction.  This is given to you as a choice of a series of rituals to complete.\n\nChoose wisely.\n\nYour faction, once chosen, cannot be changed.  \n\n(DEV NOTE: the following features are not yet implemented)\n\nYou will also make enemies of the other two factions, causing them to send their assassins after you.  You will gain reputation with your faction by doing so and will unlock additional trades and resources."
+			}
+		],
+		"related_recipes": []
+	},
+	"Manaweaving Altar": {
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Manaweaving Altar"
+			},
+			{
+				"type": "text",
+				"value": "The manaweaving altar helps combine ingredients and manaweaving symbols over a pool of enchanted water."
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:manaweaver_wand",
+				"type": "crafting"
+			},
+			{
+				"location": "mana-and-artifice:manaweaving_altar",
+				"type": "crafting"
+			}
+		]
+	},
+	"Ritual Foci": {
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual Foci"
+			},
+			{
+				"type": "text",
+				"value": "When making spells, a wizard needs to have a way to control the wild magical energies in addition to the ingredients needed to make each spell piece.  These foci are very important to keep the spell stable, and higher versions are needed as the complexity of the spell in question increases."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:ritual_focus_minor"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:ritual_focus_lesser"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:ritual_focus_greater"
+			}
+		]
+	},
+	"Step 1: Runescribing": {
+		"category": "runesmithing",
+		"index": -2,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Runescribing"
+			},
+			{
+				"type": "text",
+				"value": "The first step in any endeavor to create magical runes is to scribe the pattern.  \n\nTake a blank pattern to your runescribing table, along with your runesmith's hammer and chisel.  Using these tools, chisel out the desired pattern of the rune.\n\nTake care when chiselling your pattern, as any mistakes will require starting over completely!"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:rune_clay_plate"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runescribing/runescribing_table"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/runesmith_hammer"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runescribing/runesmith_chisel"
+			}
+		]
+	},
+	"Step 2: Runeforging": {
+		"category": "runesmithing",
+		"index": -1,
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Runeforging (Runes)"
+			},
+			{
+				"type": "text",
+				"value": "The next step in the overall enchanting process is to actually forge your rune from your pattern.\n\nOnce you have your completed rune pattern, you will need to take it and some superheated vinteum to your runic anvil.\n\nPlace the pattern on the anvil, and the superheated vinteum on top.  "
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/runic_anvil.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "text",
+				"value": "Take your runesmith's hammer and begin to strike the items on the anvil.  Be careful to have everything set up correctly, or the items will not fit together properly, and they will pop off the anvil.\n\nOnce you hit the item enough times, your forging will be complete.  The next step will be to take the rune to your Manaweaving Altar to put the enchantment onto the rune."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/superheated_vinteum_ingot"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforge"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/runic_anvil"
+			}
+		]
+	},
+	"Step 1: Manaweave Enchanting": {
+		"category": "enchantments",
+		"index": -1,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Manaweave Enchanting"
+			},
+			{
+				"type": "text",
+				"value": "Now that your rune is completed, you will need to infuse mana into it to apply the initial stage of the enchantment to the rune.\n\nPlace the item along with any other required reagents onto the manaweaving altar.  Then, using a manaweaver's wand, draw the required patterns on top of the altar.\n\nAlternately, you can use a manaweave projector placed adjacent to the altar to project the patterns.\n\nIf you make a mistake, you can activate the altar with the wand in your hand to have the wand draw the most recent pattern back out of the altar.\n\nOnce you've drawn the correct patterns, in the correct order, with the correct items, the altar will draw it all in to enchant the rune.  \n\nAll that's left now is to combine the rune with an item back at the runic anvil."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:manaweaver_wand"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:manaweaving_altar"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:manaweave_projector"
+			}
+		]
+	},
+	"Aqua Affinity": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Aqua Affinity"
+			},
+			{
+				"type": "text",
+				"value": "The Aqua Affinity enchantment speeds up how fast you can mine blocks underwater. It basically makes mining underwater the same speed as mining on land."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/aqua_affinity_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/aqua_affinity"
+			}
+		]
+	},
+	"Bane of Arthropods": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bane of Arthropods"
+			},
+			{
+				"type": "text",
+				"value": "The Bane of Arthropods enchantment increases your attack damage against mobs such as spiders, cave spiders, silverfish, and endermites."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/bane_of_arthropods_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/bane_of_arthropods_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/bane_of_arthropods_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/bane_of_arthropods_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/bane_of_arthropods_v"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/bane_of_arthropods_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/bane_of_arthropods_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/bane_of_arthropods_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/bane_of_arthropods_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/bane_of_arthropods_v"
+			}
+		]
+	},
+	"Binding Curse": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Binding Curse"
+			},
+			{
+				"type": "text",
+				"value": "The Curse of Binding enchantment lets you curse an item. Once a cursed item is worn, it can not be removed until the item breaks or the wearer dies."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/binding_curse"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/curse_of_binding"
+			}
+		]
+	},
+	"Vanishing Curse": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Vanishing Curse"
+			},
+			{
+				"type": "text",
+				"value": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the cursed item will disappear when the wearer dies instead of being dropped."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/vanishing_curse"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/curse_of_vanishing"
+			}
+		]
+	},
+	"Blast Protection": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Blast Protection"
+			},
+			{
+				"type": "text",
+				"value": "The Blast Protection enchantment reduces the damage from explosions such as TNT explosions, creeper explosions, ghast fireballs, initial wither boss explosions, and ender crystals."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/blast_protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/blast_protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/blast_protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/blast_protection_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/blast_protection_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/blast_protection_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/blast_protection_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/blast_protection_iv"
+			}
+		]
+	},
+	"Channeling": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Channeling"
+			},
+			{
+				"type": "text",
+				"value": "The Channeling enchantment can be added to a trident. With this enchantment, your trident will summon a lightning bolt at a mob if you throw the trident and it hits the mob (while its standing in the rain)."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/channeling"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/channeling"
+			}
+		]
+	},
+	"Depth Strider": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Depth Strider"
+			},
+			{
+				"type": "text",
+				"value": "The Depth Strider enchantment speeds up how fast you can move underwater."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/depth_strider_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/depth_strider_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/depth_strider_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/depth_strider_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/depth_strider_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/depth_strider_iii"
+			}
+		]
+	},
+	"Efficiency": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Efficiency"
+			},
+			{
+				"type": "text",
+				"value": "The Efficiency enchantment speeds up how fast you can mine blocks."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/efficiency_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/efficiency_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/efficiency_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/efficiency_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/efficiency_v"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/efficiency_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/efficiency_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/efficiency_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/efficiency_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/efficiency_v"
+			}
+		]
+	},
+	"Feather Falling": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Feather Falling"
+			},
+			{
+				"type": "text",
+				"value": "The Feather Falling enchantment reduces damage from falling and damage from ender pearl teleportations."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/feather_falling_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/feather_falling_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/feather_falling_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/feather_falling_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/feather_falling_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/feather_falling_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/feather_falling_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/feather_falling_iv"
+			}
+		]
+	},
+	"Fire Aspect": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Fire Aspect"
+			},
+			{
+				"type": "text",
+				"value": "The Fire Aspect enchantment sets your target on fire when you attack."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fire_aspect_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fire_aspect_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fire_aspect_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fire_aspect_ii"
+			}
+		]
+	},
+	"Fire Protection": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Fire Protection"
+			},
+			{
+				"type": "text",
+				"value": "The Fire Protection enchantment reduces the damage caused by fire and lava."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fire_protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fire_protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fire_protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fire_protection_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fire_protection_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fire_protection_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fire_protection_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fire_protection_iv"
+			}
+		]
+	},
+	"Flame": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Flame"
+			},
+			{
+				"type": "text",
+				"value": "The Flame enchantment turns your arrows into flaming arrows allowing you to set your targets on fire."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/flame"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/flame"
+			}
+		]
+	},
+	"Fortune": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Fortune"
+			},
+			{
+				"type": "text",
+				"value": "The Fortune enchantment increases the block drops from mining. For example, with the Fortune enchantment you will have a better chance of getting flint from gravel or an apple from a tree."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fortune_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fortune_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/fortune_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fortune_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fortune_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/fortune_iii"
+			}
+		]
+	},
+	"Frost Walker": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Frost Walker"
+			},
+			{
+				"type": "text",
+				"value": "The Frost Walker enchantment temporarily freezes the water around you and turns it into ice. You can then walk across the ice to quickly get around in the game."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/frost_walker_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/frost_walker_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/frost_walker_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/frost_walker_ii"
+			}
+		]
+	},
+	"Impaling": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Impaling"
+			},
+			{
+				"type": "text",
+				"value": "The Impaling enchantment increases your attack damage against sea creature mobs such as guardians, elder guardians, squids, dolphins, and turtles."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/impaling_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/impaling_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/impaling_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/impaling_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/impaling_v"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/impaling_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/impaling_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/impaling_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/impaling_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/impaling_v"
+			}
+		]
+	},
+	"Infinity": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Infinity"
+			},
+			{
+				"type": "text",
+				"value": "The Infinity enchantment allows you to shoot your bow without using up any of your arrows.\n\nThis enchantment only applies to arrows. It does not give you infinite spectral arrows or tipped arrows."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/infinity"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/infinity"
+			}
+		]
+	},
+	"Knockback": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Knockback"
+			},
+			{
+				"type": "text",
+				"value": "The Knockback enchantment increases the knockback dealt when attacking a player or mob. This will cause the player or mob to repel backwards more than usual."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/knockback_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/knockback_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/knockback_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/knockback_ii"
+			}
+		]
+	},
+	"Looting": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Looting"
+			},
+			{
+				"type": "text",
+				"value": "The Looting enchantment increases the amount of loot that is dropped when a mob is killed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/looting_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/looting_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/looting_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/looting_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/looting_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/looting_iii"
+			}
+		]
+	},
+	"Loyalty": {
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Loyalty"
+			},
+			{
+				"type": "text",
+				"value": "The Loyalty enchantment can be added to a trident. With this enchantment, your trident will automatically return to you when it is thrown like a spear."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/loyalty_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/loyalty_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/loyalty_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/loyalty_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/loyalty_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/loyalty_iii"
+			}
+		]
+	},
+	"Magic Broom": {
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Magic Broom"
+			},
+			{
+				"type": "text",
+				"value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/magic_broom"
+			}
+		]
+	},
+	"Ender Disc": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ender Disc"
+			},
+			{
+				"type": "text",
+				"value": "I've managed to create a disc that can instantly perform a ritual of return.  I just need to set the correct pattern in it, then it uses some of my mana to move me around."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/ender_disc"
+			}
+		]
+	},
+	"Arcane Crown": {
+		"category": "artifice",		
+		"sections": [
+			{
+				"type": "title",
+				"value": "Arcane Crown"
+			},
+			{
+				"type": "text",
+				"value": "This legendary crown was originally forged by an archmage of old.  Imbued with tremendous power, it serves to make a mage able to cast spells more efficiently.  It also draws in ambient magic, allowing a larger resevoir of mana.  Finally, it is rumored that this crown can also occasionally protect its wearer from debilitating effects, but only every so often."
+			},
+			{
+				"type": "title",
+				"value": "Warning!"			
+			},
+			{
+				"type": "text",
+				"value": "This staff can only be crafted by those who have allied themselves to the Ancient Council of Wizards."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/arcane_crown"
+			}
+		]
+	},
+	"Hellfire Staff": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Hellfire Staff"
+			},
+			{
+				"type": "text",
+				"value": "Previously wielded only by demonic princes, this staff turns spells surrounding fire into pure nightmares.  It can be bound to any spell, as other staves, but if that spell is of the realm of fire then it will be transformed into pure hellfire.  All aspects of the spell will be increased.\n\nBe warned, hellfire is a force of destruction, and you may end up losing control of the power if you aren't careful."
+			},
+			{
+				"type": "title",
+				"value": "Warning!"			
+			},
+			{
+				"type": "text",
+				"value": "This staff can only be crafted by those who have allied themselves to the Demons of the Nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/hellfire_staff"
+			}
+		]
+	},
+	"Transitory Tunnel": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Transitory Tunnel"
+			},
+			{
+				"type": "text",
+				"value": "I've created a sigil that when used will temporarily transfer the targeted ground into a separate dimension.  While there, the space is walkable as if mined.  After about ten seconds, the materials will snap back into place as if nothing happened, provided nothing has fallen into its place.  This can trap unwitting creatures, and I'm sure me as well.\n\nI had best make sure I'm not in the way when it comes back.\n\nAlso, it only seems to affect basic terrain."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/transitory_tunnel"
+			}
+		]
+	},
+	"Luck of the Sea": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Luck of the Sea"
+			},
+			{
+				"type": "text",
+				"value": "The Luck of the Sea enchantment increases your chances of catching valuable items such as saddles, name tags, enchanted books, enchanted fishing rods, and enchanted bows."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/luck_of_the_sea_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/luck_of_the_sea_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/luck_of_the_sea_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/luck_of_the_sea_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/luck_of_the_sea_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/luck_of_the_sea_iii"
+			}
+		]
+	},
+	"Lure": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Lure"
+			},
+			{
+				"type": "text",
+				"value": "The Lure enchantment increases the rate of fish biting your hook."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/lure_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/lure_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/lure_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/lure_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/lure_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/lure_iii"
+			}
+		]
+	},
+	"Mending": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mending"
+			},
+			{
+				"type": "text",
+				"value": "The Mending enchantment uses xp (experience) to mend your equipped tools, weapons and armor. Each time you gain experience by killing mobs or mining certain items, the experience earned will automatically be used to repair any damaged tools, weapons or armor that you have equipped (and are enchanted with Mending)."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mending"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/mending"
+			}
+		]
+	},
+	"Multishot": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Multishot"
+			},
+			{
+				"type": "text",
+				"value": "The Multishot enchantment allows a player to shoot 3 arrows at a time but only 1 arrow will be used from the inventory (the cost is only 1 arrow and not 3 arrows with this enchantment)."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/multishot"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/multishot"
+			}
+		]
+	},
+	"Piercing": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Piercing"
+			},
+			{
+				"type": "text",
+				"value": "The Piercing enchantment allows the arrow fired from a crossbow to pierce through multiple entities."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/piercing_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/piercing_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/piercing_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/piercing_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/piercing_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/piercing_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/piercing_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/piercing_iv"
+			}
+		]
+	},
+	"Power": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Power"
+			},
+			{
+				"type": "text",
+				"value": "The Power enchantment increases the amount of attack damage dealt to a player or mob when using your bow."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/power_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/power_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/power_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/power_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/power_v"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/power_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/power_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/power_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/power_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/power_v"
+			}
+		]
+	},
+	"Projectile Protection": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Projectile Protection"
+			},
+			{
+				"type": "text",
+				"value": "The Projectile Protection enchantment reduces the damage from projectile attacks such as arrows, ghast fireballs, and blaze fire charges."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/projectile_protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/projectile_protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/projectile_protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/projectile_protection_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/projectile_protection_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/projectile_protection_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/projectile_protection_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/projectile_protection_iv"
+			}
+		]
+	},
+	"Protection": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Protection"
+			},
+			{
+				"type": "text",
+				"value": "The Protection enchantment is a comprehensive protection against all types of damage such as damage from attacks, fire, lava, and falling."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/protection_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/protection_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/protection_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/protection_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/protection_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/protection_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/protection_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/protection_iv"
+			}
+		]
+	},
+	"Punch": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Punch"
+			},
+			{
+				"type": "text",
+				"value": "The Punch enchantment increases the knockback dealt when attacking a player or mob with your bow and arrow. This will cause the player or mob to repel backwards more than usual."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/punch_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/punch_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/punch_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/punch_ii"
+			}
+		]
+	},
+	"Respiration": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Respiration"
+			},
+			{
+				"type": "text",
+				"value": "The Respiration enchantment extends how long you can breathe underwater. It also helps you see better underwater."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/respiration_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/respiration_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/respiration_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/respiration_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/respiration_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/respiration_iii"
+			}
+		]
+	},
+	"Quick Charge": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Quick Charge"
+			},
+			{
+				"type": "text",
+				"value": "The Quick Charge enchantment reduces the amount of time that it takes to reload a crossbow."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/quick_charge_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/quick_charge_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/quick_charge_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/quick_charge_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/quick_charge_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/quick_charge_iii"
+			}
+		]
+	},
+	"Riptide": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Riptide"
+			},
+			{
+				"type": "text",
+				"value": "The Riptide enchantment can be added to a trident. With this enchantment, your trident will propel you forward when you throw a trident while in the water or out in the rain."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/riptide_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/riptide_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/riptide_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/riptide_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/riptide_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/riptide_iii"
+			}
+		]
+	},
+	"Sharpness": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Sharpness"
+			},
+			{
+				"type": "text",
+				"value": "The Sharpness enchantment increases the amount of attack damage dealt to a player or mob."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sharpness_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sharpness_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sharpness_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sharpness_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sharpness_v"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sharpness_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sharpness_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sharpness_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sharpness_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sharpness_v"
+			}
+		]
+	},
+	"Silk Touch": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Silk Touch"
+			},
+			{
+				"type": "text",
+				"value": "The Silk Touch enchantment allows you to mine blocks themselves instead of getting the usual dropped items. With this enchantment, you can gather items that are fragile and break such as glass or ice. Or you can mine and gather the block itself such as diamond ore or coal ore (instead of getting diamond and coal drops)."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/silk_touch"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/silk_touch"
+			}
+		]
+	},
+	"Smite": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Smite"
+			},
+			{
+				"type": "text",
+				"value": "The Smite enchantment increases your attack damage against undead mobs such as skeletons, wither skeletons, zombies, zombie pigmen, drowneds, and wither bosses."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/smite_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/smite_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/smite_iii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/smite_iv"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/smite_v"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/smite_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/smite_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/smite_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/smite_iv"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/smite_v"
+			}
+		]
+	},
+	"Sweeping Edge": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Sweeping Edge"
+			},
+			{
+				"type": "text",
+				"value": "The Sweeping Edge enchantment increases the damage of a sweep attack."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sweeping_edge_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sweeping_edge_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sweeping_edge_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sweeping_edge_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sweeping_edge_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/sweeping_edge_iii"
+			}
+		]
+	},
+	"Thorns": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Thorns"
+			},
+			{
+				"type": "text",
+				"value": "The Thorns enchantment is added to your armor so that when a player or mob physically attacks you, they will take damage from your armor."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/thorns_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/thorns_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/thorns_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/thorns_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/thorns_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/thorns_iii"
+			}
+		]
+	},
+	"Unbreaking": {
+		"index": 0,
+		"category": "enchantments",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Unbreaking"
+			},
+			{
+				"type": "text",
+				"value": "The Unbreaking enchantment increases the durability of your tools, weapons, and armor so that they don't wear out as quickly."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/unbreaking_i"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/unbreaking_ii"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/unbreaking_iii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/unbreaking_i"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/unbreaking_ii"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runeforge_enchants/unbreaking_iii"
+			}
+		]
+	},
+	"Mana and Regeneration": {
+		"index": 0,
+		"category": "basics",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mana and Regeneration"
+			},
+			{
+				"type": "text",
+				"value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 60 seconds, as long as you are well-fed.  Magic is hungry work after all!"
+			}
+		],
+		"related_recipes": [
+		]
+	},
+	"Casting Spells": {
+		"index": -1,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Casting Spells"
+			},
+			{
+				"type": "text",
+				"value": "After you have created a spell, simply hold it in your hand and activate the item.  The spell will attempt to take effect, draining your mana in the process if successful.\n\nYou can hold a spell in each hand and activate them both at the same time.  You cannot choose which one to activate, though only one of them may succeed depending on targets."
+			}
+		],
+		"related_recipes": [
+		]
+	},
+	"Spell Books": {
+		"index": -1,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Spell Books"
+			},
+			{
+				"type": "text",
+				"value": "Once you start gaining several spells, you'll find that you need a place to carry them all.\n\nThe spell book spells can be switched between by pressing the X or Z keys while the book is equipped."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:spell_book"
+			}
+		]
+	},
+	"Grimoires": {
+		"index": -1,
+		"category": "sorcery",
+		"tier": 5,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Grimoires"
+			},
+			{
+				"type": "text",
+				"value": "Spell books are well and good, but I wonder if I can find a way to bind a spell book to a specific combination of manaweaving symbols?  Then, if I ever lose the book or if it is destroyed, I can simply summon it back with its contents intact.\n\nThere has to be a way.\n\nFor the pre-alpha, the combination is Horarium, Aeternum, Triangulus."
+			}
+		],
+		"related_recipes": [
+		]
+	},
+	"Scribing Spells": {
+		"index": -2,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Scribing Spells"
+			},
+			{
+				"type": "text",
+				"value": "I'll need to set up a proper workspace for me to get my spell ideas from my head onto paper.\n\nA table with all the proper places to store everything, paper that is designed to accept magical script, and the proper ink.  I'll need some arcane ash as well.\n\nOnce I've got all that together, I can get started.  I'll need to pick a way to shape the spell.  This will be the way it targets the world.  I'm sure there are several shapes that I can learn.\n\nAfter that, I will need to pick a component so that the spell actually does something.\n\nThat alone is enough to make a basic spell.  However, I can think of several aspects of spells that could be modified.  I'll need to add in modifiers to the equation of the spell so that I can change these values.\n\nWhen my spell is all written out the way I want it, I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell.  Luckily the table I have in mind will have a spot to do just that.\n\n...I do wonder though if there are ways to make more complicated spells, such as ones that can do multiple things in a single cast?  There must be."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:inscription_table"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:arcanist_ink"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:arcane_compound"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:purified_vinteum_dust"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/arcane_ash"
+			}
+		]
+	},
+	"Vellum": {
+		"index": -3,
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Making Vellum"
+			},
+			{
+				"type": "text",
+				"value": "Basic paper seems unable to take spells.  Vellum seems to be a better candidate.  I can make vellum by working leather in water."
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/vellum_craft.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "text",
+				"value": "Any source of standing water will do, but I am able to get better results if the water is in a cauldron."
+			}
+			
+		],
+		"related_recipes": [			
+		]
+	},
+	"Shape: Projectile": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Projectile"
+			},
+			{
+				"type": "text",
+				"value": "This spell shape will spawn a projectile at the caster, in the direction that the caster is looking.  The projectile is affected by gravity, but making it move faster lessens this effect."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/projectile"
+			}
+		]
+	},
+	"Shape: Self": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Self"
+			},
+			{
+				"type": "text",
+				"value": "This shape will cause the spell to affect the caster directly when cast."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/self"
+			}
+		]
+	},
+	"Shape: Bolt": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bolt"
+			},
+			{
+				"type": "text",
+				"value": "The bolt shape is a long range instantaneous effect, but requires a great deal of precision to target.  Due to the longer range, it can't seem to hit as wide a range as other shapes."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/bolt"
+			}
+		]
+	},
+	"Shape: Touch": {
+		"index": "1",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Touch"
+			},
+			{
+				"type": "text",
+				"value": "This shape is a relatively short range effect, however the close proximity to the me requires much less energy to cast.  As a result, it has a much higher capacity for radius.\n\nI should be careful putting too much radius into this.  The effects could potentially hit me as well."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:shapes/touch"
+			}
+		]
+	},
+	"Component: Fire Damage": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Fire Damage"
+			},
+			{
+				"type": "text",
+				"value": "This effect lights whatever it touches on fire.  The initial heat bloom is extremely potent and will scorch targets before igniting them."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/fire_damage"
+			}
+		]
+	},
+	"Component: Transitory Tile": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Transitory Tile"
+			},
+			{
+				"type": "text",
+				"value": "This simple spell is based on verisimilomancy, with a touch of invocation added.  It creates a walkable path wherever the spell targets."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/transitory_tile"
+			}
+		]
+	},
+	"Component: Frost Damage": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Frost Damage"
+			},
+			{
+				"type": "text",
+				"value": "This effect drastically lowers the temperature of whatever it targets.  The shock from the temperature change can cause significant damage."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/frost_damage"
+			}
+		]
+	},
+	"Component: Lightning Damage": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Lightning Damage"
+			},
+			{
+				"type": "text",
+				"value": "I've figured out a way to channel pure fire into a blast so concentrated that it more resembles lightning than anything else.  This causes convulsions that seem to launch things back away from me with more force than other spells.  This could be useful."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/lightning_damage"
+			}
+		]
+	},
+	"Component: Leap": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Leap"
+			},
+			{
+				"type": "text",
+				"value": "I've figured out how I can channel currents of air around myself to launch me higher into the air whenever I jump.  \n\nI'll need to be careful of what's below me when I land, and how far I fall."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/leap"
+			}
+		]
+	},
+	"Component: Slowfall": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Slowfall"
+			},
+			{
+				"type": "text",
+				"value": "I've learned how to coalesce the air below me into a cushion that gently carries me towards the ground.  I'm one step closer to true flight!"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/slowfall"
+			}
+		]
+	},
+	"Component: Break": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Break"
+			},
+			{
+				"type": "text",
+				"value": "I can focus my magic to break things.  Dirt, Stone, and more all shatters at my command.  I can feel the earth shake below my feet."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/break"
+			}
+		]
+	},
+	"Component: Rift": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rift"
+			},
+			{
+				"type": "text",
+				"value": "I have discovered how to tear a small rift between this dimension and one of the neighbouring ones.  It's large enough to fit myself through, but it does always seem to go to the same place for me.  Maybe I can use it to store a few things safely away from prying eyes and sticky fingers.\n\nInterestingly, other mages that have cast this spell have their rift open to a different location.  It must be something to do with how their magic interacts with the spell's formula."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/rift"
+			}
+		]
+	},
+	"Component: Fling": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Fling"
+			},
+			{
+				"type": "text",
+				"value": "I can use similar air magic to when I slow my falling speed to push against other creatures and force them away from me.  This might be a good spell in a pinch when another creeper sneaks up on me, if I'm fast enough."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/fling"
+			}
+		]
+	},
+	"Component: Gust": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Gust"
+			},
+			{
+				"type": "text",
+				"value": "While breaking blocks is a useful tool with earth magic, I can use air magic for a more gentle effect.  This will clear out grass, leaves, plants, and snow while leaving the dirt and stone intact."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/gust"
+			}
+		]
+	},
+	"Component: Silence": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Silence"
+			},
+			{
+				"type": "text",
+				"value": "Other wizards talk too much.  I should do something about that."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/silence"
+			}
+		]
+	},
+	"Component: Gravity Well": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Gravity Well"
+			},
+			{
+				"type": "text",
+				"value": "I saw an apple falling of a tree the other day, and it gave me an idea.  What if I used a spell to enhance the gravity of that apple?\n\nMaybe that's thinking too small.\n\nWhat if I could increase gravity on myself?  It would have seemingly all kinds of uses."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/gravity_well"
+			}
+		]
+	},
+	"Component: Entangle": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Entangle"
+			},
+			{
+				"type": "text",
+				"value": "I've seen many that follow the druidic arts talking to plants as they move through the forests.  It sometimes even seems as thought they answer, with how they move and sway in the wind.  I wonder, if I asked them nicely, if they would assist me in restraining those that seek to do me harm?"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/entangle"
+			}
+		]
+	},
+	"Component: Chrono Anchor": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Chrono Anchor"
+			},
+			{
+				"type": "text",
+				"value": "I've done it.  I've managed to step on to the shores of the river of time, albeit only briefly.  Using this powerful magic, I can anchor myself in time.  When enough time has passed, or if tragedy befalls me, I will be yanked back through time to where I cast the spell with all of my physical attributes returned as well."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/chrono_anchor"
+			}
+		]
+	},
+	"Component: Haste": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Haste"
+			},
+			{
+				"type": "text",
+				"value": "I have figured out how to use the power of fire to increase my speed.  It's hard to explain, but it feels like a surge of extreme motivation, like someone lit a fire under my...oh."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/haste"
+			}
+		]
+	},
+	"Component: Slow": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Slow"
+			},
+			{
+				"type": "text",
+				"value": "By studying turtles, I have figured out a way to use magic to slow the movements of my target down."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/slow"
+			}
+		]
+	},
+	"Component: Strength": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Strength"
+			},
+			{
+				"type": "text",
+				"value": "By reinforcing my target's connection to the earth, I am able to grant them increased strength."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/strength"
+			}
+		]
+	},
+	"Component: Weakness": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Weakness"
+			},
+			{
+				"type": "text",
+				"value": "I am able to pull the strength directly out of my target, leaving them withered and weak."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/weakness"
+			}
+		]
+	},
+	"Component: Swift Swim": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Swift Swim"
+			},
+			{
+				"type": "text",
+				"value": "I find I need to spend a large part of my time in the water.  However, threats and predators there make the experience nerve wracking.  So, I devised a way to help control the water currents around me in order to propel me forward.  That should help even the scales, provided I can hold my breath long enough."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/swift_swim"
+			}
+		]
+	},
+	"Component: Watery Grave": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Watery Grave"
+			},
+			{
+				"type": "text",
+				"value": "It came to me in a nightmare.  A feeling of drowning, being pulled down into the crushing, dark, cold abyss.  I looked up and watched the light fade as I sank deeper beneath the waves.  I woke up gasping for air.  I immediately started taking notes on how I might be able to leverage that effect.  I wouldn't wish it on anyone, but it couldn't hurt to know how it works.  Maybe I can use the same knowledge to protect myself from the same fate?"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/watery_grave"
+			}
+		]
+	},
+	"Component: Blind": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Blind"
+			},
+			{
+				"type": "text",
+				"value": "It seems to me that most of the spells others target against me require sight.  Take that away, and they either need to fight with reduced accuracy, or switch to more destructive spells.  Perhaps I should keep my distance when using this."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/blind"
+			}
+		]
+	},
+	"Component: Night Vision": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Night Vision"
+			},
+			{
+				"type": "text",
+				"value": "I wonder how the Endermen do it.  Move so effortlessly through the void.  I can't make it across my lab in the dark without smashing my shins off of a piece of furniture.  I think I may have figured out a way to harness the power of endermen to help me see as they do in the dark."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/night_vision"
+			}
+		]
+	},
+	"Component: Light": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Light"
+			},
+			{
+				"type": "text",
+				"value": "When thrust into the dark, it is a person's natural instinct to look for light.  Wizards are typically able to do so magically with ease, and are often the first ones to banish the darkness."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/light"
+			}
+		]
+	},
+	"Component: Invisibility": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Invisibility"
+			},
+			{
+				"type": "text",
+				"value": "Mages can do some amazing things with magic.  Calling down fire and thunder, summoning gale force winds, stepping across dimensions and over long distances, and so much more.  But most times, those kinds of things take time and preparation.\n\nI've found, that sometimes the best way to get things done is to not be seen at all."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/invisibility"
+			}
+		]
+	},
+	"Modifier: Damage": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Damage"
+			},
+			{
+				"type": "text",
+				"value": "I can alter the formula of the spell to allow me to concentrate my power to a greater destructive effect.  It costs me more mana to do so, but a harder hit may be worth it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/damage"
+			}
+		]
+	},
+	"Modifier: Radius": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Radius"
+			},
+			{
+				"type": "text",
+				"value": "I can change the formula of the spell to allow me to affect a larger area.  The strain is sometimes staggering, but there's nothing quite so satisfying as a huge fireball."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/radius"
+			}
+		]
+	},
+	"Modifier: Speed": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Speed"
+			},
+			{
+				"type": "text",
+				"value": "I can alter the formula of a spell to cause movement effects to happen faster.  Projectiles move more quickly, and enemies are flung away from me with greater velocity.  I wonder what else is possible with this?"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/speed"
+			}
+		]
+	},
+	"Modifier: Magnitude": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Magnitude"
+			},
+			{
+				"type": "text",
+				"value": "I can alter the formula for a spell to have a much more substantial effect.  This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it.  I'll have to keep it in mind."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/magnitude"
+			}
+		]
+	},
+	"Modifier: Duration": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Duration"
+			},
+			{
+				"type": "text",
+				"value": "I can make spells that last a few seconds last a little longer at the cost of more mana.  This could be very helpful."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/duration"
+			}
+		]
+	},
+	"Modifier: Range": {
+		"index": "3",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Range"
+			},
+			{
+				"type": "text",
+				"value": "I can alter the formula for a spell to increase its range.  This doesn't seem to affect projectiles, since their range is more based on their speed than anything else, but I might be able to extend my metaphysical touch range, and more."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:modifiers/range"
+			}
+		]
+	},
+	"Component: Shield": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Shield"
+			},
+			{
+				"type": "text",
+				"value": "I can use my magic to create a barrier around myself, protecting against kinetic force.  I wonder if there are other types of shields that would protect me against more?"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/shield"
+			}
+		]
+	},
+	"Component: Heal": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Heal"
+			},
+			{
+				"type": "text",
+				"value": "It's an extreme use of mana, but if I can muster enough power, I can knit my injuries back together instantly.  There's no doubt this will save my life one day."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/heal"
+			}
+		]
+	},
+	"Ritual How-To": {
+		"index": -2,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Initial Setup"
+			},
+			{
+				"type": "text",
+				"value": "Rituals are more in-depth magical castings that provide more powerful or long term effects than an instant cast spell typically will.  It involves additional preparation, reagents, and interactions to complete the effect, but there are some very powerful effects that can be achieved.\n\nTo start, draw the pattern on the ground using Wizard's Chalk.  The orientation doesn't matter.  Then, activate the centre of the ritual using Purified Vinteum Dust.  This will cause the ritual to begin displaying the needed reagents.  Reagent numbers in gold are mandatory, and numbers in white are optional.\n\nPlace the required reagents in the correct positions, then activate the centre of the ritual again using Purified Vinteum Dust.  This will cause the ritual to begin casting."
+			},
+			{
+				"type": "title",
+				"value": "Collecting Reagents"
+			},
+			{
+				"type": "text",
+				"value": "The ritual will power up and then begin drawing in the reagents.  Take care to ensure that no reagents are removed and that the chalk runes remain intact, lest you encounter more...explosive results.\n\nNot all rituals require reagents."
+			},
+			{
+				"type": "title",
+				"value": "Manaweaving"
+			},
+			{
+				"type": "text",
+				"value": "After the reagents are consumed, the ritual will begin displaying manaweave patterns.  You need to draw the required pattern (or use a manaweave projector to create it), and the ritual will draw it in, then display the next pattern.\n\nNot all rituals require patterns.\n\nOnce all patterns are added, the ritual will complete over the next few seconds."
+			},
+			{
+				"type": "title",
+				"value": "Dynamic Reagents"
+			},
+			{
+				"type": "text",
+				"value": "Some rituals require an item to display reagents, such as the Ritual of Arcana requiring a spell recipe.  You will need to place the item in first, and then the remaining reagents will be displayed.  You do not need to reactivate the ritual using Purified Vinteum Dust for the dynamic reagents to be displayed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:wizard_chalk"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:purified_vinteum_dust"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:manaweaver_wand"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:manaweave_projector"
+			}
+		]
+	},
+	"Aurora": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Aurora"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will turn night into day.  It can only be performed at night."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/aurora"
+			}
+		]
+	},
+	"Arcana": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Arcana"
+			},
+			{
+				"type": "text",
+				"value": "This ritual is used to craft spells.  You will first need to craft an inscription table, and scribe a spell onto vellum."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/arcana"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:inscription_table"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/vellum"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:ritual_focus_minor"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/ritual_focus_lesser"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/ritual_focus_greater"
+			}
+		]
+	},
+	"Eventide": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Eventide"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will turn day to night.  It can only be performed during the day."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/eventide"
+			}
+		]
+	},
+	"Homestead": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Homestead"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/homestead"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/return"
+			}
+		]
+	},
+	"Return": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Return"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/homestead"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/return"
+			}
+		]
+	},
+	"Summoning": {
+		"index": 0,
+		"category": "rituals",
+		"tier": 5,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Summoning"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will use a player charm to open a portal at that player's current location.  That portal will allow the player to step through and teleport to the location that the ritual was performed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/summon"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:rituals/player_charm"
+			}
+		]
+	},
+	"Visiting": {
+		"index": 0,
+		"category": "rituals",
+		"tier": 5,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Visiting"
+			},
+			{
+				"type": "text",
+				"value": "This ritual will use a player charm to open a portal at the center of the ritual.  Stepping through the portal will teleport you to the location the player was at when the ritual was completed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/visit"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:rituals/player_charm"
+			}
+		]
+	},
+	"Player Charms": {
+		"index": -1,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Player Charms"
+			},
+			{
+				"type": "text",
+				"value": "Player charms, once crafted, can be attuned to by a player by right clicking on the charm.  These charms can then be given to trusted allies to allow them to use rituals involving you, such as Summoning or Visiting."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:rituals/player_charm"
+			}
+		]
+	},
+	"Ritual Kits": {
+		"index": -1,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual Kits"
+			},
+			{
+				"type": "text",
+				"value": "Having to draw out a ritual each and every time can be time consuming.  Enter the ritual kit.\n\nTo bind the kit to a specific ritual pattern, sneak while activating the centre of a ritual.\n\nSneak right click the kit on empty space to open the bag.  Place all items needed for the ritual inside the kit.\n\nActivating the kit on a sufficiently sized, empty flat space will instantly place and activate the ritual.  Items will be consumed from the kit.\n\nAdditionally, rituals activated from a kit complete significantly faster than ones drawn manually."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:rituals/ritual_kit"
+			}
+		]
+	},
+	"Metal Ritual Runes": {
+		"index": -1,
+		"category": "rituals",
+		"tier": 2,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Metal Ritual Runes"
+			},
+			{
+				"type": "text",
+				"value": "It may be desirable to have certain rituals not remove their ritual runes when completing.  Creating the ritual pattern out of metal ritual runes will achieve this goal."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribing_table"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:rune_clay_plate"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_metal_ritual_rune"
+			}
+		]
+	},
+	"Manaweave Projector": {
+		"index": -2,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Manaweave Projector"
+			},
+			{
+				"type": "text",
+				"value": "For those wizards that are either unwilling or unable to draw manaweave patterns manually, they can craft a manaweave projector.  These devices, when placed, will draw mana from players within 2 blocks.  When full, it will have drawn in 100 mana.  \n\nActivating the block when full will cause it to emit the current pattern.  Activating the block with a manaweave pattern recipe scrap will change the pattern that is emitted."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:manaweave_projector"
+			}
+		]
+	},
+	"Combining Patterns": {
+		"index": -1,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Combining Patterns"
+			},
+			{
+				"type": "text",
+				"value": "When drawing manaweave patterns, if no manaweaving altar or ritual is nearby, they will combine with other nearby patterns.  This can be used to achieve certain effects, such as summoning a grimoire."
+			}
+		],
+		"related_recipes": [
+		]
+	},
+	"Manaweaving Silks": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Manaweaving Silks"
+			},
+			{
+				"type": "text",
+				"value": "Certain silks can be created by combining the right ingredients at a manaweaving altar.  These silks are used in other crafting recipes."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_runic_silk"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_infused_silk"
+			}
+		]
+	},
+	"Stone Runes": {
+		"index": 0,
+		"category": "basics",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Stone Runes"
+			},
+			{
+				"type": "text",
+				"value": "Basic stone runes are a cornerstone of magical crafting.  A blank stone rune is crafted with various dye colors to create magical patterns.  These runes are then used to focus magical effects such as rituals and enchanting.\n\nMages often craft bags specifically to carry these runes."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:stone_runes/rune_blank"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:stone_runes/rune_bag"
+			}
+		]
+	},
+	"Rune Pattern: Air": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Air"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing around the element of air."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_air"
+			}
+		]
+	},
+	"Rune Pattern: Arcane": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Arcane"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing around the realm of the arcane."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_arcane"
+			}
+		]
+	},
+	"Rune Pattern: Aura": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Aura"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing on auras surrounding the enchantment bearer.  These enchantments are extremely powerful and can even affect nearby allies."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_aura"
+			}
+		]
+	},
+	"Rune Pattern: Defense": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Defense"
+			},
+			{
+				"type": "text",
+				"value": "This rune pattern is used in conjunction with enchantments focusing on defense."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_defense"
+			}
+		]
+	},
+	"Rune Pattern: Earth": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Earth"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing around the element of earth."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_earth"
+			}
+		]
+	},
+	"Rune Pattern: Ender": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Ender"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing around the realm of the end."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_ender"
+			}
+		]
+	},
+	"Rune Pattern: Fire": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Fire"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing around the element of fire."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_fire"
+			}
+		]
+	},
+	"Rune Pattern: Metal Ritual Rune": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Metal Ritual Rune"
+			},
+			{
+				"type": "text",
+				"value": "This rune pattern is used to create permanent runes for use in rituals."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_metal_ritual_rune"
+			}
+		]
+	},
+	"Rune Pattern: Warding": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Warding"
+			},
+			{
+				"type": "text",
+				"value": "Warding runes are used to ward a block against use.  Once applied, only the one who placed the ward or those on the same team can use or destroy the block.\n\nNote that this feature is not fully implemented."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_warding"
+			}
+		]
+	},
+	"Rune Pattern: Water": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Water"
+			},
+			{
+				"type": "text",
+				"value": "The air rune pattern is used to apply enchantments focusing around the element of water."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_water"
+			}
+		]
+	},
+	"Magic Staves and Wands": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Magic Staves and Wands"
+			},
+			{
+				"type": "text",
+				"value": "Magic staves and wands are aesthetic choices for mages who want to cast from them.  They can also be found as loot in dungeons, and may have a random spell on it with limited charges.  Staves and wands with charges do not consume mana to cast, but will eventually break.\n\nA spell can be combined with a staff or wand at a manaweaving table."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:staff_a"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:staff_b"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:staff_c"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:wand_a"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_staff_a"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_staff_b"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_staff_c"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/manaweaving_wand"
+			}
+		]
+	},
+	"Bubble Boat": {
+		"index": 0,
+		"category": "constructs",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Bubble Boat"
+			},
+			{
+				"type": "text",
+				"value": "The Bubble Boat works like a normal boat, however it can be placed underwater, and does not get flooded underwater.  Instead, it quickly brings the passenger to the surface.  It may have other uses and interactions for the creative types."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/bubble_boat"
+			}
+		]
+	},
+	"Arcane Sentry": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Arcane Sentry"
+			},
+			{
+				"type": "text",
+				"value": "The Arcane Sentry is an enchanted spell book, drawn with several runes using wizard chalk, then sprinkled with vinteum dust.  When vinteum dust is placed inside the book, it will launch arcane bolts at any hostile creatures that come within its range."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/arcane_sentry"
+			}
+		]
+	},
+	"Eldritch Orb": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Eldritch Orb"
+			},
+			{
+				"type": "text",
+				"value": "This small enchanted orb can be infused with my mana if I use it, similar to the mana crystal fragment.  Once it has some mana in it, if I try to throw it on the ground it will instead rise up and levitate near my head.  It seems to dislike the monsters of this world and will lash out with small arcane bolts.  It's not much damage, but it can help keep me from being overwhelmed."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal_fragment"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldritch_orb"
+			}
+		]
+	},
+	"Mana Crystal Fragment": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mana Crystal Fragment"
+			},
+			{
+				"type": "text",
+				"value": "This enchanted crystal can act as a reserve of mana.  By changing the mode (sneak + use) between input and output, I can either store mana at times where I have plenty, or retrieve mana in a pinch when I need it."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal_fragment"
+			}
+		]
+	},
+	"Mana Crystal": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mana Crystal"
+			},
+			{
+				"type": "text",
+				"value": "By combining several mana crystal fragments together, I have figured out a way to create a larger crystal similar to the ones of old.  It radiates pure mana, and simply standing near it makes me feel like my own reserves of mana replenish more quickly."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal"
+			}
+		]
+	},
+	"Step 2: Runeforge Enchanting": {
+		"category": "enchantments",
+		"index": -1,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Runeforge Enchanting"
+			},
+			{
+				"type": "text",
+				"value": "The next step in the enchanting process after creating the enchanted rune is to take everything to the runic anvil and actually apply it to your gear.  To enchant using the runic anvil, you will need to expand your setup a bit.\n\nFirst, place the correct pattern around the anvil using Metal Ritual Runes.\nNext, place four pedestals at the corner."
+			},
+			{
+				"type": "image",
+				"location": "mana-and-artifice:textures/guide/runeforge_setup.png",
+				"width": 128,
+				"height": 128
+			},
+			{
+				"type": "text",
+				"value": "To apply the enchantment, place the required reagents on the metal ritual runes.  The order doesn't matter, as long as they are there (similar to a shapeless crafting recipe).\n\nNext, place the gear that you want to enchant on the anvil, and place the enchanted rune on top of that.  You will see the magic moving toward the anvil if set up correctly.\n\nBegin to strike the anvil with your runesmith hammer, and after enough strikes the enchantment will be applied and the reagents consumed.\n\nIf you make a mistake in your setup, the items will pop off of the anvil when you try to strike them with the hammer."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/runic_anvil"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/stone_pedestal"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:runeforging/runesmith_hammer"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_metal_ritual_rune"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runescribing/runeforge_metal_ritual_rune"
+			}
+		]
+	},
+	"Ancient Stone": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Ancient Stone"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of earth and nature into an essence.\n\nThis ritual can only be performed while deep underground, near bedrock."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/ancient_stone"
+			}
+		]
+	},
+	"Deep Ocean": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Deep Ocean"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of water and the deep sea into an essence.\n\nThis ritual can only be performed while in an ocean biome."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/deep_ocean"
+			}
+		]
+	},
+	"Endless Void": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Endless Void"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of entropy and the void into an essence.\n\nThis ritual can only be performed while all ritual runes are in complete darkness."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/endless_void"
+			}
+		]
+	},
+	"Forgotten Lore": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Forgotten Lore"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of knowledge and study into an essence."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/forgotten_lore"
+			}
+		]
+	},
+	"Searing Inferno": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Searing Inferno"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of fire and brimstone into an essence.\n\nThis ritual can only be performed in the nether."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/searing_inferno"
+			}
+		]
+	},
+	"Untamed Wind": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Untamed Wind"
+			},
+			{
+				"type": "text",
+				"value": "This ritual coalesces the elements of wind and air into an essence.\n\nThis ritual can only be performed while high above the clouds."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/untamed_wind"
+			}
+		]
+	},
+	"Burning Hells": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Burning Hells"
+			},
+			{
+				"type": "text",
+				"value": "This forbidden ritual summons a demon lord.  These demons often offer power to those that seek it, though with power always comes a price.  Demons are very powerful, and respect only those that can withstand such power.  Proper precautions should be taken before attempting to make an bargain with a demon.  Allying oneself with such entities will almost assuredly make enemies of others."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/burning_hells"
+			}
+		]
+	},
+	"Faerie Courts": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Faerie Courts"
+			},
+			{
+				"type": "text",
+				"value": "This forbidden ritual summons a faerie queen.  Through bargains, the fey often offer power to those that seek it, though with power always comes a price.  Allying oneself with such entities will almost assuredly make enemies of others."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/faerie_courts"
+			}
+		]
+	},
+	"Wizard's Council": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Wizard's Council"
+			},
+			{
+				"type": "text",
+				"value": "This ritual summons a conclave from the Wizard Council.  By doing so, you are offering to align yourself with the council in exchange for access to their knowledge of higher magics.  Allying oneself with such entities will almost assuredly make enemies of others."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/ancient_council"
+			}
+		]
+	},
+	"Flat Lands": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Flat Lands"
+			},
+			{
+				"type": "text",
+				"value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target."
+			},
+			{
+				"type": "item",
+				"location": "mana-and-artifice:rune_marking",
+				"scale": 1
+			},
+			{
+				"type": "text",
+				"value": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like.\n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so.  Any larger just seems to consume the materials and then quickly implode upon itself.  Conversely, any dimension smaller than 3m also seems to have the same effect."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_marking"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/flat_lands"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/flat_lands_book"
+			}
+		]
+	},
+	"Clear Skies": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of Clear Skies"
+			},
+			{
+				"type": "text",
+				"value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/clear_skies"
+			}
+		]
+	},
+	"Monsoon": {
+		"index": 0,
+		"category": "rituals",
+		"tier": 4,
+		"sections": [
+			{
+				"type": "title",
+				"value": "Ritual of the Monsoon"
+			},
+			{
+				"type": "text",
+				"value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "minecraft:gray_wool"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/monsoon"
+			}
+		]
+	},
+	"Rune Pattern: Marking": {
+		"index": 0,
+		"category": "runesmithing",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Rune Pattern: Marking"
+			},
+			{
+				"type": "text",
+				"value": "The rune of marking is used to mark a location, and is used to target certain rituals.  Using the rune on a given block will store the block's coordinates within the rune.\n\nTypically these runes aren't powerful enough to have an effect over long distances."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_marking"
+			}
+		]
+	},
+	"Unguent of Seeing": {
+		"index": 0,
+		"category": "manaweaving",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Unguent of Seeing"
+			},
+			{
+				"type": "text",
+				"value": "The unguent of seeing is a concoction that, when applied to the eyes, allows the recipient to see more of the magical aura around them for a short time.  \n\nIt also helps to pierce veils and illusions created by other mages."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/sight_unguent"
+			}
+		]
+	},
+	"Component: Blink": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Component: Blink"
+			},
+			{
+				"type": "text",
+				"value": "This component causes the target to jump forward through space, passing through blocks if possible.  \n\nIt will not force them inside of a wall, for example."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/blink"
+			}
+		]
+	},
+	"Component: Transplace": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Component: Transplace"
+			},
+			{
+				"type": "text",
+				"value": "This component causes the target and the caster to swap positions."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/transplace"
+			}
+		]
+	},
+	"Brazier": {
+		"index": "0",
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Brazier"
+			},
+			{
+				"type": "text",
+				"value": "This brazier can be lit/doused as normal, however it also has a minor enchantment on it that can be activated to have it light up when night falls."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:brazier"
+			}
+		]
+	},
+	"version": "1.0.2a"
+}
