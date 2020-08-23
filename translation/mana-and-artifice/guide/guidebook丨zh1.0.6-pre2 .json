@@ -1,19 +1,19 @@
 {
-	"Manaweaving How-To": {
+	"如何进行魔力编织": {
 		"category": "manaweaving",
 		"index": -3,
 		"sections": [
 			{
 				"type": "title",
-				"value": "What is Manaweaving"
+				"value": "什么是魔力编织"
 			},
 			{
 				"type": "text",
-				"value": "Manaweaving is the process of infusing your own magic into your creations.  Spells, rituals, runes, and more can make use of it."
+				"value": "魔力编织指的是将你的魔法注入到你的造物的过程，法术，仪式，符文，还有更多东西可以进行魔力编织。"
 			},
 			{
 				"type": "text",
-				"value": "To do it, first craft a Manaweaver's Wand."
+				"value": "魔力编织的第一步，是制作一把织魔者法杖。"
 			},
 			{
 				"type": "item",
@@ -22,7 +22,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Next, hold the wand in your hand and begin using it (hold the right mouse button).  Then, draw the shape in the air.  Stop using the wand when you're done."
+				"value": "接着，将法杖拿在手中，并尝试使用它（持续右击）；接着，你需要在空气中画出相应的形状，当你画完之后，只需松开右键即可。"
 			},
 			{
 				"type": "image",
@@ -32,7 +32,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The concentration required will consume your mana quickly.  Do not let this rush you, however, lest you make mistakes: an incorrectly pattern will do nothing.\n\nSome mages claim to have heard chimes while using a manaweaver wand.  While not confirmed, such an occurrence would be an indication that the wand is working.\n\nThere are also those that are either unable or unwilling to draw the shapes in the air.  To that end, the manaweave projector was developed.  Simply place it on the ground and it will draw in your mana (or that of others nearby) to power itself.  When activated, it will project the pattern it is set to after a few seconds."
+				"value": "魔力编织需要高度的专注，而这一专注需要耗费大量魔力。绘画的时候保持心平气和，焦虑只会让你不断地失误：不正确的图案将不会起任何作用。\n\n据说一些法师在使用织魔者法杖时，表示自己听到了清脆的铃声，尽管我们不能确认是否真的有法师这样子说过，但可以确定的是，这一铃声表明了织魔者法杖正在工作。\n\n也有一些人无法或者不愿意在空气中绘制图形。在如此的需求下，织魔放映机应运而生。将其放置于地上，它就会抽取你（或者是其他人，只要靠得够近）体内的魔力反哺自身。当放映机激活后，他就可以放映出图样，当然，你需要在放映机激活前就选择好需要放映的图样。"
 			},
 			{
 				"type": "image",
@@ -123,11 +123,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual Foci"
+				"value": "仪式聚能核心"
 			},
 			{
 				"type": "text",
-				"value": "When making spells, a wizard needs to have a way to control the wild magical energies in addition to the ingredients needed to make each spell piece.  These foci are very important to keep the spell stable, and higher versions are needed as the complexity of the spell in question increases."
+				"value": "当编写法术时，法师们不仅需要搜集对应法术构件所需要的原料，而且还需要调和魔法能量的“野性”。想要维系法术稳定，聚能核心不可或缺，而在一些复杂性更高的法术中，对于聚能核心的需求水涨船高，因此你需要在这些法术的制作过程使用到高级版的聚能核心。"
 			}
 		],
 		"related_recipes": [
@@ -145,18 +145,18 @@
 			}
 		]
 	},
-	"Step 1: Runescribing": {
+	"步骤1：符文摹画": {
 		"category": "runesmithing",
 		"index": -2,
 		"tier": 2,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Runescribing"
+				"value": "符文摹画"
 			},
 			{
 				"type": "text",
-				"value": "The first step in any endeavor to create magical runes is to scribe the pattern.  \n\nTake a blank pattern to your runescribing table, along with your runesmith's hammer and chisel.  Using these tools, chisel out the desired pattern of the rune.\n\nTake care when chiselling your pattern, as any mistakes will require starting over completely!"
+				"value": "创造魔法符文，始终绕不过去的第一个坎就是摹画图样。\n\n想要进行摹画，你需要一块空白样板，以及符文锻造锤以及凿子。利用这些工具，你可以一点点地在样板上凿出你所需要的符文。\n\n雕凿样板时务必小心，因为任何细小的失误都会让所有工作推倒重来！"
 			}
 		],
 		"related_recipes": [
@@ -178,18 +178,18 @@
 			}
 		]
 	},
-	"Step 2: Runeforging": {
+	"步骤2：符文锻造": {
 		"category": "runesmithing",
 		"index": -1,
 		"tier": 2,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Runeforging (Runes)"
+				"value": "符文锻造 (Runes)"
 			},
 			{
 				"type": "text",
-				"value": "The next step in the overall enchanting process is to actually forge your rune from your pattern.\n\nOnce you have your completed rune pattern, you will need to take it and some superheated vinteum to your runic anvil.\n\nPlace the pattern on the anvil, and the superheated vinteum on top.  "
+				"value": "下一步的工作就是使用样板锻造出符文。\n\n当你制作好了符文样板，你还需要一份加热过的温特姆粉末，以及一个作为加工场所的符文铁砧。\n\n将样板放置到铁砧上，再在样板上涂上温特姆粉末。"
 			},
 			{
 				"type": "image",
@@ -199,7 +199,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Take your runesmith's hammer and begin to strike the items on the anvil.  Be careful to have everything set up correctly, or the items will not fit together properly, and they will pop off the anvil.\n\nOnce you hit the item enough times, your forging will be complete.  The next step will be to take the rune to your Manaweaving Altar to put the enchantment onto the rune."
+				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保多有的东西都放置在了正确的位置，如果你讲物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。下一步则是为你的符文附魔。"
 			}
 		],
 		"related_recipes": [
@@ -217,7 +217,7 @@
 			}
 		]
 	},
-	"Step 1: Manaweave Enchanting": {
+	"步骤1：Manaweave Enchanting": {
 		"category": "enchantments",
 		"index": -1,
 		"tier": 3,
@@ -228,7 +228,7 @@
 			},
 			{
 				"type": "text",
-				"value": "Now that your rune is completed, you will need to infuse mana into it to apply the initial stage of the enchantment to the rune.\n\nPlace the item along with any other required reagents onto the manaweaving altar.  Then, using a manaweaver's wand, draw the required patterns on top of the altar.\n\nAlternately, you can use a manaweave projector placed adjacent to the altar to project the patterns.\n\nIf you make a mistake, you can activate the altar with the wand in your hand to have the wand draw the most recent pattern back out of the altar.\n\nOnce you've drawn the correct patterns, in the correct order, with the correct items, the altar will draw it all in to enchant the rune.  \n\nAll that's left now is to combine the rune with an item back at the runic anvil."
+				"value": "制作出符文后，你需要向其注入魔力，以开启符文附魔的初始阶段。\n\n将物品以及需求试剂放置到织魔祭坛上，然后，使用织魔者法杖画出祭坛上方显示的需求图案。\n\n此外，你还可以将织魔放映机放置于祭坛旁，这样你就可以在祭坛旁放映图案了。\n\n如果你不小心失误了，你可以用织魔者法杖激活织魔放映机，放映机会放映出祭坛上一个显示的图案，你可以依据这个图案重新绘制。\n\n当你以正确的顺序绘制了正确的图案，并且正确地加入了物品，祭坛会将所有东西吸入，并开始符文附魔。 \n\n现在，我们只需在符文铁砧上将符文与物品相互结合，一切就大功告成了、"
 			}
 		],
 		"related_recipes": [
@@ -246,16 +246,16 @@
 			}
 		]
 	},
-	"Aqua Affinity": {
+	"亲水": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Aqua Affinity"
+				"value": "亲水"
 			},
 			{
 				"type": "text",
-				"value": "The Aqua Affinity enchantment speeds up how fast you can mine blocks underwater. It basically makes mining underwater the same speed as mining on land."
+				"value": "亲水附魔将会加速你在水下的挖掘速度。它基本上能够将水下挖掘速度提升至与在陆地上的挖掘速度差不多的水平。"
 			}
 		],
 		"related_recipes": [
@@ -269,16 +269,16 @@
 			}
 		]
 	},
-	"Bane of Arthropods": {
+	"节肢杀手": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Bane of Arthropods"
+				"value": "节肢杀手"
 			},
 			{
 				"type": "text",
-				"value": "The Bane of Arthropods enchantment increases your attack damage against mobs such as spiders, cave spiders, silverfish, and endermites."
+				"value": "节肢杀手附魔可以提高你对节肢动物的伤害，譬如蜘蛛，洞穴蜘蛛，蠹虫以及末影人。"
 			}
 		],
 		"related_recipes": [
@@ -324,16 +324,16 @@
 			}
 		]
 	},
-	"Binding Curse": {
+	"绑定诅咒": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Binding Curse"
+				"value": "绑定诅咒"
 			},
 			{
 				"type": "text",
-				"value": "The Curse of Binding enchantment lets you curse an item. Once a cursed item is worn, it can not be removed until the item breaks or the wearer dies."
+				"value": "绑定诅咒附魔能够让你诅咒一个物品，一旦带有这一附魔的装备被穿上，就再也无法脱下。只有当该装备因耐久为0而破损或者玩家阵亡，穿戴者才能逃脱这永恒的束缚。"
 			}
 		],
 		"related_recipes": [
@@ -347,16 +347,16 @@
 			}
 		]
 	},
-	"Vanishing Curse": {
+	"消失诅咒": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Vanishing Curse"
+				"value": "消失诅咒"
 			},
 			{
 				"type": "text",
-				"value": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the cursed item will disappear when the wearer dies instead of being dropped."
+				"value": "消失诅咒附魔可以让你诅咒一个物品，当玩家死亡时，这一被诅咒的物品会直接消失，而不会掉落在地上。"
 			}
 		],
 		"related_recipes": [
@@ -370,16 +370,16 @@
 			}
 		]
 	},
-	"Blast Protection": {
+	"爆炸保护": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Blast Protection"
+				"value": "爆炸保护"
 			},
 			{
 				"type": "text",
-				"value": "The Blast Protection enchantment reduces the damage from explosions such as TNT explosions, creeper explosions, ghast fireballs, initial wither boss explosions, and ender crystals."
+				"value": "爆炸保护附魔可以减轻由爆炸带来的伤害，爆炸包括TNT爆炸，苦力怕爆炸，恶魂的火球，凋零充能完毕时发出的爆炸，以及末影水晶的爆炸。"
 			}
 		],
 		"related_recipes": [
@@ -417,16 +417,16 @@
 			}
 		]
 	},
-	"Channeling": {
+	"引雷": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Channeling"
+				"value": "引雷"
 			},
 			{
 				"type": "text",
-				"value": "The Channeling enchantment can be added to a trident. With this enchantment, your trident will summon a lightning bolt at a mob if you throw the trident and it hits the mob (while its standing in the rain)."
+				"value": "引雷附魔可以附加至三叉戟上，三叉戟，若敌对生物在雨天时被带有这一附魔的，且是被掷出的三叉戟击中（近身攻击时无效），则会在被击中的生物处召唤一个闪电。"
 			}
 		],
 		"related_recipes": [
@@ -440,12 +440,12 @@
 			}
 		]
 	},
-	"Depth Strider": {
+	"深海探索者": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Depth Strider"
+				"value": "深海探索者"
 			},
 			{
 				"type": "text",
@@ -479,12 +479,12 @@
 			}
 		]
 	},
-	"Efficiency": {
+	"效率": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Efficiency"
+				"value": "效率"
 			},
 			{
 				"type": "text",
@@ -534,12 +534,12 @@
 			}
 		]
 	},
-	"Feather Falling": {
+	"摔落保护": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Feather Falling"
+				"value": "摔落保护"
 			},
 			{
 				"type": "text",
@@ -581,12 +581,12 @@
 			}
 		]
 	},
-	"Fire Aspect": {
+	"火焰附加": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fire Aspect"
+				"value": "火焰附加"
 			},
 			{
 				"type": "text",
@@ -612,12 +612,12 @@
 			}
 		]
 	},
-	"Fire Protection": {
+	"火焰保护": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fire Protection"
+				"value": "火焰保护"
 			},
 			{
 				"type": "text",
@@ -659,12 +659,12 @@
 			}
 		]
 	},
-	"Flame": {
+	"火矢": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Flame"
+				"value": "火矢"
 			},
 			{
 				"type": "text",
@@ -687,7 +687,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fortune"
+				"value": "时运"
 			},
 			{
 				"type": "text",
@@ -726,7 +726,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Frost Walker"
+				"value": "冰霜行者"
 			},
 			{
 				"type": "text",
@@ -752,12 +752,12 @@
 			}
 		]
 	},
-	"Impaling": {
+	"穿刺": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Impaling"
+				"value": "穿刺"
 			},
 			{
 				"type": "text",
@@ -807,12 +807,12 @@
 			}
 		]
 	},
-	"Infinity": {
+	"无限": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Infinity"
+				"value": "无限"
 			},
 			{
 				"type": "text",
@@ -830,12 +830,12 @@
 			}
 		]
 	},
-	"Knockback": {
+	"击退": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Knockback"
+				"value": "击退"
 			},
 			{
 				"type": "text",
@@ -861,12 +861,12 @@
 			}
 		]
 	},
-	"Looting": {
+	"抢夺": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Looting"
+				"value": "抢夺"
 			},
 			{
 				"type": "text",
@@ -900,12 +900,12 @@
 			}
 		]
 	},
-	"Loyalty": {
+	"忠诚": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Loyalty"
+				"value": "忠诚"
 			},
 			{
 				"type": "text",
@@ -939,16 +939,16 @@
 			}
 		]
 	},
-	"Magic Broom": {
+	"魔法扫帚": {
 		"category": "constructs",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Magic Broom"
+				"value": "魔法扫帚"
 			},
 			{
 				"type": "text",
-				"value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?"
+				"value": "魔法扫帚被附魔上了自动收集掉落物的能力，它可以收集指定容器周围的掉落物，并将掉落物放入容器内。这一造物用处很大。我在想，我能不能再造出一点新玩意？"
 			}
 		],
 		"related_recipes": [
@@ -958,12 +958,12 @@
 			}
 		]
 	},
-	"Ender Disc": {
+	"末影唱片": {
 		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ender Disc"
+				"value": "末影唱片"
 			},
 			{
 				"type": "text",
@@ -977,20 +977,20 @@
 			}
 		]
 	},
-	"Arcane Crown": {
+	"奥术王冠": {
 		"category": "artifice",		
 		"sections": [
 			{
 				"type": "title",
-				"value": "Arcane Crown"
+				"value": "奥术王冠"
 			},
 			{
 				"type": "text",
-				"value": "This legendary crown was originally forged by an archmage of old.  Imbued with tremendous power, it serves to make a mage able to cast spells more efficiently.  It also draws in ambient magic, allowing a larger resevoir of mana.  Finally, it is rumored that this crown can also occasionally protect its wearer from debilitating effects, but only every so often."
+				"value": "这一传奇的王冠是由远古时期的大法师铸造的。戴上它之后，你能感觉到其中汹涌而澎湃的能量，运用这股能量，你可以更有效率的施法。同时它还会牵引周围的原生魔力，加速你的魔力再生速度。最后，也有传言称这一王冠可以保护佩戴者免受虚弱侵袭，但似乎仅是偶尔如此。"
 			},
 			{
 				"type": "title",
-				"value": "Warning!"			
+				"value": "注意！"			
 			},
 			{
 				"type": "text",
@@ -1013,11 +1013,11 @@
 			},
 			{
 				"type": "text",
-				"value": "Previously wielded only by demonic princes, this staff turns spells surrounding fire into pure nightmares.  It can be bound to any spell, as other staves, but if that spell is of the realm of fire then it will be transformed into pure hellfire.  All aspects of the spell will be increased.\n\nBe warned, hellfire is a force of destruction, and you may end up losing control of the power if you aren't careful."
+				"value": "只有恶魔王子才能使用的权杖，这把法杖吞吐的火焰，将会是敌人最可怖的梦魇。它和其他法杖一样，所有的法术都能与其绑定，但如果绑定的法术只与火焰有关，那么这根法杖会将这些法术火焰转化为来自于地狱的烈焰。借助这股地狱之火的力量，该法术的性能将会全面提高。\n\n但你要小心，地狱烈焰破坏性极强，稍有不慎，你就会失去对它的控制，而这一后果将会是毁灭性的。"
 			},
 			{
 				"type": "title",
-				"value": "Warning!"			
+				"value": "注意！"			
 			},
 			{
 				"type": "text",
@@ -1050,13 +1050,13 @@
 			}
 		]
 	},
-	"Luck of the Sea": {
+	"海之眷顾": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Luck of the Sea"
+				"value": "海之眷顾"
 			},
 			{
 				"type": "text",
@@ -1090,13 +1090,13 @@
 			}
 		]
 	},
-	"Lure": {
+	"饵钓": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Lure"
+				"value": "饵钓"
 			},
 			{
 				"type": "text",
@@ -1130,7 +1130,7 @@
 			}
 		]
 	},
-	"Mending": {
+	"经验修补": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
@@ -1154,13 +1154,13 @@
 			}
 		]
 	},
-	"Multishot": {
+	"多重射击": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Multishot"
+				"value": "多重射击"
 			},
 			{
 				"type": "text",
@@ -1178,13 +1178,13 @@
 			}
 		]
 	},
-	"Piercing": {
+	"穿透": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Piercing"
+				"value": "穿透"
 			},
 			{
 				"type": "text",
@@ -1226,13 +1226,13 @@
 			}
 		]
 	},
-	"Power": {
+	"力量": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Power"
+				"value": "力量"
 			},
 			{
 				"type": "text",
@@ -1282,13 +1282,13 @@
 			}
 		]
 	},
-	"Projectile Protection": {
+	"弹射物保护": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Projectile Protection"
+				"value": "弹射物保护"
 			},
 			{
 				"type": "text",
@@ -1330,13 +1330,13 @@
 			}
 		]
 	},
-	"Protection": {
+	"保护": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Protection"
+				"value": "保护"
 			},
 			{
 				"type": "text",
@@ -1378,13 +1378,13 @@
 			}
 		]
 	},
-	"Punch": {
+	"冲击": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Punch"
+				"value": "冲击"
 			},
 			{
 				"type": "text",
@@ -1410,13 +1410,13 @@
 			}
 		]
 	},
-	"Respiration": {
+	"水下呼吸": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Respiration"
+				"value": "水下呼吸"
 			},
 			{
 				"type": "text",
@@ -1450,13 +1450,13 @@
 			}
 		]
 	},
-	"Quick Charge": {
+	"快速装填": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Quick Charge"
+				"value": "快速装填"
 			},
 			{
 				"type": "text",
@@ -1490,13 +1490,13 @@
 			}
 		]
 	},
-	"Riptide": {
+	"激流": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Riptide"
+				"value": "激流"
 			},
 			{
 				"type": "text",
@@ -1530,13 +1530,13 @@
 			}
 		]
 	},
-	"Sharpness": {
+	"锋利": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Sharpness"
+				"value": "锋利"
 			},
 			{
 				"type": "text",
@@ -1586,13 +1586,13 @@
 			}
 		]
 	},
-	"Silk Touch": {
+	"精准采集": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Silk Touch"
+				"value": "精准采集"
 			},
 			{
 				"type": "text",
@@ -1610,13 +1610,13 @@
 			}
 		]
 	},
-	"Smite": {
+	"亡灵杀手": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Smite"
+				"value": "亡灵杀手"
 			},
 			{
 				"type": "text",
@@ -1666,13 +1666,13 @@
 			}
 		]
 	},
-	"Sweeping Edge": {
+	"横扫之刃": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Sweeping Edge"
+				"value": "横扫之刃"
 			},
 			{
 				"type": "text",
@@ -1706,13 +1706,13 @@
 			}
 		]
 	},
-	"Thorns": {
+	"荆棘": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Thorns"
+				"value": "荆棘"
 			},
 			{
 				"type": "text",
@@ -1746,13 +1746,13 @@
 			}
 		]
 	},
-	"Unbreaking": {
+	"耐久": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Unbreaking"
+				"value": "耐久"
 			},
 			{
 				"type": "text",
@@ -1786,49 +1786,49 @@
 			}
 		]
 	},
-	"Mana and Regeneration": {
+	"魔力与再生": {
 		"index": 0,
 		"category": "basics",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Mana and Regeneration"
+				"value": "魔力与再生"
 			},
 			{
 				"type": "text",
-				"value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 60 seconds, as long as you are well-fed.  Magic is hungry work after all!"
+				"value": "在魔法的领域里，许多操作都需要消耗一定的资源，而这一资源就叫做“魔力”。你的最大魔力值取决于你的魔法等级，每次魔法等级提升都会增加你的魔力上限。也有小道消息称，一些特殊的饰品、附魔、药水可以增加你的最大魔力值。\n\n无论你的最大魔力值是多少，60秒就足以将你的魔力从0恢复至满值。然而，操控魔法本身是一件比较累人的事，所以想要维持这一回复速度，你还得吃好，吃饱！"
 			}
 		],
 		"related_recipes": [
 		]
 	},
-	"Casting Spells": {
+	"施放法术": {
 		"index": -1,
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Casting Spells"
+				"value": "施放法术"
 			},
 			{
 				"type": "text",
-				"value": "After you have created a spell, simply hold it in your hand and activate the item.  The spell will attempt to take effect, draining your mana in the process if successful.\n\nYou can hold a spell in each hand and activate them both at the same time.  You cannot choose which one to activate, though only one of them may succeed depending on targets."
+				"value": "创造法术之后，若想激活法术，使用它即可、法术会在被激活后会尝试生效，这一尝试需要魔力维持，所以它会抽取你的魔力。\n\n你可以主副手同时握着不同的法术且同时使用它们，而究竟哪一个法术可以生效则取决于目标，而且这一过程你也无法主动选择哪个法术可以生效。"
 			}
 		],
 		"related_recipes": [
 		]
 	},
-	"Spell Books": {
+	"法术书": {
 		"index": -1,
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Spell Books"
+				"value": "法术书"
 			},
 			{
 				"type": "text",
-				"value": "Once you start gaining several spells, you'll find that you need a place to carry them all.\n\nThe spell book spells can be switched between by pressing the X or Z keys while the book is equipped."
+				"value": "当你创造了几个法术之后，你就会苦恼于找不到地方来放置这些法术。\n\n你可以按下 X 或者 Z 键来切换法术书内的法术， 当然，你必须先装备法术书才能这样操作。"
 			}
 		],
 		"related_recipes": [
@@ -1855,17 +1855,17 @@
 		"related_recipes": [
 		]
 	},
-	"Scribing Spells": {
+	"编写法术": {
 		"index": -2,
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Scribing Spells"
+				"value": "编写法术"
 			},
 			{
 				"type": "text",
-				"value": "I'll need to set up a proper workspace for me to get my spell ideas from my head onto paper.\n\nA table with all the proper places to store everything, paper that is designed to accept magical script, and the proper ink.  I'll need some arcane ash as well.\n\nOnce I've got all that together, I can get started.  I'll need to pick a way to shape the spell.  This will be the way it targets the world.  I'm sure there are several shapes that I can learn.\n\nAfter that, I will need to pick a component so that the spell actually does something.\n\nThat alone is enough to make a basic spell.  However, I can think of several aspects of spells that could be modified.  I'll need to add in modifiers to the equation of the spell so that I can change these values.\n\nWhen my spell is all written out the way I want it, I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell.  Luckily the table I have in mind will have a spot to do just that.\n\n...I do wonder though if there are ways to make more complicated spells, such as ones that can do multiple things in a single cast?  There must be."
+				"value": "我得搭建一个适合研究工作空间，这样的一片小地方能够让我更好的把我对法术的构思记录在纸上。\n\n先是一张位置合适，摆放整洁的桌子，宽敞的桌面适合放置一些物品；还得准备些能够承受魔法抄写的纸；对了，还有一瓶合适的墨水，没了墨水还怎么做研究。我最好再备上一点魔法粉尘。\n\n万事俱备，接下来就可以进行研究了。首先，我得选择一种塑造法术的方式，这一方式决定了魔法会以何种形式出现在世界中。我认为应该有有数种方式可以供自己学习并选择。\n\n在这之后，我应该选择一个构件，这一构件会决定这一法术在世界中产生的效果。\n\n这些应该足够编写一个基础法术了。然而，我还需深入考虑，法术的哪几个方面是可以供我自定义设计的。想要改变最终的输出，我得修改法术“等式”的一部分内容。\n\n当我最终设计出了我心仪的法术，I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell. 还好，在我脑海里的小桌已经为这一步预留了一个位置。\n\n...我真的很想知道是否有某种方法可以制作出更为复杂的法术，譬如说，能够在一个法术释放里产生多种效果？应该是有的。"
 			}
 		],
 		"related_recipes": [
