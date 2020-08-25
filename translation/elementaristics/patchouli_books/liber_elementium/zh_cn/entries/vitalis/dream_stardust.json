@@ -1,17 +1,17 @@
 {
-  "name": "A Dream of Stardust",
+  "name": "星尘之梦",
   "category": "vis_vitalis",
   "icon": "elementaristics:textures/gui/icons/same.png",
   "advancement": "elementaristics:progress_ascension_4",
   "pages": [
     {
       "type": "text",
-      "text": "Now that I think of that one sun again... I remember that all stars die. But all stars leave stardust, and this stardust formed me. And maybe, just maybe, this stardust and these sentiments can do more while they exist."
+      "text": "现在我又想起了那个太阳……我记得所有的星辰都会死去。但所有的星辰都将离开星尘，而这星尘构成了我。也许，我只是说也许，这星尘和这些情感存在的时候还能做得更多。"
     },
     {
       "type": "crafting",
       "recipe": "elementaristics:same_self",
-      "text": "$(o)The same self, but still a better one$()"
+      "text": "$(o)那是原来的自己，但也是更好的自己$()"
     }
   ]
 }

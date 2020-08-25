@@ -1,0 +1,47 @@
+{
+  "name": "恶魔契约",
+  "category": "devilish_oddities",
+  "icon": "bewitchment:contract",
+  "pages": [
+	{
+	  "type": "text",
+	  "text": "许多恶魔会提供给凡人签订契约的机会，它们会说，契约必须以血液为证… 这一邪恶的交易将会使得乙方将它的地狱能量注入到甲方之中。名誉，财富，所有的所有...$(br)$(o)墨水对我而言一文不值，$(playername)… 签下你的名字吧"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:contract",
+	  "title": "Pact: Desiccation",
+	  "text": "You will be able to cast the ability to kill crops to gain strength"
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:contract",
+	  "title": "Pact: Devouring Rage",
+	  "text": "Upon completion, you will be able to heal via killing the living."
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:contract",
+	  "title": "Pact: Berserker",
+	  "text": "Upon completion, you will be able to deal more damage the lower your health is."
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:contract",
+	  "title": "Pact: Ignition",
+	  "text": "Upon completion, you will autosmelt ore when mining."
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:contract",
+	  "title": "Pact: Salamandrine Tolerance",
+	  "text": "Upon completion, you will take less damage from fire."
+	},
+	{
+	  "type": "spotlight",
+	  "item": "bewitchment:contract",
+	  "title": "Request: Mahapadma",
+	  "text": "Hold a taglock of the target in your offhand while activating. The target will freeze solid, and splinter into several pieces, killing them."
+	}
+  ]
+}

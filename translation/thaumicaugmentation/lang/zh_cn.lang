@@ -1,0 +1,590 @@
+#物品integration
+tile.thaumicaugmentation.vis_regenerator.name=灵气再生装置
+tile.thaumicaugmentation.warded_chest.name=守卫者箱子
+tile.thaumicaugmentation.arcane_door.name=奥能之扉
+tile.thaumicaugmentation.arcane_door_greatwood.name=宏伟之木奥能之扉
+tile.thaumicaugmentation.arcane_door_thaumium.name=神秘奥能之扉
+tile.thaumicaugmentation.arcane_door_silverwood.name=银木奥能之扉
+tile.thaumicaugmentation.temporary_light.name=奥术辉光
+tile.thaumicaugmentation.stone.stone_void.name=虚空岩
+tile.thaumicaugmentation.stone.stone_taint_nodecay.name=腐化虚岩
+tile.thaumicaugmentation.stone.soil_stone_taint_nodecay.name=腐化虚岩壤
+tile.thaumicaugmentation.stone.ancient_runes.name=荒古符石
+tile.thaumicaugmentation.stone.ancient_glyphs.name=荒古符文石
+tile.thaumicaugmentation.stone.ancient_bricks.name=荒古石砖
+tile.thaumicaugmentation.stone.stone_crusted.name=陈年石头
+tile.thaumicaugmentation.stone.stone_crusted_glowing.name=发光陈年石头
+tile.thaumicaugmentation.stone.ancient_pillar.name=荒古石柱
+tile.thaumicaugmentation.stone.chiseled_ancient_bricks.name=平滑荒古石砖
+tile.thaumicaugmentation.stone.ancient_cobblestone.name=荒古原石
+tile.thaumicaugmentation.stone.ancient_light.name=荒古石灯
+tile.thaumicaugmentation.arcane_trapdoor_wood.name=宏伟之木奥能活板门
+tile.thaumicaugmentation.arcane_trapdoor_metal.name=神秘奥能活板门
+tile.thaumicaugmentation.arcane_trapdoor_silverwood.name=银木奥能活板门
+tile.thaumicaugmentation.taint_flower.name=腐化花
+tile.thaumicaugmentation.impetus_drainer.name=元动抽取机
+tile.thaumicaugmentation.impetus_relay.name=元动继能器
+tile.thaumicaugmentation.impetus_diffuser.name=元动扩散装置
+tile.thaumicaugmentation.impetus_matrix.name=元动矩阵
+tile.thaumicaugmentation.impetus_matrix_base.name=元动矩阵基座
+tile.thaumicaugmentation.rift_feeder.name=咒波引流仪
+tile.thaumicaugmentation.rift_input.name=Rift Mover Input
+tile.thaumicaugmentation.rift_output.name=Rift Mover Output
+tile.thaumicaugmentation.rift_jar.name=缸中裂隙
+tile.thaumicaugmentation.rift_jar_empty.name=守护之罐
+tile.thaumicaugmentation.rift_mover_input.name=裂隙封装仪
+tile.thaumicaugmentation.rift_mover_output.name=裂隙释放仪
+tile.thaumicaugmentation.void_recharge_pedestal.name=Void Recharge Pedestal
+tile.thaumicaugmentation.impetus_mirror.name=元动之镜
+tile.thaumicaugmentation.arcane_terraformer.name=奥术群系转化仪
+tile.thaumicaugmentation.rift_monitor.name=裂隙屈光仪
+tile.thaumicaugmentation.impetus_generator.name=元动发生器
+tile.thaumicaugmentation.stability_field_generator.name=Stability Field Generator
+tile.thaumicaugmentation.impetus_gate.name=Impetus Gate
+tile.thaumicaugmentation.stairs_ancient.name=荒古石楼梯
+tile.thaumicaugmentation.stairs_eldritch_tile.name=邪术石楼梯
+tile.thaumicaugmentation.ancient_tile_slab.name=荒古石砖台阶
+tile.thaumicaugmentation.bars.bars_ancient.name=荒古栅栏
+tile.thaumicaugmentation.fortified_glass.name=守卫者玻璃
+tile.thaumicaugmentation.fortified_glass_pane.name=守卫者玻璃板
+tile.thaumicaugmentation.starfield_glass.glass_rift.name=裂隙星域玻璃
+tile.thaumicaugmentation.starfield_glass.glass_fracture.name=维度裂缝星域玻璃
+tile.thaumicaugmentation.starfield_glass.glass_mirror.name=魔镜星域玻璃
+tile.thaumicaugmentation.capstone.capstone_eldritch.name=邪术拱顶石
+tile.thaumicaugmentation.capstone.altar_eldritch.name=开眼邪术拱顶石
+tile.thaumicaugmentation.capstone.capstone_ancient.name=荒古拱顶石
+tile.thaumicaugmentation.capstone.altar_ancient.name=开眼荒古拱顶石
+tile.thaumicaugmentation.strange_crystal.name=诡异魔晶
+tile.thaumicaugmentation.crab_vent.name=陈年虫穴
+tile.thaumicaugmentation.eldritch_lock.name=邪术锁孔
+tile.thaumicaugmentation.rift_barrier.name=荒古屏障
+tile.thaumicaugmentation.eldritch_lock_impetus.name=元动邪术锁孔
+tile.thaumicaugmentation.button_greatwood.name=宏伟之木按钮
+tile.thaumicaugmentation.button_silverwood.name=银木按钮
+tile.thaumicaugmentation.button_arcane_stone.name=奥术石按钮
+tile.thaumicaugmentation.warded_button_greatwood.name=宏伟之木守护按钮
+tile.thaumicaugmentation.warded_button_silverwood.name=银木守护按钮
+tile.thaumicaugmentation.warded_button_arcane_stone.name=奥术石守护按钮
+tile.thaumicaugmentation.pressure_plate_greatwood.name=宏伟之木压力板
+tile.thaumicaugmentation.pressure_plate_silverwood.name=银木压力板
+tile.thaumicaugmentation.pressure_plate_arcane_stone.name=奥术石压力板
+tile.thaumicaugmentation.warded_pressure_plate_greatwood.name=宏伟之木守护压力板
+tile.thaumicaugmentation.warded_pressure_plate_silverwood.name=银木守护压力板
+tile.thaumicaugmentation.warded_pressure_plate_arcane_stone.name=奥术石守护压力板
+tile.thaumicaugmentation.urn.urn_common.name=寻常瓮
+tile.thaumicaugmentation.urn.urn_uncommon.name=非凡瓮
+tile.thaumicaugmentation.urn.urn_rare.name=罕见瓮
+
+tile.thaumcraft.stairs_ancient_tile.name=奥术石砖楼梯
+
+item.thaumicaugmentation.gauntlet.thaumium.name=神秘法师护手
+item.thaumicaugmentation.gauntlet.void.name=虚空预言者法师护手
+item.thaumicaugmentation.material.lattice.name=灵气再生栅格
+item.thaumicaugmentation.material.warding_sigil.name=守护印记
+item.thaumicaugmentation.material.amalgamated_gear.name=齿轮组
+item.thaumicaugmentation.material.rift_energy_cell.name=元动能量单元
+item.thaumicaugmentation.material.harness_base.name=缰绳背带
+item.thaumicaugmentation.material.impetus_resonator.name=元动宝石
+item.thaumicaugmentation.seal_copier.name=印记拓印器
+item.thaumicaugmentation.arcane_door.greatwood.name=宏伟之木奥能之扉
+item.thaumicaugmentation.arcane_door.thaumium.name=神秘奥能之扉
+item.thaumicaugmentation.arcane_door.silverwood.name=银木奥能之扉
+item.thaumicaugmentation.key.iron.name=铁钥匙
+item.thaumicaugmentation.key.brass.name=黄铜钥匙
+item.thaumicaugmentation.key.thaumium.name=神秘钥匙
+item.thaumicaugmentation.void_boots.name=裂隙行者之靴
+item.thaumicaugmentation.rift_seed.flux.name=咒波裂隙种子
+item.thaumicaugmentation.rift_seed.flux_aura.name=咒波种子
+item.thaumicaugmentation.augment_caster_rift_energy_storage.name=元动能量电池
+item.thaumicaugmentation.fracture_locator.name=裂缝定位器
+item.thaumicaugmentation.augment_custom.name=法师护手增强模块
+item.thaumicaugmentation.morphic_tool.name=变形工具
+item.thaumicaugmentation.primal_cutter.name=元始刃
+item.thaumicaugmentation.biome_selector.name=群系核心
+item.thaumicaugmentation.impetus_linker.name=Impetus Resonator
+item.thaumicaugmentation.thaumostatic_harness.name=奥法缰绳
+item.thaumicaugmentation.thaumostatic_harness_augment.gyroscope.name=回转稳定升级
+item.thaumicaugmentation.thaumostatic_harness_augment.girdle.name=奥法升级
+item.thaumicaugmentation.elytra_harness.name=奥法鞘翅
+item.thaumicaugmentation.elytra_harness_augment.impetus_booster.name=元动推进升级
+item.thaumicaugmentation.autocaster_placer.normal.name=施法器
+item.thaumicaugmentation.autocaster_placer.eldritch.name=邪术施法器
+item.thaumicaugmentation.impulse_cannon.name=元动加农炮
+item.thaumicaugmentation.impulse_cannon_augment.railgun.name=Railgun Conversion
+item.thaumicaugmentation.impulse_cannon_augment.burst.name=Burst Fire Conversion
+item.thaumicaugmentation.focus_ancient.name=荒古核心
+item.thaumicaugmentation.eldritch_lock_key.labyrinth.name=符文石板
+item.thaumicaugmentation.eldritch_lock_key.prison.name=镶尖符咒
+item.thaumicaugmentation.eldritch_lock_key.library.name=禁忌知识
+item.thaumicaugmentation.eldritch_lock_key.boss.name=凶险剑刃
+item.thaumicaugmentation.obelisk_placer.eldritch.name=邪术方尖碑
+item.thaumicaugmentation.obelisk_placer.ancient.name=荒古方尖碑
+item.thaumicaugmentation.research_notes.eldritch.name=破损卷轴
+item.thaumicaugmentation.augment_vis_battery.name=便携灵气电池
+
+item.thaumicaugmentation.strength_experience.name=调整器：求知
+item.thaumicaugmentation.strength_overworld.name=调整器：主世界
+item.thaumicaugmentation.strength_nether.name=调整器：下界
+item.thaumicaugmentation.strength_end.name=调整器：末地
+item.thaumicaugmentation.strength_emptiness.name=调整器：虚域
+item.thaumicaugmentation.strength_elemental.name=调整器：元素
+item.thaumicaugmentation.strength_frenzy.name=调整器：增流
+
+item.thaumicaugmentation.effect_power.name=增效水晶：效能
+item.thaumicaugmentation.effect_cost.name=增效水晶：灵气减免
+item.thaumicaugmentation.effect_cast_speed.name=增效水晶：施法速度
+
+item.seal.attack.name=操控印记：治安
+item.seal.attack_advanced.name=高级操控印记：治安
+golem.prop.other=把其它生物作为攻击目标
+golem.prop.sight=仅攻击视野内的目标
+
+entity.thaumicaugmentation.dimensional_fracture.name=维度裂缝
+entity.thaumicaugmentation.shield_focus.name=守护屏障
+entity.thaumicaugmentation.autocaster.name=施法器
+entity.thaumicaugmentation.autocaster_eldritch.name=邪术施法器
+entity.thaumicaugmentation.eldritch_guardian.name=邪术守卫
+entity.thaumicaugmentation.eldritch_warden.name=邪术典狱官
+entity.thaumicaugmentation.primal_wisp.name=原始精灵
+entity.thaumicaugmentation.eldritch_golem.name=邪术构筑体
+entity.thaumicaugmentation.golem_orb.name=能量球
+
+itemGroup.thaumicaugmentation=神秘进阶
+itemGroup.thaumicaugmentation.biome_selector=神秘进阶:群系核心
+
+thaumicaugmentation.text.key_bound=钥匙已绑定
+thaumicaugmentation.text.key_bound_object= %s 的钥匙已绑定至 %s
+thaumicaugmentation.text.key_unbound=钥匙未绑定
+thaumicaugmentation.text.bound_to=钥匙属于 %s
+thaumicaugmentation.text.bound_to_type=绑定方块： %s
+thaumicaugmentation.text.bound_to_pos=绑定坐标: %s
+thaumicaugmentation.text.rift_seed_size=裂隙尺寸: %d
+thaumicaugmentation.text.flux_seed_amount=咒波量: %d
+thaumicaugmentation.text.rift_seed_grown=已成熟
+thaumicaugmentation.text.rift_too_close=另一个咒波裂隙就在附近。无法在此制造新的咒波裂隙......
+thaumicaugmentation.text.no_fracture_target=这个裂缝不通往任何地方......
+thaumicaugmentation.text.augmented=§c已安装增强器§r（%d/%d）
+thaumicaugmentation.text.elemental_aspect= %s 要素
+thaumicaugmentation.text.stored_energy=元动能量等级: %s
+thaumicaugmentation.text.energy_none=§4无能量
+thaumicaugmentation.text.energy_minimal=§c几乎无
+thaumicaugmentation.text.energy_very_weak=§6微
+thaumicaugmentation.text.energy_weak=§e弱
+thaumicaugmentation.text.energy_medium=§a中
+thaumicaugmentation.text.energy_strong=§a强
+thaumicaugmentation.text.energy_max=§2满
+thaumicaugmentation.text.entered_void=您已造访空旷的虚域.
+thaumicaugmentation.text.stored_seal=印记: %s
+thaumicaugmentation.text.strength_provider_any=任意调整器
+thaumicaugmentation.text.effect_provider_any=任意增效水晶
+thaumicaugmentation.text.impetus_link_same_pos=牵引能力已禁用
+thaumicaugmentation.text.impetus_link_limit_in=目标节点已有太多输入
+thaumicaugmentation.text.impetus_link_limit_out=源节点已经有太多输出
+thaumicaugmentation.text.impetus_link_too_far=源节点和目标节点距离太远
+thaumicaugmentation.text.impetus_link_blocked=源节点和目标节点之间存在障碍
+thaumicaugmentation.text.mirror_already_linked=此镜已建立有效链接
+thaumicaugmentation.text.mirror_link=连接至 %s 维度的 %d, %d, %d .
+thaumicaugmentation.text.selected_biome=生物群系: %s
+thaumicaugmentation.text.biome_empty=无
+thaumicaugmentation.text.biome_reset=
+thaumicaugmentation.text.terraformer_radius=Radius
+thaumicaugmentation.text.terraformer_circle_mode=Shape
+thaumicaugmentation.text.terraformer_circle=Circle
+thaumicaugmentation.text.terraformer_square=Square
+thaumicaugmentation.text.drawing_disabled=Drawing Ability Disabled
+thaumicaugmentation.text.network_kick=Kicked for protocol violation
+thaumicaugmentation.text.entity.eldritch_warden=%s the %s
+thaumicaugmentation.text.creative_only=仅限创造模式
+thaumicaugmentation.text.eldritch_lock_key_lore=这看起来似乎是开启某个巨锁的钥匙...
+thaumicaugmentation.text.eldritch_lock_type=解锁: %s
+thaumicaugmentation.text.impetus=元动能量
+thaumicaugmentation.text.levitate=您对悬浮的认识更上一层楼.
+thaumicaugmentation.text.entity.eldritch_golem=%s %s
+thaumicaugmentation.text.research_notes_use=您似乎无法完整破译该文本. 或许魔导透镜能有所帮助?
+thaumicaugmentation.text.research_notes_eldritch=这远古文字晦涩难懂,但字里行间暗藏玄机 ...
+thaumicaugmentation.text.entity.eldritch_guardian_mb=邪术典狱官
+thaumicaugmentation.text.impetus_damage=您已感受异域You have felt the otherworldly shock of Impetus.
+thaumicaugmentation.text.mountain=您已造访了山峦.
+thaumicaugmentation.text.desert=您已造访了荒漠.
+thaumicaugmentation.text.ocean=您已造访了远洋.
+thaumicaugmentation.text.forest=您已造访了森林.
+thaumicaugmentation.text.long_time_in_water=您已对深潜了如指掌.
+thaumicaugmentation.text.entered_spire=您发现了 %s.
+thaumicaugmentation.text.boss_room_spire=您发现了方尖碑的核心.
+
+thaumicaugmentation.text.damage.impetus=%s was annihilated
+thaumicaugmentation.text.damage.impetus_attack=%s was annihilated by %s
+
+thaumicaugmentation.text.config.general=General
+thaumicaugmentation.text.config.gameplay=Gameplay
+thaumicaugmentation.text.config.world=World
+thaumicaugmentation.text.config.client=Client
+thaumicaugmentation.text.config.ward=Ward Focus and Blocks
+thaumicaugmentation.text.config.impetus=元动
+thaumicaugmentation.text.config.impulse_cannon=元动加农炮
+
+champion.mod.bold=无畏的
+champion.mod.spine=带有芒刺的
+champion.mod.armor=全副武装的
+champion.mod.mighty=强壮的
+champion.mod.grim=残忍的
+champion.mod.warded=坚不可摧的
+champion.mod.warp=扭曲的
+champion.mod.undying=不朽的
+champion.mod.fiery=暴躁的
+champion.mod.sickly=羸弱的
+champion.mod.venomous=剧毒的
+champion.mod.vampiric=噬魂(吸血)的
+champion.mod.infested=疫病横行的
+champion.mod.tainted=污染的
+
+thaumicaugmentation.gui.redstone=启用红石控制
+
+thaumicaugmentation.command.subcommands=[神秘进阶] 可用子命令:
+thaumicaugmentation.command.not_entity=You must provide a location as you are not an entity in the world
+thaumicaugmentation.command.invalid_arg=无效参数
+thaumicaugmentation.command.chunk_not_generated=目标区块未生成
+thaumicaugmentation.command.dim_unloaded=该维度未加载
+thaumicaugmentation.command.invalid_command=无效子命令
+thaumicaugmentation.command.fixaura.usage=thaumicaugmentation fixaura [区块坐标X] [区块坐标Z] [维度] [force]
+thaumicaugmentation.command.fixaura.aura_regen=Aura in chunk is null, starting regeneration...
+thaumicaugmentation.command.fixaura.aura_regen_done=Aura regeneration complete
+thaumicaugmentation.command.fixaura.aura_ok=The aura in this chunk appears to be OK, use the force option to regenerate anyway
+thaumicaugmentation.command.fixaura.warn_daylight=WARNING: The doDaylightCycle gamerule seems to be disabled - this is required for the Aura to regenerate and spread to adjacent chunks!
+thaumicaugmentation.command.fixaura.warn_rng_failed=WARNING: The internal RNG did not produce the expected values. The aura will still be regenerated, but it may not match the aura generated by the initial world generation.
+thaumicaugmentation.command.makefracture.usage=thaumicaugmentation makefracture <x1> <y1> <z1> [维度1] <x2> <y2> <z2> [维度2]
+thaumicaugmentation.command.makefracture.done=Fractures created
+thaumicaugmentation.command.ward.usage=thaumicaugmentation ward <clear> [x] [z] [维度]
+thaumicaugmentation.command.ward.cleared=All wards in the chunk were cleared successfully
+thaumicaugmentation.command.ward.not_server=The ward implementation in the chunk is not for the server side, this should never happen!
+
+thaumicaugmentation.subtitle.spooky=诡异的噪声
+thaumicaugmentation.subtitle.spooky_wind=狂风呼啸
+thaumicaugmentation.subtitle.rift_energy_zap=元始能量波动
+thaumicaugmentation.subtitle.focus_water_impact=水花
+thaumicaugmentation.subtitle.rift_mover_input_loop=Metaspatial Accumulator hums
+thaumicaugmentation.subtitle.rift_mover_output_loop=裂隙释放仪 hums
+thaumicaugmentation.subtitle.altar_summon_start=Otherworldly noises
+thaumicaugmentation.subtitle.altar_summon=Otherworldly boom
+thaumicaugmentation.subtitle.booster_start=Impetus Thruster turns on
+thaumicaugmentation.subtitle.booster_end=Impetus Thruster turns off
+thaumicaugmentation.subtitle.booster_loop=Impetus Thruster runs
+thaumicaugmentation.subtitle.impulse_cannon_beam_start=Impulse Cannon turns on
+thaumicaugmentation.subtitle.impulse_cannon_beam_end=Impulse Cannon turns off
+thaumicaugmentation.subtitle.impulse_cannon_beam_loop=Impulse Cannon beam hums
+thaumicaugmentation.subtitle.impulse_cannon_burst=Impulse Cannon fires burst
+thaumicaugmentation.subtitle.impulse_cannon_railgun=Impulse Cannon fires railgun shot
+
+focus.thaumicaugmentation.light.name=光源
+focus.thaumicaugmentation.light.text=在目标位置生成可破坏的永恒光源.
+focus.thaumicaugmentation.light.intensity=亮度
+focus.thaumicaugmentation.ward.name=守护
+focus.thaumicaugmentation.ward.text=使大部分方块变得极其坚固，基本免疫挖掘、爆炸和火焰的影响。
+focus.thaumicaugmentation.shield.name=守护屏障
+focus.thaumicaugmentation.shield.text=消耗元动能量在目标实体前方制造一种可以抵御攻击的屏障.
+focus.thaumicaugmentation.shield.health=生命值
+focus.thaumicaugmentation.shield.reflect=反弹弹射物
+focus.thaumicaugmentation.shield.reflect_no=否
+focus.thaumicaugmentation.shield.reflect_yes=是
+focus.thaumicaugmentation.water.name=坎水
+focus.thaumicaugmentation.water.text=召唤能熄灭火焰和滋润耕地的坎水冲击波,并附赠微量伤害.
+
+#研究
+
+thaumicaugmentation.research.card.rift_jar.title=缸中裂隙
+thaumicaugmentation.research.card.rift_jar.text=当你凝视着缸中的缓缓漂浮的裂隙，你获得了些许启迪，或许结合多个方面的知识可以把跨过曾经不可逾越的障碍。在3个随机分支获得随机数量的进展，额外的2个分支完成后将全部获得奖励。
+
+thaumicaugmentation.research.card.rift_monitor.title=裂隙屈光仪
+thaumicaugmentation.research.card.rift_monitor.text=裂隙屈光仪动态的全息投影允许你更加精准的研究邪术。获得20-40邪术学进展，不会获得扭曲值。
+
+tc.research_category.THAUMIC_AUGMENTATION=神秘进阶
+thaumicaugmentation.research.thaumic_augmentation_base.title=神秘进阶
+thaumicaugmentation.research.thaumic_augmentation_base.0=我将把魔导手册的这一部分用于记载我的各种发现 谁知道我会产生奇思妙想呢？
+
+thaumicaugmentation.research.gauntlet_thaumium.title=神秘法师护手
+thaumicaugmentation.research.gauntlet_thaumium.0=如我之前所注意到的那样，铁是不良的Vis导体。它仅能发挥导体的基本作用。但现在，既然我已经发现了神秘锭，那么升级旧的法师护手原型以使其比以往更加高效，应该是一个简单的任务。<BR>在我改进法师护手的时候，我不妨顺便研究一下魔力布匹作为皮革替代品的可行性。
+thaumicaugmentation.research.gauntlet_thaumium.1=我已经成功制造出了新的法师护手，我（毫无创意地）将其称为“神秘法师护手”。神秘锭的引入使得Vis的利用率提高了10%，同时稍微减少了施法之间的冷却时间。<BR>魔力布匹似乎很容易上色——我只需要在工作台上将法师护手与一个或更多的染料混合在一起，就能获得一个具有崭新色彩的神秘法师护手。如果想要移除染料，只需对着一个装满水的普通炼药锅使用法师护手即可。
+
+thaumicaugmentation.research.gauntlet_void.title=虚空预言者法师护手
+thaumicaugmentation.research.gauntlet_void.0=我在制造神秘法师护手时取得了成功，这使我不禁想知道虚空金属是否如神秘锭一样，是种良好的Vis导体。即便它不是，我也很难相信它的形态特性毫无益处。
+thaumicaugmentation.research.gauntlet_void.1=目前为止，我的研究结果意外地令人失望。我看到施法时消耗的Vis有所减少，但并不足以胜过神秘锭更快的充能速率。<BR>也许我尝试改进时所使用的部件是错误的......
+thaumicaugmentation.research.gauntlet_void.2=看来我先前的猜想已经被证明是正确的。将魔力谐振器替换为虚空预言者的珍珠后，我能感觉到护手与周围灵气场的联系变得更加紧密。事实上，这联系无比紧密，使得如今的护手比起我的法师护手原型有了30%的Vis减免，还能吸收更大范围内的Vis。希望这意味着我能够在使用复杂的法术时，不像以前那样过于快速地耗尽周边的灵气。<BR>看起来这个护手虽然在灵气减免方面胜过了原来的法具，但神秘护手在冷却方面仍更胜一筹。我不得不在更少的Vis消耗和更短的冷却时间之间做出选择，判断哪一个对我而言更有价值。幸运的是，虚空预言者法师护手仍然保持着其前身的染色能力。染料的使用和移除方法与神秘护手相同。
+
+thaumicaugmentation.research.vis_regenerator.title=灵气再生器
+thaumicaugmentation.research.vis_regenerator.0=根据我过去的经验，一次高级奥术合成或复杂施法会使附近的灵气消耗殆尽。我应该试着寻找方法来帮助灵气场自我恢复，以使其比自然恢复速度更快。
+thaumicaugmentation.research.vis_regenerator.1=我计划制造一种装置，我将其称为灵气再生器。它包含一个由银树树叶和源质滤管制成的栅格，以及一个试图通过栅格“再循环”灵气的外壳。<BR>这个设备有一个有趣的特点，其效能似乎与区域内灵气的总容量有关。换句话说，自然生成的Vis总含量低的区域会有更高的再生速度。<BR>如果我出于某种原因需要关闭灵气再生器的话，为它提供红石信号应该就能达到效果。
+thaumicaugmentation.research.vis_regenerator.2=鉴于灵气再生器和区域内灵气场间微妙的关系，我应该避免在充满咒波的区域使用它。我有种预感，它会让灵气场的污染更加严重......
+
+thaumicaugmentation.research.seal_copier.title=印记拓印器
+thaumicaugmentation.research.seal_copier.0=对于小型的工程来说，手动配置操控印记是个不错的选择，但是一旦涉及到成堆的印记，这种方法就会变得乏味且容易出错。我应该研究一种用于快速配置大量的印记的方法。
+thaumicaugmentation.research.seal_copier.1=我计划制造一种基础的印记拓印装置。我只需要按我所需配置好一个印记，然后用印记拓印器右键单击它，即可复制该印记的设置。接下来我只需要右击其它要应用该设置的印记，便可以快速完成配置。如果我想清除拓印器所记忆的印记设置，我只需在潜行时右键单击，然后我便可以继续复制新的设置。<BR>看起来我的印记拓印器无法与其他人的印记进行交互。如果我要与其他神秘使合作，我应该牢记这一点。
+
+
+thaumicaugmentation.research.seal_secure.title=操控印记：治安
+thaumicaugmentation.research.seal_secure.0=虽然我已经创造了能使傀儡保护特定区域的操控印记，但我感觉这不足以完整地发挥战斗傀儡的能力。事实上，使用守卫印记来让傀儡保护小范围区域是件微不足道的事情，真正具有挑战性的任务是驱使傀儡攻击它们所看见的任何怪物。
+thaumicaugmentation.research.seal_secure.1=在简单的调整后，守卫印记已经变成了治安印记。这个印记会驱使有战斗能力的傀儡攻击它们所看到的处于执行区域内的任何威胁，而不是小范围内存在的威胁。与大多数其它的印记不同，治安印记的作用范围是不可调整的——治安印记会使附近的傀儡攻击任何侵入印记周围固定范围的生物（但作用范围要比一般的印记大得多）。然而，这意味着我应该格外小心，确保傀儡不会攻击任何不应该攻击的生物，因为此类意外事故会导致令人不快的后果。
+thaumicaugmentation.research.seal_secure.2=我现在可以制造这个印记的高级版本。高级版本的印记使我能更好地控制拥有神秘生物学之心的傀儡，决定它们会攻击什么生物，以及它们是否应该只关注自己视线内的目标。
+
+thaumicaugmentation.research.more_auromancy.title=进一步的神秘学研究
+thaumicaugmentation.research.more_auromancy.0=我已经发现了许多元素核心的效果，但我觉得还有更多值得探索的东西。考虑到我尚未对许多源质要素进行过试验，我肯定能从中找到一些有用的成果。
+
+thaumicaugmentation.research.focus_light.title=核心效果：光源
+thaumicaugmentation.research.focus_light.0=虽然火焰确实能发光，但它们有点......容易造成破坏。创造一种完全用于发光的核心效果应该是很简单的一件事。首先，我需要检验一下我能设法获得的光源。
+thaumicaugmentation.research.focus_light.1=这种光的形式正是我所需要的——它能创造出明亮的光源，无论在任何地方使用都是如此。被创造出的光源甚至可以永远持续发光——这意味着如果我愿意的话，我能用它永久照明。<BR>我相当好奇一个生物暴露在这种形式的光的照射中会发生些什么。
+
+thaumicaugmentation.research.warded_arcana.title=守护奥术
+thaumicaugmentation.research.warded_arcana.0=在浏览魔导手册中的一些旧手稿时，我偶然看到一部分内容描述了守护奥术的相关应用。创造某种物体，使其能抵挡所有外来的破坏，仅对其主人开放，这听起来像是我该研究的东西。我应该从已有的被守护的设备开始展开研究，比如说源质罐子。
+thaumicaugmentation.research.warded_arcana.1=我的检验表明，源质罐子提供了我所需要知道的一切——我只需对物体附加特殊的符文，然后基本上所有的材料都应该能获得这种保护性的特质。虽然我一想到其广阔的应用前景就感到兴奋，但我首先应该对一些简单的物品开始着手进行改造——比如说一个箱子。
+thaumicaugmentation.research.warded_arcana.2=通过对普通的箱子附加守护印记后，我创造了一个特殊的容器，它不仅能够免受所有外来力量的破坏，还只能由我来使用。这意味着我无法通过传统的方式来导出或输入物品，比如漏斗和傀儡——这可能是我未来要深入研究的内容。<BR>如果我想要移除箱子的话，我需要潜行然后使用任意的法师护手右键点击它。
+
+thaumicaugmentation.research.arcane_door.title=奥能之扉
+thaumicaugmentation.research.arcane_door.0=现在我已经掌握了守护奥术的基本知识，我觉得可以进一步研究更高级的东西了。先前我阅读的原稿描述了一种坚不可摧的门，这听起来像是某种值得研究的东西。毕竟时不时地要更换被僵尸破坏的门是一件令人苦恼的事情......
+thaumicaugmentation.research.arcane_door.1=我设法制造了手稿中所描述的这种门，并将其称为奥能之扉。就像被守护的箱子一样，奥能之扉只能由其建造者开启，并且尝试使用一般方法移除它将极其困难。我还制作了三种不同类型的奥能之扉——宏伟之木奥能之扉，银树奥能之扉，以及神秘奥能之扉。它们的功能相同，但出于装饰用途，能够有所选择还是很不错的一件事。<BR>如果我想移除奥能之扉，我需要潜行然后对它的下半部分使用法师护手。<BR>看起来这种门在某种意义上来说非常“智能”，当两扇门放在一起时它们会同时开启或是关闭。相当方便。<BR>我还制造了奥能之扉的活板门形式。它们的工作方式与奥能之扉完全相同，只不过外形更小，且没有那么“智能”。
+
+thaumicaugmentation.research.ward_keys.title=访问权限
+thaumicaugmentation.research.ward_keys.0=能够拥有私人物品是一件很美好的事，但有时我需要和我的神秘使伙伴分享我的物品。我应该设计一种方法来选择性地授予访问权限。
+thaumicaugmentation.research.ward_keys.1=我已经制造了一种物品，可向他人分享守卫者系列物品的权限——那便是钥匙。但注意，这可不是普通的钥匙，因为它们能够记住与其绑定的人。这足以使其通过守护印记的保护，为被绑定人提供与其相匹配的物品的访问权限。每种钥匙的工作方式都略有不同——我把它们的使用说明写在接下来的几页，以备不时之需。<PAGE>铁钥匙<DIV><IMG>thaumicaugmentation:textures/items/key_iron.png:0:0:255:255:0.125</IMG>铁钥匙是三种钥匙中最简单的一种。要将一个人与我的被守护物品绑定，我需要手持钥匙右击空气（不需要对任何方块使用）。然后，任何拥有钥匙的人都会获得访问被守护的箱子中物品的权限。要将钥匙解除绑定，我只需在潜行时使用钥匙<PAGE>黄铜钥匙<DIV><IMG>thaumicaugmentation:textures/items/key_brass.png:0:0:255:255:0.125</IMG>黄铜钥匙的功能与铁钥匙类似——使用时绑定，潜行时使用以解除绑定。然而，黄铜钥匙拥有更高的权限，能够将它的绑定信息复制到铁钥匙上。要做到这一点，需要把黄铜钥匙和未绑定的铁钥匙放在普通的工作台中进行合成。黄铜钥匙在这一过程中不会被消耗。复制神秘钥匙绑定信息的相关内容将在下一部分介绍。<PAGE>神秘钥匙<DIV><IMG>thaumicaugmentation:textures/items/key_thaumium.png:0:0:255:255:0.125</IMG>神秘钥匙的有趣之处在于它不仅能绑定到生物——它还能与物体和其所在位置绑定。换言之，神秘钥匙允许绑定某位置的单个受保护的物体。要绑定神秘钥匙，我需要对被守护的物体使用它。即使把物体移动到了另一个位置，神秘钥匙的绑定依然有效，但前提是它与之前所绑定的对象是匹配的。和其它的钥匙一样，潜行时使用钥匙可以解除绑定。要复制一把绑定信息相同的神秘钥匙，我需要将已绑定的神秘钥匙和另一把未绑定的神秘钥匙以及绑定信息和神秘钥匙相同的一把黄铜钥匙放到普通的工作台中进行合成。
+
+thaumicaugmentation.research.boots_void.title=裂隙行者之靴
+thaumicaugmentation.research.boots_void.0=借助虚空金属，我可以升级我现有的大部分装备，以便利用虚空金属卓越的品质。不过对我来说，把这种材料用到旅行者之靴上才是最有意义的。
+thaumicaugmentation.research.boots_void.1=我已经成功地将旅行者之靴升级成了更高级的形式，我称之为裂隙行者之靴。裂隙行者之靴的速度和跳跃高度加成比起原来的旅行者之靴都有了明显的提升（代价是略微增加的Vis消耗），同时也具有虚空金属制品的自我修复能力。最值得注意的是，穿着裂隙行者之靴后摔落伤害会大幅降低，远超这双靴子所能及的最大跳跃高度所能造成的伤害——我几乎可以纵身跃入沟壑之中，然后毫发无伤地离开。<BR>裂隙行者之靴也可以被染色。我只需要将其与染料合成即可获得不同颜色的靴子，也可以使用装满水的普通炼药锅洗去颜色。
+
+thaumicaugmentation.research.rift_studies.title=裂隙研究
+thaumicaugmentation.research.rift_studies.0=我认为咒波裂隙对我的研究比表面上看起来要重要得多。当裂隙因过量的咒波而创生之际，它们连接虚空并打开了虚空之门。我确信它们包含着某种秘密，用以打开前往新领域的裂隙，而那些新领域比起这个世界，或许更加......充满热情。<BR>然而，目前研究咒波裂隙需要我将咒波充满灵气场。如果将所有咒波储存到一个小巧的“种子”之中，然后将其释放到目标区域，比起选择其它各类会导致麻烦的方式或许会好得多。我应该研究将大量咒波压缩进狭小空间中的方法。
+thaumicaugmentation.research.rift_studies.1=通过将大量的Vitium源质集中到一个虚空种子之中，其产生的咒波不久就会被吸收到灵气场之内，几乎肯定能产生一个裂隙。我应该非常小心地对待这些咒波种子——“种植”它们会瞬间释放其中所储存的咒波，同时消耗掉种子。<BR>看起来将种子中的源质种类严格限制为只有Vitium时，每单位的源质能产生更多的咒波，比起将它们随意地倾泻到灵气场中要高效得多。如果我想利用这种现象来制造更大的裂隙，那么我应该将更多的Vitium源质注入更小的咒波种子中。然而，随着Vitium源质量的增加，注魔风险也会上升，并且出于安全起见，我应该仅能对给定的咒波种子使用一次注魔。
+
+thaumicaugmentation.research.gauntlet_augmentation.title=法师护手增强
+thaumicaugmentation.research.gauntlet_augmentation.0=虽然制造出像神秘护手一样的升级版法师护手是一件了不起的事，但目前我还无法想出关于新护手的设计。也许我应该花点时间考虑一下尝试改进现有设计的方法。这也为我提供了一个机会，我得以开始思考能否构建一个模块化程度足够高的系统用于升级护手，以便我在取得新的研究进展时无需频繁地更换法师护手。
+thaumicaugmentation.research.gauntlet_augmentation.1=我已经想到了一些初步的方案，以建立一个使施术核心更加高效的系统。所需的第一个组件是一种“调整器”，用于为施法者提供额外的能量。然而，我需要某种过滤装置来实际利用这些额外的能量——我想我可以用类似制造核心的方法来制造它。由于这些物品是法师护手既存机制的附加品，我确信我应该把它们叫做“增强器”。<BR>虽然我想应用各种调整器来作为这些增效水晶的能量提供者，但我应该从一些简单的东西开始。到目前为止，我所制造的法师护手都是借助魔力谐振器与灵气场相连接。也许我能制造一种谐振器专门针对某种特定的源质要素发挥作用，而非与整个谱系中的要素都发生共振。<BR>这种新的元素谐振器调整器应该能使护手更高效地利用源质中的单个要素，使得与其使用相同要素的施术核心能更有效地发挥作用。根据我所决定使用的核心水晶，以下三种特性的其中之一会受到影响：核心能量、施法速度或Vis效能。然而，由于这种方法“放大”了要素的能力，所以这一处理方式只可能为每个法师护手提供一种要素的加成。但我仍然为此感到振奋，因为我建立了模块化的增强体系，并亲眼见证了我所发明的全新的增强系统在付诸实践时是何其有效。<BR>为了实际建造这种增强装置，我需要合成一个元素谐振器（工作方式与调整器相同）并将其与任意增效水晶在工作台中合成。遗憾的是，一旦组合完成，就无法重新把它们分开了。虽然在我草拟的计划中，我使用了Ordo水晶和核心能量增效水晶作为例子，但我应该能够使用任意魔法水晶和增效水晶的组合，其种类取决于我想让哪种要素和特性变得更加强力。
+thaumicaugmentation.research.gauntlet_augmentation.2=正如我所想的那样，我已经能够分毫不差地制造出最终的谐振器成品。然而我在施法时遇上了未曾预料的问题，虽然单个要素会效果更强，但一种或多种其它要素的效用却会因谐振器的存在而受到负面影响。在使用不同要素的元素谐振器时，受影响的要素似乎各不相同。我应该测试我打算使用的各种要素，以确保我想使用的核心不会受到负面影响。<BR>我能将元素谐振器（或是任意完整的将其作为调整器的增强器）和任意魔力水晶放置在工作台中合成以替换其内含的水晶。我也可以借此取回旧的水晶。<BR>至于增强系统本身，我已经将其设计的相当模块化。如我之前所记录的那样，每种增强器都由一个调整器（如元素谐振器）和一个增效水晶（三种核心水晶的其中之一：核心能量，施法速度，Vis消耗）组成，在普通的工作台中组合并合成即可获得。为了将增强器应用于一个装置，我只需要将它和需要增强的物品（目前主要是我的法师护手）通过任意一种合成格位来合成。虽然看起来这些法师护手应该可以支持至少3个增强器而不出问题，但将多个使用相同类型的调整器的增强器（要素类型不同的元素谐振器也被视为相同类型的调整器）也是不可能的。如果我出于某种原因要移除一个增强器，将护手单独放到合成格位中分解即可移除最后添加的一个增强器。这使得无限次地移除和添加增强器成为可能。<BR>遗憾的是，我无法让最初的法师护手支持我的增强系统。它所使用的材料看起来过于脆弱，无法承受增强器所带来的额外压力。算了，反正它只是个原型而已。
+
+thaumicaugmentation.research.dimensional_modifiers.title=维度调整器
+thaumicaugmentation.research.dimensional_modifiers.0=我已经制造了元素谐振器，它可以通过对核心要素的内在刺激产生反应来增强施法效果。与此同时，我设想应该也能够使用某些物品来制作对外来刺激产生反应的调整器。其中最简单的就是构成我所能访问的维度的普通材料。我应该研究各维度的一些材料样本，看看我能否使用它们来达成这个目的，并且找到一种方法制作新的调整器，使得我身处该调整器的材料所来源的维度时，核心施术效果能有所增强。
+thaumicaugmentation.research.dimensional_modifiers.1=我已经制造了三种不同的维度调整器，它们分别在主世界、下界和末地会对外界刺激积极地发生反应。维度调整器本身的工作原理是使用了一种晶体结构，它在处于制成晶体的材料所来源的维度时，就会与维度建立连接并发生共振。在所有维度调整器都能带来助益的同时，下界调整器的增益效果似乎比主世界调整器的更强，而末地调整器的增益效果更是强过这二者。我不太清楚为什么会有这种情况，尤其是考虑到下界和末地的Vis水平通常比主世界要低，按理来说情况应该相反才对。不过我也许可以在未来的进一步研究中找到答案。或许还有别的因素在其中发挥作用。
+
+thaumicaugmentation.research.emptiness_modifier.title=调整器：虚域
+thaumicaugmentation.research.emptiness_modifier.0=现在我已经探访了虚域，我应该可以制造一种维度调整器，使得核心施法在那里能够更加有效，就像我到目前已经制造的三种相对平常的维度所对应的维度调整器一样。
+thaumicaugmentation.research.emptiness_modifier.1=有了制造之前的维度调整器的经验，为虚域再制造一个调整器是个简单的任务。我只需要直接应用先前的维度调整器制造原则，而非再次耗费虚域特有的资源来进行研究。这种调整器看起来和末地的调整器一样强大，这确实是个意外之喜。我现在的确发现了一个奇怪的巧合，即一个维度越接近虚无，其相关联的维度调整器就越强大，比如说末地和虚域这两个维度，里面几乎只有繁星闪烁的虚无中漂浮的荒芜孤岛。事实上，这可能根本就不是巧合。我担心这些维度中的邪术能量（以这些世界的材料中Alienis，Vacuos和Tenebrae要素的数量呈现）会对灵气场产生影响。我也不确定这可能导致的长期后果，但几乎可以肯定的是我日后必须对此多加关注。
+
+thaumicaugmentation.research.frenzy_modifier.title=调整器：增流
+thaumicaugmentation.research.frenzy_modifier.0=我在研究和试验调整器方面的大多数努力都集中在了被动效果上。尝试想出某种体系来在我使用法术时主动地增加我的施法能力，或许是精明之举。<BR>一般来说，Vis在法师护手中的流动必须被调整到较低速率，否则装置可能因过载而无法正常工作。但如果我使用Vis足够频繁的话，应该就可以缓慢地提高法师护手中的流量上限。这么做主要的问题是，要精确地监控Vis用量的细微差异并非什么容易的事，对于我现在可以使用的装备而言尤其如此。但假如有其它方法可以间接检测我的Vis用量呢？<BR>我已经想到了一种或许会起效的方法——在我最近对傀儡学的研究中，我制造出了一种攻击组件，用于驱使傀儡攻击其它的生物。如果我能以某种方式检测我在通过核心施法伤害某物时攻击组件中的反应，我也许可以使用它作为加速护手中Vis流动的提示信号。我应该将理论付诸实践，但我不知道这能否如我所希望的那样运作。
+thaumicaugmentation.research.frenzy_modifier.1=令人惊喜的是，利用攻击组件调控Vis流量的设想取得了成功。攻击组件在经过微小调整后就可以探测核心施术时对生物造成的伤害，并且会据此输出可测量的信号。增流调整器——我打算这么称呼它——可以逐渐地提升法师护手和其安装的核心中的Vis流量。简单来说，如果我在相对短的时间内连续对怪物或其它生物造成伤害，我的施法就会逐渐变得越来越强。如果我收起法师护手，或是在一定时间内没有使用它对任何生物造成伤害，Vis的流量将会立刻重置为自然水平。
+
+thaumicaugmentation.research.experience_modifier.title=调整器：求知
+thaumicaugmentation.research.experience_modifier.0=虽然我已经能够借助求知发带之类的物品来利用经验球中的知识，但我觉得我也许能利用经验球中所含的知识来更好地汇聚施法时所涉及的魔法能量。知识与神秘学有本质上的联系，正如充满智慧的神秘使能更好地操纵灵气场，因为他们对灵气流动的了解更为全面和深入，对操纵灵气的方式有更深层次的理解。通过研究经验和等级，我或许能找到提升施法能力的其它方法。
+thaumicaugmentation.research.experience_modifier.1=通过研究获得的关于灵气场的知识会自然地提升一个人使用灵气的能力。所以唯一合乎逻辑的解释即是日常生活中所获得的经验，无论是一般活动还是更加深奥的实践行为，都能够强化一个人的神秘学能力。基于这种观点，我设法制造了一个可用于装配增强器的调整器，用于根据我获得的经验等级来提高对Vis流的操控水平。即便是很少的经验，我也应该能看到明显的增益效果。我需要相当多的经验来充分利用这个调整器的能力——我料想智慧不会轻易地把自己被借给没有经验的人。
+
+thaumicaugmentation.research.void_stone.title=虚空岩
+thaumicaugmentation.research.void_stone.0=<IMG>thaumicaugmentation:textures/blocks/void_stone.png:0:0:255:255:0.125</IMG><BR>虚空岩这种深色的石头可以在维度裂缝的周围找到。它很容易与自身的其它部分结合，这意味着它会在遭到破坏后会重新聚集到一起。它也明显比普通的石头要软得多。
+thaumicaugmentation.research.void_stone.1=<IMG>thaumicaugmentation:textures/blocks/void_stone_soil_taint_side_0.png:0:0:255:255:0.125</IMG><BR>我将新发现的这种方块称为腐化虚空岩壤。这层腐化物出现在虚空中腐化区域的表面。尽管它仍可以相对容易地粘在一起，但有所不同的是它似乎被注入了某种古老的生物材料——与我过去遭遇过的腐化物很相似。与“正常”的腐化方块不同，它非常稳定，不会随时间推移而扩散或消亡。
+thaumicaugmentation.research.void_stone.2=<IMG>thaumicaugmentation:textures/blocks/void_stone_taint.png:0:0:255:255:0.125</IMG><BR>我将这种虚空岩的变种称为腐化虚空岩。可以在虚空的腐化之地中找到。如它所对应的土壤一样，它不会消亡或是蔓延到附近的材料上。
+
+thaumicaugmentation.research.void_stone_usage.title=量产邪术石
+thaumicaugmentation.research.void_stone_usage.0=有一件事我尚未确认，那就是在血腥仪式中提及的一种特殊类型的石头——一种极其坚固并且具有与奥术石有相似魔法性质的石头。虽然缺少关于其制造方法的细节，但血腥仪式中提到了要将紫色的石头和邪术能量混合在一起。这种紫色的石头听起来和我最近发现的虚空石十分相似——我需要亲自调查一番。
+thaumicaugmentation.research.void_stone_usage.1=虽然不知是好事还是坏事，血型教徒们又一次说对了。我能够将小块虚空石变成他们所描述的石头，我将其称为邪术石。正如仪式中所述的那样，这种石头能够承受几乎任何爆炸，并且用镐或其它工具采集它也需要花费更多的时间。
+
+thaumicaugmentation.research.rift_power.title=裂隙能量
+thaumicaugmentation.research.rift_power.0=从裂隙中汲取能量来制造虚空种子是很有用的，但我觉得我仅仅触及了裂隙能量所蕴含的潜能的表面。然而，在我能够找到这种能量的用途之前，我需要先找到将它导出为可用形式的方法。
+thaumicaugmentation.research.rift_power.1=多亏了之前进行的一些研究，我已经确定，在一个特制的存储单元中保存来自裂隙的能量是可行的。这个能量单元需要一个经过重大改造的虚空种子作为核心，用于充当能量的接收器。<BR>我想我应该给这种能量起个名字。由于裂隙能量似乎比我之前使用的Vis要不稳定得多，我认为合适的名字应该是“元动”——意味着动能和力量。<BR>现在我所需的只是一个能够提取能量的工具。我确信我能直接使用自己研发的增强系统来将某种能量提取器附加到法师护手上，而非制造专门的工具来达成这一目的。
+thaumicaugmentation.research.rift_power.2=我终于完成了钻研元动能量所需的全部制品。我所制造的装置不仅能从裂隙中提取能量，还可以较为迅速地将其释放。为了开始研究，我应该将元动能量电池安装到法师护手上。然后，我只需要站在咒波裂隙附近，它便会缓慢地将裂隙中的能量汲取到增强器中。<BR>就像虚空吸管一样，从裂隙中吸取能量会导致裂隙变得不稳定，然后开始收缩——最终归于虚无。如果我不想被迫持续制造新的咒波裂隙，我应该确保裂隙保持稳定并且有一个合适的尺寸。<BR>虽然我暂时没有其他的装置来使用元动能量，但我注意到元动能量对法师护手本身具有奇特的效果。元动能量的存在似乎会略微地增加任何核心的能量，而在这一过程中元动能量本身并不会被消耗。看起来，只要法师护手所安装的元动能量电池中储存有一些元动能量，这一现象就会持续发生——元动能量的含量似乎并不重要。
+
+research.f_STRONGPICKAXE.text=任意一种强大的挖掘工具
+research.f_FLINTANDSTEEL.text=能够生火的工具
+research.m_CREEPER.text=一种会爆炸的生物（在和平的世界中也可以用它的残骸）
+
+thaumicaugmentation.research.focus_ward_coremod.title=核心效果：守护
+thaumicaugmentation.research.focus_ward_coremod.0=如今我已成功地保护了个人物品，我想我应该研究一下如何将守护秘术应用于这个世界的任意材料。虽然我怀疑对任意给定的材料施加守护奥术并不能够达到被守护的箱子那样的强度，但任何额外的保护措施都值得研究一番。我应该试验一些常见的破坏手段，看看我能做到哪种程度。
+thaumicaugmentation.research.focus_ward_coremod.1=令人惊喜的是，我的试验结果比我预期的要好——我已经研制出了一种核心效果，能够保护这个世界中所放置的任何简单材料。所谓的“简单材料”包括像石头和泥土这种惰性的、无特殊性质的物体。遗憾的是，被守护的机器将在时间上被冻结，这意味着像红石机器这样的物体被保护后将无法正常工作。更复杂的机器则完全无法被保护。<BR>虽然我已经尽己所能来抵御不同种类的破坏，但我知道我无法保护物体免受所有类型的破坏。尽管如此，我确信被守护的方块应该能免疫挖掘破坏、普通爆炸、火焰伤害、活塞推动，甚至能让沙子和砂砾不受重力的影响。<BR>有非常多的方法来获知某物是否被这种核心效果所保护——最简单的方法就是尝试破坏它。如果被破坏的方块上出现了奥术波纹，那么它显然是受保护的。手持任意装备了守护核心的法师护手可以使我直接观察到方块周围的守护能量，在我所看向的小范围区域内被守护的方块会被给予闪光效果。闪光效果的颜色似乎和施法者有关——如果施法者是我本人，颗粒效果看起来是绿色的，如果施法者不是我，那么颗粒就是红色的。<BR>要移除一个方块上的守护奥术，我只需要重新对它使用守护核心即可。如果一个被保护的方块遭到破坏，那么守护效果也会在其所在位置消失。<BR>最后，我应该格外小心地选择要保护的对象。虽然尝试给不同对象施加守护法术会是非常有趣的一件事，但我所涉足的还是神秘术中的陌生领域。我无法保证这种法术在任何方块上都能完美运作。
+thaumicaugmentation.research.focus_ward_coremod.2=傀儡在工作时似乎会忽视被守护物体的存在。如果我发现我的傀儡在漫无目的地四处游荡，而非执行它们的任务，那么我应该确保它们所要与之互动的方块没有被保护。
+thaumicaugmentation.research.focus_ward_coremod.3=奥术钻探机看起来在面对被保护方块时足够智能，它会直接忽略掉被保护方块并采掘它所能挖掘的方块。然而，被守护的方块会阻止奥术钻探机采掘被保护方块背后的方块。如果我希望使用奥术钻探机，那么我应该确保采掘区域没有被保护的方块。
+thaumicaugmentation.research.focus_ward_coremod.4=裂隙核心效果应该不会对任何被保护方块起作用。这意味着我应该能够设立一个禁区，使得附近的其他神秘使即便发现了这种维度魔法也无法入内。
+thaumicaugmentation.research.focus_ward_coremod.5=我已经确认更替核心效果无法在被保护的方块上发挥作用。任何更替被保护方块的尝试都会完全失败，就像尝试替换不可破坏的方块一样。这样一来，即便附近有其他的神秘术研习者，我的被保护区域仍然是安全的。
+
+thaumicaugmentation.research.focus_ward_no_coremod.title=核心效果：守护
+thaumicaugmentation.research.focus_ward_no_coremod.0=如今我已成功地保护了个人物品，我想我应该研究一下将守护秘术应用于这个世界的任意材料。虽然我怀疑对任意给定的材料施加守护奥术是否能够达到被守护的箱子那样的强度，但任何额外的保护措施都值得研究一番。我应该试验一些常见的破坏手段，看看我能做到哪种程度。
+thaumicaugmentation.research.focus_ward_no_coremod.1=令人惊喜的是，我的试验结果比我预期的要好——我已经研制出了一种核心效果，能够保护这个世界中所放置的任何简单材料。所谓的“简单材料”包括像石头和泥土这种惰性的、无特殊性质的物体。遗憾的是，被守护的机器将在时间上被冻结，这意味着像红石机器这样的物体被保护后将无法正常工作。更复杂的机器则完全无法被保护。<BR>虽然我已经尽己所能来抵御不同种类的破坏，但我知道我无法保护物体免受所有类型的破坏。尽管如此，我确信被守护的方块应该能免疫挖掘破坏、普通爆炸、火焰伤害、活塞推动，甚至能让沙子和砂砾不受重力的影响。<BR>有非常多的方法来获知某物是否被这种核心效果所保护——最简单的方法就是尝试挖掘它。如果被挖掘的方块上出现了能量的波纹，那么它显然是受保护的。手持任意装备了守护核心的法师护手可以使我直接观察到方块周围的守护能量，在我所看向的小范围区域内被守护的方块会被给予闪光效果。闪光效果的颜色似乎和施法者有关——如果施法者是我本人，颗粒效果看起来是绿色的，如果施法者不是我，那么颗粒就是红色的。<BR>要移除一个方块上的守护奥术，我只需要重新对它使用守护核心即可。如果一个被保护的方块遭到破坏，那么守护效果也会在其所在位置消失。<BR>最后，我应该格外小心地选择要保护的对象。虽然尝试给不同对象施加守护法术会是非常有趣的一件事，但我所涉足的还是神秘术中的陌生领域。我无法保证这种法术在任何方块上都能完美运作。
+thaumicaugmentation.research.focus_ward_no_coremod.2=傀儡在工作时似乎会忽视被守护物体的存在。如果我发现我的傀儡在漫无目的地四处游荡，而非执行它们的任务，那么我应该确保它们所要与之互动的方块没有被保护。
+thaumicaugmentation.research.focus_ward_no_coremod.3=看起来奥术钻探机的线性机械运作方式被得到保护的方块给困住了。如果下一个要挖掘的方块是被保护的，奥术钻探机将会一直挖掘它，永不停息地进行失败的尝试。如果我想使用奥术钻探机的话，我应该确保挖掘区域内没有被保护的方块。
+thaumicaugmentation.research.focus_ward_no_coremod.4=由于裂隙核心效果会让方块移动到其他的地方，所以那些裂隙也将会在被保护的方块上产生。如果我尝试建立一个禁区，或是我周围有其他的神秘使，那么我应该牢记这一点。
+thaumicaugmentation.research.focus_ward_no_coremod.5=由于更替核心效果只是用一种方块替换某个位置上的其他方块，所以被保护的方块也能够被替换。然而，保护效果会停留在新替换的方块上。但如果附近有其他的神秘术研习者，我仍应该小心一点。
+
+
+thaumicaugmentation.research.fracture_theory.title=发现虚域
+thaumicaugmentation.research.fracture_theory.0=我一直试图确定是否有可能开启相对安全的咒波裂隙，能让我进入其中并且不会因此迅速死亡。虽然我认为自己不太可能打开一个，但我有一个新理论，即这种裂隙也许自然存在于这个世界。然而，这些现实结构之中的裂缝只能出现在特定的位置，这些地方的维度间屏障比平常的要更加薄弱。我应该制造一种能帮助我定位它们的装置。
+thaumicaugmentation.research.fracture_theory.1=我计划制作一种新的装置，这种装置应该能引领我找到维度裂缝。通过将Vacuos魔力水晶和一些稀土混合，水晶能对外界的同类要素发生强烈的反应——而Vacuos恰恰是虚空之中所产生的要素。我还需要使用如黄铜一样的普通材料制成外壳，因为使用神秘锭或虚空金属或许会导致装置反应过于灵敏，以致无法获得准确的读数。<BR>一旦合成完毕，如果我面向裂缝，装置中的水晶将会发光。光的亮度越高，就说明我越接近正确的方向。遗憾的是，裂缝定位器的探测范围看起来有限的。我无法给出定位器探测半径的准确数据，但一些快速测试表明，其Vacuos要素探测能力在一定范围外会急剧下降，这个范围的半径大致是视野中地平线与地面相交的距离。<BR>我的计算似乎表明这些裂缝所导向的空间被大幅压缩了，就如同下界一样。或许当我在主世界寻找裂缝出现困难时，我应该去下界查看一下。
+
+thaumicaugmentation.research.entering_fracture.title=踏入虚域
+thaumicaugmentation.research.entering_fracture.0=现在我完全确定维度裂缝是存在的，并且会通向某个地方。我应该寻找并扫描其中的一个裂缝以确定我的下一步行动计划。
+
+research.m_DIMENSIONALFRACTURE.text=寻找维度裂缝
+thaumicaugmentation.research.entering_fracture.1=我先前提出的关于维度裂缝自然存在的理论已经得到了证实。虽然这已经是踏入裂缝彼端虚域的关键一步，但还有一个小问题有待解决。裂缝没有完全连接到另一端。幸运的是，一场能量的爆发应该足以将裂缝撕开，使其与另一个世界充分连接——而我如今已经有能力用元动能量来达成这一条件。<BR>我所需要的只是在一个裂缝上使用已安装元动能量电池并充能完毕的法师护手，随后等待一段时间，裂缝应该就会完全开启。我不知道另一端的世界里有什么，不过维度裂缝附近的地面也许已经给了我一些提示。尽管可能存在危险，但现在回头对我来说为时已晚。
+
+research.m_ENTERVOID.text=探寻彼端所存
+thaumicaugmentation.research.entering_fracture.2=虽然我由衷地希望这个世界除了一望无际的黑暗荒原之外，能有一些更有趣的事物（显然事实并未如我所愿），但我仍然认为这片空间对我来说是很有用的。这里有大量紧密相邻的裂缝——它们所通往的区域应该彼此相距甚远，因为我在主世界甚至只是寻找一个裂缝都相当不易。除此之外，似乎许多不同的维度都通过裂缝连接此处。我也许可以看看能否利用这些裂缝来实现远距离旅行。<BR>如果以后我想打开更多的裂缝，我只需要重复我第一次到达这里时所做的事情——使用一个安装了（充能的）元动能量电池的法师护手对维度裂缝释放元动能量，然后等待数秒，直至裂缝生成。<BR>虽然这里的大多数地方看起来异常的安静，但我能看到腐化地区充满了生物。我在穿过腐化地区时应该格外小心，因为腐化生物是极度危险的。
+thaumicaugmentation.research.entering_fracture.3=由于邪术守卫的任务是守护维度间屏障最为薄弱的地方，所以我有一种预感，他们恐怕不喜欢我打开维度裂缝的举动。我应该做好万全准备，以便在打开裂缝时对付这些不速之客。
+
+thaumicaugmentation.research.morphic_tool.title=幻形工具
+thaumicaugmentation.research.morphic_tool.0=当我持续在神秘术的世界之中大胆创新之际，我发现自己制造出的装备愈发精良。与此同时，尽管我的旧装备可能在效能上不如新的发明，但我可能觉得它们的外观更适合我的个人品味。我不应该在效能和虚荣心间做出妥协——我应该尝试寻找某种方法来制造一种工具，这种工具可以具有我所喜爱的物品的外观，但同时却有另一种物品的一般属性和魔法属性。为了达到这个目的，我也许可以对元始杵的玄异性质进行更加充分的研究。
+thaumicaugmentation.research.morphic_tool.1=我发明了一种能有效地将两件物品组合到同一空间的方法。借助一颗元始珍珠和少量的Vacuos源质，我可以让两件物品存在于同一空间，但其中只有一个物品对外界观察者而言是可见的。另一件物品则为这个变形工具提供属性，例如攻击力和耐久度。在这种状态下，用于装饰的物品会保持某种虚无缥缈的状态，这意味着它不会损坏，同时无法通过任何方式与这个世界相互作用。<BR>要制造这种工具，我需要使用奥术注魔，把我想保持原有性质的物品放在中央，把装饰用途的物品放在外围的基座上（当然还需要其它必备物品）。如果我想分离这两件物品，我只需要把工具放到奥术工作台中分解——似乎分开它们所需的能量比起将它们合在一起所需的能量要少得多。<BR>如我之前所提到的，功能性的物品在通过玄异方式与装饰性物品绑定后依然有损坏的风险。而它处于混合状态时，无法通过传统的方法进行修复。不过，像虚空金属这样的材料仍然可以保持它们的再生性质。我也确信更加复杂的物品在变形工具中将会无法正常工作——虽然基本的工具即使附上了常规和注魔所得的魔咒，看起来依然表现正常，但像盔甲之类的物品却无法正常发挥作用。<BR>最后，变形工具似乎提供了轻微的绝缘效果，可以抵挡功能性物品所造成的扭曲。或许我将来应该重新审视这一现象，以确定我是否可以使其更加有效。
+
+thaumicaugmentation.research.morphic_armor.title=幻形护甲
+thaumicaugmentation.research.morphic_armor.0=幻形工具是个成功的案例,不仅是我在应用原始珍珠和虚空要素的幻形能力的突破,还是赋予我丑陋的旧装备活力的契机.尽管有了这样的进步，我仍然不能对装备使用这种魔术。我注意到把用元始之力在一件盔甲内嵌合另一件盔甲，而不让他们被强大的元始力量瓦解掉，这太复杂了。但是如果我把装备的种类限定住，那么我有把握使成品保持足够的稳定。让盔甲变得像一把剑来说太难了，但如果仅仅是让一件变得像另一件盔甲一样，也许……
+thaumicaugmentation.research.morphic_armor.1=实验的结果让我出乎意料。我知道保持稳定的一种途径是减少加持环形魔法的两件物品的差异，但是对于同种的物品来说，实际上我低估了它的作用。现在我可以说，我可以稳定的对护甲施加幻形魔法了。<BR>创建幻想护甲的注魔过程和幻形工具非常相似。注魔祭坛的中心物品是我想保留其属性的那件功能盔甲，而祭坛外围的护甲将构成新护甲的外观。与幻形工具的注魔过程不同的是，我需要在源护甲内扩展出更多的空间来容纳外观护甲（希望这个护甲足够稳定而不会塌陷破坏）因此我需要注入更多的Vacuos要素，这同时也增加了注魔的不稳定性。<BR>我这就是我要做出的一些让步了。虽然施加了幻形魔术的盔甲的外观都会按照研究记述的工作，但似乎功能盔甲的一些性质会在盔甲间相互渗透，从而影响到最终的护甲。与幻形工具不同，我仍然可以附魔和修复施加幻形魔法的盔甲，这些修改会正常的作用于功能盔甲上。这也意味着功能盔甲一旦被损坏，其内部的装饰盔甲也会一并瓦解。我想我应该注意它的耐久值，确保我最后不会一无所有。我可以通过放置在工作台上对施加幻形魔法的盔甲进行分解。这将是挽救我濒临破坏护甲的最后一招。<BR>最后，幻形工具的扭曲绝缘效果在幻形盔甲中无法运转。这是不幸的。因为一些功能盔甲可能附加相当数量的扭曲值。但是考虑到功能盔甲的其他性质也可以渗透到外观护甲当中，这还算是意料当中的事。
+
+thaumicaugmentation.research.primal_cutter.title=元始刃
+thaumicaugmentation.research.primal_cutter.0=元始杵已经被证明是一种非常好用的工具，毕竟它本质上相当于四种工具的集合。令人遗憾的是，元始杵本身在特定方面依然有其局限性。具体来说，由于它十分笨重，且在挥舞时举起它需要花费不少时间，所以它并不适合作为武器使用。然而对我来说，将其形态不稳定性的原理用于制作不同的一套工具应该是可行的......比如说，一套切割用具？
+thaumicaugmentation.research.primal_cutter.1=我的理论是正确的，并且我据此准备制造一件新武器：元始刃。如它的前身一样，它事实上是四种形态不稳定的工具的集合，它们之间的波动太过迅速，以致整体看起来就像是一件工具。<BR>这种工具和元始杵的主要区别是它的结构中使用的工具种类不同，确切来说，元始刃更像是斧和剑的结合体。它比元始杵更轻，因此我能够迅速地挥舞它，这让我能够用强力的切割攻击撕碎我的敌人。<BR>这件武器不仅保留了风雷剑的弧光魔咒和奔流斧的收集魔咒，还有两个额外的独特能力。两者中比较简单的是强大的削弱能力——比虚空剑还要强。元始刃所获得的另一个更加有趣的能力，则是在长按右键连续使用该武器时会将物品和生物向我拉近。在我能想到这个新能力的多种用途的同时，我必须小心——被拖动的实体能快速向我靠近，而且在使用该能力时武器会消耗额外的耐久。<BR>通过将这件武器放入合成格位中操作，可以开关这项能力。当我想在副手使用其他的工具或物品时，这也许会派上用场。<BR>尽管两者功能迥异，元始刃仍然与元始杵有一些相同的性质。除了像所有的虚空金属材料一样可以不断地再生之外，元始刃也具备了元始杵那不安的天性。当被拿在手中一段时间后，它会因虚空金属那微不可察的形状变换而微微颤抖。不过这并不妨碍我使用它，因为它是如此趁手的一件武器，令人难忘。<BR>因此我绝不会忘记它。
+
+thaumicaugmentation.research.harness_base.title=神秘使的飞行梦
+thaumicaugmentation.research.harness_base.0=自由翱翔于天际是许多神秘使梦寐以求的, 尽管从悬崖上跳下可以直接向下“飞行”，但是同时朝别的五个方向飞不是更好吗？毕竟，我们都向往降落后拥有完整的腿。<BR>虽然在神秘学中用风力引导的任何形式的飞行研究都没有特别大的进展。但在此期间，我仍有一些事情必须做。我知道我必须将飞行装置安装在一个可穿戴的装备上，除非我想让我的造物在没有载人的情况下飞向平流层。
+thaumicaugmentation.research.harness_base.1=我设计了一种相对简单舒适的带扣背带,含有特别针对不同神秘部件的插件槽.然而以它目前的形式穿戴他是没有意义的，因为这就像一张空白的画布等待绘制，也就是说任何飞行装置都还没有被设计出来。.<BR>随着研究的深入, 我只能设想那种飞行方式更为适宜。 我必须小心的实验，以免自己在那个山谷中成为一个微微凹陷的陨石坑。
+
+thaumicaugmentation.research.thaumostatic_harness.title=奥法缰绳
+thaumicaugmentation.research.thaumostatic_harness.0=我最近发明的奥术悬浮台提供了我一种非常有限的基于悬浮的飞行形式。但是自从我完成了我的这项设计之后，我一直在考虑有没有将其便携化的方法，以让我在任何地方自由的悬浮，一些浅显的测试表明：这是可能的，但是实现这个构想却很不容易<BR>我需要进一步研究悬浮的机理，以及适当控制vis来产生稳定悬浮力的方法。因此我亟需获得一些有关飞行的资料。在实验中我必须采取措施，来保证我在实践的飞行过程中不会因为意外的坠落而突然中止。我相信在什么地方可以获得这样的资料，……我听说有一种生物的攻击可以让猎物悬浮起来。我要找到它。
+research.m_LEVITATE.text=在外部力量的帮助下漂浮
+thaumicaugmentation.research.thaumostatic_harness.1=悬浮飞行的奥秘已经被揭示，我现在完成了一个称之为奥法缰绳的装置<BR>。该装置通过储存的Vis将自己锚定在灵气场上，而灵气场本质上是和周围环境牢牢绑定的。这使我在有充足Vis的情况下，摆脱重力的束缚。当然，我必须佩戴着这样一台设备才行。<BR>要使用奥法缰绳，我只需要跳跃2次就可以起飞。在空中关闭它的时候我也只需跳跃2下，就可以稳稳地落在地上。考虑到存贮的vis总量，我应该可以连续飞行几分钟。但是当奥法缰绳正在运行的时候，我不能对他进行充能，这意味着我需要降落或者脱下缰绳来重新充能。
+
+thaumicaugmentation.research.thaumostatic_gyroscope.title=回转稳定腰带
+thaumicaugmentation.research.thaumostatic_gyroscope.0=用奥术飞行有点容易飘移。当我停止移动时，我会滑行一小段路。虽然这是一个小问题，但是在精准操作的时候这会让我感觉困扰。<BR>设计一个改善这种情况的升级应该不会太难，我可能需要附加一个额外的装置来稳定飞行路径。
+thaumicaugmentation.research.thaumostatic_gyroscope.1=这种针对奥法缰绳的增强极大的稳定了飞行，当我停止移动时，再也不会飘移。这种回转稳定器调节了缰绳的动力输出，确保我可以随时稳稳的停下。就像其他的增强组件，运用这种升级的方法就是把它和奥法缰绳放入工作台进行合成。同时把升级过的腰带放入合成台则可以移除升级。<BR>不幸的是，稳定飞行是有代价的，要求快速制动限制了缰绳达到的最大速度，但是对于建筑师来说这可能不会带来什么困扰。此外稳定飞行还限制了Vis的缓存容量，Vis的缓存会因此降低25%。不过事实上因为缰绳速度的降低，vis的消耗也降低了，因此在实践中没有多少危害。
+
+thaumicaugmentation.research.thaumostatic_girdle.title=奥法腰带
+thaumicaugmentation.research.thaumostatic_girdle.0=虽然悬浮飞行已经是一种很好的交通方式，但是它的飞行速度非常有限。我应该可以做进一步的调整，最大限度的提高缰绳的速度。然而，在速度和Vis消耗之间找到那微妙的平衡可能有些困难。
+thaumicaugmentation.research.thaumostatic_girdle.1=一如我的预期，我已经为奥法缰绳进行的升级，提高了飞行的最大速度，而没有产生什么负面效果。由于附加了新的组件，我可以缓存更多的vis来供给高速的魔力消耗。运用这种升级的方法就是把它和奥法缰绳放入工作台进行合成。同时把升级过的腰带放入合成台则可以移除升级。<BR>不幸的是，这也是有代价的，施加这种升级会让腰带飞行更加难以控制，这意味着我无法快速制动。从好的方面来讲，这种升级提高了Vis的缓存的25%，同时让缰绳支持冲刺，使用冲刺不会额外消耗Vis
+
+thaumicaugmentation.research.elytra_harness.title=奥法鞘翅
+thaumicaugmentation.research.elytra_harness.0=我在不同位面的旅行过程中，我发现了一个迷人的物品：一双让人以昆虫一般滑翔的翅膀。虽然它的起源还被神秘所笼罩，但据我所知，鞘翅来源于停泊在末地城外的末地船。很明显，这是一些古人创造的城市使用的交通工具，尽管他们的起源是平凡的还是神秘的，我并不清楚。这让我好奇它和这些废弃的建筑有什么关系：他是斥候们用来保护船只的吗？用强大的悬浮船对敌对城市发起战争？虽然我不认为我能揭开任何有关古建筑的秘密，但至少我还可以仔细审视这对鞘翅。<BR>这对鞘翅的特别之处在于它不能提供直接飞行，而提供一种令人惊讶的多种多样的滑翔方式，使我能够以惊人的速度挑战勇气和飞行的极限。然而鞘翅有一些缺点，首先装备鞘翅我就不能穿戴任何胸甲和长袍，此外，使用鞘翅的过程中会让鞘翅以肉眼可见的速度退化损坏，需要经常维护。当我适应了这种滑翔的方式之后，我意识到必须用奥术来改善鞘翅的弊端。
+research.m_ELYTRAFLY.text=熟悉鞘翅飞行
+thaumicaugmentation.research.elytra_harness.1=我设计了鞘翅的升级版，以我之前设计的背带为基础进行改进，我得到了奥法鞘翅。<BR>首先，奥法鞘翅只是佩戴在胸前的饰品，这意味着我不再需要再护甲和飞行之间做出艰难的抉择。尽管将鞘翅迁移到这个位置，但他的操作方式还是一如既往。在下落的一瞬间起跳，开始滑翔。其次，我对鞘翅做了许多改进来延缓了它的损坏，我用轻质金属网来构成整个翅膀的框架，虽然这样仍然不能让鞘翅变得无法损坏，但是鞘翅会在停止使用的同时被奥术逐渐修复。此外，我给翅膀本身进行加护，可以让Vis消耗代替耐久值的消耗，但是这种加护魔法仅仅只能缓存50vis，像奥法缰绳一样，奥法鞘翅在空中无法被冲能，但是在短途飞行中不会突然坠地。<BR>即使有这样的改进，奥法鞘翅在某些极端情况下还是可能在飞行中耗尽耐久，我必须仔细观察我的鞘翅，以防我突然从空中坠下。幸运的是，如果真的发生这种情况，奥法鞘翅在一段时间的自我修复之后仍能正常使用。<BR>最后，我利用这次改进为我的奥法鞘翅增添了些许个人气息：我可以用旗帜来对鞘翅的外观进行更改普通的旗帜的颜色和花纹可以应用到鞘翅上，神秘时代的旗帜也可以。为了张扬个性，旗帜的颜色也会被附加到用飞行产生的粒子效果上。<BR>这种外观也算是一种奥法鞘翅的升级——试试看也不会有坏处嘛。<BR>运用这种升级的方法就是把它和奥法鞘翅放入工作台进行合成。同时把升级过的鞘翅放入合成台则可以移除升级。
+
+thaumicaugmentation.research.elytra_booster.title=鞘翅推进器
+thaumicaugmentation.research.elytra_booster.0=不管用鞘翅滑翔是多么高效，但是它有一个主要的问题：它并不能直接飞行。他需要从一个足够高的点起跳以获取足够的动能才可以滑翔。如果我碰巧在一个平坦的区域，那我就不走运了。我像我仅仅用一些凡俗之物——一些粘性活塞建造的装置就可以解决问题，很遗憾的事那需要提前建造，而且并不便携。<BR>我还要一些点子：比如烟花火箭。如果我在滑翔之时点燃烟花，他会成为一个不那么稳定的助推器让我翱翔一会。然而这种方法有着显著的缺陷，一支火箭就需要很多火药参与制作，而且多支火箭还会占用我有限的背包空间。最重要的是，像我这种高傲的神秘使，使用这种世俗之物还是太掉价了。<BR>我考虑过用Vis模拟烟花火箭的助推效果，但是奥法鞘翅已经用Vis施加了护盾，而且我并不确定Vis是否可以带来足够强的推动力。直到最近我发现了较之更不稳定的元动力，我想它提供了一种新的可能性。<BR>为此我必须从普通的烟花着手研究，然后开始逐渐用元动能量替代火药来实现推进效果。我需要比平时更加谨慎，因为我将同时实验爆炸性的火药和扭曲精神的浑沌能量。似乎我的研究无论结果如何都将我偏离恒常的轨道，将我引向危险。
+thaumicaugmentation.research.elytra_booster.1=用元动力模拟烟花的爆炸推力，最终鞘翅会被助推加速到足以飞行。元动推进升级。正如其名，通过释放元动力，在我目视之方向快速增加我的速度。<BR>运用这种升级的方法就是把它和奥法鞘翅放入工作台进行合成。同时把升级过的鞘翅放入合成台则可以移除升级。当然我还需要用我的老方法对他注入元动力。<BR>要启动这个推进器，我只需要按住跳跃键，为了节约元动力，我可以短暂的按住跳键助推，因为推进器对助推的最大速度有限制。   
+
+thaumicaugmentation.research.more_golemancy.title=进阶傀儡学
+thaumicaugmentation.research.more_golemancy.0=虽然到现在为止我在傀儡学上已经取得了很大的进步，但是偶尔操作傀儡的工作是仍有些...繁琐. 我是时候该研究一下如何减少我对他们的不满了。
+
+thaumicaugmentation.research.autocaster.title=神秘施法器
+thaumicaugmentation.research.autocaster.0=我已经成功制造了自动弩，它在自动防御系统中卓有成效。尽管在制造他们的过程中运用了复杂的魔法机制，但是它们仍只能发射普通的箭矢（尽管药水箭也可以发射）我个人则倾向于使用施术核心来进行远程攻击，我想知道这样的攻击方式有没有可能实现自动化。<BR>不过，这绝不是一个简单的问题，因为哪怕用再简单的核心施术，都需要对所涉及的元素魔法的消耗和汇聚有着深刻理解，而且施术还跟灵气场有着千丝万缕的联系。仅仅让一台机械来完成这所有的内容绝不是一件容易的事。<BR>幸运的事，不是只有我一个人这样想过。我在虚域的巨大遗迹中的发现揭示了古人对施法器的理解。我想我可以通过分析它们的结构来设计我自己的施法器。
+thaumicaugmentation.research.autocaster.1=虽然这很不容易，但是在详细研究了古人的施法器之后，我可以更好的将灵气场绑定在机械上，最终我完成了我的施法器。对古人机器的再制造是不现实的，他的设计相当巧妙，现在我更好的理解了如何在机器中建立一个能够感知灵气场的存在。<BR>和邪术施法器一样，他的主体是一个球体（这在这样一个方块世界是一个非常另类的存在，但这是我最优化的设计方案了。）这个球体包含了大部分功能结构。这个球体轻轻的悬浮在金属底座上，可以自由旋转，我可以把施法器放在任何坚实的地面，墙壁或是天花板上。自动施法器会立刻开始寻找目标。我将奥法生物学运用到这个设备的设计当中，我可以通过右击配置选择它的目标。<BR>然而，如果没有施术核心，那施法器就什么都做不了。我可以在他的交互面板中附加一个核心，嵌入它的专用槽中。当我安装好核心后，施法器就开始调动附近的灵气开始对目标施术。如果附近没有足够的Vis，施法器也无法运转，这当然是意料之中的事。虽然并非真正的神秘使，但是用核心施术却和用法师护手一样有效，这同时也意味着我无法像强化法师护手那样强化它。在它的面板里，我可以禁用或是启用红石信号控制。要回收施法器，我需要对施法器潜行右击。<BR>尽管施法器没有神秘使驾驭魔力经验丰富，但施法器还是可以使用所有核心的效果，这让我在核心布置上随心所欲。我要注意的事，虽然，虽然我可以配置施法器的目标，但这只决定了施法器朝什么方向施法，他不会改变核心的效果。比如，如果我想让施法器“以怪物为目标”，但是施法器朝向玩家，那么施法器会朝我发射，但仍然可以命中区域里的怪物。我可以利用这种特性制造复杂的系统，但是我应该小心的确保它不干多余的事。
+thaumicaugmentation.research.autocaster.2=在我使用元动力汇聚魔力施法的过程中，我注意到施法器在没有外部协助的情况下不能施法。这种协助可以是任何在一定范围内的传输正常的元动机械。施法器可以在某些部件中存储极少的元动能量，但远远达不到元动能量单元所存储的水平，我应该确保它有足够的元动力来持续运转。
+
+thaumicaugmentation.research.focus_shield.title=元素效果:邪术护盾
+thaumicaugmentation.research.focus_shield.0=随着我最近对虚域的巨大遗迹的探索，我发现某种特别强大的存在可以在他们的周身召唤一种邪术之盾来抵挡我的攻击。它们的防御性能非常有效，为此我萌生了制造它们的想法。<BR>虽然说我可以随身携带一块盾牌抵挡箭矢，但是我复刻的盾牌明显是魔法的造物。我必须找到一种按需召唤它们的方法。我觉得我有必要制造一个专门释放它们的施术核心。<BR>为了复刻这种邪术护盾，我需要专研守卫的奥术魔法，还要设计元动能量领域。字面上说光是前者就足够了，但是单独用Vis来召唤大型的奥法造物是很困难的，我需要后者的帮助。元动能量应该可以提供足够的力量来统辖跟随我的护盾。
+thaumicaugmentation.research.focus_shield.1=通过对元动能量和守卫魔法的研究，我设计出了这样的一种新的符印，它可以制造出围绕周身的邪术护盾。这个护盾使用“praecantatio（魔力）”来提供能量，而不是我预期要使用的“praemunio（防御）”——后者引发的效果太静态了。<BR>要正常使用这种护盾，我还需要消耗法师护手中足够的元动能量。当元动能量不足，护盾就无法被创造。我可以对一个实体施法，那么邪术护盾将跟随并且保护该目标。我可以对任意一个实体施法（是的，船，矿车也可以。（译者注））而不限于我自己，但实体死亡护盾也会跟着消散。如果我想解除护盾，我需要在潜行下重新释放一遍魔法。但是我只能移除由我释放的护盾。<BR>这个护盾将会随着目标一起移动并且始终朝向他们的正前方，它可以阻挡其他生物和箭矢炮弹也不能穿透它。护盾不会挡住我和我的攻击。（我向上帝发誓，这是假的（译者注））和其他许多魔法也有，魔法总是有极限的。在激烈的战斗中，我必须确保不会因为意外损坏我的护盾。<BR>在核心镶饰台中我可以控制它的2个参数。首先是护盾的生命值，这决定着护盾强度即承受的伤害，以及护盾的持续时间。其次是是否反弹弹射物，也就是说我可以将弹射物按照它们发射的方向反弹回去。不过，反弹的箭矢击中护盾仍然会对护盾造成伤害。
+
+thaumicaugmentation.research.focus_water.title=元素效果:坎水
+thaumicaugmentation.research.focus_water.0=我已经成功的利用元素之力制造了多种属性的符印。但是有一个基本元素是我至今为止忽略掉的——aqua。虽然和gelum（霜冻）近似，但水较之更阴柔，但我觉得仍然可以加以利用。<BR>为了更好发觉水的各项潜能，我要对水进行更多研究。我已经可以利用无尽之瓮集中Vis来获取源源不断的水源，所以这让我有一定的基础。我必须亲自研究大量的水元素。考虑到我已经可以创造水源。所以这种小事不值一提。
+research.m_LONGTIMEINWATER.text=潜泳于深海片刻.
+thaumicaugmentation.research.focus_water.1=有了湿漉漉的潜水经历之后，我感觉水的力量现在就萦绕在我的指尖<BR>这个新的符印允许我使用水魔法，可以将岩浆冷却，填充坩埚，炼药锅，和诸如此类的容器，为耕地浇水，扑灭地面和生物上的火焰。灭火效果很广，我甚至不用特地去瞄准。如果不是对液体施放，水魔法会很快消散，我不用担心我被自己释放的水魔法冲走。<BR>虽然这种符印在战斗中是很有局限性的，但不是对所有生物的战斗力都微乎其微。比如对烈焰人来说，坎水符印的效果就会比较好。但是另一方面，这种符印完全伤害不了水下生存的怪物，反倒让他们可以在陆地上呼吸，我想这就是试图用水淹死鱼的效果吧。
+
+thaumicaugmentation.research.fortified_glass.title=守卫者玻璃
+thaumicaugmentation.research.fortified_glass.0=古代神秘手稿中有许多条目,但最独特的非守卫者系列中的玻璃莫属.不过显然古代神秘使在制造它的过程中遇到了困难, 因而该章节的记录语焉不详, 致使我目前无法复原这种玻璃. 尽管付出了努力,我仍找不到镶嵌守护印记到这种惰性强于门和箱子的物品的方法.<BR>我或许应该进一步研究具有守护属性的源质之罐，但是它们只是对某些有害物质有抵抗力，所以我不确定这是否会给我启发。我确信我能想出什么方案以不辜负我的努力,不过这可能会与手稿所描述的有所偏差。
+thaumicaugmentation.research.fortified_glass.1=完全坚不可摧的玻璃目前只是一个构想，考虑到我收集的信息有限，我觉得已经相当接近完美了。这种被我称为守卫者玻璃的材料本质上采用了与源质罐子相同的工艺,只不过是放大比例至完整方块而已。<BR>这种玻璃虽然不像其他守卫者物品一样坚不可摧,但对普通属性的伤害具有高抗性. 比如爆炸就不能损其分毫. 此外我发现它相当的美观,因此它将在装饰方面大有用途.<BR>相应的,制作板状材料也相当简单.除了尺寸更小,它的性能与其前辈并无不同.
+
+thaumicaugmentation.research.starfield_glass_rift.title=裂隙星域玻璃
+thaumicaugmentation.research.starfield_glass_rift.0=不同维度之间的虚空非常不宜居住以至于根本不应该被称作空间.我难以想象它对生命甚至物质的强大排斥力。<BR>我虽然难以用语言描述,但是某种我无意间操纵维度得到的星光闪闪的虚空却十分迷人. 如果可以,我想我宁愿花几个小时单纯地凝视它.不过总有什么什么莫名的东西警告我不要这样做,毕竟常言道一个人不该凝视这样的深渊,可是我实在是忍不住.<BR>尽管裂隙间的虚空是那么吸引人，但我宁愿不要经常接触如此危险的魔法空间。然而，在不涉及任何风险的情况下创造一个维度位面上的小缺口，不是难事。哦，我是说在一整块守卫者玻璃的保护下，这样再大的风险也会被完全控制住。
+thaumicaugmentation.research.starfield_glass_rift.1=啊，多么完美的造物。强化玻璃是一个完美的选择。按照我的想法，现在只需对它施加简单的空间魔法，我可以创造这样一块可以看到星光闪闪的虚空玻璃。我现在可以看个够，而不必为了大饱眼福而扭曲空间。<BR>虽然它看上去有点危险，但实际上它是非常安全的。因为封装在玻璃里的裂缝非常小，而且装在坚不可摧的玻璃里。虽然里面的裂缝看上去就像真正的裂缝——一旦走近它，要么被直接撕碎，要么会被坠入世界的深渊，但是我可以保证，绝对不会有这样的风险，我既不会掉入深渊，也不会出现真正的流淌着混沌扭曲之力的裂缝。<BR>万 无 一 失——绝 对 安 全<BR>星域玻璃应该是我建筑装饰的最佳材料。
+
+thaumicaugmentation.research.starfield_glass_mirror.title=魔镜星域玻璃
+thaumicaugmentation.research.starfield_glass_mirror.0=魔镜通过世界之间连接的虚空传递物品。我可以透过任何连接着的魔镜观察到这种虚空空间，但是我的视线被镜框限制着。我真想好好看看这个空间，因为它和腐化裂隙中是那么的不同。如果有一个更好的角度，或许我可以看的更清楚些<BR>我已经造出包含腐化裂隙的星域玻璃，我需要做一些小小的修改，就可以在新的星域玻璃里看到魔镜中的空间。
+thaumicaugmentation.research.starfield_glass_mirror.1=在我之前的裂隙星域玻璃做了小的改动，现在我得到了一个新的星域玻璃，可以看到魔镜内部的星空。这种星域玻璃的变种仍然是安全的，但是不会像镜子那样传递物品。<BR>随着对魔镜内部空间的新认识，我对他的本质有了深入了解。据我观察，这个空间是一个高度压缩的空间。这种对维度位面独特的压缩形式是的物品借助魔镜来回传递。虽然与腐化裂隙有些许差异，但仍然对生命具有很强的排斥力。我相信在未来我也许可以对其进行改造。
+
+thaumicaugmentation.research.starfield_glass_fracture.title=维度裂缝星域玻璃
+thaumicaugmentation.research.starfield_glass_fracture.0=随着我对维度裂缝的发现，以及对其他位面裂缝的探索，我注意到裂缝和维度裂缝中的星空有相似之处，从表面看上去又有明显的不同.我还想好好看看着迷人的景色……当然，嗯，是为了研究。<BR>这应该很容易做到，只需要参照裂缝星域玻璃，使它与空间的特定部分相协调。这样产生的维度裂缝不够稳定，不能让人通过，但是仅仅是拿来看足够了。
+thaumicaugmentation.research.starfield_glass_fracture.1=完成它是一件琐碎的工作。现在我可以制造出新的星域玻璃了。它可以看到与维度裂缝中一样的虚空。和以前一样，你靠近它，不会有被送进虚域的风险，因此拿他来装饰实验室或是家里是足够安全的。<BR>通过所有这些研究，我更好的理解了虚空的真谛。我发觉了一些奇怪的矛盾，虚空似乎是一个矛盾的悖论物。虚空本身是一无所有的，但它确确实实存在，因为空空如也本身仍然是一个有形的概念（我可以真切的看到它）不过，这个的东西它确实是非常混乱的，然而，它是如此的虚无缥缈，它不断的在各种位面上波动，这些位面的状态就好像现实的基准线，虽然看上去像是什么都没有，但也可能是某种与现实完全不同的东西。这种混乱的波动可能摧毁任何与之接触的实体方块。此外，虚空是如此巨大，以至于它的某些部分达到了相对平衡，赋予了这部分特殊的外观。决定这些特性的因素我并不完全了解，也许永远也不能完全了解。<BR>很难用语言来确切的描述，而且很多问题还困扰着我，即使我已经有一定的知识储备。我应该花一些时间来重新审视虚空这个存在，以便我可以更好的认识浩瀚的宇宙和超越宇宙的东西。有些人可能会讥讽我盯着虚空看，但是虚空意味着什么也看不见，这种情况下，这种观点是不正确的。
+
+thaumicaugmentation.research.more_mechanisms.title=更多机械
+thaumicaugmentation.research.more_mechanisms.0=随着我接触到新的奥术木材和石材，我希望可以用这些材料制造简单的机械装置，而不是平凡的世俗之物。用新型材料制造诸如压力板按钮这些简单的机械易如反掌.
+thaumicaugmentation.research.more_mechanisms.1=我用新材料制造了不同的压力板和按钮。新的木制压力板由银树和宏伟木制成。他的作用和性质同橡木制品相似。而奥术石材的性质和作用与普通石材类似。<BR>我注意到我只能用奥术工作台来制造这些机械。我用普通的工作台进行组装时，成品都看起来是橡木制品。我不清楚为什么用寻常工作台进行合成无法保存这些材料独特的外观，我想这应该是奥术工作台的功劳。
+
+thaumicaugmentation.research.ward_openers.title=奥术机械
+thaumicaugmentation.research.ward_openers.0=红石科技是功能繁多而且实用的，甚至对我这样的神秘使。然而，凡俗之物总存在一些问题，那就是我无法控制谁有权激活它们。虽然所有门前压力板都是好的，但我家里仍然充满怪物。然而，随着我对守卫奥术的研究，我想我可以解决这个问题。<BR>首先，我认为宏伟木，银木，奥术石材是一个绝佳的材料，它们不仅在视觉上吸引人，而且具有与生俱来的魔法亲和力。剩下的挑战是用保护魔法激活这些机械，但不影响它们的结构和功能。我想如果我可以对箱子这样做，我应该也可以对这些机械这样做。
+thaumicaugmentation.research.ward_openers.1=我成功的制出了宏伟木，银树，奥术石材机械的守卫者版本。它们只会被我激活，而不会被其他任何生物激活。如果它们被激活，他就会正常的发出红石信号。<BR>秩序带着法师护手潜行右键，我就可以像往常一样破坏掉施加守护的奥术机械。
+thaumicaugmentation.research.ward_openers.2=我发现我的奥术机械和奥能之扉间有意思的相互作用。尽管奥能之扉忽略了正常的红石信号，如果旁边存在奥术机械就可以正常被激活打开。当然，玩家必须已经被授权可以打开门才行。这样我就不必担心有人通过奥术机械绕过奥能之扉了。我必须注意奥术机械必须放置在门扉附近，毕竟这不像红石信号那样可以远距传输。
+
+thaumicaugmentation.research.eldritch_spire.title=探索虚域
+thaumicaugmentation.research.eldritch_spire.0=此地空旷得超过我原本的预期. 曾有人猜想最接近于虚空的世界应该只能是除了荒芜的废土啥也没有的, 不过实际上还有灾难级别的污染以及其中一些令我无法忍受的东西. 偶尔会出现像是与其它维度交换的方块. 我不得不惊讶于空间在此的形态,由于维度的交错入侵, 踏错任何一步都将陷我于万劫不复的深渊. 随着现实被动摇,可以确定的是一些负面影响将会出现要不就是其它什么使之出现于此 - 要是这些一开始就不存在于此.<BR>片刻, 我逐渐意识到邪术学远不止是秘术学的分支, 或是扭曲人们神智的知识. 尤其是充斥着“邪术学”等类似的词汇的"血腥仪式"，在某种程度上，它意味着仅仅知道这些东西的存在，是那些注定要超越我所知道的东西的人所保留的东西。对普通人来说，仅仅是提到它就几乎等同于渎神，这是任何神智清醒人都不会做的，更不用说让像我这样的神秘使去参悟了。<BR>不, 邪术学绝不仅仅是围绕虚空的魔法. 取而代之, 我相信这是指向从亘古恒存至今的种族的魔法,该族对世界的影响塑造了我们所认知的事实与恒常. 它们如若存在, 便能解释我所发现的古怪现象, 尤其是奇怪的魔法准则, 为何某些人会如此彻底地丧失理智以至于组织教派并献身于无益的仪式.<BR>要是我完全理解其中的任意一个, 我将不得不进一步探索虚域来寻找在气氛造成的这种扰动. 这种邪术影响几乎肯定会与我这样的弱小存在敌对,但不入虎穴焉得虎子,现已不能回头了.不过这种知识将赐予我强大的力量.
+
+research.m_ENTERSPIRE.text=于虚域中发现的神秘废墟
+thaumicaugmentation.research.eldritch_spire.1=我在虚域的漫步中有所发现.那是一座庞大的废墟或是遗迹,由于某些未知的原因存在于此,尽管我几乎肯定这是邪术装置.我感知到周围魔法场中的扰动十分强烈,因此这正是我所寻觅的.否则就是这些遗迹包含我所找寻的.<BR>这座遗迹是一系列围绕着中心尖塔的建筑群，他是由很多不同部分构成。尖塔的底部有一组不同寻常的门,它由我完全陌生的异域魔法形式构造而成 ，尽管我依然可以分辨出组成他们的机制中存在着空间魔法。他们的锁孔似乎是某种东西的接收器，但我觉得施加驱动能量或许是关键。我想，用我充满元动能量的护手就可以了，只要我用手套轻轻敲击来释放元动能量就足以开门，这样一来，或许被封印的什么东西将会重新被释放。<BR>在我真正进入遗迹之前，我没法了解到更多信息了。我注意到一件事情，这巨大的废墟似乎被一种强大的保护力量所保护着，在我深入并摧毁这种力量的来源之前，我无法破坏任何寻常的方块。然而，随着时间的推移，一些方块已经被侵蚀损坏，从结构中消失。如果我发现一些脆弱的方块挡住我的去路，我或许能够打破它们。<BR>考虑到遗迹异乎寻常的规模，错综复杂的结构，和令人不安的气氛，无论里面隐藏着什么，我确信他们会对我产生威胁。如果我没有做好持久战斗的准备，我必须立刻回去。已经走了这么远的路，现在死在这些癫狂空洞的邪术使的手中，真的是一种耻辱。
+
+research.m_BOSSROOM.text=揭开邪术尖塔的秘密
+thaumicaugmentation.research.eldritch_spire.2=这个房间……是这个祭坛！我确信我以前见过这个！在《血腥仪式》诡异的文字中画着这样的祭坛！我确信这就是塔的核心，它为方块提供着保护，并扭曲着周围灵气场。然而，这个祭坛看上去是坚不可摧的，所以我必须找别的方法来关闭它。我或许知道我要做什么….<BR>那是一种被称之为“Apertis Oculis”的开眼仪式……我必须试图打开祭坛的【眼睛】。这是一种人们知之甚少的神秘仪式，我不知道将会发生什么，但是很明显祭坛已经被人准备好了，所以我要做的就是，在祭坛的中心的基座上带上法师护手作最后的祈祷。.<BR>我必须为接下来的事情做好充足的准备，因为不论如何都不可能有好事出现，我能感觉到，一个强大的存在一直在凝视着我……
+
+research.m_ELDRITCHBOSS.text=开眼仪式
+thaumicaugmentation.research.eldritch_spire.3=当我在祭坛上进行“Apertis Oculis”仪式时，我不确定会发生什么，我认为也许它可以简单粗暴的阻止尖塔对周围遗迹A的影响。哎，我早该知道的，事情没我想的那么简单，从入口就开始出现的强大存在才是废墟扭曲力量的真正根源，祭坛只是它依附在维度平面上的锚而已。然而，通过开眼仪式破坏它依附的锚之后，我就可以消除掉它对废墟的影响，我可以感觉到空间也在某种程度上更加稳定了，这意味着阻止我破坏遗迹A结构的保护力量遗迹也消散了。我可以更自由的探索遗迹A，挖掘组成他们的方块，或许…我还可以找到一些宝物，至少可以收集各种各样的建筑材料供我使用。除此之外，我还发现了尖塔祭坛守卫遗留下的一些有趣的东西，一个破旧的卷轴。我不知道这么古老的卷轴是如何跨越荒洪岁月遗留下来的。但是在用魔导透镜扫描并细致的研究后，我发现它对我的研究的巨大价值。这应当是神秘学和元动力领域的知识，这些知识将是我今后研究的关键。我在下一章会详细的记述它。<BR>尽管我成功的消减了这座废墟的邪术能量，但我感觉到虚域的灵气场仍旧是扭曲着的。我确信在某处会发现别的邪术尖塔，而且每个尖塔一定会有一个邪术祭坛。将另一个强大的存在锚定在祭坛中，如果我愿意，我可以继续摧毁他们，虽然这样会很麻烦，但可以肯定我一定会收获颇丰。备注：邪术尖塔的底部的门是用元动能量打开的，而其他的门是用4种不同的钥匙打开的。在最后的房间用法师护手祈祷可以召唤那强大的存在。<BR>但是我还有一些疑问：制造这些尖塔的目的是什么？为什么会有这么多资源和宝藏？我还能找到这些古卷轴的其他部分吗？这些邪术生物是什么？他们是如何变得这么强大的？我认为我找到这个古卷轴不是偶然的，我绝对不能停下来。
+
+thaumicaugmentation.research.eldritch_epiphany.title=邪术启示录
+thaumicaugmentation.research.eldritch_epiphany.0=我在那破损的卷轴的解读上得到了重要的启发，我学到的是我未曾设想的知识，但却是我所真正需要的。正如我的猜想，我解读到的部分涵盖了奥术的两个领域：神秘学和元动力学。我将分别记述每一个领域的内容。<BR>首先是神秘学的发现：这是最让我感到困惑的领域，他记载着过去的灵气场和现如今的灵气场大不相同。现如今的灵气场中的vis存在于更高的维度中，只能以波动的形式渗透到不同的维度内，在维度的某些区域的边界比较弱，因此vis可以更多的渗透进来。反之亦然。然而，根据这个卷轴上记载，过去的灵气场并不是这样，而是更加具体而又集中，以一种称之为灵气节点的形式存在。为了施放魔术或是驱动奥术设备，vis必须直接从这些节点中抽取，而不是简单的从周围区域收集。此外旧的灵气场的灵气会自然的分成6种不同属性的vis，而不是手动的通过不同种类的源质结晶或者核心来获取不同种类的vis。这样就可以解释我所注意到的怪异之处，即抛弃魔杖而选择护手。他们是为了适应不同的灵气场而设计的<BR>但是那之后灵气节点发生了非常巨大的变化。根据我所作的粗略的考证，我推测节点在很长一段时间内逐渐的消散了。最开始，它们的仅仅是有限的扩散开来，节点将不同属性的vis分散到周围的区域当中（这意味着直接从节点中提取vis变得不可行，而是从附近的区域内收集）最终，节点因为这样的现象消失了，只留下无数微小的空间裂缝，还没有被分配属性的vis从中流出。如果我的考证是对的，我很担心是什么样的力量分散了节点。起初我认为这是一个自然而然的过程——灵气场在漫长的时间中的自然演变。但这似乎是不正确的。在下一段有一些关于真相的强烈暗示…<BR>其次是Impetus【元动力】的发现：这张卷轴提供了一些关于元动力的暗示，以及我如何更好的驾驭它。值得注意的是，这部分文本的注释是草草书写的，似乎语气更为急迫。作者表露出对元动力的本质的困惑（我也感受到了这一点），但是他设法研究了一种可以有效协调元动力能量的特殊水晶的合成方式，以便我可以正确的汇聚，传输和使用它。归根结底，只要我再做一些额外的研究，我就可以以能量束的形式传递元动力了。<BR>古人对元动力的理解有些矛盾的地方，我有些困惑。显然它们一直在努力的寻找一种可靠的量产元动能量的方法，尽管他们已经知道如何正确的收集和传导元动力。关于后者，我认为可能是古人已经熟悉了通过汇聚来使用vis，通过魔力中继器来运送魔力流，而不是从周围的环境提取能量，因此它们对元动能量的传输有一个更高的起点。至于前者，这意味着更隐秘的东西。<BR>据我猜想，一向卓有成就的古代神秘使不能量产元动能量的唯一原因是他们不能接触到一些只有我才能接触到的现象…如果vis和灵气场的特性在亘古的时间中不断改变，这是不是意味着元动能量的性质也没有完全一致过呢？灵气节点的存在肯定会对它的性质产生很大影响。虽然我不确定，根据我的分析，我认为在灵气节点存在的前提下，腐化裂隙不可能产生。如果我的分析是对的，那么就没有可靠的方法来量产元动力，因此一个古代神秘使将不得不依靠其他可能危险的多的手段来得到它。<BR>这让我很苦恼。如果腐化裂隙是最近才出现的现象（相对整个宇宙运行的时间而言），那么这是否意味着某些东西正在强行的扭曲现实世界，让腐化裂隙得以诞生？虽然这可能是一个完全自然的过程，但这一切在我看来又是这么的诡谲。灵气场为什么会变得如此…破碎？如果某些邪恶力量试图让腐化裂缝得以产生，那么也许这样可以解释古代灵气节点逐渐消散的原因，因为没有它们，就没有什么可以阻碍腐化裂隙在腐化值高的区块打开。如果这一切都是真的，那为什么这个力量想要打开腐化裂隙呢？它又如何能做到操纵灵气场，让灵气节点彻底消失呢？维度裂缝和虚域在这里又扮演了一个什么样的角色呢？<BR>我不愿意完全承认这一点，但如果这一切都是真的，那我只能设想出一种足够强大的力量使我们的世界产生这样的变化。邪术使。它们想要从我们的世界当中得到什么，从那些占据这个世界的人身上，从血腥教会，从我身上。但我一直不知道那是什么。我甚至不知道如果答案就在我面前，我是否能理解它。但我必须继续我的研究。因为这个发现，我相信我被赋予巨大的潜力，我知道我可以用这种力量扭曲现实时间，它们也无法阻止我。有些人可能会说，它们将会去地狱，然后再回来实现它们的目标。但地狱并不是我要去的地方，这一切都是为了加深我多魔法力量的理解罢了。
+
+thaumicaugmentation.research.impetus.title=扩展元动能量
+thaumicaugmentation.research.impetus.0=With the wisdom I have gained from the scrolls of old, I believe I am now ready to fully unlock the potential of impetus. Previously I was able to use it to create void seeds, and after that collection and storage through manual use of a caster’s gauntlet, but with only a little more research I should be able to use the turbulent forces of the Void to do a great deal more than that.<BR>I already have a recipe for what is known as an Impetus 宝石, and while I know what it does in theory, I must now actually create one to see how it behaves in practice. The 宝石, however, will only be capable of resonating impetus to receive and transmit it directly; therefore, I still need a way to draw impetus out of a flux rift in the first place. Fortunately, I have already done this previously, firstly with a Void Siphon and secondly with an Impetus Conductor. The former seems more appropriate a starting point for what I am aiming for, that being automatic collection of raw impetus. However, a Void Siphon requires a nether star, so I should probably endeavor to find a way to avoid needing them at all.<BR>Despite the effort this will take, these next steps will still be far simpler than getting past the dead-end I faced previously. At least I now have all of the fundamental knowledge required to actually do this.
+thaumicaugmentation.research.impetus.1=Now. Now I can truly begin to use impetus.<BR>Using the schematics I had previously created for the Void Siphon, I was able to modify the design so I could create the fundamental devices that can automatically collect, transport, resonate and distribute impetus. I shall cover how can one properly set up an impetus power system, and to do this I shall break it all down into separate parts that cover the different concepts, tools and devices involved.<BR>Before I begin, however, I feel I must note that when it comes to learning something new, more often than not the best way to understand something is to experiment with it physically. I should also note that impetus is complex topic for one to understand, and I would not be surprised if I happen to forget certain parts or get confused about impetus power mechanisms. Thus, if I am at all confused by what I am detailing, I might find it helpful to create and experiment with a few simple impetus energy setups so to better understand the principles involved firsthand. I suppose that I will have to see whether I prefer careful study or practical experimentation in order to fully understand this complicated and dangerous topic.<PAGE>Charged Impetus<DIV>Previously I only had access to impetus fairly indirectly, through the void seeds it created and the impetus stored in conductors attached to gauntlets. But with my new discoveries I am now able to gather impetus in a different more energetic form. I am calling this new form of impetus ‘Charged Impetus’. I shall cover the distinction between the two.<BR>Normal impetus can be seen as lines of starry void trailing through the air, and is usually directly pulled from a flux rift. It is what I have been using up until now and is what void siphons and impetus conductors use. Devices accessing normal impetus tend to be able to idly draw it from an impetus source, again, this usually being in the form of a flux rift. Notably, it is harmless for one to touch normal impetus trails… at least, probably, but they do at least seem to pass through me without any damage done.<BR>Charged impetus, however, is more volatile and therefore has a great deal more potential use. By making it take this charged form, I can transfer larger amounts of impetus over longer distances. It is what will power my planned specialized machinery, and can be seen in the world as beams of energy, which vary from faint to bright depending on how much charged impetus is being sent through them. Another difference from normal impetus is that charged impetus must be specifically directed to devices that use it, as opposed to drawing it from a nearby rift. I shall detail later on in this entry how to create charged impetus.<BR>For the sake of safety, I should note that an active beam of charged impetus has enough compacted energy to be rather deadly, and if I am caught between one then I will be hurt. Inactive beams, however, are safe. An inactive beam can be seen as faint wisps of energy, while an active beam glows bright and can be clearly seen.<PAGE>Impetus Nodes<DIV>Blocks placed in the world that connect to beams of charged impetus are collectively referred to as ‘impetus nodes’. To clarify: they have no relation to aura nodes. It does not matter whether a device creates, uses, or simply transfers charged impetus, if it connects to charged impetus beams in one form or another then it is classified as an impetus node.<BR>Impetus nodes have set numbers of input and output slots, which dictate how many beams of charged impetus can feed into and be sent out of them. Impetus nodes, therefore, can be designed so to transfer energy from one to the other, so a source of charged impetus can output energy into a node, and this node can output energy into another node, and so on and so forth. Different nodes have different numbers of input and output slots, for instance a device that creates charged impetus will only have output slots, a device that transfers charged impetus will have both inputs and outputs, and a device that uses charged impetus will only have input slots.<PAGE>Impetus Resonator<DIV>With impetus nodes having been detailed, there still needs to be a way to define how impetus nodes are connected to one another. For such a purpose, I have designed the Impetus Resonator.<BR>The Impetus Resonator is a tool which can modify the connections an impetus node has. By holding the device in hand and then sneaking and right-clicking an impetus node of any kind, said node will be clearly highlighted in blue and selected for modification. If I sneak right-click the same node again, it will be deselected.<BR>With an impetus node selected, I can then connect it to another node by right-clicking without sneaking on said other node. By doing this, the first node has been set to output energy into the second one, taking up an output slot on the first node and an input slot on the second. If I right-click the second node again, then the connection will be removed. To send energy from one node into multiple other ones, then I simply select the first node via sneak right-click and then right-click all the other nodes one-by-one. I should keep in mind the slot limitations when doing this, however. Also of note is that impetus beams can only travel so far, at a distance of around eight meters, and they cannot travel through opaque walls. Glass or other transparent materials will permit impetus beams to pass through them, however. I will need to ensure that impetus nodes are kept fairly close together and that they are not obstructed by walls in order to link them together properly.<BR>If I select an impetus node that already has connections defined, then I can also see these connections visualized. Any nodes that feed impetus into the selected node are highlighted in red, and any nodes the selected node sends impetus out to are highlighted in green. In the special case of a node being both an input and output of the selected node, it will be highlighted in purple. If am at all uncertain, I can also see in which direction impetus will travel based on which direction the beams are flowing.<BR>While the Impetus Resonator can define how nodes are connected to one another, very little will happen if no charged impetus is actually being fed into the system, which is where the Impetus Drainer comes in.<PAGE>Impetus Drainer<DIV>The Impetus Drainer is an important impetus node that creates charged impetus energy when placed next to a flux rift. Based on the Void Siphon, it has a dense piece void metal on top which draws in normal impetus (fortunately, the nether star was not needed here, since the siphon's only use for it is to coalesce normal impetus into void seeds), and using a rotating mechanism it charges the impetus and transmits it into an impetus 宝石 at its centre. It can therefore be seen as the heart of a charged impetus generation system. When the Drainer draws impetus out of a rift, the rift in question will gradually begin to shrink and become unstable, as with the Void Siphon. Draining a smaller rift will result in it drawing less impetus than if the rift was larger. Therefore, I should ensure that I keep an eye on the rift I am draining to ensure that it remains stable and sizable.<BR>The device itself has one impetus beam output slots and no inputs, since it creates charged impetus. Therefore, to send energy out of it and into other impetus nodes, I only need to sneak right-click it with the Impetus Resonator and then right-click on the other nodes in question.<BR>If I wish to disable the device, I only need to provide it with a redstone signal. This will stop the device from draining any nearby rifts and from creating impetus, so I can use this to ensure that I do not drain a flux rift too much.<PAGE>Impetus Relay<DIV>Probably the simplest type of impetus node, the Impetus Relay is simply a way to transport beams of impetus from one place to another. It has two input slots and two output slots, so I have some room to tinker with routing in my energy transport systems.<PAGE>Impetus Diffuser<DIV>This device can be seen as the inverse of the Impetus Drainer, since it takes in charged impetus and diffuses normal impetus from the top. Therefore, it can be used to power any devices that drain flux rifts directly, such as gauntlets with impetus resonators attached or void siphons. It has one input slot and no output slots, since it is a device that consumes charged impetus.<BR>I should note that the Diffuser cannot power the Impetus Drainer, since that could create feedback problems where normal impetus is converted to charged impetus, which is converted back to normal via the diffuser, which is then is sent back into the drainer which converts it to charged, which is sent back to the diffuser, etc.<BR>Of note is that using this device to power normal impetus devices will in fact be better for them than having them drain a rift directly. The charging process actively improves the efficiency of impetus creation, so it should be well worth the effort to use my new impetus power systems even with my older machines.<BR>As with the Drainer, I can turn the device off with a redstone signal, which will therefore prevent it from powering normal impetus devices.<BR>This covers the basics of charged impetus power systems. Despite my progress, I know that I have much more to learn and create, both with devices that transmit impetus but also those that use it.<BR>There is so much potential here, my mind is spinning with so many possibilities…
+
+thaumicaugmentation.research.impetus_gate.title=Impetus Gate
+thaumicaugmentation.research.impetus_gate.0=Charged impetus power networks are already a rather complex topic to understand completely, consisting of many parts beyond just connecting nodes together. At the moment, I have no way to restrict the power transfer between two nodes without permanently severing the connection between them. This limitation exists due to the fact that I have not found a reasonable way to block an impetus beam within an impetus node itself; I can only redirect the beam.<BR>Normally, I would turn to redstone, as it excels at inhibiting magic. However, even redstone cannot fully inhibit a charged impetus beam, as the magical energy is just far too concentrated for it to handle. Thankfully, my studies into warding arcana may prove useful here. The protective magic that it covers could be indirectly used to "protect" something like an impetus relay from receiving a charged power beam, with this protective behaviour being adjustable within the device itself. I'll need to study this further in order to get the exact behaviour I need.
+thaumicaugmentation.research.impetus_gate.1=I have confirmed that with some careful combination warded arcana and mundane redstone, it is possible to temporarily block charged impetus beams as I desired. When no redstone signal is given to the device, it acts as a normal impetus relay. When the redstone signal is applied, the protective shield enters a semi-solid state and prevents charged impetus from passing through in either direction. If the signal is removed, the shield will quickly dissipate and charged impetus can pass through as normal.
+
+thaumicaugmentation.research.impetus_matrix.title=Impetus Matrix
+thaumicaugmentation.research.impetus_matrix.0=The charged impetus power I have discovered does have a great deal of future potential, being more volatile and immediately powerful than vis, and more flexible than the standard form of impetus I have used in the past. However, one major limitation of dealing with impetus in large amounts is the fact that it cannot be stored in any capacity after it has been extracted. Simply treating a flux rift as an impetus battery will only get me so far, as I have to work around the rift's precarious stability, not to mention the inability to extract more controlled amounts of impetus from it. Therefore, a means of storing larger quantities of impetus in a safe, or at least safer, manner would be ideal.<BR>I have already had success in storing small amounts of normal impetus. Looking at it from a wider perspective, I have done it through a fair few ways: in an impetus conductor for use in a casting gauntlet, in its coalesced and semi-physical form of a void seed, and most importantly inside a purpose-built impetus cell. These methods are all viable for normal impetus because while impetus itself is always volatile, it is nowhere near the levels of charged impetus. The crux of the problem is finding a way to keep it from growing too unruly while in storage, while also keeping it readily accessible at a moment's demand.<BR>After some time spent pondering this dilemma, I believe I might be able to achieve this. From what I can tell, unstable charged impetus is rather similar to the instability one can experience in a poorly maintained infusion process. When I was perfecting the art of infusion, I created the runic matrix to help regulate and stabilize infusions, and I think I may be able to reuse it in order to safely contain charged impetus. The exact implementation will almost certainly differ, of course, but I am confident that the idea is sound in principle.
+thaumicaugmentation.research.impetus_matrix.1=I originally spent a great deal of time and effort designing a way to manage complex arcane infusions. It seems that even after meeting its initial goal, that effort has lead to a breakthrough yet again. Combined with a retaining structure similar to the aura node management devices of old, I have created a device I am calling the Impetus Matrix. Despite this not being the first time I have retrofitted an ancient design related to these nodes to support impetus, I am still left wondering if there is something greater hiding in the similarities between the two systems. I will make a mental note to return to this train of thought at a later date, for the Impetus Matrix deserves my immediate attention.<BR>To create an Impetus Matrix, I need to place a runic matrix between two eldritch pedestals, with one pedestal above and the other below the matrix. As with all mystical constructs, I need to use a pinch of Salis Mundus to form the full structure, and breaking any individual piece will revert it back to its discrete components.<BR>Once assembled, the Impetus Matrix requires some additional preparation to begin storing charged impetus. Firstly, impetus cells need to be inserted into the pedestals to act as the main storage receptacle. To insert a cell, I simply need to use it on the side of the pedestal I wish to insert it into. Each pedestal can hold up to four cells, one per side, for a maximum of eight total cells. The Matrix will be functional with even only a single cell. However, adding more cells will allow the Impetus Matrix to contain more charged impetus, as well as transfer more of that impetus in and out of the Matrix over a shorter period of time. Should I wish to remove a cell, I need to use the pedestal with an empty hand on the side containing the cell. Unfortunately, any excess impetus the remaining cells cannot store will be lost when doing this, so I should take care to not be wasteful.<BR>Secondly, the Matrix will need to be stabilized. When charged impetus is stored within the matrix, it will gradually begin to lose stability, with this stability loss growing as more charged impetus is stored. To stop this stability loss, I simply need to place the same occult paraphernalia that I use for the same purpose near infusion altars. The stability zone of the Impetus Matrix is smaller than that of the infusion altar, encompassing a five by five meter area. I still need to ensure that the objects are placed in symmetrical patterns around the central point of the Matrix, unless I want it to be even more unstable than without the objects. The same occurance of diminishing returns as I place the same kind of object occurs with the Impetus Matrix, so I may need to obtain many different items to store large amounts of charged impetus.<BR>Should the Impetus Matrix ever become unstable, it will begin to induce unpleasant effects around it, much like unstable infusions. It may discharge some of the stored impetus as bolts of harmful energy, knock impetus cells out of the pedestal, among some other harmful effects. Fortunately, the instability of an Impetus Matrix is less potent than that of an infusion, given the fact that it is not regulating an active crafting process with constant barrages of magical energy. This means that I will not need as many objects to have the Matrix reach a stable state as I might need for an infusion altar. I can also see the total stability gain and loss, as well as the approximate stability state, of the Impetus Matrix by looking at the central Runic Matrix with a pair of Goggles of Revealing.<BR>Finally, after following all of these steps, the Impetus Matrix will be ready to safely store charged impetus. The usual method of using an Impetus Resonator to direct impetus beams into and out of the Matrix applies here, with it being able to accept one input and one output. The colored runes on the matrix will show a rough approximation of how full the attached impetus cells are. Red represents a completely empty Matrix, yellow is partially filled, and bright green runes signify it being full. I can also attach a redstone comparator to any part of the Impetus Matrix to create a redstone signal that corresponds to the same information.
+
+thaumicaugmentation.research.impetus_mirror.title=Impetus Mirror
+thaumicaugmentation.research.impetus_mirror.0=Long-distance transfer of charged impetus is a bit of a problem for me at the moment; because impetus beams can only travel a set distance, I need a great amount of relays and patience to link far away nodes together. There has to be a better way to go about doing this than the brute-force approach.<BR>Long distance transfer is something I have already successfully done with magic mirrors, but only with items and aerated essentia. It should be possible to use the same method to remotely connect impetus beams from one mirror to another, but it will require some special modifications to prevent the impetus from being ripped out of its concentrated, charged form. Since magic mirrors send materials through some corner of the Void, the impetus will naturally want to escape the mirrors and return to the realm it is more familiar with.
+thaumicaugmentation.research.impetus_mirror.1=Despite the unusual nature of impetus, I have successfully managed to apply the principles of mirror magic to it, and I now have access to long-distance charged impetus transfer in the form of the Impetus Mirror. The mirror's design has obviously had to go under some adjustment, and therefore requires some more esoteric materials to craft it, but despite this it functions very similarly to any other kind of magic mirror.<BR>To use the mirror, I first need to create the usual pair of mirrors, place one in the world and use the second mirror on the placed one, linking the two together. I then simply place the second mirror at another location, and charged impetus beams can be sent through them. As with other magic mirrors, this link works across any distance and even across dimensions. However, the usual phenomenon of time seeming to stand still in places I am far away from still applies, so I will need to either be near the mirrors or set up a device counteract this effect if I want two mirrors that are very far away from each other to link.<BR>I can use the Impetus Resonator to connect inputs and outputs to the mirrors like any other node. Each mirror has a single input and output available for my use. This is separate from the intrinsic connection between two linked mirrors, which is effectively a bidirectional impetus link between them.<BR>While I am overall very pleased with the flexibility the mirrors offer me, they have a few limitations. The speed of impetus transfer had to be capped to prevent it from being torn apart in the Void, so I may need to be a bit more clever if I need high-throughput transfer. These mirrors also place the same strain on the aura as the other types of mirrors do, so frequently using the mirrors to transfer impetus will cause it to generate flux at both mirrors. Lastly, mirrors are much more expensive to craft than something comparatively simple like an Impetus Relay, so I should try to intelligently design my impetus setups to minimize their usage.
+
+thaumicaugmentation.research.rift_management.title=裂隙管理
+thaumicaugmentation.research.rift_management.0=随着我对裂隙需求地增加, 缺乏管理的裂隙本身似乎变得难以利用.我需要寻求管理之道,而非放任这种不稳定的魔法撕裂.一个不稳定的裂隙会是难以置信的危险,倾向于摧毁周围的所有.<BR>在我着手于对裂隙管理之术的调查之前,我应该先记下我之前利用它时注意到的行为模式.<BR>裂隙成型成型于当地灵气场充盈咒波之际(严格来讲是灵气场容量的3/4,莫问如何得知,这是从许多血的教训中总结而来的).若我佩戴揭示之护目镜,我能通过方块隐约地看到裂隙的轮廓,因此我能凭之定位出现在未知之处的裂隙.裂隙会持续吸收灵气场中多余的咒波以壮大自身.然而,如果缺乏足够咒波的维持,它会变得越来越不稳定.同时值得注意的是,即便有充足的咒波,裂隙仍不能维持过度生长.因此裂隙存在一个自然生长的上限.<BR>我还观察到了些许关于裂隙稳定性的有趣特征.裂隙能通过吸收咒波获取稳定性,否则将激发一些"不稳定事件"来抵消不稳定性.我也能使用曾用于注魔的红石镶嵌稳定器来为其提供稳定性.然而问题是,实用稳定器所产生的咒波远多于裂隙获得相等稳定性所吸收的,不过我认为该问题将会在我设计出更优的稳定裂隙的方案之后得到解决.<BR>仅一眼识别裂隙稳定性的方法之一便是观察其动作.一个觉得稳定的裂隙应该是绝对静止的,当它失去稳定之后会开始蠕动和扭曲.它如果释放了小精灵,那么就是达到了随时发生混沌瓦解的程度.我认为这些小精灵便是裂隙释放来自其另一端混沌虚空(也是混沌的咒波的归处)不稳定能量的载体.<BR>不稳定性虽然表现多样化,但却是潜在的致命因素.最普遍的表现之一是裂隙凝结咒波为物理形式,即腐化孢子.若不尽快消灭腐化孢子,周围的灵气场将由于过量咒波变得一团糟, 甚至引发潜在的连锁反应产生更多的裂隙.其余"不稳定事件"包括:释放震击一切靠近的生物的精灵;附近生成的腐化云雾.在极其罕见的情况下,裂隙会自然坍缩,自动修复空间撕裂,同时产生一些资源.这与悖论物质引发的坍缩等效,但发生的概率极小以至于不值得期望发生.<BR>最终,我对咒波裂隙与虚空之间的联系以此作结:它以破坏性的方式与物理形式的物质相互作用.咒波裂隙能够吞噬所有物质,除非来源于其本身.相应的生命物质会在接触期间被虚空能量快速摧毁.<BR>随着这些行为模式的深入研究, 我想我已经准备好设计一些管理裂隙的仪器装置了. 无论接下来的研究有多么危险,我都明白这些对我接下来解锁秘术学秘密重要性.
+
+thaumicaugmentation.research.void_recharge_pedestal.title=Void Recharge Pedestal
+thaumicaugmentation.research.void_recharge_pedestal.0=Since I now have access to more handheld or portable items that use impetus in their operation, I should look into better methods to supply them with that impetus. Currently I can use the Impetus Diffuser to charge them up, but there are two major downsides to using it: firstly that the diffuser outputs only a very slow trickle of impetus into items, taking a long time to charge them up fully, and secondly it can only charge items that I am either holding out in my hand or that I have equipped on my person. These problems are the result of the diffuser outputting normal impetus in the area around it, so if I were to design a method of charging items up with a more direct beam of charged impetus then it would almost certainly limit these prior issues.<BR>At first I was a little lost about where to start with this task, but after some thinking I believe I can use my old Recharge Pedestal as a starting point. Vis and impetus have some interesting similarities, and the old notes I found referenced methods of using the long-forgotten node-drawn CV in order to charge 秘术学’s ancient wands. With these two pieces of knowledge in mind, I believe I can create a new form of Recharge Pedestal that takes in a beam of charged impetus and rapidly charges any items placed on top of it.<BR>Hopefully I can create something good out of this, I’d rather not have to sit next to a diffuser for any longer than I have to, especially considering that even the faint trails of impetus make me somewhat... uneasy.
+thaumicaugmentation.research.void_recharge_pedestal.1=The Void Recharge Pedestal is now ready to be built, and it should be far better for charging individual items with impetus than the diffuser I’ve only had access to up until now. I’ve taken the basic design of the standard Recharge Pedestal, replaced the standard magical components with more Void-related ones and tweaked the piece on top so it can better channel impetus energy.<BR>When built and placed in the world, I can prepare the new pedestal simply by directing a beam of charged impetus energy into it (using the Impetus Resonator as normal), and then once any empty or partially filled impetus using items are placed into the pedestal a beam of impetus energy will be fed into the item. The item should charge far, far more rapidly than with the diffuser, although I should make sure not to step into the active beam of impetus while I charge the item.
+
+thaumicaugmentation.research.impulse_cannon.title=元动加农炮
+thaumicaugmentation.research.impulse_cannon.0=With the secrets of impetus power being gradually revealed to me, I believe it is time to put them to use in a somewhat... unsubtle manner. Impetus is naturally more volatile than vis, and after some pondering I am left with a grim yet intriguing question: what if I were to try and weaponise it?<BR>Initially, I thought it might be possible to do this via a focus effect, where the effect would channel impetus from a connected impetus conductor and unleash it as destructive energy. However, it would require great concentration on my part. Even the slightest lapse in attention would result in the impetus backfiring, destroying the focus before killing me, no doubt in a very unpleasant way. Additionally, even if such a focus posed no danger to me, the impetus conductor is a low-power device that is not suitable for the large burst of impetus that a weapon directly harnessing it requires.<BR>All of these problems are the result of me trying to apply an entirely new source of power to a casting method not inherently designed to accommodate it. If I were to instead build a device that can properly contain, stabilize, and fire the impetus, then I will almost certainly have far more success. I will also not be reduced to a pile of ashes drifting gently away from a smouldering crater.<BR>I unfortunately see no better trial to determine if this idea has merit than subjecting myself to the touch of a charged impetus beam. I have previously noted that the beams traveling between relays can damage living creatures, so if I have not already (whether deliberately or as a result of a mishap), I should touch one of them. It also must be in the process of transferring charged impetus, as the passive beams between nodes are harmless. I should also prepare some devices capable of stabilizing magic - I have the feeling that I will need them.
+research.f_IMPETUSDAMAGE.text=Feel the sting of charged Impetus
+thaumicaugmentation.research.impulse_cannon.1=This... this may very well be my magnum opus. The plans laid out before me fill me with a strange mixture of emotions: awe, intrigue, horror… perhaps even wonder. I am ready to create what may be one of the most dangerous and powerful devices that can be made with the disciplines of 秘术学, which I have called the Impulse Cannon. It uses the raw force of impetus and unleashes it as a deadly beam of energy, which can deal impressive amounts of damage to anything it catches.<BR>The design of the cannon itself took rather a lot of work in order to finalize, and even then the result is a touch unrefined; despite its potential for power, it is still something of an experimental weapon. As an overall description of how it works, the device stores impetus within the main body at the back of it, and then sends it through the central focusing chamber underneath a strip of redstone inlay. This inlay is stabilized by a miniature infusion stabilizer that steadies the beam. The impetus is then transmitted through a modified casting focus at the tip, which fires a continuous beam of energy. I then augmented the design with a grip and firing trigger underneath the main body, a handle on the focusing barrel, and a stock at the back so that I can properly hold it. With all this in mind, the device requires a lot of advanced components and materials to fully build, with the final assembly process being a very dangerous arcane infusion, so if I am to build it then I should be aware of the difficulty and potential danger that lies ahead.<BR>If I do create an Impulse Cannon, then to properly use it I first need to charge it up with impetus energy. Once charged, I then hold the cannon and simply use it in order to fire it. The beam that it creates goes a fair distance, and deals continuous damage to any monster, animal or otherworldly horror that it touches. The power of the Void does not discriminate in what it harms, and will also cut through armour to a limited extent. As one would expect, the stored impetus within the device is quite rapidly used up when the beam is fired, and I can see how much impetus is left within it by either looking at the device in my inventory or by looking at a gauge on the device while I hold it.<BR>As a final note, I have also made sure the device is open to further modification in future, and thus there is the potential for further augmentation in order to change how the device operates. Notably, the focusing chamber is very modifiable, so I could change how the cannon fires the beam of impetus energy.<BR>Such a powerful weapon. I cannot let it fall into the wrong hands. It should be mine alone to use.
+
+thaumicaugmentation.research.impulse_cannon_augment_railgun.title=Impulse Cannon: Railgun Conversion
+thaumicaugmentation.research.impulse_cannon_augment_railgun.0=The Impulse Cannon in its current state is a very effective weapon, although there are some limitations to the beam it creates. The damage output is good, but it does not instantly rip things apart as I hoped, and furthermore it can only travel so far before the beam cannot sustain itself and promptly dissipates.<BR>However, since I have left the cannon open for further modification, I may be able to create an augment that changes how it fires. In this particular case, I think I might have some success with firing a set amount of energy all in one go, as opposed draining a continuous amount for a consistent beam. To do this, I will need to modify the central focusing chamber with an additional lens. This shouldn’t be too hard to do, especially since the bulk of the work with actually creating the cannon itself is all done.
+thaumicaugmentation.research.impulse_cannon_augment_railgun.1=I have completed my work on this particular augment for the Impulse Cannon. This augment changes how the device fires quite radically, so calling it a ‘conversion kit’ seems more appropriate.<BR>This kit, called the Railgun Conversion Kit, converts the cannon into a weapon that fires a single beam of energy in one go, which travels further than the ordinary beam, does a great deal more damage in one hit and can penetrate through multiple targets. However, this comes at the major cost of requiring the cannon to cool down in between shots, which takes quite a long time since the stabilizer needs to expunge a larger amount of energy before the cannon is safe to use again.
+
+thaumicaugmentation.research.impulse_cannon_augment_burst.title=Impulse Cannon: Burst-fire Conversion
+thaumicaugmentation.research.impulse_cannon_augment_burst.0=Since I have left the Impulse Cannon open for any further augmentation I may wish to add, I may as well spend some time creating one to change how the weapon fires. One way to go would be to fire a set amount of energy all at once, but I may also have some success in using a set amount of energy to fire multiple small beams.<BR>I’ll need to create a set of lenses that modulate the impetus beam so that it is spaced out over set intervals of time, these lenses being placed in the focusing chamber where the beam travels through.
+thaumicaugmentation.research.impulse_cannon_augment_burst.1=The schematics for this augment, which I am calling the Burst-fire Conversion Kit, are now complete.<BR>The augment, when built and attached to the cannon in the usual manner of placing it in a crafting window with said cannon, changes the firing method so that it fires three beams in a short burst, which each do a fair bit more damage than the normal beam. This comes with the price of having a cooldown after each shot, which isn’t too long but does leave me exposed for a second or two.
+
+thaumicaugmentation.research.arcane_terraformer.title=奥术群系转化仪
+thaumicaugmentation.research.arcane_terraformer.0=For some time now, I have pondered the possibility of artificially manipulating the natural world around me in ways normally impossible. For instance, while it is possible for anyone with enough time, strength, and resourcefulness to manipulate the terrain around them to fit their needs, they cannot truly change the underlying biomes that the area exists within. I have desired to break this rule enforced upon the world by all of reality, but the magic I have had access to has not been enough to change this fact.<BR>At least, until now. My studies into the volatile and transmutative properties of impetus have now opened a door for me, one that leads to the possibility of true world-manipulating power. Even with this knowledge, changing the underlying biomes in the world will require a great deal of magical force and a certain level of ingenuity, given that I will need to permanently alter the aura around me to successfully terraform an area.<BR>To gain an insight into the momumentous task ahead of me, I will need to open my mind to the wider world around me and see the many sights and sounds it offers. This means exploring and visiting a few different biomes in the world, to see how reality fundamentally operates in them and observe the subtle changes in this operation between biomes.
+research.m_OCEAN.text=Visit a place where the land and sea meet
+research.m_MOUNTAINS.text=Enter a location with peaks that touch the sky
+research.m_DESERT.text=Find a sun-scorned place
+research.m_FOREST.text=Explore a dense, leafy area
+thaumicaugmentation.research.arcane_terraformer.1=The true scale of the natural and supernatural world is still as unclear as ever, but despite that I have gained brief glimpses and flashes of understanding that have taught me how I can change it far more than I could before. In front of me I have a set of designs that detail a device that uses the combined power of the aura, the elements, and the Void to terraform the world around it, changing biomes precisely how I instruct it to. Appropriately, I have named this device the Arcane Terraformer.<BR>The Terraformer itself is all packed into a single contraption, but it requires a great deal of additional equipment and setup in order to function. I will cover the device in detail for my future reference; it is a very complex piece of arcane engineering, and it is far too easy for me to forget the specifics of its functionality.<BR>The first step to bending the world to my will is to configure the specific biome that the Arcane Terraformer will convert the area around it into. I have created a special Biome Focus to serve this purpose. To attune the focus to a biome, I simply need to visit the biome in question and use the Focus within it. This will store the intrinsic properties of the biome in the Focus, a sort of "fingerprint", which will later allow the Arcane Terraformer to perfectly replicate it. Sneaking while using the focus will clear its current biome, allowing it to be reused.<BR>I have already considered a potential dilemma I may face after terraforming: what if I want to restore the land to its original state? To save myself the headache of manually managing Biome Foci, I have found a way to allow the Terraformer to perfectly restore the original biome or biomes in its area of operation. I refer to this as the primeval state, as it is the way the land was originally formed. At least, original enough for my purposes. To create a primeval Biome Focus, I only need to place the Focus with a primordial pearl in a crafting grid. This does not consume any portion of the pearl, since the Focus only absorbs the pearl's ambient energy.<BR>The first step in actually using the Terraformer is to access its configuration panel by using the device after placing it in the world. At the center of the panel is where I place the configured Biome Focus, which gets affixed to the top of the device. On the right are the area settings, which allow me to specifiy both the size and shape of the terraforming area. The left side will display the amount of essentia I need to fully terraform the entire selected area, assuming I have a Biome Focus inserted into the Terraformer.<BR>I then need to ensure that the Arcane Terraformer has access to sufficient amounts of three resources: vis, essentia, and impetus. Vis is simple enough, as the Terraformer will simply draw a small amount of Vis from the area it is placed in for each square metre of the world it converts. Impetus is slightly more complicated, as I must connect a charged impetus input into the central 宝石 at the bottom of the device.<BR>The last ingredient is essentia, and a lot of it. There are five types of essentia that the Arcane Terraformer could potentially need to terraform the area. These are Ignis, Aqua, Aer, Terra, and Permutatio. The first four are the primal elemental aspects, and these will be required if they are a part of the biome that is to be terraformed into. Fiery or hot biomes will need ignis, damp biomes require aqua, and so on. Some biomes may not need a certain elemental aspect of essentia at all. However, every biome requires Permutatio in some capacity - this is what allows the Terraformer to actually exchange the biomes. The exact amount of essentia required increases with the amount of area that needs to be terraformed, which can be seen on the left side of the information panel as previously mentioned. This is probably one of the most essentia-hungry devices I have designed to date, since it requires so much to permanently change the physical world. If I plan on using this device frequently or over a large area, I should prepare plenty of essentia jars filled with the four elemental aspects and permutatio.<BR>With all of this setup done, I will be able to finally start the terraforming process by using a casting gauntlet on the Arcane Terraformer. If I need to cancel it for any reason, I can use a gauntlet on it a second time, although any terraforming that was already done will not revert.<BR>Despite the high resource cost the device needs to terraform an area, there is a major benefit I can gain from selecting certain biomes: I can increase the vis cap of the local aura. As part of the terraforming process, the Arcane Terraformer restabilizes the aura in any area it has terraformed. When transforming biomes with little vis to more magically attuned biomes, such as magical forests, the maximum vis that the area can hold will be dramatically increased. This can be especially helpful should my base of operations be located in an area with lower amounts of natural vis. However, the aura can also have its cap be lowered in this way, so I need to monitor the aura in areas I have terraformed, lest I unexpectedly run out of vis.
+
+thaumicaugmentation.research.rift_feeder.title=喂养裂隙
+thaumicaugmentation.research.rift_feeder.0=Flux rifts can grow to some fairly large sizes simply by absorbing flux from the local aura, but they can only do so to a certain limit. At some point, it grows large enough where it cannot absorb flux efficiently enough to grow any further. This can present a problem in that if I am draining a rift for one reason or another, I need to constantly monitor its size to ensure I do not drain it out of existence. Furthermore, I would rather not have to repeatedly pollute the aura in order to keep the rift at a decent size, as the flux can spread to other areas and generally cause a mess.<BR>There has to be a better way to grow my flux rifts. After some thinking, I believe there might be a solution to this problem. In my previous efforts around flux management, I managed to create the Flux Condenser, which draws flux from the aura and condenses it into Vitium essentia. I do not see a reason why I would not be able to do the opposite.<BR>It is already technically possible to do such a thing, in that I can simply place a jar of essentia and empty it into the aura as flux, but this is not what I need. Instead, I will need to transfer the flux carefully by focusing it all into a specific point, which in this case would be a flux rift. I will need to be careful with my experimentation here, as flux has a habit of being very insidious in how it pollutes an area. The last thing I need is an infestation of taint eating away at my base of operations...
+thaumicaugmentation.research.rift_feeder.1=I can now breathe a sigh of relief, as I have managed to successfully avoid creating a major flux problem, at least with this particular batch of research. I'd rather not think about the problems I may have already caused. Ahem.<BR>Regardless, I have managed to reengineer my design for the Flux Condenser into a device I am calling the 咒波引流仪. While its name might suggest that it creates flux in the area around it, this is not quite the truth, as the whole point of making this device is to avoid doing that. Rather, when pointed at a flux rift, the Inducer will be able to feed flux directly into it, causing the rift to grow. Because this directly inserts flux into the rift, instead of relying on it to absorb flux on its own, rifts should be able to grow far larger than they would normally be able to. My calculations suggest that they can grow twice as large as before, so I should ensure there is enough space for these massive rifts to grow without breaking vital equipment.<BR>However, nothing in this world ever seems to come without a price, and as such the 咒波引流仪 has some caveats to its operation. First and foremost, it needs Vitium essentia in order to grow a rift. It can be fed into any side of the device except its front, via the usual piping mechanisms. It can require a lot of Vitium to grow the rift, and the amount required gradually increases as the rift's size increases, so a steady supply of Vitium is a must. The original Flux Condenser would probably pair very well with the 咒波引流仪 for this purpose.<BR>Secondly, I need to ensure the device is placed facing the rift, as the front of the device contains the rift feeding mechanism. I can place the device facing me by simply placing it as normal, but if I sneak while placing it the 咒波引流仪 will be facing away from me. I will also need to ensure that the Inducer is kept within about 12 metres of the rift, and the rift is placed in view of the Inducer. I will know when the device is in range when faint, flux-colored particles are being pulled from the 咒波引流仪 by the rift. This does not actually consume any Vitium essentia, nor does it affect the state of the rift in any discernable way.<BR>Thirdly, an important point to mention is that feeding a rift in this way will cause it to grow unstable. This is probably a side effect of inserting the flux into the rift, rather than letting the rift absorb flux at its own pace. I may wish to use one of the methods of stabilizing rifts I have researched, keeping in mind any byproducts (like flux) they produce.<BR>Finally, I can deactivate the 咒波引流仪 with a redstone signal. If the front nozzle of the Inducer is a bright purple, than it is active.
+
+thaumicaugmentation.research.impetus_generator.title=Impetus Generator
+thaumicaugmentation.research.impetus_generator.0=Mundane electrical energy is something I have already managed to generate through thaumaturgic means, despite how the two disciplines tend to work against each other. But while the Vis Generator is quite effective, it is still limited in how much RF/FE it can output, due to the fact that the linking mechanism limits the conversion rate, and trying to go beyond this limit would most likely result in the magical and mundane energies making contact, creating all manner of havoc.<BR>However, I need not be limited by vis anymore, as my recent discovery of charged impetus provides me with an alternative method of generating kinetic energy which can then be used to power an electrical generator. From some cursory investigation, impetus interacts with mundane power differently than vis does. Its unpredictable and volatile nature ironically means that it isn’t so strongly affected by it, as it can adapt itself to become resistant to mundane power’s negative influence, so I should be able to use it to generate electricity faster than I can with vis.<BR>This new generator shouldn’t be too hard to prototype since I already have the framework designed with the Vis Generator. If I swap out the appropriate vis and aura-related components with Void and impetus-centric ones, and modify the underlying linkages and energy containment systems to account for the more unpredictable forces of the Void, I should be able to feed these into the same axle and electrical generator that I used for the Vis Generator.
+thaumicaugmentation.research.impetus_generator.1=After some further study of impetus power and reworking of the designs for the Vis Generator, I now have access to a new RF/FE generating device which uses the powers of the Void in its operation as opposed to the vis I have been using previously. It takes a few more advanced components to create and requires charged impetus in order to run, but it can generate electrical power at a far better rate than the Vis Generator.<BR>Once built, the Impetus Generator is used in a very similar way to the Vis Generator. Firstly, it must be directly attached to an appropriate redstone flux or forge energy using, transferring, or storing block. Secondly, a beam of charged impetus energy must be linked into it using the Impetus Resonator to do so. Then, once the Impetus Generator receives charged impetus power, it will generate 1500 RF/FE for a small amount of impetus, of which it can output 50 RF/FE per tick. The output speed, while still limited, is much better than the Vis Generator’s, so if I have any magical devices that need mundane energy to run (or if I am dabbling in the use of mundane technology and feel like using more esoteric means of generating power) then this can act as an excellent source of it.<BR>As with most of my devices, the generator can be turned off with a redstone signal.
+
+thaumicaugmentation.research.rift_moving.title=Rift Relocation
+thaumicaugmentation.research.rift_moving.0=现实的构造似乎变化无常,某个东西能为咒波裂隙的出现原因提供证据.<BR>众所周知裂隙出现在充盈咒波的灵气场.它通常出现在地面或者存在方块的最高处.然而,它出现的位置不能被精确预测.我并不会因此将就它随机出现的位置,而是研究如何将它移动至我所希望的位置.<BR>然而将某物移至高维是难以担保的做法.假使我能将其拖拽到一个特殊地点,我仍觉得会对现实构造产生特别的毁灭性影响,因此我将不得不在如何移动它的问题上另辟蹊径.<BR>源质罐子是容纳危险物质的特殊物质,起初是针对源质.然而,通过一些额外的修饰我能使其在内部维持一个亚空间,甚至能包含空间撕裂-裂隙.因此这能阻止任何移动裂隙造成的负面影响,由于它能在罐中空间持续稳定地存在.<BR>尽管理论上听起来可行,但是我仍没有找到实现这的确切方式,同时我也没有思考将裂隙封入罐中的方法.有人会认为这是最主要的难点甚至是无解的.不过作为神秘使的我早已对这种不可能习以为常,毕竟奥术魔法非常强大.
+thaumicaugmentation.research.rift_moving.1=我已付以大量精力深入分析产生咒波裂隙的维度魔法,努力的结果是我成功设计了一种移动咒波裂隙的方法.不出所料,过程中需要一些特化设备.<BR>实现这个过程需要三种特化设备: 一个容纳裂隙的特化罐子; 一个能吸收裂隙并封入罐子的特化装置; 一个能从罐中释放裂隙的特化装置.我需要依次使用.<BR>首先是守护之罐.我将它设计地远强于普通罐子以容纳不稳定的裂隙及其栖身空间. 因此,它带有守护符文,镶嵌一个守护印记并以坚韧的魔法金属板材做基底来阻止裂隙崩解.它不再能储存源质, 但这几乎无所谓既然设计目的不同于普通罐子.<BR>其次是裂隙封装仪.它是能奇妙操控维度空间的复杂仪器,所以尽量避免在使用过程中失去它.使用时需放置在裂隙下方(中间不能被阻隔,确保过程中不要被摧毁),将守护之罐放置在其正下方(要是看到它紧连守护之罐,那便是正确放置了),接着用.<BR>This jarring process can take some time depending on how big the rift is, and as it is being jarred the rift will lose stability, but if the process is successful then the rift will vanish and be placed within the jar. It would be wise to stand back when the rift vanishes though, as when a rift closes or collapses it creates a sudden shift in reality that is quite unpleasant to the psyche of nearby people who experience it (and I’d rather not think too hard about the damage already done to my mind).<BR>However, the jarring process can fail in a few different ways. Firstly, if the rift is so unstable that it tries to collapse, then the rift will ‘snap back’ to its original size and become extremely unstable, stopping the Accumulator in the process. It will fail in a similar way if I deliberately try to collapse the rift with a causality collapser. In some cases, instead of “snapping back” to its full size, it will instead release a large amount of flux. This seems to occur when the rift would disappear in a manner other than collapsing, such as when a taint seed is produced. The Metaspatial Accumulator will also fail if it or the Reinforced jar is broken. I should also note that if there is still a lot of flux in the area when the rift is successfully jarred, then another rift may appear immediately afterward, so I should be prepared for that.<BR>Thirdly, getting the rift out of the jar. To do that, I will need a third device I have named the 裂隙释放仪. The unjarring process is very similar to the jarring one, so I must first place the Extruder down, and place a jarred rift directly underneath it. If I am wearing Goggles of Revealing, I can see an estimation of where the rift will be placed above the device. To begin, I simply need to use a caster’s gauntlet on the device. The rift will then gradually begin to appear above the device, and if the process is successful then the rift will fully form, emptying the connected jar. If the Extruder tries to place the rift close to a rift that is already present, then the device will not start the process as a safety measure, as that could get very dangerous. If the process is interrupted by the rift collapsing or the device/jar being broken, then the rift will dissipate entirely, leaving nothing more than a large cloud of flux behind, which might form a new rift in the process.<BR>There are risks involved with all of this, there is no doubt, but I cannot turn back now, and if the worst that can happen with either machine is that another flux rift is created, then so be it. After all, I can just use that flux rift instead.<BR>Finally, of note is that I can keep rifts inside reinforced jars indefinitely, so they can work well for decorative purposes, since they are safe if not disturbed. The rift will break free chaotically if the jar is destroyed in something like lava or fire however, which will create a lot of flux, cause the rift to become very unstable while also destroying the jar completely, so if I want to get the rift out then using the 裂隙释放仪 is the better thing to do. I am unsure what will happen if I try to destroy a jarred rift in a more unique way, such as with purely technological systems designed to store and catalogue items, so I should be prepared for the worst if I decide to study disciplines outside of 秘术学 and use them to destroy a jarred rift.<BR>Interestingly, a jarred rift can even be used as a means of item destruction in itself. If a device such as a hopper or golem is used to place items in it, then those items will be completely destroyed. The rift will become a little unstable as it does so, but since it is contained it will regain its stability soon after. This does leave me with a dark thought, however: what if I were to jar two rifts, and then try and destroy one jarred rift by placing it in the other, or if I were to throw one jarred rift into a rift present in the world? If I am not fully prepared to find out the answer to this conundrum, then playing it safe may be for the best...
+
+thaumicaugmentation.research.stability_field_generator.title=Advanced Stabilization Methods
+thaumicaugmentation.research.stability_field_generator.0=Dangerous magic is often naturally unstable, as chaotic magical energies are created that need to be released in one form or another, this form generally being very unpleasant for any Thaumaturge who happens to be nearby. Thus, on behalf of all Thaumaturges, I have decided to find a better way to deal with unstable magic, in this case unstable magic made by flux rifts.<BR>I have already designed a device that can stabilize flux rifts, the stabilizer, but as it was originally designed to stabilize arcane infusions it is not very effective at dealing with the more distributed form of instability that a rift creates. It works very slowly if I am only using a few, I cannot turn it off when I need to, and it creates a lot of flux that can actually make a flux rift grow even worse. It is a little bit like using a bucket of lava to put out a house fire: yes, the lava may smother some of the flames, but the lava itself is creating even more fire which spreads everywhere, and suddenly I am left without a house, the house being analogous for a stable aura I suppose.<BR>Regardless, I know I can do better than this. The Stabilizer’s ability to stabilize flux rifts is only a side effect created by how it works, so if I instead try to create a stabilizing device designed to work on flux rifts specifically, then I should be much more successful than before.<BR>Previously, I used a limited amount of mundane technology in the form of a redstone block to stabilize infusions, so I am now wondering if I can use mundane technology in a slightly more advanced fashion to get a better result. I have already managed to generate mundane electrical power in the form of RF/FE with the vis generator, so perhaps I should try to study ordinary electricity a little further? Simply bombarding a flux rift with electricity won’t work, however, so I’ll need to be intelligent with how I apply it.
+thaumicaugmentation.research.stability_field_generator.1=Mundane technology has once again provided me with the answer to my stability problems. Previously I had trouble properly understanding the links between electrical power and magical power, but after some careful study I now understand a little better how the two may interact with one another. Generally this means rather poorly, but if I am careful I should be able to use one to neutralize or otherwise restrict the other. In this case, I can use electricity in the form of redstone flux or forge energy to quell unstable rift energies.<BR>To facilitate this interaction, I have taken my design for the infusion stabilizer and heavily reworked it, so much so that my new design only vaguely resembles the old one. I am calling this new design the Stability Field Generator. It uses a few different magical and technological principles in order to operate. By taking RF or FE, sending it through some additional redstone circuits and stabilizing runes and then discharging it through an amber tip, it fires a beam which creates a containment field of sorts. The amber is a key component here; by applying sympathetic magic, I can use it to ‘trap’ a flux rift in a field of stabilizing energy, which will cause it to rapidly regain stability without the flux problem that a normal stabilizer creates.<BR>To use the device, I first need to point it so that its tip faces a flux rift. Then, I need to feed in mundane RF/FE into any side of the device except its front, since the front is where the field is emitted from. I may want to use vis generators for this, as they are very compact and can feed their power directly into a port on the Stability Field Generator. Once it receives power, the front of the device will open, and it will fire the stability field directly at the rift. It uses 100 RF/FE every second while active, which is not exactly cheap, but I have built the device so that it can be turned off by applying a redstone signal to it. The more Stability Field Generators I use on a rift, the faster it will regain stability.<BR>One major drawback that the device has is that when it is left on for extended periods of time, the stabilizing field will gradually begin to lose effectiveness as the internal mechanics begin to overheat. However, if the device is turned off, it will cool down over a period of time and eventually fully recover. I can tell how overheated a Stability Field Generator is based on two visual cues. The first is the transparency of the beam it produces, with a less opaque beam being less efficient. The other sign is the presence of electricity discharging across it, visible as red electrical arcs on and around the device. Given that it will consume the same amount of energy but mitigate much less instability while overheated, it would be wise to make sure that I turn off any Stability Field Generators when I do not need them. Hypothetically speaking, it should be reasonable for me to automate such a process.<BR>While I can readily use my 秘术学-specific means of generating electricity for the device to use, it will accept power from anywhere else as long as that power is in the form of RF or FE. Thus, if I have access to more advanced technological systems that can generate that form of electricity, or even alternate magical disciplines that interact with mundane energy, then I can use any power generators provided by them in order to power the stability field.<BR>I should note that since this device is designed to work on the more distributed form of instability that a flux rift creates, it will not be able to stabilize infusions. A pity, but it would be difficult to redesign the device a second time to work like that, and I already have the infusion stabilizer for that purpose anyway.
+
+thaumicaugmentation.research.rift_monitor.title=Monitoring Dimensional Effects
+thaumicaugmentation.research.rift_monitor.0=While I can learn a fair amount about a flux rift just by simple observation, I can only understand so much with the naked eye alone. I need a better way to study them, which I believe will require a new, specialized device.<BR>Previously I have created the Thaumic Dioptra, which uses a Thaumometer to analyze the aura in a wide radius before displaying the strengths of vis and flux as a heightmap. I believe I can rework this design, but instead make the Thaumometer at its core receptive to the energies produced by flux rifts. I could use the readings created by this device for a few different purposes, so I am sure the final product will be well worth the research.<BR>I simply must try to learn more about extra-dimensional phenomenon. Despite the risks involved, it is all so very fascinating...
+thaumicaugmentation.research.rift_monitor.1=Interesting... so very interesting... this has all been something of a learning exercise, and I now know quite a bit more about flux rifts than I did before. This knowledge will be absolutely invaluable for my future studies into dimensional magic, in fact these studies have already borne fruit in a new device I have designed, which I am calling the Extradimensional Monitor.<BR>The device contains a heavily modified Thaumometer at its core, with specially selected runes designed to make it sensitive to the energies produced by phenomena that breach into higher dimensional space. There are quite a few things that create these energies, however, so I have made sure that it only responds to the particular signature that a flux rift creates, otherwise things like Nether or End portals could interfere with the device and produce false readings.<BR>Once placed down, the Monitor scans the local area and once it picks up something it recognizes, it will begin collecting data about it, projecting that data on the display above. In the case of flux rifts, the device will display a hologram of the rift it is monitoring. It has a fairly large radius in which it can pick up rifts, but I should note that if a monitor is placed down and the rift changes size, this may cause the rift to go outside the range of the monitor and therefore it will lose track of it, so if I am monitoring a rift that changes size frequently then I should try to keep the monitor fairly close by.<BR>The device has two modes that I can switch between by right-clicking the device, these modes being for size and stability. Size mode analyses how large a flux rift is. The grid below has a pair of markers that show how tall a two block stack is in comparison to the size of the flux rift, so I can use that to tell roughly how big the rift is compared to myself. Stability mode is designed to monitor the rift’s stability, unsurprisingly. The view is pulled in closer to a cross-section of the rift hologram, and from there I can observe how much the rift is shaking to better see how unstable it is. As I have noted before, a perfectly stable rift will be perfectly still, and a very unstable one will thrash about violently.<BR>Another feature the device has, one that may prove to be particularly useful, is its ability to create a redstone signal. By connecting a redstone comparator to the side of the monitor, the comparator will output a redstone signal that correlates to the current size or stability of the rift it is analyzing, depending on what mode the monitor is set to. For instance, if the monitor is set to size mode, then the comparator signal will become stronger the larger the rift is, and if it is set to stability mode, the comparator signal will get stronger the more stable the rift is. I can see potential future use in automatic rift management systems with this feature, like ensuring that a void siphon draining the rift is turned off if the rift gets too small or unstable.<BR>As the dimensional fractures I have discovered are a naturally appearing variant of flux rifts that create a bridge across dimensions, the Extradimensional Monitor can very easily be tuned to analyze them. As with flux rifts, the device has two modes for fracture reading.<BR>Mode one reads the fracture and shows some details about where it leads to. A 7 by 7 grid is displayed beneath the fracture, with this showing the ambient colours of the biome that it leads to. The potential grass colour of the biome is displayed in the 3x3 centre of the grid, the potential foliage colour is displayed in the hollow 5x5 grid around that, and the water colour is displayed in the hollow 7x7 grid around that. This is somewhat limited, but I can gain some insight about the destination, with greener colours of grass and foliage leading to more lush areas, yellower colours of grass leading to arid areas like deserts, darker coloured water likely leading to swamp-like areas, so on and so forth. Different dimensions are also indicated this way, so to better differentiate them from biomes in the Overworld.<BR>Mode two pulls the view in closer to the fracture, but unlike with rifts it does not monitor stability, since fractures do not get unstable. Instead, it just provides a closer look, which I can use to see if the fracture is open or closed.<BR>I am learning so much about dimensional tears as of late, and I can sense such potential lurking here. For now, I can only imagine what I might be able to create with all of this knowledge in the future.
+
+thaumicaugmentation.research.primordial_wisp.title=原始精灵
+thaumicaugmentation.research.primordial_wisp.0=我原以为是一个裂缝瓦解了另一个裂缝产生了什么东西，但好像这样说不对。显然，通过结合2两种浑沌裂隙的能量在现实世界中创造出了生命，或者至少是类似的东西。不过这个生命似乎并不感谢被我创造。<BR>我以前以曾见过精灵，但都没有这一种这样强大。与普通的单核心精灵不同，这种精灵似乎是由多个核心紧密围绕这组成的，每个核心代表着不同属性的原始能量。他的攻击方式和普通精灵一样，但有所差别的是，它总是敌对的。必须用更强的攻击才能击败他。<BR>他似乎会对周围的环境做出翻译，从灵气场和物质中吸取能量，这让我相信他的力量可能略有不同，这取决于它吸收了什么物质。<BR>尽管这个新生物是那么出乎意料的危险，但这仍然对我有用，如果我足够强大，我应该试着去击败他。我相信，减弱的浑沌力量可能会凝结出比简单魔力结晶更有价值的东西。
+
+thaumicaugmentation.research.vis_battery_augment.title=护手魔力缓存
+thaumicaugmentation.research.vis_battery_augment.0=我在改良法师护手方面有了重大突破,使得我能更强力更迅速更高效地施法,甚至三者同时兼备.然而对核心来说仍有一个关键问题:缺乏强大的灵气后勤支撑, 我将不能施放任意魔法，无论我做了多少的护手强化.<BR>话虽如此, 再利用我的旧发明是诸多神秘问题的解决办法,我认为这也不例外.灵气电池几乎就是我所需要的;它能在灵气场丰盈之时吸收储存vis,相应的在灵气场枯竭之时释放.唯一的难点是让电池仅仅在我施法之时释放VIS。但我在遇到困境时总能另辟蹊径,我相信在此也不例外.
+thaumicaugmentation.research.vis_battery_augment.1=尽管有些不太对劲,我在神秘学的研究方面取得重要的进展. 我所发明的便携灵气电池已经弥补了Vis电池的一个重要缺点。<BR>便携灵气电池的工作方式与其前辈相似.不必借助其他工具,只是简单地暴露于灵气场中便可自动吸收.它也只会在灵气高于容量的90%才会吸收灵气.然而不同于其前辈,它不会在灵气场枯竭之时释放灵气.而是在灵气场不足以支持我施法时提供灵气.这意味着我不能将它作为真正的灵气电池使用,因为我不能控制其中灵气的释放，但其实这不是我一开始的目的。<BR>尽管我成功串联了四个灵气电池,它的容量仍不尽人意.我只能通过减免灵气的增效水晶来弥补它时常枯竭的灵气储量.（这种道具属于护手增强，直接和护手在工作台里进行合成来强化护手。译者注

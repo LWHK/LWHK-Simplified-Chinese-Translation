@@ -1,0 +1,10 @@
+{
+  "name": "item.bewitchment.book_of_shadows.name",
+  "version": "4",
+  "landing_text": "info.bewitchment.book_of_shadows.landing",
+  "model": "bewitchment:book_of_shadows",
+  "book_texture": "bewitchment:textures/gui/book.png",
+  "show_toasts": false,
+  "creative_tab": "bewitchment",
+  "show_progress": false
+}

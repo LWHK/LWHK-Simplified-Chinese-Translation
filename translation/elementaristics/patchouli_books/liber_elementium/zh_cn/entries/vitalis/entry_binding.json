@@ -1,16 +1,16 @@
 {
-  "name": "Binding Bodies",
+  "name": "绑定身体",
   "icon": "elementaristics:incantation_binding",
   "category": "vis_vitalis",
   "advancement": "elementaristics:progress_potential",
   "pages": [
     {
       "type": "text",
-      "text": "With the \"$(t:The potential power, mind you)power$()\"of $(t:Invoked with a Heart of Stone)potential$(), bodies can be bound to each other.$(br)In order to do so, the Rite of Binding must be cast. $(br)For the rite to have an effect, some criteria must be met:"
+      "text": "伴随着 \"$(t:请注意那潜在的力量)潜藏的$()\"of $(t:通过石之心来召唤)力量$()，身体可以彼此绑定。$(br)为了做到这些，举行一场绑定仪式是必要的。$(br)仪式如果要想产生效果，就必须满足一些标准："
     },
     {
       "type": "text",
-      "text": "$(li)One entity nearby has $(marked)potential$(), which can be applied by hitting it with a $(l:vitalis/entry_heart_stone)Heart of Stone$()$(li)One $(t:Yourself, at best)player$() must be pretty close to the Nexus$(li)A Heart of Stone must be tossed near the altar.$(br)The closest player to the altar will then bind their body to the living entity with potential.$(br)This will have effects $(t:i.e. being under the Health Sharing effect)under certain conditions$(). "
+      "text": "$(li)附近的一个实体有$(marked)潜藏的力量$()，可以通过用 $(l:vitalis/entry_heart_stone)石之心$()$(li)与一个$(t:最好是你自己)玩家$()产生相当紧密的联系。$(li)一个石之心必须被扔到祭坛的附近。$(br)最靠近祭坛的玩家将会把他们的身体与那有着潜力的生命实体结合在一起。$(br)这将产生在一定条件下的 $(t:i.e。将会处在生命共享效果下)影响$()。"
     },
     {
       "type": "crafting",
@@ -19,7 +19,7 @@
     },
     {
       "type": "text",
-      "text": "Usually, the player can only bind to one entity.$(br)If the player wants to remove all of their bound entities, they can simply perform the $(marked)Unbinding Rite$(), which will unbind all entities for the closest player$().$(br)When using a $(item)Heart of Stone$(), particles will appear around all entities the user is bound to."
+      "text": "通常，玩家只能与一个生命实体相绑定。$(br)如果玩家想要删除所有的绑定实体，他们可以简单地举行$(marked)解除绑定仪式$()，那仪式将为最接近的玩家解除所有实体的绑定。$().$(br)当使用$(item)石之心$()时，会有粒子效果出现在玩家绑定的所有实体周围。"
     }
   ]
 }

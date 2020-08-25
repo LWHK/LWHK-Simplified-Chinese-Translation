@@ -1,18 +1,18 @@
 {
-  "name": "Protoplasm",
+  "name": "原生质",
   "icon": "elementaristics:protoplasm",
   "category": "vis_vitalis",
   "advancement": "elementaristics:progress_glory",
   "pages": [
     {
       "type": "text",
-      "text": "Protoplasm is the physical manifestation of the Thread, and is an incredibly malleable, organic substance, that can be shaped in quite a lot of ways. $(o)This could be useful later on...$()"
+      "text": "原生质是门径的物理表现，是一种极具延展性的有机物质，这可以在通过很多方式来进行塑造。$(o)这在以后将会很有用……$()"
     },
     {
       "type": "spotlight",
       "item": "elementaristics:protoplasm",
       "link_recipe": true,
-      "text": "Protoplasm is created by feeding a bestowed $(l:alchemy/entry_flesh_lamb)forgotten memory$() to a $(marked)tamed living being$() or a player, destroying the creature's body in the process and rearranging it into a protoplasmic sample. This requires a lot of Magan to work."
+      "text": "原生质由将$(l:alchemy/entry_flesh_lamb)失落的记忆$()喂食给$(marked)被驯服的动物$()或玩家得到，在此过程中将会摧毁生物的身体并将其重新排列成原生质样本。这一过程将消耗大量的源力（magan）。"
     },
     {
       "type": "image",
@@ -21,15 +21,15 @@
         "elementaristics:textures/images/slimecreated.png"
       ],
       "border": true,
-      "text": "This sample may be thrown into water to create a Protoplasmic Slime."
+      "text": "这个样本可以被丢到水中以生成原生质史莱姆。"
     },
     {
       "type": "text",
-      "text": "But behold! This slime is aggressive, and may only be tamed with a sufficient amount of $(l:vitalis/entry_moss_everchanging)Everchanging Moss$(). Once tamed, this slime can be dyed, may be commanded to sit or follow its owner, albeit slowly, and will also defend them if necessary. The Protoplasmic Slime may also gain in size under special circumstances."
+      "text": "但是看哪! 这种史莱姆具有攻击性，只有用足够多的$(l:vitalis/entry_moss_everchanging)Everchanging Moss$()才能驯服。一旦驯服，这些史莱姆可以被染色，也可以被命令坐下或跟随其主人，尽管它移动缓慢，但如果需要，它将会保护它的主人。在特殊情况下，原生质史莱姆也会增大。"
     },
     {
       "type": "text",
-      "text": "Over time, one may also notice other special properties. As example, the slimes seem to harden when on colder surfaces like snow or ice."
+      "text": "随着时间的推移，人们也注意到其他一些特性。比如说，这些史莱姆在雪或者冰的表面上似乎会变硬。"
     }
   ]
 }

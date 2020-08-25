@@ -1,40 +1,40 @@
 {
-  "name": "The Slime and Its Master",
+  "name": "史莱姆和它的主人",
   "icon": "elementaristics:textures/gui/icons/slimehand.png",
   "category": "vis_vitalis",
   "advancement": "elementaristics:progress_slime",
   "pages": [
     {
       "type": "text",
-      "text": "$(l:vitalis/entry_protoplasm)Protoplasmic Slimes$() are, other than being nice slime pets, also able to perform simple tasks. In order to begin creating tasks for a slime, one must first acquire a $(l:shaping/entry_thaumagral)Thaumagral$() of any kind, and press the $(l)$(k:elementaristics_master)$() key. The menu that will appear can be hidden by pressing $(k:elementaristics_master) again. The task list can be cleared by pressing the key while sneaking."
+      "text": "$(l:vitalis/entry_protoplasm)原生质史莱姆$()除了是可爱的史莱姆宠物外，他们还能执行简单的任务。为了让史莱姆开始执行任务，首先必须得到一个任意类型的$(l:shaping/entry_thaumagral)Thaumagral$()，然后按下这个$(l)$(k:elementaristics_master)$()键。再次按下这个$(k:elementaristics_master)键可以将这个菜单隐藏起来。在潜行状态下按下键则可以清除任务列表。"
     },
     {
       "type": "text",
-      "text": "To create a list of tasks, simply cycle through the available tasks with the $(l)$(k:elementaristics_up)$() or the $(l)$(k:elementaristics_down)$() key and set them. The way a task is set is described on the following pages for each task.$(br2)Each task is also visually represented with particles when the Thaumagral is held; as example, Navigation tasks will connect to each other in orange particles, which turn grey when the distance exceeds the slime's following range."
+      "text": "为了创建一个任务列表，只需使用简单$(l)$(k:elementaristics_up)$()or键$(l)$(k:elementaristics_down)$()循环可用任务并设置它们。在下面的页面中将描述每个任务的设置方法。$(br2)当手上握着Thaumagral时，每个任务将会以粒子效果直观表现;例如，导航任务将会以橙色的粒子相互连接，而当超出史莱姆的跟随范围时，它们将会变成灰色。"
     },
     {
       "type": "text",
-      "title": "Navigate to",
-      "text": "This task will command the slime to move towards a certain point. It is set by interacting with the block at the position in question, while having the according mode set. Navigation tasks are represented by orange connected particles, unless the distance is too long."
+      "title": "导航任务",
+      "text": "这个任务会命令史莱姆移动到某个指定的地点。它是通过与相应位置的方块交互来设置，同时设置相应的模式。导航任务用橙色的粒子连接，除非距离过远。"
     },
     {
       "type": "text",
-      "title": "Wait",
-      "text": "Commands the slime to wait for a certain time in seconds. The time is set by using the Thaumagral while sneaking, which will increase the timer by one second. Once the timer is high enough, the task can be added by using the Thaumagral normally, with the according mode set. Waiting tasks are represented in a very light purple that will dye the previous task."
+      "title": "等待任务",
+      "text": "命令史莱姆在几秒钟内等待一段时间。在潜行的同时使用Thaumagral来设定时间，这将使计时器增加一秒。当计时器的时间足够高时，便可以正常使用Thaumagral来添加任务，并设置相应的模式。等待任务用浅紫色的粒子表示，并将覆盖前一个任务。"
     },
     {
       "type": "text",
-      "title": "Collect",
-      "text": "Collecting tasks are set by choosing a block that is an inventory, and interacting with it while sneaking. The slime will take an item stack out of the set block, if possible, otherwise it will keep trying. An item can be held in the off-hand while setting the task to determine what item and which $(t:The amount may be set to an entire stack if the Thaumagral is used while sneaking. This is toggled by doing the same again.)$(marked)$(o)amounts$() should be taken. The task is represented by bright green particles close to the set block."
+      "title": "收集任务",
+      "text": "收集任务是通过选择一个库存方块来设置的，并在潜行时与其交互。如果可以的话，史莱姆将会从设置的方块中取出一个物品堆积，否则它将一直尝试在设置一个任务时，可以随意地手持一件物品，来设置拿取的数量 $(t:如果在潜行时使用Thaunmagrel，可以将数量设置为整组。这可以通过再次执行相同的操作来切换。)$(marked)$(o)和$()和应该拿取的多少。这个任务用靠近设置快的亮绿色粒子来表示。"
     },
     {
       "type": "text",
-      "title": "Store",
-      "text": "This task is set similarly to the Collect task, but it will instead of taking an item from the linked inventory transfer the slime's held item stack into the inventory. If the task is set with a stack, the slime will only transfer the specified amount, and only if the slime holds the specified item."
+      "title": "储藏任务",
+      "text": "这个任务的设置方式类似于收集任务，但它会将史莱姆所持有的物品转移到库存中，而不是从链接的库存中取出物品。如果人物被设置为一个堆栈，那么史莱姆只会转移指定的数目，且只有当史莱姆持有指定的物品时才会进行转移。"
     },
     {
       "type": "text",
-      "text": "Finally, the created task list can be applied to a tamed Protoplasmic Slime by using the Thaumagral on it. The slime's tasks can also be reset by using the Thaumagral while sneaking. One may hit the slime with a Thaumagral to copy its tasks onto the tool, considered that the slimes does have tasks.$(br)Protoplasmic Slimes will stop their tasks if they are forced to sit, but will otherwise not follow their owner. "
+      "text": "最后，创建的任务列表可以通过Thaumagral被应用到已被驯服的原生质史莱姆。在潜行状态时，史莱姆的任务也可以通过使用Thaumagral来重置。考虑到史莱姆确实有任务，可以使用Thaumagral来击打史莱姆，将其任务复制到工具上。$(br)如果它们被命令坐着，那么原生质史莱姆将会停止他们的任务，但不会跟随它的主人。"
     }
   ]
 }

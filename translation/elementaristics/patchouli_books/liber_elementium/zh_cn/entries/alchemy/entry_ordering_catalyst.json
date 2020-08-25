@@ -1,17 +1,17 @@
 {
-  "name": "Ordering Catalysts",
+  "name": "秩序触媒",
   "icon": "elementaristics:catalyst_ordering",
   "advancement": "elementaristics:progress_ascension_2",
   "category": "alchemy",
   "pages": [
     {
       "type": "text",
-      "text": "$(item)Ordering Catalysts$() are pretty much the opposite of $(item)Entropizing Catalysts$(), supplying the aspect of Order for rites.$(br)The surface of this catalyst is smoother than quartz, and keeping it next to the oneself while sleeping is kind of soothing."
+      "text": "$(item)秩序触媒$()是$(item)熵增触媒$()的完全相反的版本，可以为仪式提供秩序元素。$(br)秩序触媒的表面比石英还要光滑，睡觉时将其放在身边，你会感到一种莫名的安慰感。"
     },
     {
       "type": "tunneler_recipe",
       "recipe": "elementaristics:catalyst_ordering",
-      "text": "$(o)Lawful-Good$()"
+      "text": "$(o)合法-商品$()"
     }
   ]
 }

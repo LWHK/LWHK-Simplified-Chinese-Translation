@@ -1,17 +1,17 @@
 {
-  "name": "Opium Plant",
+  "name": "鸦片酊",
   "icon": "elementaristics:petal_opium",
   "advancement": "elementaristics:progress_ascension_identification",
   "category": "vis_vitalis",
   "pages": [
     {
       "type": "text",
-      "text": "This close relative to the poppy is created with some arcane shenanigans.$(br)It does not look much different, yet its seeds have some good use in the creation of $(item)$(l:alchemy/entry_laudanum)Arcane Laudanum$()."
+      "text": "这种与罂粟的近亲是通过一些神秘的把戏所得到。$(br)它看起来与一般的罂粟并没有太大的不同之处，但它的种子在制造$(item)$(l:alchemy/entry_laudanum)奥术鸦片酊$()时很有用。"
     },
     {
-      "type": "reactor_recipe",
+      "type": "反应器配方",
       "recipe": "elementaristics:seeds_opium",
-      "text": "Simply letting a Poppy react with Mind Essence should do the trick."
+      "text": "简单地让罂粟花与心智源质起作用就可以了。"
     }
   ]
 }

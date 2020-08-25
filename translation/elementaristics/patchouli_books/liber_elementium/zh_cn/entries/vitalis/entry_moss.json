@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(marked)Moss$() is really just basic moss... that has been modified a bit to spread faster.$(br)This moss can be planted on $(marked)Cobblestone$(), and will spread across other tiles of it. $(br)It will also turn those tiles into $(marked)Mossy Cobblestone$()."
+      "text": "$(marked)Moss$()是基本的苔藓……这种苔藓为了更快地传播，进行了一些小小的修改.$(br)这种苔藓可以被种植$(marked)圆石$()上，并可以蔓延到其他的圆石表面。$(br)它也可以将圆石变成$(marked)苔石$()。"
     },
     {
       "type": "crafting",

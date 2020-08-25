@@ -1,16 +1,16 @@
 {
-  "name": "Rethinking",
+  "name": "反思",
   "category": "vis_vitalis",
   "icon": "minecraft:bed",
   "advancement": "elementaristics:progress_ascension_4",
   "pages": [
     {
       "type": "text",
-      "text": "The step of Rethinking is one of the more mental steps of Ascension. It consists entirely of $(marked)Meditation$().$(br2)The step is initiated with meditating in $(marked)trance$() while in $(marked)ecstasy$().$(br)The ecstasy must be one of inconceivable strength, one that can be granted with $(l:alchemy/entry_wine)$(item)Redmost Wine$()."
+      "text": "反思这一步是提升精神最多的步骤。它完全由冥想 $(marked)构成$().$(br2)这个步骤是在$(marked)恍惚状态$() 和狂喜状态下 $(marked)开始的$().$(br)这种狂喜状态一定是一种不可思议的力量，一种由殷红之酒所赐予的 $(l:alchemy/entry_wine)$(item)力量$()."
     },
     {
       "type": "text",
-      "text": "In order to continue, I will need to apply a certain emotion to myself and then meditate. I will learn what to feel next once I am in the state of rethinking. $(br2)If I want to be prepared completely, I'll need to be able to feel $(o)right$() at all times."
+      "text": "为了继续，我需要给自己注入某种情绪，然后冥想。一旦我处于反思的状态，我就会知道我接下来的感受。$(br2)如果我想完全做好准备，那么我需要在任何时候都 $(o)保持$() 感觉良好."
     }
   ]
 }

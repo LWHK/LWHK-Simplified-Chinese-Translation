@@ -1,0 +1,9 @@
+{
+	"name": " the Well 大百科",
+	"subtitle": " ",
+	"version": 1,
+	"model": "hwell:book",
+	"book_texture": "patchouli:textures/gui/book_purple.png",
+	"show_progress": false,
+	"landing_text": "欢迎来到 Hearth Well 的世界. 这个mod的目的是为了制造一些有意思的机器和物品(我希望你能享受在造机器的过程中的快乐) , 而且我保证此mod绝对没有你想象的那么难, 此mod没有复杂的GUI和复杂的制作工序, 同时此mod中也有足够多的多样性的物品让你继续乐意游玩此mod."
+}

@@ -7,12 +7,12 @@
     {
       "type": "spotlight",
       "item": "elementaristics:flower_laughter",
-      "text": "The scent of $(item)Risium$() reminds of times of struggle, of past times, even the lucky times.$(br)And then we $(marked)laugh$().$(br2)Meditating near it might bring the deepest memories, and cause the greatest elation.",
+      "text": "$(item)Risium$()的气味会令人想起那些奋斗的时光，那些过去的时光，以及幸运的时光。$(br)然后我们将会$(marked)笑$()。$(br2)在它附近冥想可以带来最深的记忆，从而引起最大的兴奋。",
       "link_recipe": true
     },
     {
       "type": "text",
-      "text": "To create Risium plants, a $(l:vitalis/entry_seed)Dormant Seed$() must be consumed under $(marked)laughter$(). The person consuming the seed must be in the $(marked)Overworld$().$(br2)$(o)W h e e z e$()"
+      "text": "要获得Risium，必须在$(marked)大笑$()的状态下消耗一个$(l:vitalis/entry_seed)休眠种子$()。使用种子的的人必须在$(marked)主世界$()。$(br2)$(o)W h e e z e$()"
     }
   ]
 }
