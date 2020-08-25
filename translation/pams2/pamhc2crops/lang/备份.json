@@ -1,5 +1,3 @@
-也无所谓这个是json还是lang了，这纯粹就是一个备份
-
 {
 	"itemGroup.pamhc2crops": "潘马斯农场2：作物", //crop->作物
 	//如果有必要可以将浆果、莓类的作物名改为XX灌木，茶叶(Tealeaf Crop)作物名改为茶树(Tea Plant)等等，此处暂不做更改
@@ -268,4 +266,5 @@
 	"item.pamhc2crops.roastedmushroomitem": "Roasted Mushroom",
 	"item.pamhc2crops.hotteaitem": "热茶",
 	"item.pamhc2crops.hotcoffeeitem": "热咖啡"
+	//都是注释，无所谓。
 }
