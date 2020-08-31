@@ -159,7 +159,7 @@
 			},
 			{
 				"type": "text",
-				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保多有的东西都放置在了正确的位置，如果你讲物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。下一步则是为你的符文附魔。"
+				"value": "现在，拿上你的符文锻造锤，对着已经放置在铁砧上的物品奋力敲打吧。但你要注意，一定要确保所有的东西都放置在了正确的位置，如果你将物品放置在了错误的位置并开始了锻造，那么这些物品将会从铁砧上弹出。\n\n敲打足够多的次数之后，锻造过程就完成了。下一步则是为你的符文附魔。"
 			}
 		],
 		"related_recipes": [
@@ -2943,17 +2943,17 @@
 			}
 		]
 	},
-	"Rune Pattern: Air": {
+	"符文样式：气": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文样式：风"
+				"value": "符文样式：气"
 			},
 			{
 				"type": "text",
-				"value": "The air rune pattern is used to apply enchantments focusing around the element of air."
+				"value": "气符文样式可用于为工具附加上与气元素相关的附魔。"
 			}
 		],
 		"related_recipes": [
@@ -2963,7 +2963,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Arcane": {
+	"符文样式：奥术": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -2973,7 +2973,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The air rune pattern is used to apply enchantments focusing around the realm of the arcane."
+				"value": "奥术符文样式可用于为工具附加上与奥术领域息息相关的附魔。"
 			}
 		],
 		"related_recipes": [
@@ -2983,7 +2983,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Aura": {
+	"符文样式：灵气": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -2993,7 +2993,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The air rune pattern is used to apply enchantments focusing on auras surrounding the enchantment bearer.  These enchantments are extremely powerful and can even affect nearby allies."
+				"value": "这一样式可为工具附加上与灵气有关的附魔，灵气附魔的效果会环绕于被附工具的周围。这种附魔极为强大，其效果甚至可以影响到周围的盟友。"
 			}
 		],
 		"related_recipes": [
@@ -3003,7 +3003,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Defense": {
+	"符文样式：防御": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -3013,7 +3013,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This rune pattern is used in conjunction with enchantments focusing on defense."
+				"value": "这一符文样式可用于为工具附加上与防御相关的附魔。"
 			}
 		],
 		"related_recipes": [
@@ -3023,17 +3023,17 @@
 			}
 		]
 	},
-	"Rune Pattern: Earth": {
+	"符文样式：地": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文样式：大地"
+				"value": "符文样式：地"
 			},
 			{
 				"type": "text",
-				"value": "The air rune pattern is used to apply enchantments focusing around the element of earth."
+				"value": "地符文样式可用于为工具附加上与地元素相关的附魔。"
 			}
 		],
 		"related_recipes": [
@@ -3043,7 +3043,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Ender": {
+	"符文样式：末影": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -3053,7 +3053,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The air rune pattern is used to apply enchantments focusing around the realm of the end."
+				"value": "末影符文样式可用于为工具附加上与末影领域相关的附魔。"
 			}
 		],
 		"related_recipes": [
@@ -3063,7 +3063,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Fire": {
+	"符文样式：火": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -3073,7 +3073,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The air rune pattern is used to apply enchantments focusing around the element of fire."
+				"value": "火符文样式可用于为工具附加上与火元素相关的附魔。"
 			}
 		],
 		"related_recipes": [
@@ -3083,7 +3083,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Metal Ritual Rune": {
+	"符文样式：金属仪式符文": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -3093,7 +3093,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This rune pattern is used to create permanent runes for use in rituals."
+				"value": "这一样式可用于制作仪式中的永久使用符文。"
 			}
 		],
 		"related_recipes": [
@@ -3123,7 +3123,7 @@
 			}
 		]
 	},
-	"Rune Pattern: Water": {
+	"符文样式：水": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
@@ -3133,7 +3133,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The air rune pattern is used to apply enchantments focusing around the element of water."
+				"value": "水符文样式可用于为工具附加上与水元素相关的附魔。"
 			}
 		],
 		"related_recipes": [
@@ -3153,7 +3153,7 @@
 			},
 			{
 				"type": "text",
-				"value": "对于法师而言，使用法杖或者魔杖施法，才能体现出法师的尊贵优雅。你可以在战利品箱中发现一些早已沾满了尘埃的法杖，其内还记录了一些法术，只不过使用次数极为有限。 Staves and wands with charges do not consume mana to cast, but will eventually break.\n\n可以在织魔台上将法术绑定到法杖上。"
+				"value": "对于法师而言，使用法杖或者魔杖施法，才能体现出法师的尊贵优雅。你可以在战利品箱中发现一些早已沾满了尘埃的法杖，其内还记录了一些法术，只不过使用次数极为有限。带有使用次数的权杖和法杖，在使用时不会消耗魔力，但次数耗尽后，它们会立刻损坏。\n\n可以在织魔台上将法术绑定到法杖上。"
 			}
 		],
 		"related_recipes": [
