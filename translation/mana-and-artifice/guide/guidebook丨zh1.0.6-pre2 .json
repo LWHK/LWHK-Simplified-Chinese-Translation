@@ -60,17 +60,17 @@
 			}
 		]
 	},
-	"Occulus": {
+	"神秘核心": {
 		"category": "basics",
 		"index": -3,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Occulus"
+				"value": "神秘核心"
 			},
 			{
 				"type": "text",
-				"value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, hover your mouse over the progress bar on the right."
+				"value": "神秘核心与奥秘古籍一样，能够帮助你更好的游玩本模组。它会向你展示出模组流程中解锁物品所需要做的那些事情，以及还有哪些内容是你上位解锁的。\n\n想要知道推进进度所需要做的事，将你的鼠标移至右侧的进度条即可。"
 			}
 		],
 		"related_recipes": [
@@ -80,31 +80,31 @@
 			}
 		]
 	},
-	"Factions": {
+	"学派": {
 		"category": "basics",
 		"index": -3,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Factions"
+				"value": "学派"
 			},
 			{
 				"type": "text",
-				"value": "At a certain point in your journey through the world of the arcane, you will need to choose a faction.  This is given to you as a choice of a series of rituals to complete.\n\nChoose wisely.\n\nYour faction, once chosen, cannot be changed.  \n\n(DEV NOTE: the following features are not yet implemented)\n\nYou will also make enemies of the other two factions, causing them to send their assassins after you.  You will gain reputation with your faction by doing so and will unlock additional trades and resources."
+				"value": "在你畅游于这个奥术世界的旅途中，你必须在某个特定时刻为自己选择一个学派。学派决定了你在进阶时需要完成的仪式的种类。\n\n记住，三思而后行。\n\n一旦选择了特定的学派，就无法做出更改了。\n\n(DEV 事项：下列的玩法还没有完善)\n\nYou will also make enemies of the other two factions, causing them to send their assassins after you.  You will gain reputation with your faction by doing so and will unlock additional trades and resources."
 			}
 		],
 		"related_recipes": []
 	},
-	"Manaweaving Altar": {
+	"织魔祭坛": {
 		"category": "manaweaving",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Manaweaving Altar"
+				"value": "织魔祭坛"
 			},
 			{
 				"type": "text",
-				"value": "The manaweaving altar helps combine ingredients and manaweaving symbols over a pool of enchanted water."
+				"value": "织魔祭坛可以在注魔之池上融合原料以及织魔符号。"
 			}
 		],
 		"related_recipes": [
@@ -118,12 +118,12 @@
 			}
 		]
 	},
-	"Ritual Foci": {
+	"仪式核心": {
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "仪式聚能核心"
+				"value": "仪式核心"
 			},
 			{
 				"type": "text",
@@ -3544,17 +3544,17 @@
 			}
 		]
 	},
-	"Burning Hells": {
+	"燃烬地狱": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Burning Hells"
+				"value": "燃烬地狱仪式"
 			},
 			{
 				"type": "text",
-				"value": "This forbidden ritual summons a demon lord.  These demons often offer power to those that seek it, though with power always comes a price.  Demons are very powerful, and respect only those that can withstand such power.  Proper precautions should be taken before attempting to make an bargain with a demon.  Allying oneself with such entities will almost assuredly make enemies of others."
+				"value": "这一禁忌的仪式会召唤出一名恶魔君主。这些恶魔会将力量赋予那些寻求于它的人，但毋庸置疑，你得为你的渴求付出一些代价。恶魔的力量十分强大，且它们只会尊敬那些能够驾驭住这股力量的人。在尝试与恶魔进行交易之前，一些预防工作是十分必要的。而与这样的生物进行结盟，会使你与其它势力变为敌对关系。"
 			}
 		],
 		"related_recipes": [
@@ -3564,17 +3564,17 @@
 			}
 		]
 	},
-	"Faerie Courts": {
+	"仙女之庭": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Faerie Courts"
+				"value": "仙女之庭仪式"
 			},
 			{
 				"type": "text",
-				"value": "This forbidden ritual summons a faerie queen.  Through bargains, the fey often offer power to those that seek it, though with power always comes a price.  Allying oneself with such entities will almost assuredly make enemies of others."
+				"value": "这一禁忌的仪式会召唤出一名仙女女王。在进行交易过后，这些仙女往往会将力量赋予那些寻求于它的人，但毋庸置疑，你得为你的渴求付出一些代价。 与这样的生物进行结盟，会使你与其它势力变为敌对关系。"
 			}
 		],
 		"related_recipes": [
@@ -3584,17 +3584,17 @@
 			}
 		]
 	},
-	"Wizard's Council": {
+	"巫师议会": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Wizard's Council"
+				"value": "巫师议会仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual summons a conclave from the Wizard Council.  By doing so, you are offering to align yourself with the council in exchange for access to their knowledge of higher magics.  Allying oneself with such entities will almost assuredly make enemies of others."
+				"value": "这一仪式会开启一场来自巫师议会的会议。通过这样的方式，你可以与巫师议会结盟，以换取它们对于高等魔法的知识、与这样的生物进行结盟，会使你与其它势力变为敌对关系。"
 			}
 		],
 		"related_recipes": [
@@ -3604,13 +3604,13 @@
 			}
 		]
 	},
-	"Flat Lands": {
+	"平坦之地": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Flat Lands"
+				"value": "平坦之地仪式"
 			},
 			{
 				"type": "text",
