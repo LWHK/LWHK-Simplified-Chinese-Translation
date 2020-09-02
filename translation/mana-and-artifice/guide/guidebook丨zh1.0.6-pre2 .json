@@ -3614,7 +3614,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target."
+				"value": "这一强大魔法可以让巫师利用特殊的标记符文来标记一块区域，then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target."
 			},
 			{
 				"type": "item",
@@ -3623,7 +3623,7 @@
 			},
 			{
 				"type": "text",
-				"value": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like.\n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so.  Any larger just seems to consume the materials and then quickly implode upon itself.  Conversely, any dimension smaller than 3m also seems to have the same effect."
+				"value": "似乎只有基础的方块才会被这一法术影响，而箱子、熔炉等方块则不会被影响。\n\n有传闻称，没有任何法师可以将这一仪式的最大生效范围提升至48米以上。Any larger just seems to consume the materials and then quickly implode upon itself.  Conversely, any dimension smaller than 3m also seems to have the same effect."
 			}
 		],
 		"related_recipes": [
@@ -3641,17 +3641,17 @@
 			}
 		]
 	},
-	"Clear Skies": {
+	"澄空": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of Clear Skies"
+				"value": "澄空仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect."
+				"value": "这一仪式可以帮助我将当前的天气转换为碧空如洗的晴天。吟唱咒语 'rain, rain, go away, come again another day' 不会带来任何的额外效果。"
 			}
 		],
 		"related_recipes": [
@@ -3661,18 +3661,18 @@
 			}
 		]
 	},
-	"Monsoon": {
+	"季风": {
 		"index": 0,
 		"category": "rituals",
 		"tier": 4,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Monsoon"
+				"value": "季风仪式"
 			},
 			{
 				"type": "text",
-				"value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain."
+				"value": "使用这一仪式可以招来倾盆大雨。如果我在仪式上添加一些灰色羊毛，仪式会使得天气转变为雷暴。如果我不添加羊毛，那么就只会招来雨水。"
 			}
 		],
 		"related_recipes": [
@@ -3686,17 +3686,17 @@
 			}
 		]
 	},
-	"Rune Pattern: Marking": {
+	"符文样式：标记": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Marking"
+				"value": "符文样式：标记"
 			},
 			{
 				"type": "text",
-				"value": "The rune of marking is used to mark a location, and is used to target certain rituals.  Using the rune on a given block will store the block's coordinates within the rune.\n\nTypically these runes aren't powerful enough to have an effect over long distances."
+				"value": "标记符文用于标记区域，在一些特定的仪式中才会使用到它。对着方块右键，可以将这一方块的坐标存入符文中。\n\n这些符文往往因为内含能量较少，而无法标记过大的区域。"
 			}
 		],
 		"related_recipes": [
@@ -3706,13 +3706,13 @@
 			}
 		]
 	},
-	"Unguent of Seeing": {
+	"视之渴求": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Unguent of Seeing"
+				"value": "视之渴求"
 			},
 			{
 				"type": "text",
@@ -3726,13 +3726,13 @@
 			}
 		]
 	},
-	"Component: Blink": {
+	"构件：闪现": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Component: Blink"
+				"value": "构件：闪现"
 			},
 			{
 				"type": "text",
@@ -3746,17 +3746,17 @@
 			}
 		]
 	},
-	"Component: Transplace": {
+	"构件：转位": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Component: Transplace"
+				"value": "构件：转位"
 			},
 			{
 				"type": "text",
-				"value": "This component causes the target and the caster to swap positions."
+				"value": "这一构件会使得目标与施放者交换位置。"
 			}
 		],
 		"related_recipes": [
