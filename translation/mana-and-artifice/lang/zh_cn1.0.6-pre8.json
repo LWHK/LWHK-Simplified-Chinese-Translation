@@ -60,9 +60,9 @@
 	"item.mana-and-artifice.ritual_kit.reagents": "需求试剂：",
 	"item.mana-and-artifice.ritual_kit.no_ritual_stored": "没有仪式保存在内。",
 	"item.mana-and-artifice.ritual_kit.ritual_title": "(%s, %d 符文)",
-	"item.mana-and-artifice.ritual_focus_minor": "低级仪式核心",
-	"item.mana-and-artifice.ritual_focus_lesser": "次级仪式核心",
-	"item.mana-and-artifice.ritual_focus_greater": "高级仪式核心",	
+	"item.mana-and-artifice.ritual_focus_minor": "低级神秘核心",
+	"item.mana-and-artifice.ritual_focus_lesser": "次级神秘核心",
+	"item.mana-and-artifice.ritual_focus_greater": "高级神秘核心",	
 	
 	"item.mana-and-artifice.rune_clay_plate": "未加工的符文板",
 	"item.mana-and-artifice.rune_pattern_ritual_metal": "符文样式: 仪式（金属）",
