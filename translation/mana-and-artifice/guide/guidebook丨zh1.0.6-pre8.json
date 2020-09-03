@@ -488,7 +488,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Efficiency enchantment speeds up how fast you can mine blocks."
+				"value": "效率可以增加玩家挖掘方块的速度。"
 			}
 		],
 		"related_recipes": [
@@ -543,7 +543,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Feather Falling enchantment reduces damage from falling and damage from ender pearl teleportations."
+				"value": "减少摔落伤害，也会减少来源于末影珍珠的传送伤害。"
 			}
 		],
 		"related_recipes": [
@@ -590,7 +590,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fire Aspect enchantment sets your target on fire when you attack."
+				"value": "使被攻击目标着火"
 			}
 		],
 		"related_recipes": [
@@ -621,7 +621,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fire Protection enchantment reduces the damage caused by fire and lava."
+				"value": "减少火焰伤害，也会减少着火时的燃烧时间。"
 			}
 		],
 		"related_recipes": [
@@ -668,7 +668,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Flame enchantment turns your arrows into flaming arrows allowing you to set your targets on fire."
+				"value": "可以让弓射出的箭着火，也可以点燃TNT。"
 			}
 		],
 		"related_recipes": [
@@ -691,7 +691,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fortune enchantment increases the block drops from mining. For example, with the Fortune enchantment you will have a better chance of getting flint from gravel or an apple from a tree."
+				"value": "可以增加掉落物数量。例如，使用时运工具采掘沙砾，掉落燧石的几率会增加；采集树叶则会增加苹果的掉落几率。"
 			}
 		],
 		"related_recipes": [
@@ -730,7 +730,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Frost Walker enchantment temporarily freezes the water around you and turns it into ice. You can then walk across the ice to quickly get around in the game."
+				"value": "在地上行走（不处于掉落、跳跃或飞行状态）时，当前方块位置为圆心，2 + 等级为半径的区域内的所有暴露在空气下的静水方块都会结成霜冰。"
 			}
 		],
 		"related_recipes": [
@@ -761,7 +761,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Impaling enchantment increases your attack damage against sea creature mobs such as guardians, elder guardians, squids, dolphins, and turtles."
+				"value": "三叉戟专属附魔。对水生生物造成额外伤害，例如守卫者、远古守卫者、鱿鱼、海豚、海龟。"
 			}
 		],
 		"related_recipes": [
@@ -816,7 +816,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Infinity enchantment allows you to shoot your bow without using up any of your arrows.\n\nThis enchantment only applies to arrows. It does not give you infinite spectral arrows or tipped arrows."
+				"value": "使射出普通箭不会消耗背包里的箭。\n\n这一附魔只对普通箭有效，不会对光灵箭和药水箭生效。"
 			}
 		],
 		"related_recipes": [
@@ -839,7 +839,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Knockback enchantment increases the knockback dealt when attacking a player or mob. This will cause the player or mob to repel backwards more than usual."
+				"value": "击退附魔会增加被击中的玩家或生物所受到的击退效果。因此它们被击退的距离也会比通常远。"
 			}
 		],
 		"related_recipes": [
@@ -870,7 +870,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Looting enchantment increases the amount of loot that is dropped when a mob is killed."
+				"value": "增加被击杀生物所有掉落物的掉落数量和几率。"
 			}
 		],
 		"related_recipes": [
@@ -909,7 +909,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Loyalty enchantment can be added to a trident. With this enchantment, your trident will automatically return to you when it is thrown like a spear."
+				"value": "当玩家投掷三叉戟时，该附魔会使三叉戟在与任何方块或实体接触后返回投掷的玩家。"
 			}
 		],
 		"related_recipes": [
@@ -1031,7 +1031,7 @@
 			}
 		]
 	},
-	"Transitory Tunnel": {
+	"临时隧道": {
 		"category": "artifice",
 		"sections": [
 			{
