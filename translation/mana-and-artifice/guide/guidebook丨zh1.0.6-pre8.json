@@ -967,7 +967,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I've managed to create a disc that can instantly perform a ritual of return.  I just need to set the correct pattern in it, then it uses some of my mana to move me around."
+				"value": "我打算创造一张可以让我瞬间部署回返仪式的唱片。我得在其中设置好正确的仪式结构，然后只需要一些魔力驱动我进行传送即可。"
 			}
 		],
 		"related_recipes": [
@@ -994,7 +994,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This staff can only be crafted by those who have allied themselves to the Ancient Council of Wizards."
+				"value": "只有那些与远古巫师议会结盟的人才制作出能这一王冠。"
 			}
 		],
 		"related_recipes": [
@@ -1013,7 +1013,7 @@
 			},
 			{
 				"type": "text",
-				"value": "只有恶魔王子才能使用的权杖，这把法杖吞吐的火焰，将会是敌人最可怖的梦魇。它和其他法杖一样，所有的法术都能与其绑定，但如果绑定的法术只与火焰有关，那么这根法杖会将这些法术火焰转化为来自于地狱的烈焰。借助这股地狱之火的力量，该法术的性能将会全面提高。\n\n但你要小心，地狱烈焰破坏性极强，稍有不慎，你就会失去对它的控制，而这一后果将会是毁灭性的。"
+				"value": "只有恶魔王子才能使用的权杖，这把法杖吞吐的火焰，将会是敌人最可怖的梦魇。它和其他法杖一样，所有的法术都能与其绑定，但如果绑定的法术只与火焰有关，那么这根法杖会将这些法术火焰转化为来自于地狱的烈焰。借助这股地狱之火的力量，该法术的性能将会全面提高。\n\n但你要小心，地狱烈焰破坏性极强，稍有不慎，你就会失去对它的控制，而失控的后果将会是毁灭性的。"
 			},
 			{
 				"type": "title",
@@ -1021,7 +1021,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This staff can only be crafted by those who have allied themselves to the Demons of the Nether."
+				"value": "只有那些与下界恶魔结盟的人才制作出能这一权杖。"
 			}
 		],
 		"related_recipes": [
@@ -1036,11 +1036,11 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Transitory Tunnel"
+				"value": "临时隧道"
 			},
 			{
 				"type": "text",
-				"value": "I've created a sigil that when used will temporarily transfer the targeted ground into a separate dimension.  While there, the space is walkable as if mined.  After about ten seconds, the materials will snap back into place as if nothing happened, provided nothing has fallen into its place.  This can trap unwitting creatures, and I'm sure me as well.\n\nI had best make sure I'm not in the way when it comes back.\n\nAlso, it only seems to affect basic terrain."
+				"value": "我创造出了一种印记，这一印记可以暂时性地将目标地面转化为独立的维度，你可以在其中随心所欲地穿梭出入。大约10秒过后，原先位置的物质将会 重新回归，好似无事发生。当然，我是指没有东西掉下去的情况下。这一可穿越的维度可以困住那些稀里糊涂走进去的生物，这当然也包括你在内。\n\n我得确保当一切恢复的时候，我不会被埋在里面。\n\n同时，这个小玩意儿似乎只能影响基础的生物群系。"
 			}
 		],
 		"related_recipes": [
@@ -2158,13 +2158,13 @@
 			}
 		]
 	},
-	"构件：Fling": {
+	"构件：排斥": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fling"
+				"value": "排斥"
 			},
 			{
 				"type": "text",
@@ -2833,7 +2833,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will use a player charm to open a portal at that player's current location.  That portal will allow the player to step through and teleport to the location that the ritual was performed."
+				"value": "这一仪式可在与所使用的玩家符咒调谐的玩家身边召唤出一道传送门，玩家只需穿过这扇传送门，就能到达仪式进行的地点。"
 			}
 		],
 		"related_recipes": [
@@ -2858,7 +2858,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will use a player charm to open a portal at the center of the ritual.  Stepping through the portal will teleport you to the location the player was at when the ritual was completed."
+				"value": "这一仪式使用玩家符咒打开一扇传送门，穿越这扇传送门，你将会被传送到与玩家符咒所调谐的玩家的身边，传送位置为仪式完成时玩家所在的坐标。"
 			}
 		],
 		"related_recipes": [
@@ -2951,7 +2951,7 @@
 			},
 			{
 				"type": "text",
-				"value": "对于那些不想或者无法手动绘制织魔图样的人，他们可以使用织魔放映机来满足他们的需求。这一设备一旦被放置，就会抽取附近两格以内的玩家体内的魔力。它一共可以抽取100点魔力。\n\n激活充能完毕的放映机，会使其放映出目前它所选定的图样； Activating the block with a manaweave pattern recipe scrap will change the pattern that is emitted."
+				"value": "对于那些不想或者无法手动绘制织魔图样的人，他们可以使用织魔放映机来满足他们的需求。这一设备一旦被放置，就会抽取附近两格以内的玩家体内的魔力。它一共可以抽取100点魔力。\n\n激活充能完毕的放映机，会使其放映出目前它所选定的图样；以单独的织魔图样激活这一方块，将会改变它放映出来的图样。"
 			}
 		],
 		"related_recipes": [
@@ -2971,7 +2971,7 @@
 			},
 			{
 				"type": "text",
-				"value": "When drawing manaweave patterns, if no manaweaving altar or ritual is nearby, they will combine with other nearby patterns.  This can be used to achieve certain effects, such as summoning a grimoire."
+				"value": "在你摹画织魔图样 时，如果附近没有织魔祭坛或者需求织魔的仪式，各图样就会与附近的图样相互融合。这一反应可被用于特殊的用途，例如召唤魔导书。"
 			}
 		],
 		"related_recipes": [
