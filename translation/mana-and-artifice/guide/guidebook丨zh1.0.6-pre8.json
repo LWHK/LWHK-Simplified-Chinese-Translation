@@ -1040,7 +1040,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我创造出了一种印记，这一印记可以暂时性地将目标地面转化为独立的维度，你可以在其中随心所欲地穿梭出入。大约10秒过后，原先位置的物质将会 重新回归，好似无事发生。当然，我是指没有东西掉下去的情况下。这一可穿越的维度可以困住那些稀里糊涂走进去的生物，这当然也包括你在内。\n\n我得确保当一切恢复的时候，我不会被埋在里面。\n\n同时，这个小玩意儿似乎只能影响基础的生物群系。"
+				"value": "我创造出了一种印记，这一印记可以暂时性地将目标地面转化为独立的维度，你可以在其中随心所欲地穿梭出入。大约10秒过后，原先位置的物质将会重新回归，好似无事发生。当然，我是指没有东西掉下去的情况下。这一可穿越的维度可以困住那些稀里糊涂走进去的生物，这当然也包括你在内。\n\n我得确保当一切恢复的时候，我不会被埋在里面。\n\n同时，这个小玩意儿似乎只能影响基础的生物群系。"
 			}
 		],
 		"related_recipes": [
@@ -2858,7 +2858,7 @@
 			},
 			{
 				"type": "text",
-				"value": "这一仪式使用玩家符咒打开一扇传送门，穿越这扇传送门，你将会被传送到与玩家符咒所调谐的玩家的身边，传送位置为仪式完成时玩家所在的坐标。"
+				"value": "这一仪式使用玩家符咒打开一扇传送门，穿越这扇传送门，你将会被传送到与玩家符咒所调谐的玩家的身边，传送的目标位置为仪式完成时该玩家所在的坐标。"
 			}
 		],
 		"related_recipes": [
@@ -2961,7 +2961,7 @@
 			}
 		]
 	},
-	"": {
+	"图样融合": {
 		"index": -1,
 		"category": "manaweaving",
 		"sections": [
@@ -2971,7 +2971,7 @@
 			},
 			{
 				"type": "text",
-				"value": "在你摹画织魔图样 时，如果附近没有织魔祭坛或者需求织魔的仪式，各图样就会与附近的图样相互融合。这一反应可被用于特殊的用途，例如召唤魔导书。"
+				"value": "在你摹画织魔图样时，如果附近没有织魔祭坛或者需求织魔的仪式，各图样就会与附近的图样相互融合。这一反应可被用于特殊的用途，例如召唤魔导书。"
 			}
 		],
 		"related_recipes": [
@@ -3273,17 +3273,17 @@
 			}
 		]
 	},
-	"气泡船": {
+	"泡状舱船": {
 		"index": 0,
 		"category": "constructs",
 		"sections": [
 			{
 				"type": "title",
-				"value": "气泡船"
+				"value": "泡状舱船"
 			},
 			{
 				"type": "text",
-				"value": "气泡船与普通的船极为类似，然而，气泡船可以放置在水中，且不会沉底。不仅不会沉底，它还会迅速的带着它的乘客冲向水面。 在你的奇思妙想下，或许这艘船能够被开发出新的用法。"
+				"value": "泡状舱船与普通的船极为类似，然而，泡状舱船可以放置在水中，且不会沉底。不仅不会沉底，它还会迅速的带着它的乘客冲向水面。 在你的奇思妙想下，或许这艘船能够被开发出新的用法。"
 			}
 		],
 		"related_recipes": [
@@ -3303,7 +3303,7 @@
 			},
 			{
 				"type": "text",
-				"value": "奥术守卫是被附魔了的法术书。drawn with several runes using wizard chalk, then sprinkled with vinteum dust.  若在守卫中放置温特姆粉末，它就会释放出奥能球，对一定范围内的敌对生物进行攻击。"
+				"value": "奥术守卫是被附魔了的法术书，用巫师粉笔为其绘制几道符文，然后在撒上一些温特姆粉末即可。若在守卫中放置温特姆粉末，它就会释放出奥能球，对一定范围内的敌对生物进行攻击。"
 			}
 		],
 		"related_recipes": [
@@ -3454,7 +3454,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of water and the deep sea into an essence.\n\nThis ritual can only be performed while in an ocean biome."
+				"value": "这一仪式可以将水元素和深海元素聚合为精华。\n\n你只能在海洋生物群系才能进行这一仪式。"
 			}
 		],
 		"related_recipes": [
@@ -3474,7 +3474,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of entropy and the void into an essence.\n\nThis ritual can only be performed while all ritual runes are in complete darkness."
+				"value": "这一仪式可以将熵元素和虚空元素聚合为精华。\n\n这一仪式要求其所有的仪式符文都处于纯粹的黑暗之中。"
 			}
 		],
 		"related_recipes": [
@@ -3494,7 +3494,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of knowledge and study into an essence."
+				"value": "这一仪式可以将知识元素和研究元素聚合为精华。"
 			}
 		],
 		"related_recipes": [
@@ -3514,7 +3514,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of fire and brimstone into an essence.\n\nThis ritual can only be performed in the nether."
+				"value": "这一仪式可以将火元素和硫磺元素聚合为精华。\n\n你只能在下界才能进行这一仪式。"
 			}
 		],
 		"related_recipes": [
@@ -3534,7 +3534,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of wind and air into an essence.\n\nThis ritual can only be performed while high above the clouds."
+				"value": "这一仪式可以将风元素和气元素聚合为精华。\n\n你只能在云端之上才能进行这一仪式。"
 			}
 		],
 		"related_recipes": [
