@@ -169,13 +169,13 @@
 	"block.mana-and-artifice.chimerite_ore": "精灵宝石矿石",
 	"block.mana-and-artifice.vinteum_ore": "温特姆矿石",
 	"block.mana-and-artifice.vinteum_block": "温特姆块",
-	"block.mana-and-artifice.aum": "Aum",
+	"block.mana-and-artifice.aum": "全知草",
 	"block.mana-and-artifice.mana_crystal": "魔力晶体",	
 	"block.mana-and-artifice.runescribing_table": "符文刻印桌",
 	"block.mana-and-artifice.inscription_table": "编写桌",
 	"block.mana-and-artifice.tarma_root": "塔玛根",
 	"block.mana-and-artifice.cerublossom": "奥蓝堇",
-	"block.mana-and-artifice.desert_nova": "漠之新星",
+	"block.mana-and-artifice.desert_nova": "沙漠新星",
 	"block.mana-and-artifice.wakebloom": "觉苏莲",	
 	
 	"block.mana-and-artifice.chalk_rune_a": "仪式符文",
@@ -376,7 +376,7 @@
 	"mana-and-artifice.commands.faction.success": "设置 %s 的学派为 %s",
 	
 	"mana-and-artifice:progresscondition.ready": "你已获得了足够的经验来晋升下一等阶！查看神秘核心可以获得进一步的线索。",
-	"mana-and-artifice:progresscondition.advanced": "你已到达最高等阶 %d!",
+	"mana-and-artifice:progresscondition.advanced": "你已到达最高等阶 %d！",
 	
 	"mana-and-artifice:progresscondition.t1_mlvl": "到达魔法等级 15",
 	"mana-and-artifice:progresscondition.t1_inscrip_craft": "合成一个编写桌",
