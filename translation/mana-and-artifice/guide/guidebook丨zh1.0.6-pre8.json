@@ -1,10 +1,11 @@
 {
-	"魔力编织": {
-		"category": "basics",
+	"如何进行魔力编织": {
+		"category": "manaweaving",
+		"index": -3,
 		"sections": [
 			{
 				"type": "title",
-				"value": "魔力编织"
+				"value": "什么是魔力编织"
 			},
 			{
 				"type": "text",
@@ -31,7 +32,7 @@
 			},
 			{
 				"type": "text",
-				"value": "魔力编织需要高度的专注，而这一专注需要耗费大量魔力。绘画的时候保持心平气和，焦虑只会让你不断地失误：不正确的图案将不会起任何作用。\n\n据说一些法师在使用织魔者法杖时，表示自己听到了清脆的铃声，尽管我们不能确认是否真的有法师这样子说过，但可以确定的是，这一铃声表明了织魔者法杖正在工作。\n\n也有一些人无法或者不愿意在空气中绘制图形。在如此的需求下，织魔放映机应运而生。将其放置于地上，它就会抽取你（或者是其他人，只要靠得够近）体内的魔力反哺自身。当放映机激活后，他就可以放映出图样，当然，你需要在放映机激活前就选择好需要放映的图样。"
+				"value": "魔力编织需要高度的专注，而这一过程需要耗费大量魔力。绘画的时候保持心平气和，焦虑只会让你不断地失误：不正确的图案将不会起任何作用。\n\n据说一些法师在使用织魔者法杖时，表示自己听到了清脆的铃声，尽管我们不能确认是否真的有法师这样子说过，但可以确定的是，这一铃声表明了织魔者法杖正在工作。\n\n也有一些人无法或者不愿意在空气中绘制图形。在如此的需求下，织魔放映机应运而生。将其放置于地上，它就会抽取你（或者是其他人，只要靠得够近）体内的魔力反哺自身。当放映机激活后，他就可以放映出图样，当然，你需要在放映机激活前就选择好需要放映的图样。"
 			},
 			{
 				"type": "image",
@@ -59,6 +60,41 @@
 			}
 		]
 	},
+	"神秘核心": {
+		"category": "basics",
+		"index": -3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "神秘核心"
+			},
+			{
+				"type": "text",
+				"value": "神秘核心与奥秘古籍一样，能够帮助你更好的游玩本模组。它会向你展示出模组流程中解锁物品所需要做的那些事情，以及还有哪些内容是你上位解锁的。\n\n想要知道推进进度所需要做的事，将你的鼠标移至右侧的进度条即可。"
+			}
+		],
+		"related_recipes": [
+			{
+				"location": "mana-and-artifice:occulus",
+				"type": "crafting"
+			}
+		]
+	},
+	"派系": {
+		"category": "basics",
+		"index": -3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "派系"
+			},
+			{
+				"type": "text",
+				"value": "在你畅游于这个奥术世界的旅途中，你必须在某个特定时刻为自己选择一个派系。派系决定了你在进阶时需要完成的仪式的种类。\n\n记住，三思而后行。\n\n一旦选择了特定的派系，就无法做出更改了。\n\n(DEV 事项：下列的玩法还没有完善)\n\nYou will also make enemies of the other two factions, causing them to send their assassins after you.  You will gain reputation with your faction by doing so and will unlock additional trades and resources."
+			}
+		],
+		"related_recipes": []
+	},
 	"织魔祭坛": {
 		"category": "manaweaving",
 		"sections": [
@@ -68,7 +104,7 @@
 			},
 			{
 				"type": "text",
-				"value": "织魔祭坛可以在注魔之池上融合原料以及织魔符号。"
+				"value": "织魔祭坛可以在注魔之池上融合原料以及织魔符文。"
 			}
 		],
 		"related_recipes": [
@@ -82,12 +118,12 @@
 			}
 		]
 	},
-	"仪式聚能核心": {
+	"仪式核心": {
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "仪式聚能核心"
+				"value": "仪式核心"
 			},
 			{
 				"type": "text",
@@ -100,25 +136,27 @@
 				"location": "mana-and-artifice:ritual_focus_minor"
 			},
 			{
-				"type": "crafting",
+				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:ritual_focus_lesser"
 			},
 			{
-				"type": "crafting",
+				"type": "manaweaving_altar",
 				"location": "mana-and-artifice:ritual_focus_greater"
 			}
 		]
 	},
-	"符文摹画": {
-		"category": "basics",
+	"步骤1：符文刻印": {
+		"category": "runesmithing",
+		"index": -2,
+		"tier": 2,
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文摹画"
+				"value": "符文刻印"
 			},
 			{
 				"type": "text",
-				"value": "创造魔法符文，始终绕不过去的第一个坎就是摹画图样。\n\n想要进行摹画，你需要一块空白样板，以及符文锻造锤以及凿子。利用这些工具，你可以一点点地在样板上凿出你所需要的符文。\n\n雕凿样板时务必小心，因为任何细小的失误都会让所有工作推倒重来！"
+				"value": "创造魔法符文，始终绕不过去的第一个坎就是刻印图样。\n\n想要进行刻印，你需要一块空白样板，以及符文锻造锤以及凿子。利用这些工具，你可以一点点地在样板上凿出你所需要的符文。\n\n雕凿样板时务必小心，因为任何细小的失误都会让所有工作推倒重来！"
 			}
 		],
 		"related_recipes": [
@@ -140,8 +178,10 @@
 			}
 		]
 	},
-	"符文锻造 (Runes)": {
-		"category": "basics",
+	"步骤2：符文锻造": {
+		"category": "runesmithing",
+		"index": -1,
+		"tier": 2,
 		"sections": [
 			{
 				"type": "title",
@@ -177,16 +217,18 @@
 			}
 		]
 	},
-	"符文附魔": {
-		"category": "basics",
+	"步骤1：织魔附魔": {
+		"category": "enchantments",
+		"index": -1,
+		"tier": 3,
 		"sections": [
 			{
 				"type": "title",
-				"value": "符文附魔"
+				"value": "织魔附魔"
 			},
 			{
 				"type": "text",
-				"value": "制作出符文后，你需要向其注入魔力，以开启符文附魔的初始阶段。\n\n将物品以及需求试剂放置到织魔祭坛上，然后，使用织魔者法杖画出祭坛上方显示的需求图案。\n\n此外，你还可以将织魔放映机放置于祭坛旁，这样你就可以在祭坛旁放映图案了。\n\n如果你不小心失误了，你可以用织魔者法杖激活织魔放映机，放映机会放映出祭坛上一个显示的图案，你可以依据这个图案重新绘制。\n\n当你以正确的顺序绘制了正确的图案，并且正确地加入了物品，祭坛会将所有东西吸入，并开始符文附魔。 \n\n现在，我们只需在符文铁砧上将符文与物品相互结合，一切就大功告成了、"
+				"value": "制作出符文后，你需要向其注入魔力，以开启符文附魔的初始阶段。\n\n将物品以及需求试剂放置到织魔祭坛上，然后，使用织魔者法杖画出祭坛上方显示的需求图案。\n\n此外，你还可以将织魔放映机放置于祭坛旁，这样你就可以在祭坛旁放映图案了。\n\n如果你不小心失误了，你可以用织魔者法杖激活织魔放映机，放映机会放映出祭坛上一个显示的图案，你可以依据这个图案重新绘制。\n\n当你以正确的顺序绘制了正确的图案，并且正确地加入了物品，祭坛会将所有东西吸入，并开始符文附魔。\n\n现在，我们只需在符文铁砧上将符文与物品相互结合，一切就大功告成了、"
 			}
 		],
 		"related_recipes": [
@@ -398,7 +440,7 @@
 			}
 		]
 	},
-	"Depth Strider": {
+	"深海探索者": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -437,7 +479,7 @@
 			}
 		]
 	},
-	"Efficiency": {
+	"效率": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -446,7 +488,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Efficiency enchantment speeds up how fast you can mine blocks."
+				"value": "效率可以增加玩家挖掘方块的速度。"
 			}
 		],
 		"related_recipes": [
@@ -492,16 +534,16 @@
 			}
 		]
 	},
-	"Feather Falling": {
+	"摔落保护": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "羽落"
+				"value": "摔落保护"
 			},
 			{
 				"type": "text",
-				"value": "The Feather Falling enchantment reduces damage from falling and damage from ender pearl teleportations."
+				"value": "减少摔落伤害，也会减少来源于末影珍珠的传送伤害。"
 			}
 		],
 		"related_recipes": [
@@ -539,7 +581,7 @@
 			}
 		]
 	},
-	"Fire Aspect": {
+	"火焰附加": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -548,7 +590,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fire Aspect enchantment sets your target on fire when you attack."
+				"value": "使被攻击目标着火"
 			}
 		],
 		"related_recipes": [
@@ -570,7 +612,7 @@
 			}
 		]
 	},
-	"Fire Protection": {
+	"火焰保护": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -579,7 +621,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fire Protection enchantment reduces the damage caused by fire and lava."
+				"value": "减少火焰伤害，也会减少着火时的燃烧时间。"
 			}
 		],
 		"related_recipes": [
@@ -617,7 +659,7 @@
 			}
 		]
 	},
-	"Flame": {
+	"火矢": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -626,7 +668,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Flame enchantment turns your arrows into flaming arrows allowing you to set your targets on fire."
+				"value": "可以让弓射出的箭着火，也可以点燃TNT。"
 			}
 		],
 		"related_recipes": [
@@ -640,7 +682,7 @@
 			}
 		]
 	},
-	"Fortune": {
+	"时运": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -649,7 +691,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Fortune enchantment increases the block drops from mining. For example, with the Fortune enchantment you will have a better chance of getting flint from gravel or an apple from a tree."
+				"value": "可以增加掉落物数量。例如，使用时运工具采掘沙砾，掉落燧石的几率会增加；采集树叶则会增加苹果的掉落几率。"
 			}
 		],
 		"related_recipes": [
@@ -679,7 +721,7 @@
 			}
 		]
 	},
-	"Frost Walker": {
+	"冰霜行者": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -688,7 +730,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Frost Walker enchantment temporarily freezes the water around you and turns it into ice. You can then walk across the ice to quickly get around in the game."
+				"value": "在地上行走（不处于掉落、跳跃或飞行状态）时，当前方块位置为圆心，2 + 等级为半径的区域内的所有暴露在空气下的静水方块都会结成霜冰。"
 			}
 		],
 		"related_recipes": [
@@ -710,16 +752,16 @@
 			}
 		]
 	},
-	"Impaling": {
+	"穿刺": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Impaling"
+				"value": "穿刺"
 			},
 			{
 				"type": "text",
-				"value": "The Impaling enchantment increases your attack damage against sea creature mobs such as guardians, elder guardians, squids, dolphins, and turtles."
+				"value": "三叉戟专属附魔。对水生生物造成额外伤害，例如守卫者、远古守卫者、鱿鱼、海豚、海龟。"
 			}
 		],
 		"related_recipes": [
@@ -765,7 +807,7 @@
 			}
 		]
 	},
-	"Infinity": {
+	"无限": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -774,7 +816,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Infinity enchantment allows you to shoot your bow without using up any of your arrows.\n\nThis enchantment only applies to arrows. It does not give you infinite spectral arrows or tipped arrows."
+				"value": "使射出普通箭不会消耗背包里的箭。\n\n这一附魔只对普通箭有效，不会对光灵箭和药水箭生效。"
 			}
 		],
 		"related_recipes": [
@@ -788,7 +830,7 @@
 			}
 		]
 	},
-	"Knockback": {
+	"击退": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -797,7 +839,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Knockback enchantment increases the knockback dealt when attacking a player or mob. This will cause the player or mob to repel backwards more than usual."
+				"value": "击退附魔会增加被击中的玩家或生物所受到的击退效果。因此它们被击退的距离也会比通常远。"
 			}
 		],
 		"related_recipes": [
@@ -819,7 +861,7 @@
 			}
 		]
 	},
-	"Looting": {
+	"抢夺": {
 		"category": "enchantments",
 		"sections": [
 			{
@@ -828,7 +870,7 @@
 			},
 			{
 				"type": "text",
-				"value": "The Looting enchantment increases the amount of loot that is dropped when a mob is killed."
+				"value": "增加被击杀生物所有掉落物的掉落数量和几率。"
 			}
 		],
 		"related_recipes": [
@@ -858,16 +900,16 @@
 			}
 		]
 	},
-	"Loyalty": {
+	"忠诚": {
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Loyalty"
+				"value": "忠诚"
 			},
 			{
 				"type": "text",
-				"value": "The Loyalty enchantment can be added to a trident. With this enchantment, your trident will automatically return to you when it is thrown like a spear."
+				"value": "当玩家投掷三叉戟时，该附魔会使三叉戟在与任何方块或实体接触后返回投掷的玩家。"
 			}
 		],
 		"related_recipes": [
@@ -925,7 +967,7 @@
 			},
 			{
 				"type": "text",
-				"value": "I've managed to create a disc that can instantly perform a ritual of return.  I just need to set the correct pattern in it, then it uses some of my mana to move me around."
+				"value": "我打算创造一张可以让我瞬间部署回返仪式的唱片。我得在其中设置好正确的仪式结构，然后只需要一些魔力驱动我进行传送即可。"
 			}
 		],
 		"related_recipes": [
@@ -936,7 +978,7 @@
 		]
 	},
 	"奥术王冠": {
-		"category": "artifice",
+		"category": "artifice",		
 		"sections": [
 			{
 				"type": "title",
@@ -948,53 +990,57 @@
 			},
 			{
 				"type": "title",
-				"value": "Dev Note"
+				"value": "注意！"			
 			},
 			{
 				"type": "text",
-				"value": "This item is currently only available through creative mode.  The means to craft it will be added at a later date."
-			}
-		],
-		"related_recipes": [
-		]
-	},
-	"地狱火法杖": {
-		"category": "artifice",
-		"sections": [
-			{
-				"type": "title",
-				"value": "地狱火法杖"
-			},
-			{
-				"type": "text",
-				"value": "只有恶魔王子才能使用的权杖，这把法杖吞吐的火焰，将会是敌人最可怖的梦魇。它和其他法杖一样，所有的法术都能与其绑定，但如果绑定的法术只与火焰有关，那么这根法杖会将这些法术火焰转化为来自于地狱的烈焰。借助这股地狱之火的力量，该法术的性能将会全面提高。\n\n但你要小心，地狱烈焰破坏性极强，稍有不慎，你就会失去对它的控制，而这一后果将会是毁灭性的。"
-			},
-			{
-				"type": "title",
-				"value": "Dev Note"
-			},
-			{
-				"type": "text",
-				"value": "This item is currently only available through creative mode.  The means to obtain it will be added at a later date."
+				"value": "只有那些与远古巫师议会结盟的人才制作出能这一王冠。"
 			}
 		],
 		"related_recipes": [
 			{
 				"type": "manaweaving_altar",
-				"location": "mana-and-artifice:manaweaving/manaweaving_hellfire_staff"
+				"location": "mana-and-artifice:manaweaving/arcane_crown"
 			}
 		]
 	},
-	"Transitory Tunnel": {
+	"狱火权杖": {
 		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Transitory Tunnel"
+				"value": "狱火权杖"
 			},
 			{
 				"type": "text",
-				"value": "I've created a sigil that when used will temporarily transfer the targeted ground into a separate dimension.  While there, the space is walkable as if mined.  After about ten seconds, the materials will snap back into place as if nothing happened, provided nothing has fallen into its place.  This can trap unwitting creatures, and I'm sure me as well.\n\nI had best make sure I'm not in the way when it comes back.\n\nAlso, it only seems to affect basic terrain."
+				"value": "只有恶魔王子才能使用的权杖，这把法杖吞吐的火焰，将会是敌人最可怖的梦魇。它和其他法杖一样，所有的法术都能与其绑定，但如果绑定的法术只与火焰有关，那么这根法杖会将这些法术火焰转化为来自于地狱的烈焰。借助这股地狱之火的力量，该法术的性能将会全面提高。\n\n但你要小心，地狱烈焰破坏性极强，稍有不慎，你就会失去对它的控制，而失控的后果将会是毁灭性的。"
+			},
+			{
+				"type": "title",
+				"value": "注意！"			
+			},
+			{
+				"type": "text",
+				"value": "只有那些与下界恶魔结盟的人才制作出能这一权杖。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/hellfire_staff"
+			}
+		]
+	},
+	"临时隧道": {
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "临时隧道"
+			},
+			{
+				"type": "text",
+				"value": "我创造出了一种印记，这一印记可以暂时性地将目标地面转化为独立的维度，你可以在其中随心所欲地穿梭出入。大约10秒过后，原先位置的物质将会重新回归，好似无事发生。当然，我是指没有东西掉下去的情况下。这一可穿越的维度可以困住那些稀里糊涂走进去的生物，这当然也包括你在内。\n\n我得确保当一切恢复的时候，我不会被埋在里面。\n\n同时，这个小玩意儿似乎只能影响基础的生物群系。"
 			}
 		],
 		"related_recipes": [
@@ -1004,13 +1050,13 @@
 			}
 		]
 	},
-	"Luck of the Sea": {
+	"海之眷顾": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Luck of the Sea"
+				"value": "海之眷顾"
 			},
 			{
 				"type": "text",
@@ -1044,13 +1090,13 @@
 			}
 		]
 	},
-	"Lure": {
+	"饵钓": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Lure"
+				"value": "饵钓"
 			},
 			{
 				"type": "text",
@@ -1084,7 +1130,7 @@
 			}
 		]
 	},
-	"Mending": {
+	"经验修补": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
@@ -1108,13 +1154,13 @@
 			}
 		]
 	},
-	"Multishot": {
+	"多重射击": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Multishot"
+				"value": "多重射击"
 			},
 			{
 				"type": "text",
@@ -1132,13 +1178,13 @@
 			}
 		]
 	},
-	"Piercing": {
+	"穿透": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Piercing"
+				"value": "穿透"
 			},
 			{
 				"type": "text",
@@ -1180,13 +1226,13 @@
 			}
 		]
 	},
-	"Power": {
+	"力量": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Power"
+				"value": "力量"
 			},
 			{
 				"type": "text",
@@ -1236,13 +1282,13 @@
 			}
 		]
 	},
-	"Projectile Protection": {
+	"弹射物保护": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Projectile Protection"
+				"value": "弹射物保护"
 			},
 			{
 				"type": "text",
@@ -1284,13 +1330,13 @@
 			}
 		]
 	},
-	"Protection": {
+	"保护": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Protection"
+				"value": "保护"
 			},
 			{
 				"type": "text",
@@ -1332,13 +1378,13 @@
 			}
 		]
 	},
-	"Punch": {
+	"冲击": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Punch"
+				"value": "冲击"
 			},
 			{
 				"type": "text",
@@ -1364,13 +1410,13 @@
 			}
 		]
 	},
-	"Respiration": {
+	"水下呼吸": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Respiration"
+				"value": "水下呼吸"
 			},
 			{
 				"type": "text",
@@ -1404,13 +1450,13 @@
 			}
 		]
 	},
-	"Quick Charge": {
+	"快速装填": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Quick Charge"
+				"value": "快速装填"
 			},
 			{
 				"type": "text",
@@ -1444,13 +1490,13 @@
 			}
 		]
 	},
-	"Riptide": {
+	"激流": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Riptide"
+				"value": "激流"
 			},
 			{
 				"type": "text",
@@ -1484,7 +1530,7 @@
 			}
 		]
 	},
-	"Sharpness": {
+	"锋利": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
@@ -1540,7 +1586,7 @@
 			}
 		]
 	},
-	"Silk Touch": {
+	"精准采集": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
@@ -1564,7 +1610,7 @@
 			}
 		]
 	},
-	"Smite": {
+	"亡灵杀手": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
@@ -1620,13 +1666,13 @@
 			}
 		]
 	},
-	"Sweeping Edge": {
+	"横扫之刃": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Sweeping Edge"
+				"value": "横扫之刃"
 			},
 			{
 				"type": "text",
@@ -1660,7 +1706,7 @@
 			}
 		]
 	},
-	"Thorns": {
+	"荆棘": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
@@ -1700,7 +1746,7 @@
 			}
 		]
 	},
-	"Unbreaking": {
+	"耐久": {
 		"index": 0,
 		"category": "enchantments",
 		"sections": [
@@ -1757,7 +1803,7 @@
 		]
 	},
 	"施放法术": {
-		"index": 0,
+		"index": -1,
 		"category": "sorcery",
 		"sections": [
 			{
@@ -1773,7 +1819,7 @@
 		]
 	},
 	"法术书": {
-		"index": 0,
+		"index": -1,
 		"category": "sorcery",
 		"sections": [
 			{
@@ -1792,13 +1838,14 @@
 			}
 		]
 	},
-	"Grimoires": {
-		"index": 0,
+	"魔导书": {
+		"index": -1,
 		"category": "sorcery",
+		"tier": 5,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Grimoires"
+				"value": "魔导书"
 			},
 			{
 				"type": "text",
@@ -1809,7 +1856,7 @@
 		]
 	},
 	"编写法术": {
-		"index": 0,
+		"index": -2,
 		"category": "sorcery",
 		"sections": [
 			{
@@ -1818,7 +1865,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我得搭建一个适合研究工作空间，这样的一片小地方能够让我更好的把我对法术的构思记录在纸上。\n\n先是一张位置合适，摆放整洁的桌子，宽敞的桌面适合放置一些物品；还得准备些能够承受魔法抄写的纸；对了，还有一瓶合适的墨水，没了墨水还怎么做研究。我最好再备上一点魔法粉尘。\n\n万事俱备，接下来就可以进行研究了。首先，我得选择一种塑造法术的方式，这一方式决定了魔法会以何种形式出现在世界中。我认为应该有有数种方式可以供自己学习并选择。\n\n在这之后，我应该选择一个构件，这一构件会决定这一法术在世界中产生的效果。\n\n这些应该足够编写一个基础法术了。然而，我还需深入考虑，法术的哪几个方面是可以供我自定义设计的。想要改变最终的输出，我得修改法术“等式”的一部分内容。\n\n当我最终设计出了我心仪的法术，I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell. 还好，在我脑海里的小桌已经为这一步预留了一个位置。\n\n...我真的很想知道是否有某种方法可以制作出更为复杂的法术，譬如说，能够在一个法术释放里产生多种效果？应该是有的。"
+				"value": "我得搭建一个适合研究工作空间，这样的一片小地方能够让我更好的把我对法术的构思记录在纸上。\n\n先是一张位置合适，摆放整洁的桌子，宽敞的桌面适合放置一些物品；还得准备些能够承受魔法抄写的纸；对了，还有一瓶合适的墨水，没了墨水还怎么做研究。我最好再备上一点奥术粉末。\n\n万事俱备，接下来就可以进行研究了。首先，我得选择一种塑造法术的方式，这一方式决定了魔法会以何种形式出现在世界中。我认为应该有有数种方式可以供自己学习并选择。\n\n在这之后，我应该选择一个构件，这一构件会决定这一法术在世界中产生的效果。\n\n这些应该足够编写一个基础法术了。然而，我还需深入考虑，法术的哪几个方面是可以供我自定义设计的。想要改变最终的输出，我得修改法术“等式”的一部分内容。\n\n当我最终设计出了我心仪的法术，我需要静候片刻，奥术粉末会将墨水灌注到魔法配方之中，依据这一配方，可以用接下来的仪式将其制作为真正的法术。还好，在我脑海里的小桌已经为这一步预留了位置。\n\n...我真的很想知道是否有某种方法可以制作出更为复杂的法术，譬如说，能够在一个法术释放里产生多种效果？应该是有的。"
 			}
 		],
 		"related_recipes": [
@@ -1832,12 +1879,20 @@
 			},
 			{
 				"type": "crafting",
-				"location": "mana-and-artifice:arcane_ash"
+				"location": "mana-and-artifice:arcane_compound"
+			},
+			{
+				"type": "crafting",
+				"location": "mana-and-artifice:purified_vinteum_dust"
+			},
+			{
+				"type": "arcane_furnace",
+				"location": "mana-and-artifice:arcanefurnace/arcane_ash"
 			}
 		]
 	},
 	"皮纸": {
-		"index": 0,
+		"index": -3,
 		"category": "sorcery",
 		"sections": [
 			{
@@ -1933,7 +1988,7 @@
 			},
 			{
 				"type": "text",
-				"value": "这一构件所能初级的范围相对较短，但是，更近的施法距离意味着跟少的魔力消耗。所以，你可以更大程度的调节这一构件的范围半径。\n\n你应该在调节半径时小心一些，如果你把半径设的过大，那你有可能会被自己的法术击中。"
+				"value": "这一构件所能触及的范围相对较短，但是，更近的施法距离意味着跟少的魔力消耗。所以，你可以更大程度的调节这一构件的范围半径。\n\n你应该在调节半径时小心一些，如果你把半径设的过大，那你有可能会被自己的法术击中。"
 			}
 		],
 		"related_recipes": [
@@ -1960,6 +2015,26 @@
 			{
 				"type": "spell_part",
 				"location": "mana-and-artifice:components/fire_damage"
+			}
+		]
+	},
+	"构件：临时隧道": {
+		"index": "2",
+		"category": "sorcery",
+		"sections": [
+			{
+				"type": "title",
+				"value": "临时隧道"
+			},
+			{
+				"type": "text",
+				"value": "This simple spell is based on verisimilomancy, with a touch of invocation added.  It creates a walkable path wherever the spell targets."
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "spell_part",
+				"location": "mana-and-artifice:components/transitory_tile"
 			}
 		]
 	},
@@ -2083,13 +2158,13 @@
 			}
 		]
 	},
-	"构件：Fling": {
+	"构件：排斥": {
 		"index": "2",
 		"category": "sorcery",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Fling"
+				"value": "排斥"
 			},
 			{
 				"type": "text",
@@ -2513,7 +2588,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我能够拓展我的法术射击距离，然而，这一构件对弹射物法术无甚帮助，因为弹射物法术的速度才是影响其射程的最大因素。这一构件实际上可以提升法术层面的接触距离，当然，其它的一些距离也会受到影响。"
+				"value": "我能够拓展我的法术射击距离，然而，这一构件对弹射物法术无甚帮助，因为弹射物法术的速度才是影响其射程的最大因素。这一构件实际上可以提升我的法术层面的延伸距离，当然，其它的一些距离也会受到影响。"
 			}
 		],
 		"related_recipes": [
@@ -2563,8 +2638,8 @@
 			}
 		]
 	},
-	"举行仪式": {
-		"index": 0,
+	"仪式二三事": {
+		"index": -2,
 		"category": "rituals",
 		"sections": [
 			{
@@ -2573,7 +2648,7 @@
 			},
 			{
 				"type": "text",
-				"value": "仪式是一种更为精深的魔法施放方式，与即时施放的法术效果相比，它所带来的效果要时间跨度上要久得多。仪式不像法术，它需要进行一些额外的准备。额外试剂，补全仪式效果的手动交互，虽然稍显繁琐，但仪式的威力让人无法忽视，借助仪式，你可以实现许多强大的功能。\n\n想要进行仪式，在地上用巫师粉笔画出相应的仪式图样，图样朝向并不会对仪式效果产生影响。然后，对着仪式的中心使用纯净温特姆粉末，仪式会开始显示它所需要的额外试剂。显示金色数字标识的试剂是必须的，显示白色数字标识的是可放可不放的。\n\n在正确的位置上放置对应的试剂，放置完毕后，再次对着仪式中心使用纯净温特姆粉末，仪式就会开始进行了。"
+				"value": "仪式是一种更为精深的魔法施放方式，与即时施放的法术效果相比，它所带来的效果要时间跨度上要久得多。仪式不像法术，它需要进行一些额外的准备。譬如额外试剂，补全仪式效果的手动交互，虽然稍显繁琐，但仪式的威力让人无法忽视，借助仪式，你可以实现许多强大的功能。\n\n想要进行仪式，在地上用巫师粉笔画出相应的仪式图样，图样朝向并不会对仪式效果产生影响。然后，对着仪式的中心使用纯净温特姆粉末，仪式会开始显示它所需要的额外试剂。显示金色数字标识的试剂是必须的，显示白色数字标识的是可放可不放的。\n\n在正确的位置上放置对应的试剂，放置完毕后，再次对着仪式中心使用纯净温特姆粉末，仪式就会开始进行。"
 			},
 			{
 				"type": "title",
@@ -2597,7 +2672,7 @@
 			},
 			{
 				"type": "text",
-				"value": "有一些仪式的试剂需求取决于其它物品，而不仅仅取决于仪式本身。譬如，奥术仪式的试剂需求就取决于参加仪式的法术配方。在使用了纯净的温特姆粉末之后，你得先在仪式中放入这些决定仪式试剂的物品，然后仪式试剂才会被显示出来。这样一来，试剂放映过程就不再需要使用纯净温特姆粉末了。"
+				"value": "有一些仪式的试剂需求取决于其它物品，而不仅仅取决于仪式本身。譬如，奥术仪式的试剂需求就取决于参加仪式的法术配方。在使用了纯净温特姆粉末之后，你得先在仪式中放入这些决定仪式试剂的物品，然后仪式试剂才会被显示出来。这样一来，试剂放映过程就不再需要使用纯净温特姆粉末了。"
 			}
 		],
 		"related_recipes": [
@@ -2619,7 +2694,7 @@
 			}
 		]
 	},
-	"晨曦仪式": {
+	"晨曦": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2629,7 +2704,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will turn night into day.  It can only be performed at night."
+				"value": "天光乍露，黎明破晓。这一仪式可以将黑夜转换为白天，只能在夜晚进行该仪式。"
 			}
 		],
 		"related_recipes": [
@@ -2639,13 +2714,13 @@
 			}
 		]
 	},
-	"奥术仪式": {
+	"奥秘": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "奥术仪式"
+				"value": "奥秘仪式"
 			},
 			{
 				"type": "text",
@@ -2679,7 +2754,7 @@
 			}
 		]
 	},
-	"Ritual of Eventide": {
+	"黄昏": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2689,7 +2764,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This ritual will turn day to night.  It can only be performed during the day."
+				"value": "日光隐匿，暗夜降临。这一仪式可以将白天转换为黑夜，只能在白天进行该仪式。"
 			}
 		],
 		"related_recipes": [
@@ -2699,13 +2774,13 @@
 			}
 		]
 	},
-	"Ritual of Homestead": {
+	"宅地": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "居家仪式"
+				"value": "宅地仪式"
 			},
 			{
 				"type": "text",
@@ -2723,7 +2798,7 @@
 			}
 		]
 	},
-	"Ritual of Return": {
+	"回返": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
@@ -2747,9 +2822,10 @@
 			}
 		]
 	},
-	"召唤仪式": {
+	"召唤": {
 		"index": 0,
 		"category": "rituals",
+		"tier": 5,
 		"sections": [
 			{
 				"type": "title",
@@ -2757,7 +2833,7 @@
 			},
 			{
 				"type": "text",
-				"value": "这一仪式会使用到玩家符咒，仪式生效后，会在指定玩家的位置生成一个传送门。玩家可以穿越该传送门，传送门的目的地即为仪式进行的地点。"
+				"value": "这一仪式可在与所使用的玩家符咒调谐的玩家身边召唤出一道传送门，玩家只需穿过这扇传送门，就能到达仪式进行的地点。"
 			}
 		],
 		"related_recipes": [
@@ -2771,9 +2847,10 @@
 			}
 		]
 	},
-	"造访仪式": {
+	"造访": {
 		"index": 0,
 		"category": "rituals",
+		"tier": 5,
 		"sections": [
 			{
 				"type": "title",
@@ -2781,7 +2858,7 @@
 			},
 			{
 				"type": "text",
-				"value": "这一仪式会使用到玩家符咒，仪式生效后，会在仪式中心的位置生成一个传送门。玩家可以穿越传送门，传送门的目的地为指定玩家当前所处的位置。"
+				"value": "这一仪式使用玩家符咒打开一扇传送门，穿越这扇传送门，你将会被传送到与玩家符咒所调谐的玩家的身边，传送的目标位置为仪式完成时该玩家所在的坐标。"
 			}
 		],
 		"related_recipes": [
@@ -2796,7 +2873,7 @@
 		]
 	},
 	"玩家符咒": {
-		"index": 0,
+		"index": -1,
 		"category": "rituals",
 		"sections": [
 			{
@@ -2815,13 +2892,13 @@
 			}
 		]
 	},
-	"仪式袋": {
-		"index": 0,
+	"仪式用具袋": {
+		"index": -1,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "仪式袋"
+				"value": "仪式用具袋"
 			},
 			{
 				"type": "text",
@@ -2836,8 +2913,9 @@
 		]
 	},
 	"金属仪式符文": {
-		"index": 0,
+		"index": -1,
 		"category": "rituals",
+		"tier": 2,
 		"sections": [
 			{
 				"type": "title",
@@ -2856,11 +2934,15 @@
 			{
 				"type": "runescribing",
 				"location": "mana-and-artifice:rune_clay_plate"
+			},
+			{
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_metal_ritual_rune"
 			}
 		]
 	},
 	"织魔放映机": {
-		"index": 0,
+		"index": -2,
 		"category": "manaweaving",
 		"sections": [
 			{
@@ -2869,7 +2951,7 @@
 			},
 			{
 				"type": "text",
-				"value": "对于那些不想或者无法手动绘制织魔图样的人，他们可以使用织魔放映机来满足他们的需求。这一设备一旦被放置，就会抽取附近两格以内的玩家体内的魔力。它一共可以抽取100点魔力。\n\n激活充能完毕的放映机，会使其放映出目前它所选定的图样； Activating the block with a manaweave pattern recipe scrap will change the pattern that is emitted."
+				"value": "对于那些不想或者无法手动绘制织魔图样的人，他们可以使用织魔放映机来满足他们的需求。这一设备一旦被放置，就会抽取附近两格以内的玩家体内的魔力。它一共可以抽取100点魔力。\n\n激活充能完毕的放映机，会使其放映出目前它所选定的图样；以单独的织魔图样激活这一方块，将会改变它放映出来的图样。"
 			}
 		],
 		"related_recipes": [
@@ -2880,7 +2962,7 @@
 		]
 	},
 	"图样融合": {
-		"index": 0,
+		"index": -1,
 		"category": "manaweaving",
 		"sections": [
 			{
@@ -2889,7 +2971,7 @@
 			},
 			{
 				"type": "text",
-				"value": "When drawing manaweave patterns, if no manaweaving altar or ritual is nearby, they will combine with other nearby patterns.  This can be used to achieve certain effects, such as summoning a grimoire."
+				"value": "在你摹画织魔图样时，如果附近没有织魔祭坛或者需求织魔的仪式，各图样就会与附近的图样相互融合。这一反应可被用于特殊的用途，例如召唤魔导书。"
 			}
 		],
 		"related_recipes": [
@@ -3191,17 +3273,17 @@
 			}
 		]
 	},
-	"气泡船": {
+	"泡状舱船": {
 		"index": 0,
 		"category": "constructs",
 		"sections": [
 			{
 				"type": "title",
-				"value": "气泡船"
+				"value": "泡状舱船"
 			},
 			{
 				"type": "text",
-				"value": "气泡船与普通的船极为类似，然而，气泡船可以放置在水中，且不会沉底。不仅不会沉底，它还会迅速的带着它的乘客冲向水面。 在你的奇思妙想下，或许这艘船能够被开发出新的用法。"
+				"value": "泡状舱船与普通的船极为类似，然而，泡状舱船可以放置在水中，且不会沉底。不仅不会沉底，它还会迅速的带着它的乘客冲向水面。 在你的奇思妙想下，或许这艘船能够被开发出新的用法。"
 			}
 		],
 		"related_recipes": [
@@ -3211,17 +3293,102 @@
 			}
 		]
 	},
-	"Runeforge Enchanting": {
+	"奥术守卫": {
 		"index": 0,
-		"category": "basics",
+		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Runeforge Enchanting"
+				"value": "奥术守卫"
 			},
 			{
 				"type": "text",
-				"value": "The next step in the enchanting process after creating the enchanted rune is to take everything to the runic anvil and actually apply it to your gear.  To enchant using the runic anvil, you will need to expand your setup a bit.\n\nFirst, draw the correct pattern around the anvil using Wizard's Chalk.\nNext, place four pedestals at the corner."
+				"value": "奥术守卫是被附魔了的法术书，用巫师粉笔为其绘制几道符文，然后在撒上一些温特姆粉末即可。若在守卫中放置温特姆粉末，它就会释放出奥能球，对一定范围内的敌对生物进行攻击。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/arcane_sentry"
+			}
+		]
+	},
+	"怪异之球": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "怪异之球"
+			},
+			{
+				"type": "text",
+				"value": "在使用时，这一附魔小球吸收我的魔力，这一点和魔力晶体碎片比较相似。若将带着魔力的小球掷向地面，它会立刻升起并悬浮在我的头旁边。它似乎并不喜欢这些在世界中游荡的敌对生物，如果这些生物主动送上门，那它就会发射出奥法球予以痛击。小球造成的伤害比较有限，但足以让我避免被怪物淹没的窘境。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal_fragment"
+			},
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/eldritch_orb"
+			}
+		]
+	},
+	"魔力晶体碎片": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "Mana Crystal Fragment"
+			},
+			{
+				"type": "text",
+				"value": "这一附魔晶体可以贮藏魔力。潜行+使用键可以切换它的输入或者输出模式。在我拥有充沛的魔力时，我可以将剩余的魔力储存于其中，又或者我可以在我急需魔力时抽取其中蕴含的魔力。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal_fragment"
+			}
+		]
+	},
+	"魔力晶体": {
+		"index": 0,
+		"category": "artifice",
+		"sections": [
+			{
+				"type": "title",
+				"value": "魔力晶体"
+			},
+			{
+				"type": "text",
+				"value": "将数块魔力晶体碎片融合于一起，我创造出了与之前相类似的大型魔力晶体。它向外流溢着纯净的魔力，静伫其旁，你能感觉到你体内的魔力在迅速地涌动增长。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "manaweaving_altar",
+				"location": "mana-and-artifice:manaweaving/mana_crystal"
+			}
+		]
+	},
+	"步骤2：锻符附魔": {
+		"category": "enchantments",
+		"index": -1,
+		"tier": 3,
+		"sections": [
+			{
+				"type": "title",
+				"value": "锻符附魔"
+			},
+			{
+				"type": "text",
+				"value": "在制作出附魔符文之后，附魔工序的下一步则是将这些原料放到符文铁砧上，为你的护甲附魔。但在开始使用符文铁砧之前，你还得略微完善一下整体结构。\n\n首先，你得使用金属仪式符文在铁砧旁边的地上摆出正确的样式。\n然后，你得在四个角落放下基座。"
 			},
 			{
 				"type": "image",
@@ -3231,7 +3398,7 @@
 			},
 			{
 				"type": "text",
-				"value": "To apply the enchantment, place the required reagents on the wizard chalk.  The placement doesn't matter, as long as they are there.\n\nNext, place the gear that you want to enchant on the anvil, and place the enchanted rune on top of that.  You will see the magic moving toward the anvil if set up correctly.\n\nBegin to strike the anvil with your runesmith hammer, and after enough strikes the enchantment will be applied and the reagents consumed.\n\nIf you make a mistake in your setup, the items will pop off of the anvil when you try to strike them with the hammer."
+				"value": "你得在金属仪式符文上放置正确的试剂。放置顺序并不重要，只需要它们在各自的位置上即可（有点像无序的合成配方）。\n\n接着，将你想要附魔的护甲放到符文铁砧上，再将放置附魔符文放置在最顶端。如果整体结构摆放正确，那么你就能看到魔法效果逐渐汇集到铁砧上的情景。\n\n拿起你的符文锻造锤使劲敲打，在敲打了足够多次数后，护甲就被成功附魔了，而试剂也会被消耗掉。\n\n如果整体的结构出了些差错，那么在你进行敲打时，铁砧上的物品就会直接弹出。"
 			}
 		],
 		"related_recipes": [
@@ -3245,25 +3412,29 @@
 			},
 			{
 				"type": "crafting",
-				"location": "mana-and-artifice:wizard_chalk"
+				"location": "mana-and-artifice:runeforging/runesmith_hammer"
 			},
 			{
-				"type": "crafting",
-				"location": "mana-and-artifice:runeforging/runesmith_hammer"
+				"type": "runescribing",
+				"location": "mana-and-artifice:runescribing/runescribe_metal_ritual_rune"
+			},
+			{
+				"type": "runeforging",
+				"location": "mana-and-artifice:runescribing/runeforge_metal_ritual_rune"
 			}
 		]
 	},
-	"Ritual of Ancient Stone": {
+	"远古之石": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of Ancient Stone"
+				"value": "远古之石仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of earth and nature into an essence.\n\nThis ritual can only be performed while deep underground, near bedrock."
+				"value": "这一仪式可以将地元素和自然元素聚合为精华。\n\n你只能在地底靠近基岩的极深处才能进行这一仪式。"
 			}
 		],
 		"related_recipes": [
@@ -3273,17 +3444,17 @@
 			}
 		]
 	},
-	"Ritual of the Deep Ocean": {
+	"渊极之海": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Deep Ocean"
+				"value": "渊极之海仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of water and the deep sea into an essence.\n\nThis ritual can only be performed while in an ocean biome."
+				"value": "这一仪式可以将水元素和深海元素聚合为精华。\n\n你只能在海洋生物群系才能进行这一仪式。"
 			}
 		],
 		"related_recipes": [
@@ -3293,17 +3464,17 @@
 			}
 		]
 	},
-	"Ritual of the Endless Void": {
+	"永恒虚空": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Endless Void"
+				"value": "永恒虚空仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of entropy and the void into an essence.\n\nThis ritual can only be performed while all ritual runes are in complete darkness."
+				"value": "这一仪式可以将熵元素和虚空元素聚合为精华。\n\n这一仪式要求其所有的仪式符文都处于纯粹的黑暗之中。"
 			}
 		],
 		"related_recipes": [
@@ -3313,17 +3484,17 @@
 			}
 		]
 	},
-	"Ritual of Forgotten Lore": {
+	"遗忘之知": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of Forgotten Lore"
+				"value": "遗忘之知仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of knowledge and study into an essence."
+				"value": "这一仪式可以将知识元素和研究元素聚合为精华。"
 			}
 		],
 		"related_recipes": [
@@ -3333,17 +3504,17 @@
 			}
 		]
 	},
-	"Ritual of the Searing Inferno": {
+	"焦灼炼狱": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Searing Inferno"
+				"value": "焦灼炼狱仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of fire and brimstone into an essence.\n\nThis ritual can only be performed in the nether."
+				"value": "这一仪式可以将火元素和硫磺元素聚合为精华。\n\n你只能在下界才能进行这一仪式。"
 			}
 		],
 		"related_recipes": [
@@ -3353,17 +3524,17 @@
 			}
 		]
 	},
-	"Ritual of the Untamed Wind": {
+	"狂野之风": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Untamed Wind"
+				"value": "狂野之风仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual coalesces the elements of wind and air into an essence.\n\nThis ritual can only be performed while high above the clouds."
+				"value": "这一仪式可以将风元素和气元素聚合为精华。\n\n你只能在云端之上才能进行这一仪式。"
 			}
 		],
 		"related_recipes": [
@@ -3373,17 +3544,85 @@
 			}
 		]
 	},
-	"Ritual of the Flat Lands": {
+	"燃烬地狱": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Flat Lands"
+				"value": "燃烬地狱仪式"
 			},
 			{
 				"type": "text",
-				"value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target."
+				"value": "这一禁忌的仪式会召唤出一名恶魔君主。这些恶魔会将力量赋予那些寻求于它的人，但毋庸置疑，你得为你的渴求付出一些代价。恶魔的力量十分强大，且它们只会尊敬那些能够驾驭住这股力量的人。在尝试与恶魔进行交易之前，一些预防工作是十分必要的，应极力避免召唤者被恶魔灼烧致死。\n\nThis includes both protections, as well as having an offering of a Fire Enchantment Focus to offer the demon.\n\n而与这样的生物进行结盟，会使你与其它势力变为敌对关系。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/burning_hells"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/searing_inferno"
+			}
+		]
+	},
+	"仙女之庭": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "仙女之庭仪式"
+			},
+			{
+				"type": "text",
+				"value": "这一禁忌的仪式会召唤出一名仙女女王。在进行交易过后，这些仙女往往会将力量赋予那些寻求于它的人，但毋庸置疑，你得为你的渴求付出一些代价。\n\nAn offering of a Wind focus is usually a good bet.\n\n与这样的生物进行结盟，会使你与其它势力变为敌对关系。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/faerie_courts"
+			},
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/untamed_wind"
+			}
+		]
+	},
+	"巫师议会": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "巫师议会仪式"
+			},
+			{
+				"type": "text",
+				"value": "这一仪式会开启一场来自巫师议会的会议。通过这样的方式，你可以与巫师议会结盟，以换取它们对于高等魔法的知识、与这样的生物进行结盟，会使你与其它势力变为敌对关系。"
+			}
+		],
+		"related_recipes": [
+			{
+				"type": "ritual",
+				"location": "mana-and-artifice:rituals/ancient_council"
+			}
+		]
+	},
+	"平坦之地": {
+		"index": 0,
+		"category": "rituals",
+		"sections": [
+			{
+				"type": "title",
+				"value": "平坦之地仪式"
+			},
+			{
+				"type": "text",
+				"value": "这一强大魔法可以让巫师利用特殊的标记符文来标记一块区域，然后在任意标记符文附近的16格内进行仪式，仪式即可生效。 从仪式中喷涌而出的魔法会对该片区域进行清扫，破坏掉区域内的树木、植物、泥土、石头、矿石，等等。\n\n使用仪式符文标记区域立方体的对角，即可圈定目标区域。"
 			},
 			{
 				"type": "item",
@@ -3392,7 +3631,7 @@
 			},
 			{
 				"type": "text",
-				"value": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like.\n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so.  Any larger just seems to consume the materials and then quickly implode upon itself.  Conversely, any dimension smaller than 3m also seems to have the same effect."
+				"value": "似乎只有基础的方块才会被这一法术影响，而箱子、熔炉等方块则不会被影响。\n\n有传闻称，没有任何法师可以将这一仪式的最大生效范围提升至48米以上，大于这一范围的仪式不仅会消耗掉仪式材料，还会发生仪式爆炸。与此相反的，任何小于3米范围的区域也会引起同样的效果。"
 			}
 		],
 		"related_recipes": [
@@ -3410,17 +3649,17 @@
 			}
 		]
 	},
-	"Ritual of Clear Skies": {
+	"澄空": {
 		"index": 0,
 		"category": "rituals",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of Clear Skies"
+				"value": "澄空仪式"
 			},
 			{
 				"type": "text",
-				"value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect."
+				"value": "这一仪式可以帮助我将当前的天气转换为碧空如洗的晴天。吟唱咒语 'rain, rain, go away, come again another day' 不会带来任何的额外效果。"
 			}
 		],
 		"related_recipes": [
@@ -3430,17 +3669,18 @@
 			}
 		]
 	},
-	"Ritual of the Monsoon": {
+	"季风": {
 		"index": 0,
 		"category": "rituals",
+		"tier": 4,
 		"sections": [
 			{
 				"type": "title",
-				"value": "Ritual of the Monsoon"
+				"value": "季风仪式"
 			},
 			{
 				"type": "text",
-				"value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain."
+				"value": "使用这一仪式可以招来倾盆大雨。如果我在仪式上添加一些灰色羊毛，仪式会使得天气转变为雷暴。如果我不添加羊毛，那么就只会招来雨水。"
 			}
 		],
 		"related_recipes": [
@@ -3454,17 +3694,17 @@
 			}
 		]
 	},
-	"Rune Pattern: Marking": {
+	"符文样式：标记": {
 		"index": 0,
 		"category": "runesmithing",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Rune Pattern: Marking"
+				"value": "符文样式：标记"
 			},
 			{
 				"type": "text",
-				"value": "The rune of marking is used to mark a location, and is used to target certain rituals.  Using the rune on a given block will store the block's coordinates within the rune.\n\nTypically these runes aren't powerful enough to have an effect over long distances."
+				"value": "标记符文用于标记区域，在一些特定的仪式中才会使用到它。对着方块右键，可以将这一方块的坐标存入符文中。\n\n这些符文往往因为内含能量较少，而无法标记过大的区域。"
 			}
 		],
 		"related_recipes": [
@@ -3474,17 +3714,17 @@
 			}
 		]
 	},
-	"Unguent of Seeing": {
+	"视之渴求": {
 		"index": 0,
 		"category": "manaweaving",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Unguent of Seeing"
+				"value": "视之渴求"
 			},
 			{
 				"type": "text",
-				"value": "The unguent of seeing is a concoction that, when applied to the eyes, allows the recipient to see more of the magical aura around them for a short time.  \n\nIt also helps to pierce veils and illusions created by other mages."
+				"value": "视之渴求是一种混合物，当将其敷在眼睛上时，可以让使用者在一小段时间内看清环绕在他周围的灵气。\n\n它同样可以帮助你看破由其它巫师所制造出来的幻象。"
 			}
 		],
 		"related_recipes": [
@@ -3504,7 +3744,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This component causes the target to jump forward through space, passing through blocks if possible.  \n\nIt will not force them inside of a wall, for example."
+				"value": "该组件可以使目标发动空间跳跃，此过程会尽可能的穿过方块。\n\n它并不会让你活活憋死在墙里，放心好了。"
 			}
 		],
 		"related_recipes": [
@@ -3524,7 +3764,7 @@
 			},
 			{
 				"type": "text",
-				"value": "This component causes the target and the caster to swap positions."
+				"value": "这一构件会使得目标与施放者交换位置。"
 			}
 		],
 		"related_recipes": [
@@ -3534,17 +3774,17 @@
 			}
 		]
 	},
-	"Brazier": {
+	"火盆": {
 		"index": "0",
 		"category": "artifice",
 		"sections": [
 			{
 				"type": "title",
-				"value": "Brazier"
+				"value": "火盆"
 			},
 			{
 				"type": "text",
-				"value": "This brazier can be lit/doused as normal, however it also has a minor enchantment on it that can be activated to have it light up when night falls."
+				"value": "像普通火盆那样，这种火盆可以手动进行点亮/熄灭，然而附着在其上的微弱魔力，可以让它在夜幕降临时自动点亮自身。"
 			}
 		],
 		"related_recipes": [
@@ -3554,5 +3794,5 @@
 			}
 		]
 	},
-	"version": "1.0.1a"
+	"version": "1.0.2a"
 }
