@@ -80,17 +80,17 @@
 			}
 		]
 	},
-	"学派": {
+	"派系": {
 		"category": "basics",
 		"index": -3,
 		"sections": [
 			{
 				"type": "title",
-				"value": "学派"
+				"value": "派系"
 			},
 			{
 				"type": "text",
-				"value": "在你畅游于这个奥术世界的旅途中，你必须在某个特定时刻为自己选择一个学派。学派决定了你在进阶时需要完成的仪式的种类。\n\n记住，三思而后行。\n\n一旦选择了特定的学派，就无法做出更改了。\n\n(DEV 事项：下列的玩法还没有完善)\n\nYou will also make enemies of the other two factions, causing them to send their assassins after you.  You will gain reputation with your faction by doing so and will unlock additional trades and resources."
+				"value": "在你畅游于这个奥术世界的旅途中，你必须在某个特定时刻为自己选择一个派系。派系决定了你在进阶时需要完成的仪式的种类。\n\n记住，三思而后行。\n\n一旦选择了特定的派系，就无法做出更改了。\n\n(DEV 事项：下列的玩法还没有完善)\n\nYou will also make enemies of the other two factions, causing them to send their assassins after you.  You will gain reputation with your faction by doing so and will unlock additional trades and resources."
 			}
 		],
 		"related_recipes": []
@@ -104,7 +104,7 @@
 			},
 			{
 				"type": "text",
-				"value": "织魔祭坛可以在注魔之池上融合原料以及织魔符号。"
+				"value": "织魔祭坛可以在注魔之池上融合原料以及织魔符文。"
 			}
 		],
 		"related_recipes": [
@@ -224,7 +224,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Manaweave Enchanting"
+				"value": "织魔附魔"
 			},
 			{
 				"type": "text",
@@ -1865,7 +1865,7 @@
 			},
 			{
 				"type": "text",
-				"value": "我得搭建一个适合研究工作空间，这样的一片小地方能够让我更好的把我对法术的构思记录在纸上。\n\n先是一张位置合适，摆放整洁的桌子，宽敞的桌面适合放置一些物品；还得准备些能够承受魔法抄写的纸；对了，还有一瓶合适的墨水，没了墨水还怎么做研究。我最好再备上一点魔法粉尘。\n\n万事俱备，接下来就可以进行研究了。首先，我得选择一种塑造法术的方式，这一方式决定了魔法会以何种形式出现在世界中。我认为应该有有数种方式可以供自己学习并选择。\n\n在这之后，我应该选择一个构件，这一构件会决定这一法术在世界中产生的效果。\n\n这些应该足够编写一个基础法术了。然而，我还需深入考虑，法术的哪几个方面是可以供我自定义设计的。想要改变最终的输出，我得修改法术“等式”的一部分内容。\n\n当我最终设计出了我心仪的法术，I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell. 还好，在我脑海里的小桌已经为这一步预留了一个位置。\n\n...我真的很想知道是否有某种方法可以制作出更为复杂的法术，譬如说，能够在一个法术释放里产生多种效果？应该是有的。"
+				"value": "我得搭建一个适合研究工作空间，这样的一片小地方能够让我更好的把我对法术的构思记录在纸上。\n\n先是一张位置合适，摆放整洁的桌子，宽敞的桌面适合放置一些物品；还得准备些能够承受魔法抄写的纸；对了，还有一瓶合适的墨水，没了墨水还怎么做研究。我最好再备上一点奥术粉末。\n\n万事俱备，接下来就可以进行研究了。首先，我得选择一种塑造法术的方式，这一方式决定了魔法会以何种形式出现在世界中。我认为应该有有数种方式可以供自己学习并选择。\n\n在这之后，我应该选择一个构件，这一构件会决定这一法术在世界中产生的效果。\n\n这些应该足够编写一个基础法术了。然而，我还需深入考虑，法术的哪几个方面是可以供我自定义设计的。想要改变最终的输出，我得修改法术“等式”的一部分内容。\n\n当我最终设计出了我心仪的法术，我需要静候片刻，奥术粉末会将墨水灌注到魔法配方之中，依据这一配方，可以用接下来的仪式将其制作为真正的法术。还好，在我脑海里的小桌已经为这一步预留了位置。\n\n...我真的很想知道是否有某种方法可以制作出更为复杂的法术，譬如说，能够在一个法术释放里产生多种效果？应该是有的。"
 			}
 		],
 		"related_recipes": [
@@ -2024,7 +2024,7 @@
 		"sections": [
 			{
 				"type": "title",
-				"value": "Transitory Tile"
+				"value": "临时隧道"
 			},
 			{
 				"type": "text",
