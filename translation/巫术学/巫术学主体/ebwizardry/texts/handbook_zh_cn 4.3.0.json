@@ -12,7 +12,7 @@
 	"images": {
 		"workbench": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/arcane_workbench.png",
-			"caption": "The Arcane Workbench",
+			"caption": "奥术工作台",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -20,7 +20,7 @@
 		},
 		"crystal_ore": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/crystal_ore.png",
-			"caption": "Crystal Ore",
+			"caption": "水晶矿石",
 			"u": 0,
 			"v": 0,
 			"width": 64,
@@ -28,7 +28,7 @@
 		},
 		"magic_crystal": {
 			"location": "ebwizardry:textures/items/crystal_magic.png",
-			"caption": "A Magic Crystal",
+			"caption": "魔法水晶",
 			"u": 6,
 			"v": 6,
 			"width": 36,
@@ -39,7 +39,7 @@
 		},
 		"magic_wand": {
 			"location": "ebwizardry:textures/items/wand_novice.png",
-			"caption": "A Magic Wand",
+			"caption": "魔杖",
 			"u": 0,
 			"v": 0,
 			"width": 64,
@@ -48,7 +48,7 @@
 		},
 		"crystal_flower": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/crystal_flower.png",
-			"caption": "A Crystal Flower",
+			"caption": "水晶花",
 			"u": 0,
 			"v": 0,
 			"width": 48,
@@ -56,7 +56,7 @@
 		},
 		"wizard_tower": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/wizard_tower.png",
-			"caption": "A Wizard's Tower",
+			"caption": "巫师塔",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -64,7 +64,7 @@
 		},
 		"wizard_armour": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/wizard_armour.png",
-			"caption": "A Set Of Wizard Armour",
+			"caption": "一整套巫师护具",
 			"u": 0,
 			"v": 0,
 			"width": 90,
@@ -72,7 +72,7 @@
 		},
 		"obelisk": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/obelisk.png",
-			"caption": "An Obelisk",
+			"caption": "方尖碑",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -80,7 +80,7 @@
 		},
 		"shrine": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/shrine.png",
-			"caption": "An Earth Shrine",
+			"caption": "自然圣祠",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -88,7 +88,7 @@
 		},
 		"library_ruins": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/library_ruins.png",
-			"caption": "Library Ruins",
+			"caption": "图书馆遗址",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -96,7 +96,7 @@
 		},
 		"remnant": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/remnant.png",
-			"caption": "A Fire Remnant",
+			"caption": "火焰余迹",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -104,7 +104,7 @@
 		},
 		"tiers": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/tiers.png",
-			"caption": "The 4 Tiers Of Wand",
+			"caption": "魔杖的四层等阶",
 			"u": 0,
 			"v": 0,
 			"width": 96,
@@ -113,7 +113,7 @@
 		},
 		"elements": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/elements.png",
-			"caption": "The 7 Arcane Elements",
+			"caption": "七种奥术元素",
 			"u": 0,
 			"v": 0,
 			"width": 106,
@@ -285,9 +285,9 @@
 			},
 			"text": [
 			
-				"The Wizard's Handbook",
+				"巫师手札",
 				
-				"By Electroblob"
+				"Electroblob 著"
 			]
 		},
 		
@@ -592,23 +592,23 @@
 					],
 					"text": [
 
-						"巫师们终其一生都在收集着各式各样的法术书，因此，他们会建造出图书馆，用以收纳他们的藏品。一些特别的，不愿将自己的藏品示于人前的巫师，还会将他们收集到的的奥术知识藏于地底，阻止宵小之辈的侵扰。然而，图书馆需要不断地维修保养，如果图书馆主人在没有徒弟继承自己的书籍的情况下死去，很快，图书馆就会因年久失修而破损。在魔法流传于世的这数千年以来，有越来越多的图书馆以这样的方式被遗弃于未知之处，而在你探索时，你很有可能会遇到这样的遗迹。你或许能在这破败的废墟之中搜寻到一些法术书或是一些小玩意，它们跨越了漫长的时光，留存至今。",
+						"巫师们终其一生都在收集着各式各样的法术书，因此，他们会建造出图书馆，用以收纳他们的藏品。一些特别的，不愿将自己的藏品示于人前的巫师，还会将他们收集到的的奥术知识藏于地底，阻止宵小之辈的侵扰。然而，图书馆需要不断地维修保养，如果图书馆主人在没有徒弟继承自己的书籍的情况下死去，很快，图书馆就会因年久失修而破损。在魔法流传于世的这数千年以来，有越来越多的图书馆以这样的方式被遗弃于未知之处，而在你探索时，你很有可能会遇到这样的遗迹。你或许能在这破败的废墟之中搜寻到一些法术书或是一些小玩意，它们抵抗了漫长时光的侵袭，留存至今。",
 
 						"#image library_ruins",
 
-						"然而，图书馆的用途可不只是藏书。 Wizards of the past harnessed the power of the imbuement altar, used to perform elemental imbuement rituals on magical materials. The positioning of the altar is a precise and difficult art as it must be aligned according to particular celestial movements and local mana fluctuations. The practice of building them has become much rarer in recent history, mainly because once built, a solid rock altar lasts for centuries, so there is little need for new ones. Instead, most wizards find and repair an existing altar for when they need to perform imbuement rituals - and library ruins are the perfect place to look.",
+						"然而，图书馆的用途可不只是藏书。那些在过去操纵着注法祭坛的力量的巫师们，会对一些魔法材料施放具有元素倾向的注法仪式。在建造注法祭坛时，祭坛摆放的位置挑选如同一门艺术一般，十分精巧且困难。祭坛的摆放位置必须依据天体的运行以及附近魔力的分布而做出相应的调整。 在最近的魔法史中，这样的祭坛建造实操已经变得十分稀少了，这主要是因为，这样的祭坛一旦建造完毕，祭坛中间的坚硬石质祭坛可以维系数百年而不倒，因而人们对于新祭坛的需求也就没那么迫切了。与其建造新祭坛施放注法仪式，许多巫师会转而选择去寻找和修复那些之前留存下来的祭坛 - 图书馆遗址就是一个不错的寻找地点。",
 
-						"You, too, may at some point find it useful to construct your own library, which will of course require some bookshelves:",
+						"你会在建造自己的图书馆时需要到这一祭坛，且你的图书馆还需要一些书橱：",
 
 						"#recipe bookshelves",
 
 						"#recipe gilded_wood",
 
-						"这些书架可不仅仅是家具。向书架中注入魔力最为充盈的魔法水晶，可以使得你毫不费力的在书架以及@arcane_workbench 奥术工作台@之间传导知识 - 这极为便捷的拓宽了你的藏品收纳。讲台同样有着大用：",
+						"这些书橱可不仅仅是家具。向书架中注入魔力最为充盈的魔法水晶，可以使得你毫不费力的在书架以及@arcane_workbench 奥术工作台@之间传导知识 - 这极为便捷的拓宽了你的藏品收纳空间。讲台同样有着大用：",
 
 						"#recipe lecterns",
 
-						"The tome that floats above a lectern gathers the knowledge from nearby spell books, allowing each to be perused at leisure without remembering its precise location."
+						"悬浮于讲台上的典籍将会汇集附近法术书中知识，你可以极为轻松地查阅到某个法术的信息，无需再去苦苦牢记法术书的位置。"
 					]
 				},
 				"creatures": {
@@ -621,15 +621,15 @@
 
 						"除了巫师，许多其他生物也可以使用魔法。而在其中有很多从出生开始就拥有魔力，而且它们大部分都可以施放 @spells 法术@ 。其中一种你可能会在守卫 @obelisks 方尖碑@ 的生物中看到,他们可能是由更强大的召唤师召唤而来。偶尔你还能够在野外中被发现魔法能力不强的生物。",
 
-						"一个的典型的例子就是余迹（remnant），这是由强大的魔法留存下来的痕迹自然形成的，犹如灵体一般的存在。 and typically takes on one of the seven arcane @elements@. On their own, they are little more than a nuisance, but a swarm can quickly overwhelm the unprepared adventurer, and their innate resistance to magic makes it advisable to carry a bow or other ranged weapon.",
+						"一个的典型的例子就是余迹（remnant），这是由强大的魔法留存下来的痕迹自然形成的，犹如灵体一般的存在。这些存在具有着七种 @elements 元素@ 中的一种。如果仅仅是一只，那它也就是稍微烦人了一些，但若是一大群蜂拥而至，那它们就可以毫不费力地淹没那些毫无准备的冒险家。考虑到它们先天的魔法抗性，所以使用弓或者是范围打击类武器能更有效地造成伤害。",
 
 						"#image remnant",
 
-						"Once slain, their spectral dust can be collected, which, besides emitting a colorful glow, has a variety of useful properties. A receptacle, crafted as shown, provides a convenient means of containing it.",
+						"击杀了余迹之后，你可以收集到一些灵尘，灵尘不仅本身会发出带颜色的荧光，而且还有着许多有用的性质。你可以用特定的容杯（Receptacle）方便的储存灵尘，合成方式如下：",
 
 						"#recipe receptacle",
 
-						"Receptacles may be placed atop a surface or affixed to a wall and right-clicked with spectral dust to fill them, acting as a soft light source. Right-clicking a filled receptacle empties it and retreives the dust."
+						"容杯可以被放置于任意平面，或是悬挂于墙上，拿着灵尘右键即可将灵尘放入容器中。此时它可以作为一个光源。空手右键即可取出容器内的所有灵尘。"
 					]
 				},
 				"artefacts": {
