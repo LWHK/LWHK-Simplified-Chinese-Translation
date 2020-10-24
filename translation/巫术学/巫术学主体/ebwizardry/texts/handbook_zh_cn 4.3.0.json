@@ -727,7 +727,7 @@
 
 						"Arkendur的魔法物品供应 - 我们有你所想要的魔法物品！",
 
-						"想要在旅途中为你的 @wands 魔杖@ 充能？没问题！ @mana 魔力@ 现在可以装入瓶内了。将八颗魔法水晶放入玻璃瓶中，魔法瓶的制作就这样简简单单。当你想使用它时，将它与你的魔杖合成一下，它将会为你的魔杖恢复一些魔力。",
+						"想要在旅途中为你的 @wands 魔杖@ 充能？没问题！ @mana 魔力@ 现在可以被装入瓶内了。将八颗魔法水晶放入玻璃瓶中，魔法瓶的制作就这样简简单单。当你想使用它时，将它与你的魔杖合成一下，它将会为你的魔杖恢复一些魔力。",
 
 						"#recipe medium_mana_flask",
 
@@ -811,8 +811,6 @@
 			"text": [
 				
 				"Electroblob's Wizardry \n版本 #version \nFor Minecraft #mcversion",
-
-				"Electroblob's Wizardry \n版本 #version \nFor Minecraft #mcversion",
 				
 				"设计，代码和材质 by Electroblob",
 
@@ -828,7 +826,7 @@
 
 				"翻译；",
 
-				"- Spanish: MadWrist, Alsentar \n- Mexican Spanish: MadWrist \n- Russian: VilagVil, kellixon, bigenergy \n- French: Hahdrim \n- Brazilian Portuguese: lorrampi \n- Chinese (Simplified): ZHENGLOC, dragon-evol, Hokorizero, TUsama, Determancer \n- Korean: shejery, rewi_wire \n- Polish: Trozuu \n- German: BirdyDragon \n- Chinese (Traditional): chesterccj305 \n- Hungarian: Bombadil",
+				"- 西班牙语: MadWrist, Alsentar \n-墨西哥西班牙语: MadWrist \n- 俄语: VilagVil, kellixon, bigenergy \n- 法语: Hahdrim \n- 巴西葡萄牙语: lorrampi \n- 中文 (简体): ZHENGLOC, dragon-evol, Hokorizero, TUsama, Determancer \n- Korean: shejery, rewi_wire \n- 波兰语: Trozuu \n- 德语: BirdyDragon \n- 中文 (繁体): chesterccj305 \n- 匈牙利语: Bombadil",
 
 				"声音效果；",
 
