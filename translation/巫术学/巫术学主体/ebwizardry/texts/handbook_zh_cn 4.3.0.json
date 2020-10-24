@@ -292,7 +292,7 @@
 		},
 		
 		"introduction": {
-			"title": "Introduction",
+			"title": "导言",
 			"text": [
 			
 				"向你致以敬意，巫师! 这本书介绍了数种魔法类别以及操纵这些元素的方法。我必须提醒你，这本书并不只是像现在这样，看起来十分普通 —— 当你在探索这个世界时，书中新的内容会不断地具现出来。",
@@ -304,7 +304,7 @@
 		},
 
 		"main_contents": {
-			"title": "Contents",
+			"title": "目录",
 			"contents": {
 				"id": "main_contents",
 				"hyperlinks": true,
