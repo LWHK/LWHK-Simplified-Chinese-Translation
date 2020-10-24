@@ -585,18 +585,18 @@
 					]
 				},
 				"library_ruins": {
-					"title": "Library Ruins",
+					"title": "图书馆遗迹",
 					"include_in_contents": "magical_world_subsections",
 					"triggers": [
 						"ebwizardry:find_library_ruins"
 					],
 					"text": [
 
-						"Wizards tend to accumulate rather a lot of spell books during their lifetime, and it is therefore usual for a wizard to build a library to store their collection. Some particularly secretive wizards have even been known to store their arcane knowledge underground, away from prying eyes. However, a library requires upkeep, and if its owner dies without an apprentice to inherit the books, the structure will quickly fall into disrepair. Thousands of years of magic use have seen more and more libraries left abandoned in this way, and you may perhaps stumble across one when exploring. They are often worth searching for any spell books or other items that might have survived the ravages of time.",
+						"巫师们终其一生都在收集着各式各样的法术书，因此，他们会建造出图书馆，用以收纳他们的藏品。一些特别的，不愿将自己的藏品示于人前的巫师，还会将他们收集到的的奥术知识藏于地底，阻止宵小之辈的侵扰。然而，图书馆需要不断地维修保养，如果图书馆主人在没有徒弟继承自己的书籍的情况下死去，很快，图书馆就会因年久失修而破损。在魔法流传于世的这数千年以来，有越来越多的图书馆以这样的方式被遗弃于未知之处，而在你探索时，你很有可能会遇到这样的遗迹。你或许能在这破败的废墟之中搜寻到一些法术书或是一些小玩意，它们跨越了漫长的时光，留存至今。",
 
 						"#image library_ruins",
 
-						"Libraries are not just used for storing books, though. Wizards of the past harnessed the power of the imbuement altar, used to perform elemental imbuement rituals on magical materials. The positioning of the altar is a precise and difficult art as it must be aligned according to particular celestial movements and local mana fluctuations. The practice of building them has become much rarer in recent history, mainly because once built, a solid rock altar lasts for centuries, so there is little need for new ones. Instead, most wizards find and repair an existing altar for when they need to perform imbuement rituals - and library ruins are the perfect place to look.",
+						"然而，图书馆的用途可不只是藏书。 Wizards of the past harnessed the power of the imbuement altar, used to perform elemental imbuement rituals on magical materials. The positioning of the altar is a precise and difficult art as it must be aligned according to particular celestial movements and local mana fluctuations. The practice of building them has become much rarer in recent history, mainly because once built, a solid rock altar lasts for centuries, so there is little need for new ones. Instead, most wizards find and repair an existing altar for when they need to perform imbuement rituals - and library ruins are the perfect place to look.",
 
 						"You, too, may at some point find it useful to construct your own library, which will of course require some bookshelves:",
 
@@ -604,7 +604,7 @@
 
 						"#recipe gilded_wood",
 
-						"These bookshelves are not mere furniture, however. Infusing the most potent magic crystals into your bookshelves allows effortless transfer of knowledge between them and a nearby @arcane_workbench arcane workbench@ - very handy as one's collection expands. Equally useful is a lectern:",
+						"这些书架可不仅仅是家具。向书架中注入魔力最为充盈的魔法水晶，可以使得你毫不费力的在书架以及@arcane_workbench 奥术工作台@之间传导知识 - 这极为便捷的拓宽了你的藏品收纳。讲台同样有着大用：",
 
 						"#recipe lecterns",
 
@@ -621,7 +621,7 @@
 
 						"除了巫师，许多其他生物也可以使用魔法。而在其中有很多从出生开始就拥有魔力，而且它们大部分都可以施放 @spells 法术@ 。其中一种你可能会在守卫 @obelisks 方尖碑@ 的生物中看到,他们可能是由更强大的召唤师召唤而来。偶尔你还能够在野外中被发现魔法能力不强的生物。",
 
-						"A notable example is the remnant, a spirit-like being that forms naturally from the traces left behind by powerful magic and typically takes on one of the seven arcane @elements@. On their own, they are little more than a nuisance, but a swarm can quickly overwhelm the unprepared adventurer, and their innate resistance to magic makes it advisable to carry a bow or other ranged weapon.",
+						"一个的典型的例子就是余迹（remnant），这是由强大的魔法留存下来的痕迹自然形成的，犹如灵体一般的存在。 and typically takes on one of the seven arcane @elements@. On their own, they are little more than a nuisance, but a swarm can quickly overwhelm the unprepared adventurer, and their innate resistance to magic makes it advisable to carry a bow or other ranged weapon.",
 
 						"#image remnant",
 
