@@ -75,7 +75,7 @@ item.ebwizardry\:spell_book.new=尚未鉴定！
 item.ebwizardry\:spell_book.apply_to_wizard=将 %1$s 的法术 %2$s 替换为 %3$s
 
 item.ebwizardry\:ruined_spell_book.name=破损的法术书
-item.ebwizardry\:ruined_spell_book.desc=这本破旧不堪的法术书中书页严重破损，以致无法阅读，但不知为何，你能感受到其中仍有魔法遗存——只要能够还原它......
+item.ebwizardry\:ruined_spell_book.desc=这本破旧不堪的法术书中书页严重破损，已经无法阅读了，但不知为何，你能感受到其中仍有魔法遗存——只要能够还原它......
 
 item.ebwizardry\:arcane_tome.name=奥法宝典
 item.ebwizardry\:arcane_tome.desc=将任意满足进度条件的 %1$s 等级的魔杖升级至 %2$s 等级
