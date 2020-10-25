@@ -82,7 +82,7 @@ item.ebwizardry\:arcane_tome.desc=将任意满足进度条件的 %1$s 等级的�
 
 item.ebwizardry\:wizard_handbook.name=巫师手札
 item.ebwizardry\:wizard_handbook.author=%1$s 著
-item.ebwizardry\:wizard_handbook.desc=Your not-so-pocket-sized guide to the arcane arts! A must-have for any aspiring wizard who seeks to learn the secrets of magic.\n\nRight-click while holding this book to read it.
+item.ebwizardry\:wizard_handbook.desc=这是一本陪伴你行走在奥术之艺上的，不那么能塞在口袋里的书。任何想在这条道路上创下惊天伟业，挖掘魔法中的秘密的巫师都得手持一本。\n\n拿着这本书时右键，可以打开阅读本书。
 
 item.ebwizardry\:wand.generic=魔杖
 
