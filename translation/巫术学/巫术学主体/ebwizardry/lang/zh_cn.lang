@@ -144,7 +144,7 @@ item.ebwizardry\:spectral_pickaxe_upgraded.name=幽冥镐
 item.ebwizardry\:small_mana_flask.name=小型魔力瓶
 item.ebwizardry\:medium_mana_flask.name=中型魔力瓶
 item.ebwizardry\:large_mana_flask.name=大型魔力瓶
-item.ebwizardry\:mana_flask.desc=与一柄魔杖或是一件巫师盔甲合成以为其恢复 %s 点魔力
+item.ebwizardry\:mana_flask.desc=与一柄魔杖或是一件巫师盔甲合成可为其恢复 %s 点魔力
 
 item.ebwizardry\:grand_crystal.name=大型魔力水晶
 item.ebwizardry\:grand_crystal.desc=一块巨大的魔力水晶，尺寸是自然生成水晶的数倍。肯定是有人手动使其生长——但是如何做到的？
