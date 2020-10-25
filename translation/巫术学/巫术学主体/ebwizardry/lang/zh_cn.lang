@@ -82,7 +82,7 @@ item.ebwizardry\:arcane_tome.desc=将任意满足进度条件的 %1$s 等级的�
 
 item.ebwizardry\:wizard_handbook.name=巫师手札
 item.ebwizardry\:wizard_handbook.author=%1$s 著
-item.ebwizardry\:wizard_handbook.desc=%1$s 著
+item.ebwizardry\:wizard_handbook.desc=Your not-so-pocket-sized guide to the arcane arts! A must-have for any aspiring wizard who seeks to learn the secrets of magic.\n\nRight-click while holding this book to read it.
 
 item.ebwizardry\:wand.generic=魔杖
 
