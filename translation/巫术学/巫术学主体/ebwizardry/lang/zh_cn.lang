@@ -53,7 +53,8 @@ tile.ebwizardry\:receptacle.name=容杯
 tile.ebwizardry\:imbuement_altar.name=注法祭坛
 
 item.ebwizardry\:crystal_magic.name=魔力水晶
-item.ebwizardry\:crystal_magic.desc=水晶闪耀斑斓的色彩似乎在缓慢地变幻流转，暗示着其内蕴含的魔法能量。或许能够驾驭这种魔力，以某种方法来达成......
+item.ebwizardry\:crystal_magic.desc=水晶闪耀斑斓的色彩似乎在缓慢地变幻流转，暗示着其内蕴含的魔法能量。或许能以某种方法来驾驭这种魔力......
+
 item.ebwizardry\:crystal_fire.name=赤焰水晶
 item.ebwizardry\:crystal_fire.desc=发出烈火般橙色光彩的水晶。也许是揭示火焰元素奥秘的关键......
 item.ebwizardry\:crystal_ice.name=寒霜水晶
