@@ -71,7 +71,7 @@ item.ebwizardry\:crystal_healing.name=光辉水晶
 item.ebwizardry\:crystal_healing.desc=在日光下闪耀金黄色光芒的水晶。或许它连结着神圣之力......
 
 item.ebwizardry\:spell_book.name=法术书
-item.ebwizardry\:spell_book.desc=一本写满了远古卷轴里符号与雕文的书。通过刻苦钻研，或许能破译它的内容......\n\n手持这本书时右击即可阅读。
+item.ebwizardry\:spell_book.desc=一本写满了远古文稿里符号与雕文的书。通过刻苦钻研，或许能破译它的内容......\n\n手持这本书时右击即可阅读。
 item.ebwizardry\:spell_book.new=尚未鉴定！
 item.ebwizardry\:spell_book.apply_to_wizard=将 %1$s 的法术 %2$s 替换为 %3$s
 
