@@ -1563,7 +1563,7 @@ config.ebwizardry.blink_effect.tooltip=控制是否在施放传送类法术时�
 config.ebwizardry.spellcasting_animations=施放法术动画
 config.ebwizardry.spellcasting_animations.tooltip=控制玩家使用法术时是否使用自定义动画。如果此动画与其他mod的动画发生冲突时，请禁用此项。
 config.ebwizardry.donation_perk_element=贡献者奖励元素
-config.ebwizardry.donation_perk_element.tooltip=在捐赠者和贡献者玩家身上将会环绕这飞行着的元素，在此留空将会禁用该功能。如果你是贡献者中的一员，此设置将会更改所有玩家看到你的方式（如果你不属于其中的一员，则不会执行任何操作）
+config.ebwizardry.donation_perk_element.tooltip=该游戏元素用于在捐赠者和贡献者玩家身上呈现出环绕飞翔的球体，在此留空将会禁用该功能。如果你是贡献者中的一员，此设置将会更改所有玩家看到你的方式（如果你不属于其中的一员，则该设置没有作用）。
 
 config.ebwizardry.category.commands=命令设置
 config.ebwizardry.category.commands.tooltip=本模组的指令设置
