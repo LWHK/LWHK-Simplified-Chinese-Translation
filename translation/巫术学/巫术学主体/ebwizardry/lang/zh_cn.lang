@@ -1464,7 +1464,7 @@ config.ebwizardry.bookshelf_blocks.tooltip=被视作书橱方块的方块注册�
 config.ebwizardry.book_items=书本列表
 config.ebwizardry.book_items.tooltip=除默认物品外，也可以放入书橱中的物品列表。物品名称不分大小写。若是模组物品，请加入模组前缀ID（例如thaumcraft:thaumonomicon）。
 config.ebwizardry.bookshelf_search_radius=书橱检索半径
-config.ebwizardry.bookshelf_search_radius.tooltip=书橱可以链接的奥术工作台和览术台最大数量
+config.ebwizardry.bookshelf_search_radius.tooltip=使书橱可以连接奥术工作台和览术台的最远距离格数
 config.ebwizardry.currency_items=货币物品
 config.ebwizardry.currency_items.tooltip=可以用作货币的物品的列表（第一格；第二格没用）。每一个新的物品应当写入物品名，空格，接着一个整数以代表该物品的价值。价值与交易需要的物品量成反比。
 
