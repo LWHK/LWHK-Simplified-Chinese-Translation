@@ -12,7 +12,7 @@
 	"images": {
 		"workbench": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/arcane_workbench.png",
-			"caption": "The Arcane Workbench",
+			"caption": "奥术工作台",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -20,7 +20,7 @@
 		},
 		"crystal_ore": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/crystal_ore.png",
-			"caption": "Crystal Ore",
+			"caption": "水晶矿石",
 			"u": 0,
 			"v": 0,
 			"width": 64,
@@ -28,7 +28,7 @@
 		},
 		"magic_crystal": {
 			"location": "ebwizardry:textures/items/crystal_magic.png",
-			"caption": "A Magic Crystal",
+			"caption": "魔力水晶",
 			"u": 6,
 			"v": 6,
 			"width": 36,
@@ -39,7 +39,7 @@
 		},
 		"magic_wand": {
 			"location": "ebwizardry:textures/items/wand_novice.png",
-			"caption": "A Magic Wand",
+			"caption": "魔杖",
 			"u": 0,
 			"v": 0,
 			"width": 64,
@@ -48,7 +48,7 @@
 		},
 		"crystal_flower": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/crystal_flower.png",
-			"caption": "A Crystal Flower",
+			"caption": "水晶花",
 			"u": 0,
 			"v": 0,
 			"width": 48,
@@ -56,7 +56,7 @@
 		},
 		"wizard_tower": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/wizard_tower.png",
-			"caption": "A Wizard's Tower",
+			"caption": "巫师塔",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -64,7 +64,7 @@
 		},
 		"wizard_armour": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/wizard_armour.png",
-			"caption": "A Set Of Wizard Armour",
+			"caption": "一整套巫师护具",
 			"u": 0,
 			"v": 0,
 			"width": 90,
@@ -72,7 +72,7 @@
 		},
 		"obelisk": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/obelisk.png",
-			"caption": "An Obelisk",
+			"caption": "方尖碑",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -80,7 +80,7 @@
 		},
 		"shrine": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/shrine.png",
-			"caption": "An Earth Shrine",
+			"caption": "自然圣祠",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -88,7 +88,7 @@
 		},
 		"library_ruins": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/library_ruins.png",
-			"caption": "Library Ruins",
+			"caption": "图书馆遗迹",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -96,7 +96,7 @@
 		},
 		"remnant": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/remnant.png",
-			"caption": "A Fire Remnant",
+			"caption": "火焰遗灵",
 			"u": 0,
 			"v": 0,
 			"width": 110,
@@ -104,7 +104,7 @@
 		},
 		"tiers": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/tiers.png",
-			"caption": "The 4 Tiers Of Wand",
+			"caption": "魔杖的四层等阶",
 			"u": 0,
 			"v": 0,
 			"width": 96,
@@ -113,7 +113,7 @@
 		},
 		"elements": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/elements.png",
-			"caption": "The 7 Arcane Elements",
+			"caption": "七种奥术元素",
 			"u": 0,
 			"v": 0,
 			"width": 106,
@@ -285,14 +285,14 @@
 			},
 			"text": [
 			
-				"The Wizard's Handbook",
+				"巫师手札",
 				
-				"By Electroblob"
+				"Electroblob 著"
 			]
 		},
 		
 		"introduction": {
-			"title": "Introduction",
+			"title": "导言",
 			"text": [
 			
 				"向你致以敬意，巫师! 这本书介绍了数种魔法类别以及操纵这些元素的方法。我必须提醒你，这本书并不只是像现在这样，看起来十分普通 —— 当你在探索这个世界时，书中新的内容会不断地具现出来。",
@@ -304,7 +304,7 @@
 		},
 
 		"main_contents": {
-			"title": "Contents",
+			"title": "目录",
 			"contents": {
 				"id": "main_contents",
 				"hyperlinks": true,
@@ -328,11 +328,11 @@
 
 				"#recipe arcane_workbench",
 
-				"- 一本 @spells 法术@ 书。你可以在战利品箱中发现法术书，它也会以掉落物形式出现，你也可以与其他巫师交易。当然你也可以制作一本初始的法术书：魔法飞弹，如下所示:",
+				"- 一本 @spells 法术@ 书。你可以在战利品箱中找到法术书，它也会以掉落物形式出现，你也可以与其他巫师交易。当然你也可以制作一本初始的法术书：魔法飞弹，如下所示:",
 
 				"#recipe magic_missile_spell_book",
 
-				"你还要准备大量的魔法水晶，为你的魔杖注入 @mana 魔力@ 。"
+				"你还要准备大量的魔力水晶，为你的魔杖注入 @mana 魔力@ 。"
 			]
 		},
 
@@ -366,9 +366,9 @@
 
 				"#image magic_wand",
 
-				"大多数魔杖的制作，在最开始时相当简单，将一块魔法水晶固定在木棍的一端，而另一端镶嵌一粒金粒，一根简单的魔杖就制作好了。魔法水晶是魔杖力量的来源，它提供了必要的，用来引导 @spells 法术@ 的核心。魔杖的其它部分也很重要，它不仅能让你方便的手持魔杖进行施法，而且还充当了引导和定向 @mana 魔力@ 流动的通路。",
+				"大多数魔杖的制作，在最开始时相当简单，将一块魔力水晶固定在木棍的一端，而另一端镶嵌一粒金粒，一根简单的魔杖就制作好了。魔力水晶是魔杖力量的来源，它提供了必要的，用来引导 @spells 法术@ 的核心。魔杖的其它部分也很重要，它不仅能让你方便的手持魔杖进行施法，而且还充当了引导和定向 @mana 魔力@ 流动的通路。",
 
-				"随着魔杖释放的法术越多，它引导 @spells 法术@ 的效率会越来越高，因此可以可以用它来施放更强大的魔法。这种能力的变化可以从魔杖本身的形状和外观上的细微变化中看出: 随着魔杖变得越来越强大，它顶端的魔法水晶将会变得更有活力，水晶的颜色也会变化，变化的颜色取决于它所引导的 @elements 元素@ ，制作它的木材将会生长和扭曲，形成更复杂的形状。",
+				"随着魔杖释放的法术越多，它引导 @spells 法术@ 的效率会越来越高，因此可以可以用它来施放更强大的魔法。这种能力的变化可以从魔杖本身的形状和外观上的细微变化中看出: 随着魔杖变得越来越强大，它顶端的魔力水晶将会变得更有活力，水晶的颜色也会变化，变化的颜色取决于它所引导的 @elements 元素@ ，制作它的木材将会生长和扭曲，形成更复杂的形状。",
 
 				"手持魔杖的时候，屏幕的角落会出现一个显示框。上面会显示当前选中的法术及其图标，如果当前法术被施放，其上的冷却条将会指示该法术可以再次施放的时间间隔。显示框还能显示与魔杖当前使用的法术相连的上一个和下一个法术的名称。如要在法术间切换，你可以使用 #next_spell_key 和 #previous_spell_key 键 (这些都可以在 选项 -> 控制 中修改)。也可以在潜行时通过滚动鼠标滚轮来切换法术。",
 
@@ -438,7 +438,7 @@
 					],
 					"text": [
 
-						"想要充能你的 @wands 魔杖@ ，你需要把魔杖放在奥术工作台的中央凹槽里，然后把一些魔法水晶放在左下角的凹槽里，最后点击“应用”按钮即可。每个水晶含有#mana_per_crystal @mana 魔力@ ，充能时魔杖不会过量吸收魔力，所以你可以在工作台中常备一些水晶，以便不时之需。不过要记住，魔杖只能吸收一整个水晶中的魔力，例如，增加30点魔力，#example_charging_loss 魔力将会损失。"
+						"想要充能你的 @wands 魔杖@ ，你需要把魔杖放在奥术工作台的中央凹槽里，然后把一些魔力水晶放在左下角的凹槽里，最后点击“应用”按钮即可。每个水晶含有#mana_per_crystal @mana 魔力@ ，充能时魔杖不会过量吸收魔力，所以你可以在工作台中常备一些水晶，以便不时之需。不过要记住，魔杖只能吸收一整个水晶中的魔力，例如，增加30点魔力，#example_charging_loss 魔力将会损失。"
 					]
 				},
 				"upgrading_wands": {
@@ -466,7 +466,7 @@
 
 						"#recipe blank_scroll",
 
-						"将魔法水晶放在左下的凹槽，空白卷轴放置在中央凹槽，将一本法术书放置在周围凹槽，点击应用来附魔该卷轴。"
+						"将魔力水晶放在左下的凹槽，空白卷轴放置在中央凹槽，将一本法术书放置在周围凹槽，点击应用来附魔该卷轴。"
 					]
 				}
 			}
@@ -520,14 +520,14 @@
 			],
 			"sections": {
 				"crystal_flowers": {
-					"title": "魔法水晶花",
+					"title": "魔力水晶花",
 					"include_in_contents": "magical_world_subsections",
 					"triggers": [
 						"ebwizardry:handbook/crystal_flowers"
 					],
 					"text": [
 
-						"在你的旅行中，你可能在野外会不时地遇到一种奇怪的，发光的花。这些独特的花朵被称为水晶花，它们能够高效的聚集 @mana 魔力@  - 直到今天，还没有人能确定它能够高效聚集魔力的原因。但是我们知道，它们可以被收集和制作成魔法水晶，使得它们成为相当有用的地上的魔力来源。然而，因为花的尺寸很小，而且它们无法密集生长，所以通过这种方式收获的魔力并不是很多，",
+						"在你的旅行中，你可能在野外会不时地遇到一种奇怪的，发光的花。这些独特的花朵被称为水晶花，它们能够高效的聚集 @mana 魔力@  - 直到今天，还没有人能确定它能够高效聚集魔力的原因。但是我们知道，它们可以被收集和制作成魔力水晶，使得它们成为相当有用的地上的魔力来源。然而，因为花的尺寸很小，而且它们无法密集生长，所以通过这种方式收获的魔力并不是很多，",
 
 						"#image crystal_flower",
 						"#recipe crystal_flower_to_crystals"
@@ -585,30 +585,30 @@
 					]
 				},
 				"library_ruins": {
-					"title": "Library Ruins",
+					"title": "图书馆遗迹",
 					"include_in_contents": "magical_world_subsections",
 					"triggers": [
 						"ebwizardry:find_library_ruins"
 					],
 					"text": [
 
-						"Wizards tend to accumulate rather a lot of spell books during their lifetime, and it is therefore usual for a wizard to build a library to store their collection. Some particularly secretive wizards have even been known to store their arcane knowledge underground, away from prying eyes. However, a library requires upkeep, and if its owner dies without an apprentice to inherit the books, the structure will quickly fall into disrepair. Thousands of years of magic use have seen more and more libraries left abandoned in this way, and you may perhaps stumble across one when exploring. They are often worth searching for any spell books or other items that might have survived the ravages of time.",
+						"巫师们终其一生都在收集着各式各样的法术书，因此他们会建造出图书馆以收纳他们的藏品。一些行事隐秘的巫师还会将他们收集到的的奥术知识藏在地底，以防他人窥探。然而，图书馆需要不断地进行维修保养，如果图书馆主人在没有学徒继承自己的书籍的情况下死去，很快图书馆就会因年久失修而变得破败不堪。魔法流传于世的这数千年历史见证了越来越多的图书馆以这样的方式被遗弃蒙尘，而在你探索时，你很有可能会遇到这样的遗迹。你或许能在这破败的废墟之中搜寻到一些法术书或是其它物件，它们在漫长时光的侵蚀下留存至今。",
 
 						"#image library_ruins",
 
-						"Libraries are not just used for storing books, though. Wizards of the past harnessed the power of the imbuement altar, used to perform elemental imbuement rituals on magical materials. The positioning of the altar is a precise and difficult art as it must be aligned according to particular celestial movements and local mana fluctuations. The practice of building them has become much rarer in recent history, mainly because once built, a solid rock altar lasts for centuries, so there is little need for new ones. Instead, most wizards find and repair an existing altar for when they need to perform imbuement rituals - and library ruins are the perfect place to look.",
+						"然而，图书馆的用途可不只是藏书。那些在过去操纵着注法祭坛的力量的巫师们，会对一些魔法材料进行元素注入仪式。祭坛位置的挑选是一门精密且艰深的技艺，因为其位置必须依据天体的运行以及附近魔力的分布来进行校准。在近来的魔法史中，这样的祭坛建造实操已经变得十分稀少了，这主要是因为一旦建造完毕，一座坚固的石质祭坛就可以维系数百年而不朽，因而人们对于新祭坛的需求也就没那么迫切了。在需要进行注法仪式时，相较于建造新祭坛，许多巫师会转而选择去寻找和修复那些之前留存下来的祭坛——而图书馆遗址就是值得一看的地点。",
 
-						"You, too, may at some point find it useful to construct your own library, which will of course require some bookshelves:",
+						"这一祭坛在你建造自己的图书馆时同样会派上用场，此外，你的图书馆当然需要一些书橱：",
 
 						"#recipe bookshelves",
 
 						"#recipe gilded_wood",
 
-						"These bookshelves are not mere furniture, however. Infusing the most potent magic crystals into your bookshelves allows effortless transfer of knowledge between them and a nearby @arcane_workbench arcane workbench@ - very handy as one's collection expands. Equally useful is a lectern:",
+						"这些书橱可不仅仅是家具。向书橱中注入魔力最为充盈的魔力水晶，可以使得你毫不费力的在书橱和附近的 @arcane_workbench 奥术工作台@ 之间传导知识——这在藏书逐渐变多时会非常有用。在藏书管理上，览术台也有同样重要的作用：",
 
 						"#recipe lecterns",
 
-						"The tome that floats above a lectern gathers the knowledge from nearby spell books, allowing each to be perused at leisure without remembering its precise location."
+						"悬浮于览术台上的典籍将会汇集附近法术书中的知识，这样一样来就可以轻松查阅信息，而无需记住法术书的准确位置。"
 					]
 				},
 				"creatures": {
@@ -619,17 +619,17 @@
 					],
 					"text": [
 
-						"除了巫师，许多其他生物也可以使用魔法。而在其中有很多从出生开始就拥有魔力，而且它们大部分都可以施放 @spells 法术@ 。其中一种你可能会在守卫 @obelisks 方尖碑@ 的生物中看到,他们可能是由更强大的召唤师召唤而来。偶尔你还能够在野外中被发现魔法能力不强的生物。",
+						"除了巫师，许多其他生物也可以使用魔法。而在其中有很多与生俱来地拥有魔力，而且它们大部分都可以施放 @spells 法术@ 。其中一种你可能会在守卫 @obelisks 方尖碑@ 的生物中看到，它们可能是由更强大的召唤师召唤而来。偶尔你还能够在野外中被发现魔法能力不强的生物。",
 
-						"A notable example is the remnant, a spirit-like being that forms naturally from the traces left behind by powerful magic and typically takes on one of the seven arcane @elements@. On their own, they are little more than a nuisance, but a swarm can quickly overwhelm the unprepared adventurer, and their innate resistance to magic makes it advisable to carry a bow or other ranged weapon.",
+						"一个的典型的例子就是遗灵，一种幽灵般的存在。它们从强大的魔法留存下来的痕迹中自然形成，通常具备七种奥术 @elements 元素@ 中的一种。如果仅仅是一只遗灵的滋扰，它也不过是稍微有些烦人罢了；但若是一大群遗灵蜂拥而至，那它们就可以毫不费力地淹没那些全无准备的冒险家。鉴于它们先天的魔法抗性，带上一把弓或其它的远程武器来对付它们会更好。",
 
 						"#image remnant",
 
-						"Once slain, their spectral dust can be collected, which, besides emitting a colorful glow, has a variety of useful properties. A receptacle, crafted as shown, provides a convenient means of containing it.",
+						"击杀遗灵后，你可以收集到一些灵尘，灵尘不仅会发出带颜色的荧光，而且还有着许多有用的性质。你可以用容杯来方便的储存灵尘，其合成方式如下所示。",
 
 						"#recipe receptacle",
 
-						"Receptacles may be placed atop a surface or affixed to a wall and right-clicked with spectral dust to fill them, acting as a soft light source. Right-clicking a filled receptacle empties it and retreives the dust."
+						"容杯可以放置于平面上方或是固定到墙上，手持灵尘右击即可填充容杯，此时容杯可以充当微弱的光源。空手右击即可将容杯清空并取出其中的灵尘。"
 					]
 				},
 				"artefacts": {
@@ -700,7 +700,7 @@
 
 				"不同元素之间的界限并不总是泾渭分明的，有些法术反而具有其它元素的特征。",
 
-				"如果幸运的话，你可能会找到元素水晶。元素水晶是一种魔法水晶，它在生长过程中吸收了元素 - 尽管这种情况发生的条件和机制仍然是一个谜。然而，我们确实知道，这些水晶可以用来制造单元素魔杖，这种魔杖会增幅与其相对应元素的法术的法术强度。"
+				"如果幸运的话，你可能会找到元素水晶。元素水晶是一种魔力水晶，它在生长过程中吸收了元素——尽管这种情况发生的条件和机制仍然是一个谜，但我们确实知道，这些水晶可以用来制造单元素魔杖，这种魔杖会为与其元素相对应的法术提高强度。"
 			]
 		},
 
@@ -727,7 +727,7 @@
 
 						"Arkendur的魔法物品供应 - 我们有你所想要的魔法物品！",
 
-						"想要在旅途中为你的 @wands 魔杖@ 充能？没问题！ @mana 魔力@ 现在可以装入瓶内了。将八颗魔法水晶放入玻璃瓶中，魔法瓶的制作就这样简简单单。当你想使用它时，将它与你的魔杖合成一下，它将会为你的魔杖恢复一些魔力。",
+						"想要在旅途中为你的 @wands 魔杖@ 充能？没问题！ @mana 魔力@ 现在可以被装入瓶内了。将八颗魔力水晶放入玻璃瓶中，魔法瓶的制作就这样简简单单。当你想使用它时，将它与你的魔杖合成一下，它将会为你的魔杖恢复一些魔力。",
 
 						"#recipe medium_mana_flask",
 
@@ -810,15 +810,13 @@
 			"include_in_contents": "main_contents",
 			"text": [
 				
-				"Electroblob's Wizardry \n版本 #version \nFor Minecraft #mcversion",
-
-				"Electroblob's Wizardry \n版本 #version \nFor Minecraft #mcversion",
+				"巫术学（Electroblob's Wizardry） \n版本 #version \n支持 Minecraft #mcversion",
 				
-				"设计，代码和材质 by Electroblob",
+				"设计，代码和材质\n由 Electroblob 完成",
 
-				"感谢Minecraft Forge 以及 MCP，没有它们，这个mod就不可能得以实现。",
+				"感谢 Minecraft Forge 以及 MCP，没有它们，这个mod就不可能得以实现。",
 
-				"同时也感谢Minecraft modding community，他们总会在我遇到mod难题时帮助我!",
+				"同时也感谢 Minecraft 模组制作社区，他们总会在我遇到mod难题时帮助我!",
 
 				"此外，我还要感谢以下人员对本mod的贡献:",
 
@@ -828,7 +826,7 @@
 
 				"翻译；",
 
-				"- Spanish: MadWrist, Alsentar \n- Mexican Spanish: MadWrist \n- Russian: VilagVil, kellixon, bigenergy \n- French: Hahdrim \n- Brazilian Portuguese: lorrampi \n- Chinese (Simplified): ZHENGLOC, dragon-evol, Hokorizero, TUsama, Determancer \n- Korean: shejery, rewi_wire \n- Polish: Trozuu \n- German: BirdyDragon \n- Chinese (Traditional): chesterccj305 \n- Hungarian: Bombadil",
+				"- 西班牙语: MadWrist, Alsentar \n-墨西哥西班牙语: MadWrist \n- 俄语: VilagVil, kellixon, bigenergy \n- 法语: Hahdrim \n- 巴西葡萄牙语: lorrampi \n- 中文 (简体): ZHENGLOC, dragon-evol, Hokorizero, TUsama, Determancer \n- Korean: shejery, rewi_wire \n- 波兰语: Trozuu \n- 德语: BirdyDragon \n- 中文 (繁体): chesterccj305 \n- 匈牙利语: Bombadil",
 
 				"声音效果；",
 
