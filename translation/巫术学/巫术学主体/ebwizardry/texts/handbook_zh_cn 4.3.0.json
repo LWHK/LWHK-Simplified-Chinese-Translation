@@ -88,7 +88,7 @@
 		},
 		"library_ruins": {
 			"location": "ebwizardry:textures/gui/handbook/pictures/library_ruins.png",
-			"caption": "图书馆遗址",
+			"caption": "图书馆遗迹",
 			"u": 0,
 			"v": 0,
 			"width": 110,
