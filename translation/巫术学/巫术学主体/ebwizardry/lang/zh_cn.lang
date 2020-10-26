@@ -1389,7 +1389,7 @@ config.ebwizardry.bonemeal_grows_crystal_flowers.tooltip=对草方块使用骨�
 config.ebwizardry.category.difficulty=难度设置
 config.ebwizardry.category.difficulty.tooltip=调整巫术学的难度
 config.ebwizardry.title.difficulty=难度设置
-config.ebwizardry.subtitle.difficulty=会影响mod难度的设置
+config.ebwizardry.subtitle.difficulty=会影响mod难度的设置。
 
 config.ebwizardry.discovery_mode=探索模式
 config.ebwizardry.discovery_mode.tooltip=当此项设置为 enabled 时，直到某一法术被施放后你才能阅读该法术的法术书（基于每个世界的设置），在创造模式下此项设置无效。如果设置为disabled，生存模式下将无法获得鉴定卷轴。
