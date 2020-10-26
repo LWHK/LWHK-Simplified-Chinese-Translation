@@ -1425,7 +1425,7 @@ config.ebwizardry.lightning_wraith_spawn_rate.tooltip=闪电幽灵的自然生�
 config.ebwizardry.category.tweaks=调整设置
 config.ebwizardry.category.tweaks.tooltip=调整巫术学的特性
 config.ebwizardry.title.tweaks=调整设置
-config.ebwizardry.subtitle.tweaks=用于调整mod特性的各种设置
+config.ebwizardry.subtitle.tweaks=用于调整mod特性的各种设置。
 
 config.ebwizardry.replace_vanilla_fireballs=替换原版火球
 config.ebwizardry.replace_vanilla_fireballs.tooltip=控制是否用模组的燃烧弹弹替换原版的火焰弹，若设置为disabled，只有此模组的生物才会使用模组自带的燃烧弹。
