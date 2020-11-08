@@ -1,6 +1,6 @@
 #PARSE_ESCAPES
 
-gui.wizardryfates\:unknown_other_element=你似乎并不亲和于这一法术，无卷轴施放该法术将会导致失败。
+gui.wizardryfates\:unknown_other_element=你似乎并不亲和于这一法术，非卷轴施放该法术将会失败。
 gui.wizardryfates\:failed_other_element=你不能施放不属于你当前学派的法术！
 
 
