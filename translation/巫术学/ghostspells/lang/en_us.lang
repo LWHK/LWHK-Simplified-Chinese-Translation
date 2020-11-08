@@ -1,18 +1,18 @@
-spell.ghostspells:summon_centipede=Summon Centipede
-spell.ghostspells:summon_praying_mantis=Summon Praying Mantis
-spell.ghostspells:wasp_swarm=Wasp Swarm
-spell.ghostspells:summon_normalspider=Summon Spider
-spell.ghostspells:summon_skeletonsword=Summon Skeleton Sword
-spell.ghostspells:summon_fireant=Fire Ant Swarm
-spell.ghostspells:summon_locust=Summon Locust
-spell.ghostspells:solifuge_swarm=Solifuge Swarm
-spell.ghostspells:zombieant_swarm=Zombie Ant Swarm
+spell.ghostspells:summon_centipede=召唤蜈蚣
+spell.ghostspells:summon_praying_mantis=召唤螳螂
+spell.ghostspells:wasp_swarm=蜂群
+spell.ghostspells:summon_normalspider=召唤蜘蛛
+spell.ghostspells:summon_skeletonsword=召唤骷髅剑士
+spell.ghostspells:summon_fireant=遮天火蚁
+spell.ghostspells:summon_locust=召唤蝗虫
+spell.ghostspells:solifuge_swarm=蛛潮
+spell.ghostspells:zombieant_swarm=僵尸蚁群
 
-spell.ghostspells:surface_teleport=Surface Teleport
-spell.ghostspells:slow_fall=Slow Fall
-spell.ghostspells:ghost_return=Return
+spell.ghostspells:surface_teleport=表层传送
+spell.ghostspells:slow_fall=缓落
+spell.ghostspells:ghost_return=回返
 
-spell.ghostspells:withering_cobwebs=Wither Cobwebs
+spell.ghostspells:withering_cobwebs=凋零蛛网
 
 spell.ghostspells:summon_centipede.desc=Trickle through and through, snatching their victims with their poisonous bites...
 spell.ghostspells:summon_praying_mantis.desc="Wax on, wax off, grab a butterfly and eat it..."
